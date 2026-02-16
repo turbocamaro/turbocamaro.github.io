@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Exhaust / Piping "
 date: 2016-02-07 12:00:00 +0000
 categories: [Migration]
@@ -6,7 +6,15 @@ tags: [blogger]
 ---
 
 
-In order to install a turbocharger, intercooler, carburetor hat, cold air filter, blow off valve and external wastegate, you need metal piping. Obviously a couple of the above parts could be directly mounted to a permanent fixture like the turbocharger or manifold, but you get the point. 
-When purchasing metal piping you need to pay attention to the material, thickness (gauge), finish and diameter. If it's a piping kit you're looking at, review the contents as you may not need five 90 degree elbows or a bunch of straight pieces. Also notice the type of clamps and couplers. The pipes might be perfect but the kit provides low quality silicone couplers (note thickness and length) or flimsy clamps. It would be unfortunate to have to replace all the clamps at your local store because the ones provided snap off when tightening. Another important note, what size is your current exhaust? It would be a shame to buy nice wide 3" piping for your performance parts and then feed it all into a stock 2-1/4" exhaust. Sure it'll work but you might want to consider upgrading your exhaust to a full 2.5" or even 3" to keep the flow consistent. Increasing intake flow capacity will also increase exhaust capacity, consider "what goes in, must come out". 
-You can find an extensive selection of these kits on eBay. It would be almost impossible to discuss the potential contents of the varieties of kits available but rest assured, you can find one that fits your needs perfectly if you look hard enough. The best advice you can get is to find a reputable brand and look through their auctions as you'll probably see the same quality in all their parts. The kit purchased for Turbo Camaro was made by the same manufacturer as the turbocharger,  . The kit contents are shown in an image here. The polished aluminum pipes are 3" in diameter, 2mm thick and 18" long. Extra silicone couplers/reducers will be required to install the   and  . Consider buying extra clamps from the same source in case you use all the ones from your piping kit. Turbo Camaro will use this 3" kit and receive a new 3" exhaust system. 
+
+In order to install a turbocharger, intercooler, carburetor hat, cold air filter, blow off valve and external wastegate, you need metal piping. Obviously a couple of the above parts could be directly mounted to a permanent fixture like the turbocharger or manifold, but you get the point.
+
+When purchasing metal piping you need to pay attention to the material, thickness (gauge), finish and diameter. If it's a piping kit you're looking at, review the contents as you may not need five 90 degree elbows or a bunch of straight pieces. Also notice the type of clamps and couplers. The pipes might be perfect but the kit provides low quality silicone couplers (note thickness and length) or flimsy clamps. It would be unfortunate to have to replace all the clamps at your local store because the ones provided snap off when tightening. Another important note, what size is your current exhaust? It would be a shame to buy nice wide 3" piping for your performance parts and then feed it all into a stock 2-1/4" exhaust. Sure it'll work but you might want to consider upgrading your exhaust to a full 2.5" or even 3" to keep the flow consistent. Increasing intake flow capacity will also increase exhaust capacity, consider "what goes in, must come out".
+
+
+You can find an extensive selection of these kits on eBay. It would be almost impossible to discuss the potential contents of the varieties of kits available but rest assured, you can find one that fits your needs perfectly if you look hard enough. The best advice you can get is to find a reputable brand and look through their auctions as you'll probably see the same quality in all their parts. The kit purchased for Turbo Camaro was made by the same manufacturer as the turbocharger, . The kit contents are shown in an image here. The polished aluminum pipes are 3" in diameter, 2mm thick and 18" long. Extra silicone couplers/reducers will be required to install the  and . Consider buying extra clamps from the same source in case you use all the ones from your piping kit. Turbo Camaro will use this 3" kit and receive a new 3" exhaust system.
+
 Unless you're replacing an existing install and know exactly what pieces you need, you'll never know precisely what to buy. However you can plan out the install to the best of your ability, and then make any modifications during final install.
+
+
+

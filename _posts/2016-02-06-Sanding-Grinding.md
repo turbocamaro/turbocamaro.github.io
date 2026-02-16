@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sanding & Grinding"
 date: 2016-02-06 12:00:00 +0000
 categories: [Migration]
@@ -6,9 +6,21 @@ tags: [blogger]
 ---
 
 
-It was at this point in 2007 where the Turbo Camaro project started to take shape. It was decided the dark blue paint was too far gone to fix and something major had to be done. It was obvious the car would need to be sanded down to at least original paint/primer but living in a townhouse wasn't the best setup for that job. After days and days of deliberation (and consulting the oracle/wife) the concept of sanding and painting the car as a do-it-yourself (DIY) project became a reality. The big reasons to DIY are to save money and obtain results equivalent to effort. The budget on the sanding AND painting was set at $250, even Maaco would laugh at that. Money was short, but time was plentiful, allowing a meticulous job to be done on the car, and a significant learning experience. 
-A plan to strip the car to bare metal was made and executed with grace and skill... well, it was executed. The first few hours were spent removing trim, antenna, door handles, gas cap, bumpers, lights, grill, all the glass and masking the tires and interior areas. Initial attempts were made to sand the paint down with 60 grit paper. Close inspection confirmed the underlying paint couldn't be saved so there was no point worrying about how flat the paint was kept. Not to mention, sanding it by hand would take forever and use an enormous amount of sandpaper. 
-A few Sand &amp; Rust Remover discs were purchased for use on a drill, but they didn't last long and obviously weren't up to the challenge of stripping an entire car. Don't get me wrong, they would have worked eventually but it would probably take 15-20 of them, and at $8 a piece it would have blown the budget. 
-A box of 10 Poly Sand &amp; Paint Remover discs were purchased online for $50. These discs went on the grinder instead and probably got 40% of the car stripped to mostly bare metal. Buying more of those wasn't in the budget and they weren't capable of stripping some of the factory original primer. 
-It was time to get serious. Money was being spent on products that were not getting the job done. There was no turning back now as a large portion of the car was bare metal and exposed to air, which would eventually cause rust. So, a wire wheel and cup for the grinder were picked up for $20 and they finished the job in about 4 hours. These 4 hours (and some online research) led to some interesting discoveries about stripping paint with a grinder: 
+
+It was at this point in 2007 where the Turbo Camaro project started to take shape. It was decided the dark blue paint was too far gone to fix and something major had to be done. It was obvious the car would need to be sanded down to at least original paint/primer but living in a townhouse wasn't the best setup for that job. After days and days of deliberation (and consulting the oracle/wife) the concept of sanding and painting the car as a do-it-yourself (DIY) project became a reality. The big reasons to DIY are to save money and obtain results equivalent to effort. The budget on the sanding AND painting was set at $250, even Maaco would laugh at that. Money was short, but time was plentiful, allowing a meticulous job to be done on the car, and a significant learning experience.
+
+A plan to strip the car to bare metal was made and executed with grace and skill... well, it was executed. The first few hours were spent removing trim, antenna, door handles, gas cap, bumpers, lights, grill, all the glass and masking the tires and interior areas. Initial attempts were made to sand the paint down with 60 grit paper. Close inspection confirmed the underlying paint couldn't be saved so there was no point worrying about how flat the paint was kept. Not to mention, sanding it by hand would take forever and use an enormous amount of sandpaper.
+
+A few Sand &amp; Rust Remover discs were purchased for use on a drill, but they didn't last long and obviously weren't up to the challenge of stripping an entire car. Don't get me wrong, they would have worked eventually but it would probably take 15-20 of them, and at $8 a piece it would have blown the budget.
+
+
+
+A box of 10 Poly Sand &amp; Paint Remover discs were purchased online for $50. These discs went on the grinder instead and probably got 40% of the car stripped to mostly bare metal. Buying more of those wasn't in the budget and they weren't capable of stripping some of the factory original primer.
+
+It was time to get serious. Money was being spent on products that were not getting the job done. There was no turning back now as a large portion of the car was bare metal and exposed to air, which would eventually cause rust. So, a wire wheel and cup for the grinder were picked up for $20 and they finished the job in about 4 hours. These 4 hours (and some online research) led to some interesting discoveries about stripping paint with a grinder:
+
+
+
 Overall this wasn't a difficult process. The hardest part, as always, was the preparation. Removing all the trim and parts off the car, and keeping them sorted was critical. For example, removing the door handles and keeping it's screws and gaskets with it in a little zip-loc baggie. Keep the parts together and labeled as if you plan to do it all yourself it's going to take time and come this time next year, you might not remember which screw goes where. If you include removing parts, the total time from assembled to bare metal was approximately 8 hours.
+
+

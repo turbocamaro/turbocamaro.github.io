@@ -4,7 +4,6 @@ const xml2js = require('xml2js');
 const parser = new xml2js.Parser();
 const xmlData = fs.readFileSync('feed.atom');
 
-// Ensure _posts directory exists
 if (!fs.existsSync('_posts')) {
     fs.mkdirSync('_posts');
 }
@@ -19,28 +18,26 @@ parser.parseString(xmlData, (err, result) => {
     console.log(`Found ${entries.length} entries. Starting conversion...`);
 
     entries.forEach(entry => {
-        // Extract Title
-        const title = entry.title[0]._ || entry.title[0];
-        
-        // Extract Date (YYYY-MM-DD)
+        const title = entry.title[0]._ || entry.title[0] || "Untitled Post";
         const published = entry.published[0].substring(0, 10);
         
-        // Extract Content - This is the "Engine Room" of the post
-        let content = "";
+        // Rugged content extraction
+        let rawContent = "";
         if (entry.content && entry.content[0]) {
-            content = entry.content[0]._ || entry.content[0];
+            rawContent = entry.content[0]._ || entry.content[0];
         }
 
-        if (!content || content.trim().length === 0) {
-            console.log(`Skipping ${title} (No content found)`);
+        // Force to string to prevent the .trim() crash
+        let content = String(rawContent);
+
+        if (!content || content.trim().length === 0 || content === "[object Object]") {
+            console.log(`Skipping ${title} (No readable text/HTML)`);
             return;
         }
 
-        // Clean title for filename (RCMP style: no special characters)
         const cleanTitle = title.replace(/[^a-zA-Z0-9\s]/g, '').replace(/\s+/g, '-').toLowerCase();
         const fileName = `_posts/${published}-${cleanTitle}.md`;
 
-        // Build the Markdown file with Jekyll Front Matter
         const fileData = `---
 title: "${title}"
 date: ${published} 12:00:00 +0000
