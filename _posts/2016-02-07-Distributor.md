@@ -5,21 +5,19 @@ categories: [Build]
 tags: [blogger]
 ---
 
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4jYsb8GnOJ_Cs-LdD98vxb0A3uMacYb0pj-awI4IIjzVRedst0nZrEm07j0bY7ZU1d4QgzTro09H2bAJgmgqQs0YZ4eCcGl3Acc6xZwc2s81Zu-eC_Klg24E8egVnh5-KYTQ-6-kVMOw/s1600/DSC05276.jpg"  style="margin-left: auto; margin-right: auto;"><img  height="239" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4jYsb8GnOJ_Cs-LdD98vxb0A3uMacYb0pj-awI4IIjzVRedst0nZrEm07j0bY7ZU1d4QgzTro09H2bAJgmgqQs0YZ4eCcGl3Acc6xZwc2s81Zu-eC_Klg24E8egVnh5-KYTQ-6-kVMOw/s320/DSC05276.jpg" width="320" /></a></td></tr>
-<tr><td class="tr-caption" style="text-align: center;">Stock points distributor prior to removal</td></tr>
-</tbody></table>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4jYsb8GnOJ_Cs-LdD98vxb0A3uMacYb0pj-awI4IIjzVRedst0nZrEm07j0bY7ZU1d4QgzTro09H2bAJgmgqQs0YZ4eCcGl3Acc6xZwc2s81Zu-eC_Klg24E8egVnh5-KYTQ-6-kVMOw/s1600/DSC05276.jpg"  style="margin-left: auto; margin-right: auto;"><img  height="239" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4jYsb8GnOJ_Cs-LdD98vxb0A3uMacYb0pj-awI4IIjzVRedst0nZrEm07j0bY7ZU1d4QgzTro09H2bAJgmgqQs0YZ4eCcGl3Acc6xZwc2s81Zu-eC_Klg24E8egVnh5-KYTQ-6-kVMOw/s320/DSC05276.jpg" width="320" /></a>
+Stock points distributor prior to removal
+
 Turbo Camaro's Chevy 250 inline 6 was manufactured in 1968 (nope, not a numbers matching car) and lets face it, technology has changed, and in a lot of ways, improved over the years. That doesn't mean a brand new Camaro engine is going to be subbed in, but perhaps we can identify some of the outdated components and bring in an upgrade.
 
 The distributor has seen some "advances" over the years. The stock distributor ran a points system and in it's day, worked very well. In 1974 GM introduced the High Energy Ignition (HEI) distributor. The HEI distributor does exactly the same thing as the stock distributor but the separate coil is in the distributor cap and a control module with magnetic pickup replace the points. The HEI is a more reliable and more powerful distributor that requires less maintenance. Sure, the points distributor was smaller and technically factory "right" for this motor, but it's too much of a loss over the HEI gains.
 
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqAytsAiDrlDUaoAoeygMtD-B0CPvWwdbIvMWIrBQ2HQWCCJsptLa4KfdIYY3QmkfHzoKTr7wDNqbXzfoy7oKmnO3cNgm27dA733yt9I3cch715O9h_EGXpLavFA7ZRM-yujf6pxowZqo/s1600/hei.jpg"  style="margin-left: auto; margin-right: auto;"><img  height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqAytsAiDrlDUaoAoeygMtD-B0CPvWwdbIvMWIrBQ2HQWCCJsptLa4KfdIYY3QmkfHzoKTr7wDNqbXzfoy7oKmnO3cNgm27dA733yt9I3cch715O9h_EGXpLavFA7ZRM-yujf6pxowZqo/s400/hei.jpg" width="400" /></a></td></tr>
-<tr><td class="tr-caption" style="text-align: center;">HEI Distributor with 65K coil in cap purchased off eBay</td></tr>
-</tbody></table>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqAytsAiDrlDUaoAoeygMtD-B0CPvWwdbIvMWIrBQ2HQWCCJsptLa4KfdIYY3QmkfHzoKTr7wDNqbXzfoy7oKmnO3cNgm27dA733yt9I3cch715O9h_EGXpLavFA7ZRM-yujf6pxowZqo/s1600/hei.jpg"  style="margin-left: auto; margin-right: auto;"><img  height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqAytsAiDrlDUaoAoeygMtD-B0CPvWwdbIvMWIrBQ2HQWCCJsptLa4KfdIYY3QmkfHzoKTr7wDNqbXzfoy7oKmnO3cNgm27dA733yt9I3cch715O9h_EGXpLavFA7ZRM-yujf6pxowZqo/s400/hei.jpg" width="400" /></a>
+HEI Distributor with 65K coil in cap purchased off eBay
+
 An eBay HEI distributor with a 65000 volt coil was purchased for about $65US. Even though it's an eBay special it's a good piece and has been starting the car without issue since early 2014.
 
-The tower for the spark plug wire attached to cylinder #1 was referenced to a point on the engine for easy re-install. The stock distributor and coil were removed and the new HEI unit installed in its place. The fuel line needed to be massaged around the cap because it's bigger than the stock one. The spark plug wires were replaced as they wouldn't fit on the new cap. The original resisted coil wire was replaced with a 12 gauge 12V lead. Even though the new distributor was dropped into the same position as the stock one, the timing was checked and advanced slightly. If you need more detailed instructions on the swap, take a look at&nbsp;<a href="http://67-72chevytrucks.com/vboard/showpost.php?s=996a24a03866787121a005a22075cc86&amp;p=1199796&amp;postcount=2" target="_blank">this thread</a>.
+The tower for the spark plug wire attached to cylinder #1 was referenced to a point on the engine for easy re-install. The stock distributor and coil were removed and the new HEI unit installed in its place. The fuel line needed to be massaged around the cap because it's bigger than the stock one. The spark plug wires were replaced as they wouldn't fit on the new cap. The original resisted coil wire was replaced with a 12 gauge 12V lead. Even though the new distributor was dropped into the same position as the stock one, the timing was checked and advanced slightly. If you need more detailed instructions on the swap, take a look at <a href="http://67-72chevytrucks.com/vboard/showpost.php?s=996a24a03866787121a005a22075cc86&p=1199796&postcount=2" target="_blank">this thread</a>.
 
 Overall, the upgrade was fairly straight forward and with all the items needed to complete the job, it took about an hour.
 

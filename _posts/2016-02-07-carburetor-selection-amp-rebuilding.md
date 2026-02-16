@@ -10,7 +10,7 @@ Deciding to build a unique and custom engine is both exciting and daunting at th
 
 Before we go any further, lets consider the options. Turbo Camaro was obviously a factory carbureted vehicle, but it doesn't need to stay that way. Several companies have released fancy throttle body fuel injection systems that are apparently easier to tune and obtain solid performance gains. A carburetor sized part and a few wires and you just need to pull out your laptop to tune it. You can research for hours and hours but their are a few reasons to stick with carburetion:
 <ul>
-<li>It's about 10 times cheaper to locate and rebuild a carburetor than to purchase a new EFI system.&nbsp;</li>
+<li>It's about 10 times cheaper to locate and rebuild a carburetor than to purchase a new EFI system. </li>
 <li>With proper maintenance very little can go wrong; no wires or modules to fry.</li>
 <li>Slightly easier initial installation and doesn't require a computer to setup.</li>
 </ul>
@@ -30,11 +30,10 @@ A Summit chrome adjustable dual feed line with built in filter and fuel pressure
 
 In order to mount the Holley 4776 to the Offenhauser 5416, you'll need to ensure your manifold has the required adapter. The factory holes on the manifold are for a smaller "old style" carburetor and the Holley has a wider non-square bolt pattern. The adapter used in this build was technically the Trans Dapt 2064 but that was not the part ordered. The 2064 is a similar adapter but required significant modification to work. The correct adapter (supposedly) is the Trans Dapt 2090. You can also hunt down a Offenhauser adapter that bolts directly to the manifold but they are harder to find and typically double the price of the Trans Dapt adapter.
 
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO50b9vDTROslhiyuUkjY8Hcm_q7gBjDjw4IUlzZjk_McF47NX7Nw8CNFFCiXqPwjGxecVRAGEGPILUZFOwiyCOGX0l9rYqX8Pohc8l8WiJe_0FDp0aNiLHZj60bJ4IzHq7iXpADL8bd0/w1204-h677-no/"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img  height="353" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO50b9vDTROslhiyuUkjY8Hcm_q7gBjDjw4IUlzZjk_McF47NX7Nw8CNFFCiXqPwjGxecVRAGEGPILUZFOwiyCOGX0l9rYqX8Pohc8l8WiJe_0FDp0aNiLHZj60bJ4IzHq7iXpADL8bd0/w1204-h677-no/" width="640" /></a></td></tr>
-<tr><td class="tr-caption" style="text-align: center;">Notice the adapter and spacer below the carb. Also, 
-that throttle is still very close to the manifold.&nbsp;</td></tr>
-</tbody></table>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO50b9vDTROslhiyuUkjY8Hcm_q7gBjDjw4IUlzZjk_McF47NX7Nw8CNFFCiXqPwjGxecVRAGEGPILUZFOwiyCOGX0l9rYqX8Pohc8l8WiJe_0FDp0aNiLHZj60bJ4IzHq7iXpADL8bd0/w1204-h677-no/"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img  height="353" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO50b9vDTROslhiyuUkjY8Hcm_q7gBjDjw4IUlzZjk_McF47NX7Nw8CNFFCiXqPwjGxecVRAGEGPILUZFOwiyCOGX0l9rYqX8Pohc8l8WiJe_0FDp0aNiLHZj60bJ4IzHq7iXpADL8bd0/w1204-h677-no/" width="640" /></a>
+Notice the adapter and spacer below the carb. Also, 
+that throttle is still very close to the manifold. 
+
 Once you have the adapter, you will need at least a 1/2" spacer before you mount the carburetor. The spacer is required because the Holley throttle linkage will hit the middle flange of the intake manifold if it isn't raised up. You could modify the linkage to miss the manifold but we used the linkage in that spot to hookup the throttle to the gas pedal. The spacer was $5 and has been known to increase fuel efficiency and power so don't cut up your Holley, get the spacer. Lastly, do not forget about hood clearance. You might be tempted to buy a bunch of spacers to increase flow but realize the sky is not the limit. We wanted to add a 1/2" spacer above the carb but the wing nut securing the plenum poked the underside of the hood. This isn't carburetor specific but is important when adding spacers above and below.
 
 With the carb mounted on a running engine, you'll probably need to open it up at least a few times for tuning. Even with extensive pre-mount configuration, our Holley needed a good reboot to factory settings. The process was filmed and posted to YouTube below:

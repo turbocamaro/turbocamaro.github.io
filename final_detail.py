@@ -4,15 +4,19 @@ import html
 
 post_dir = "_posts"
 
-# Barnacles to scrape off
+# Added table, tbody, tr, and td to the hit list
 tags_to_strip = [
+    r'<table.*?>', r'</table>', 
+    r'<tbody.*?>', r'</tbody>',
+    r'<tr.*?>', r'</tr>',
+    r'<td.*?>', r'</td>',
     r'<div.*?>', r'</div>', 
     r'<span.*?>', r'</span>', 
     r'<br\s*/?>',
     r'imageanchor="1"', r'border="0"'
 ]
 
-print("Starting deep cleanup of HTML entities...")
+print("Stripping tables and detailing captions...")
 
 for filename in os.listdir(post_dir):
     if filename.endswith(".md"):
@@ -21,22 +25,26 @@ for filename in os.listdir(post_dir):
         with open(filepath, "r", encoding="utf-8") as f:
             content = f.read()
 
-        # 1. Fix the Header (Turn 5 dashes into 3)
+        # 1. Fix the Header (Ensure 3 dashes)
         content = re.sub(r'^-----', '---', content)
 
-        # 2. Convert &lt; and &gt; back into < and >
+        # 2. Convert &lt; to <
         content = html.unescape(content)
 
-        # 3. Strip the junk tags
+        # 3. Specifically handle the "tr-caption" class to keep descriptions readable
+        # This replaces the caption tag with a simple bold label
+        content = content.replace('class="tr-caption"', '')
+
+        # 4. Strip the junk tags (including tables)
         for tag in tags_to_strip:
             content = re.sub(tag, '', content, flags=re.IGNORECASE)
 
-        # 4. Clean up spacing and curly quotes
+        # 5. Clean up spacing and curly quotes
         content = re.sub(r'\n\s*\n', '\n\n', content)
         content = content.replace('”', '"').replace('“', '"')
 
         with open(filepath, "w", encoding="utf-8") as f:
             f.write(content)
-        print(f"Repaired: {filename}")
+        print(f"Table Busted: {filename}")
 
-print("\nAll 52 files deep-cleaned. Run 'pushit' to update the site.")
+print("\nCleanup complete! Run 'pushit' to update the site.")
