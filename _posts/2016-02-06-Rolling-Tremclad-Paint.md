@@ -1,201 +1,103 @@
------
+---
 title: "Rolling Tremclad Paint"
 date: 2016-02-06 12:00:00 +0000
 categories: [Build]
 tags: [blogger]
 ---
 
-&lt;table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="clear: right; float: left; margin-bottom: 1em; margin-right: 1em; text-align: left;"&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcGXD72caJPE4491sn8kKnqYLejb4LwZ2y1UCv6pf_3lfl7TL-DGgglPxrNoDHs42hp24dobjWhqBjCmK5bcsGX2e7wUio9wRBMe1D0wVXeP1unmHxL3e8BarNtfaXSWSgz7JlvwHylNU/s1600/418GQNys6wL._SX425_.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"&gt;&lt;img  height="153" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcGXD72caJPE4491sn8kKnqYLejb4LwZ2y1UCv6pf_3lfl7TL-DGgglPxrNoDHs42hp24dobjWhqBjCmK5bcsGX2e7wUio9wRBMe1D0wVXeP1unmHxL3e8BarNtfaXSWSgz7JlvwHylNU/s200/418GQNys6wL._SX425_.jpg" width="200" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td class="tr-caption" style="text-align: center;"&gt;Spray guns are costly - this isn't&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: center;"&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKtXswHC-9pfOKII-yAPoNBpUPHCH-MOlMm0C5YZI_7EQoy1e_PGQFEUUZ0wbNaUkST8Ycydyc-Vo1p3K9akGTF3oi1Ol2QYe_i9zWxqsdZ2zmIYbFlWpGLhHIuvTE-v3EvjNjaGc5zzU/s1600/SandingPad.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"&gt;&lt;img  height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKtXswHC-9pfOKII-yAPoNBpUPHCH-MOlMm0C5YZI_7EQoy1e_PGQFEUUZ0wbNaUkST8Ycydyc-Vo1p3K9akGTF3oi1Ol2QYe_i9zWxqsdZ2zmIYbFlWpGLhHIuvTE-v3EvjNjaGc5zzU/s200/SandingPad.jpg" width="200" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td class="tr-caption" style="text-align: center;"&gt;Wet sanding sponge&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-&lt;span style="text-align: left;"&gt;Deciding to paint your ride is full of difficult decisions, and can be very costly. If you've already read &lt;/span&gt;&lt;a href="http://www.turbocamaro.ca/2016/02/sanding-grinding.html" style="text-align: left;" target="_blank"&gt;the sanding article&lt;/a&gt;&lt;span style="text-align: left;"&gt;, you already know Turbo Camaro was sanded to bare metal with a grinder equipped with a wire wheel. This article contains a lot of information and has been written as an instruction guide following the exact same steps used to Prime and Paint Turbo Camaro.&amp;nbsp;&lt;/span&gt;&lt;span style="text-align: left;"&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;br /&gt;
-Once the car is bare sheet metal, it has to be cleaned prior to applying primer. The best cleaner is denatured alcohol (DA). If you're short on DA you can use Mineral Spirits (MS) instead. Just appy the product to a lint free cloth and wipe down the car thoroughly. If you feel any bumps or flakes of missed paint, sand it off now as you'll see it a mile away under the primer.&amp;nbsp;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;br /&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-With the metal clean you should give it a once over with a tack cloth. These cheap cloths last forever (with strategic folding) and ensure no lint, dust or hair has settled on the surface to be painted. Use the tack cloth right before every layer of primer/paint as it will save headaches later.&amp;nbsp;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;br /&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: justify;"&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVyqK94H6ZXp_LLkJt9vQzdah1g-BWPVtaOGKFD54at5IhymmZvN5PA6My-UPZcwFgB4SZybxF3_0hlg_LrVJdZ4Nz8Aw8sbFWzTwZ_q7UYfeQdWzJm5-TUKUvfVfKPZqKKIXg9ZUYy8U/s1600/DSC05544.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"&gt;&lt;img  height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVyqK94H6ZXp_LLkJt9vQzdah1g-BWPVtaOGKFD54at5IhymmZvN5PA6My-UPZcwFgB4SZybxF3_0hlg_LrVJdZ4Nz8Aw8sbFWzTwZ_q7UYfeQdWzJm5-TUKUvfVfKPZqKKIXg9ZUYy8U/s200/DSC05544.JPG" width="150" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td class="tr-caption" style="text-align: center;"&gt;Tremclad gloss black Rust Paint&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-Use a 4" high density foam roller (usually sold as household "door" rollers) set to roll on your favorite one stage automotive or universal primer. Turbo Camaro was primed with Tremclad grey Rust Paint Primer. The primer is not thinned and is applied as per the manufacturer instructions. Be sure to apply at least 2 coats of primer to ensure a solid base for paint.&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;br /&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-Following the time guidelines of your primer, begin bodywork. This stage of the project will obviously depend on the condition of your vehicle and how smooth the metal was prior to priming. Turbo Camaro was sanded with 100grit and then 150grit sandpaper, using several medium/large sanding blocks. You don't want to waste time wet sanding here as this stage is for scratch filling and to give something for your paint to stick to. Obviously if you had significant repairs to do, re-prime the repairs and sand to 180grit to ensure a consistent base layer. Once you have that consistent layer and are confident the vehicle is straight... it's time to make a big decision.&amp;nbsp;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;br /&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: center;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;b&gt;"Should I continue on my own?&lt;/b&gt;" or "&lt;b&gt;Have I done enough, should a paint shop take over?&lt;/b&gt;"&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;br /&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: right;"&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdZZXDt4KXXrgDJUC-hYzQaenD68OLrvLL1SC4ragyx-PJSUTRtqmhO9Z_Qm-OqJLzn9uWWL4KoQ_CA2HiKMZ5oBYUGCxXNy9RJ1tsZreD_zSMhgCxMbmUoIpky8Zpw2v8T2keWawDOqw/s1600/DSC05640.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"&gt;&lt;img  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdZZXDt4KXXrgDJUC-hYzQaenD68OLrvLL1SC4ragyx-PJSUTRtqmhO9Z_Qm-OqJLzn9uWWL4KoQ_CA2HiKMZ5oBYUGCxXNy9RJ1tsZreD_zSMhgCxMbmUoIpky8Zpw2v8T2keWawDOqw/s200/DSC05640.JPG" width="200" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td class="tr-caption" style="text-align: center;"&gt;800, 1000, 1500, 2000 grit&lt;br /&gt;
-wet sanding paper&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-These are the questions nobody can answer for you. You can save a ton of money and have the satisfaction of knowing you did all the work yourself. Or, you can send the car off and spend big bills to have it come back painted or even fully assembled. The mind blowing part is that it isn't even that simple. If you decide to do it yourself, you have to decide how. Turbo Camaro was painted with a basic one stage Tremclad gloss black Oil Based Rust Paint. You could easily opt to use a spray gun and go with modern paints and/or finishes. Having a shop take over is so much easier it'll be tempting no matter what. However you still need to decide exactly what you want them to do for you and at what stage you want it back. The shop idea sounds wonderful but price quotes for sanding/priming/painting and assembly here averaged $3000-5000, and that was consistent, but several well known muscle car shops quoted near $8000. All in, Turbo Camaro's primer and paint was less than $200, but took almost a year of weekends and holidays to complete.&amp;nbsp;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;br /&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: justify;"&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr9on5tUW2PS0y7BiDndZV7lfZN9XRtg-mAFSzdruvAPIXK25U2J5GrGPEPvZRxpMNGc4ntvvsZ_sWBIiz7_cD565kUiaGl7ODpzUMX_B1-hoeX5p8PJIZfImqbfUxOZX36RQgTXKaMVY/s1600/IMG_20130604_170908.png"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"&gt;&lt;img  height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr9on5tUW2PS0y7BiDndZV7lfZN9XRtg-mAFSzdruvAPIXK25U2J5GrGPEPvZRxpMNGc4ntvvsZ_sWBIiz7_cD565kUiaGl7ODpzUMX_B1-hoeX5p8PJIZfImqbfUxOZX36RQgTXKaMVY/s200/IMG_20130604_170908.png" width="200" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td class="tr-caption" style="text-align: center;"&gt;2 coats of Tremclad primer baking in the sun&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;Back on track... You've decided to do it yourself! You're a real champion! Go down to the hardware store and buy a gallon of your favorite Tremclad/Rustoleum paint and without exception, a can of Penetrol. Penetrol is a paint additive that, when mixed at the appropriate ratio, allows the paint to slip onto the surface and smooth out with amazing results. The Penetrol will cut the sanding time in half and give you a better outcome. &lt;br /&gt;&lt;br /&gt;
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="clear: right; float: left; margin-bottom: 1em; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcGXD72caJPE4491sn8kKnqYLejb4LwZ2y1UCv6pf_3lfl7TL-DGgglPxrNoDHs42hp24dobjWhqBjCmK5bcsGX2e7wUio9wRBMe1D0wVXeP1unmHxL3e8BarNtfaXSWSgz7JlvwHylNU/s1600/418GQNys6wL._SX425_.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img  height="153" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcGXD72caJPE4491sn8kKnqYLejb4LwZ2y1UCv6pf_3lfl7TL-DGgglPxrNoDHs42hp24dobjWhqBjCmK5bcsGX2e7wUio9wRBMe1D0wVXeP1unmHxL3e8BarNtfaXSWSgz7JlvwHylNU/s200/418GQNys6wL._SX425_.jpg" width="200" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Spray guns are costly - this isn't</td></tr>
+</tbody></table>
 
-Unfortunately Turbo Camaro didn't get Penetrol until about half way through the paint process so take advantage of this information right from the beginning. Ensure you have a bag of extra 4" rollers and a few dollar store foam paint brushes for hard to reach places. If you don't have any plastic, tarps, paper, old sheets you'll probably want a drop cloth or two as this thinned paint tends to drip everywhere. You must also acquire a wet sanding foam/sponge block (see picture). Lastly and most unfortunately, you need sand paper. Get packs of 400, 600, 800, 1000, 1500 and 2000 grit WET sandpaper designed for metal. Yes, all of those grits are required and it must be wet sandpaper. Skipping any of the grits will only make it harder on you. Tips to save hours of your life will come as you follow along.&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;br /&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;table cellpadding="0" cellspacing="0" class="tr-caption-container" style="clear: right; float: right; margin-bottom: 1em; text-align: justify;"&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjALQPu1Tr1VNPRsYglYJJnrqE1_nT74yUKI7lF_-fKpWxXaaRpfwCaaVoRVaN6jydLAkjLEgNLVxEvpgteTJueRxFcRKbjSJ75w0XUOxLkUYMXKJ2a3pSOdp5FWZ6V1coXX9KshwyjxOI/s1600/IMG_20130701_122414.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"&gt;&lt;img  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjALQPu1Tr1VNPRsYglYJJnrqE1_nT74yUKI7lF_-fKpWxXaaRpfwCaaVoRVaN6jydLAkjLEgNLVxEvpgteTJueRxFcRKbjSJ75w0XUOxLkUYMXKJ2a3pSOdp5FWZ6V1coXX9KshwyjxOI/s200/IMG_20130701_122414.jpg" width="200" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td class="tr-caption" style="text-align: center;"&gt;Freshly sanded coats 3-4 - still primer showing&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-Clean the primed vehicle with MS and your tack cloth. Mix up a full tray (the mini one that came with the 4" roller set") of paint. Humidity and ambient temperature can have a significant effect on the required mixing ratio. Turbo Camaro was painted in an attached unheated garage and a mix of 60% paint, 30% Penetrol and 10% MS was used. The final consistency is similar to 1% milk and will seem runnier than necessary. It's also going to seem bubbly. Saturate your foam roller in it and allow the excess paint to drip off for a few seconds. bring the roller up to the roof. Touch the roller to the surface and with almost no pressure, slide the roller back and forth in a "V" like pattern ensuring some overlap but not to the point of thinning out previously applied areas. The reason you start with the roof is the thinned paint is going to dribble away on you. It'll dribble down the sail panels, into the drip rails and perhaps onto your unmasked windshield (better cover it!). So, if you start up high, it allows you to continue painting and eventually go over the area where the paint dribbled to. If you had started at the rocker panels you'd be fixing drips the whole time and perhaps&lt;br /&gt;
-&lt;table cellpadding="0" cellspacing="0" class="tr-caption-container" style="clear: right; float: right; margin-bottom: 1em; text-align: right;"&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_jqueJWZIcPzvkreJyjjq0OTwVV4MHtIV6jBqJwSPGX-sogz7WXsvLcV4cDIjBC9KgZDdLVUg3Lk5Za31VX_aFF4yKZxrkJlx-F3R8a1U42JcFuxM5pnayv4bJPwFmnfW3yPgFfAtaP0/s1600/IMG_20130717_170729.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"&gt;&lt;img  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_jqueJWZIcPzvkreJyjjq0OTwVV4MHtIV6jBqJwSPGX-sogz7WXsvLcV4cDIjBC9KgZDdLVUg3Lk5Za31VX_aFF4yKZxrkJlx-F3R8a1U42JcFuxM5pnayv4bJPwFmnfW3yPgFfAtaP0/s200/IMG_20130717_170729.jpg" width="200" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td class="tr-caption" style="font-size: 12.8px; text-align: center;"&gt;Coats 7-8 - Full coverage but not thick enough&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-battling drying times toward the end of the coat. If you've never painted a large object before, just think of it as a waterfall, starting from the top and painting the areas where the paint will naturally want to go first. Once you've finished a panel, you can move on to the next.&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;&lt;br /&gt;
-Every square foot of rolled paint will instantly have hundreds of micro-bubbles and you are going to want to pop them all. Don't waste your time. If the paint is thin enough (milky) and you've got that fancy Penetrol mixed in... don't worry about them. After 15-20 minutes they will have all popped and the Penetrol will make it look like glass. That being said, if you get a panel or two done and notice your first panel still has tons of little bubbles, take a recently used but empty roller and with only the weight of the roller, glide over the bubbles to pop them. If this happens, your paint is too thick so add a splash or two of MS. The important part of the first coat of paint is making sure it goes on thin and smooth. Consider the first coat to be a practice coat, you're figuring out the best paint route and seeing if your mix is ideal for the environmental conditions. It''s going to look transparent, hazy and patchy at this point.&amp;nbsp;&lt;/div&gt;
-&lt;/div&gt;&lt;br /&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;" width="560" height="316"&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td class="tr-caption" style="font-size: 12.8px; text-align: center;"&gt;&lt;br /&gt;
-&lt;div style="height: 316px; text-align: right;"&gt;
-&lt;iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/L-zzDZPwjKQ/0.jpg" frame height="316px" src="https://www.youtube.com/embed/L-zzDZPwjKQ?feature=player_embedded" width="560px"&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;div&gt;
-&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-&lt;br /&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: right;"&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixzdQqKHA4xDO-CzYS75_k2IOgtW0Jx_6b39spAduptiRuh-pZ8uUGaXTRJANVpUDTEm1rY5om7IrfR_qXuo70CXe33EqpJLkkPHvMsojDnLrCGZM_iYI55tvoXXxWaicyX_AzWZecHLE/s1600/IMG_20140219_164246.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"&gt;&lt;img  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixzdQqKHA4xDO-CzYS75_k2IOgtW0Jx_6b39spAduptiRuh-pZ8uUGaXTRJANVpUDTEm1rY5om7IrfR_qXuo70CXe33EqpJLkkPHvMsojDnLrCGZM_iYI55tvoXXxWaicyX_AzWZecHLE/s200/IMG_20140219_164246.jpg" width="200" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td class="tr-caption" style="text-align: center;"&gt;Coat 11-12 freshly applied&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-&lt;div style="text-align: justify;"&gt;
-Good job, you applied coat number one. If you're paint mix dries bubble free and seems smooth, mix the whole gallon now. You'll end up with two buckets of paint but guess what, it's going to be a consistent paint job. You don't want thin paint now, thick in the middle and then thin again. It has to be this consistency the whole time or you will suffer with paint that seems dry but isn't and putting coats on it will trap in moisture and cause inevitable paint failure. Just because it's a budget paint job doesn't mean you don't take it seriously.&amp;nbsp;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;br /&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-Wait at least 12 hours to apply the second coat. If the paint can says more than 12 hours, do that, but don't do less. Don't rush it, go have a beverage. Immediately before you start the second coat, wipe it down with MS and the tack cloth. Apply the second coat as thin as the first coat. The goal should be to try and apply a coat of paint, but always use less paint than you did on your previous coat. Don't get lazy and convince yourself thicker means faster, because that mentality will have you on your hands and knees sanding the car forever.&amp;nbsp;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;br /&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: justify;"&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU85tfFZxPa8l3OJy8LuSSsiKHOP3OJHa7SU7r2FqOuU6QDeoGUFy_FT-0xaiqe3B8lTUI4gIRz2ZoXFS_Y1zhaXybZMuNeTlARzaI0u6jjNP0bxqSViZYPltgzPHY2ID6C4DcD7AFnoY/s1600/IMG_20140219_164349.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"&gt;&lt;img  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU85tfFZxPa8l3OJy8LuSSsiKHOP3OJHa7SU7r2FqOuU6QDeoGUFy_FT-0xaiqe3B8lTUI4gIRz2ZoXFS_Y1zhaXybZMuNeTlARzaI0u6jjNP0bxqSViZYPltgzPHY2ID6C4DcD7AFnoY/s200/IMG_20140219_164349.jpg" width="200" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td class="tr-caption" style="text-align: center;"&gt;Final coats 13-14 applied - Yep, it's black.&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;Once the second coat is on you're going to wait at least 48 hours before you even consider touching it. Turbo Camaro always received 5 weekdays after the even numbered coats. Up till now, things have been pretty fun, painting is easy and gives an immediate satisfaction. Unfortunately, the buzz kill has arrived and it's time to cut the fat. Even though you're bound to see some coverage at coat two, and even some gloss, it has to go. Cut a 400 grit page into four and soak all of them in a bucket of water and dish soap. Let them soak for at least 15 minutes as it softens the paper and prevents creasing. Wrap one of the pieces around your wet sponge block and start wet sanding. You have several options when wet sanding but the bottom line is keeping the surface clean and wet. A recycled squirt bottle filled with soapy water is an excellent way to keep the surface wet and slippery while sanding. The goal is to consistently dull the whole vehicle. If you're rollin' gloss black, the gloss will disappear and leave you with a dull charcoal grey color. If it still shows spots or areas of gloss, keep sanding. A sludge of paint and/or primer will build up where your sanding. The side of the wet sanding sponge doubles as a squeegee when wiped across the surface. This is another area where you'll be tempted to give it the ol "good enuf". An imperfection at this point is a crater down the road. Sand into the primer a bit if you have to. If you think you're going to hit bare metal you may want to stop and consider the idea of a bodywork/filler type repair. Body filler is best used between the primer and the paint and becomes difficult to cover if you decide to use later in the process. Either way, by the time your done with sanding, your car will probably show patches of primer and look two toned.&amp;nbsp;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;/div&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;br /&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;table height="316" width="560" align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: right;"&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/KYd-SjZGcMY/0.jpg" frame height="316" src="https://www.youtube.com/embed/KYd-SjZGcMY?feature=player_embedded" width="560"&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-If you're happy with the smoothness of the paint, you can start the rinse and repeat process of painting coats 3-4 and sanding with 600grit. Painting coats 5-6 and sanding with 800grit. Painting coats 7-8 and sanding with 1000grit. It is highly recommended you get to this point before cutting any corners. Depending on the condition of your car and the paint color choice, you will have full coverage and it's looking very smooth. You will be tempted to stop early as you've sanded the car at least 5 times already. That's probably 10 hours worth of sanding but you are literally at the point of maximum return for your investment. The 1000, 1500 and 2000grit papers take off the least amount of material and, because you didn't skimp out anywhere, the paint is so smooth, it takes very little effort to sand the vehicle now. &lt;table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR95hE2FRIzPPK_O4j8VyIGkqLJOz53_JunnHDKBgPCzBsKSmuuwpXv1-VwhGJlg50zIIuMb6cMFpESyfrS3O1KJCmYoo7QIj3E587xmRBgDh-QTfzZFSC65azS3MUxWFon-teT-aVJGc/s1600/DSC06095.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"&gt;&lt;img  height="237" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR95hE2FRIzPPK_O4j8VyIGkqLJOz53_JunnHDKBgPCzBsKSmuuwpXv1-VwhGJlg50zIIuMb6cMFpESyfrS3O1KJCmYoo7QIj3E587xmRBgDh-QTfzZFSC65azS3MUxWFon-teT-aVJGc/s320/DSC06095.JPG" width="320" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td class="tr-caption" style="text-align: center;"&gt;&lt;span style="font-size: small; text-align: start;"&gt;Turbo Camaro's Trunk lid&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;Less material removed, more material left on the vehicle. You really want to ensure a good thick coat of paint and putting on another 2-4 coats at this point is potentially doubling the thickness of the paint. Skipping over 1500grit would be acceptable if you can't handle doing another full sand and paint.&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;br /&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-Turbo Camaro received 14 coats of paint. That sounds impressive and border line institutionalized, but their were unforeseen bodywork issues with the driver side door and hood that needed to be corrected at coat four, causing a big setback. The point is, you can do as many or as few coats as you want, but if your goal is a professional quality job with budget materials, you have to stick to the plan.&amp;nbsp;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;br /&gt;&lt;/div&gt;
-&lt;/div&gt;
-Before you do anything else with your car, including driving in rain or snow, give your new paint job 2-3 weeks to cure. These paints don't have fancy catalysts like modern paints as they go through a "gassing" period where they release fumes as they dry. It's almost like the paint has pores like your skin, and until the gassing period is over, it can be susceptible to weathering.&amp;nbsp;
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKtXswHC-9pfOKII-yAPoNBpUPHCH-MOlMm0C5YZI_7EQoy1e_PGQFEUUZ0wbNaUkST8Ycydyc-Vo1p3K9akGTF3oi1Ol2QYe_i9zWxqsdZ2zmIYbFlWpGLhHIuvTE-v3EvjNjaGc5zzU/s1600/SandingPad.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img  height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKtXswHC-9pfOKII-yAPoNBpUPHCH-MOlMm0C5YZI_7EQoy1e_PGQFEUUZ0wbNaUkST8Ycydyc-Vo1p3K9akGTF3oi1Ol2QYe_i9zWxqsdZ2zmIYbFlWpGLhHIuvTE-v3EvjNjaGc5zzU/s200/SandingPad.jpg" width="200" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Wet sanding sponge</td></tr>
+</tbody></table>
+Deciding to paint your ride is full of difficult decisions, and can be very costly. If you've already read <a href="http://www.turbocamaro.ca/2016/02/sanding-grinding.html" style="text-align: left;" target="_blank">the sanding article</a>, you already know Turbo Camaro was sanded to bare metal with a grinder equipped with a wire wheel. This article contains a lot of information and has been written as an instruction guide following the exact same steps used to Prime and Paint Turbo Camaro.&nbsp;
 
-&lt;br /&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;br /&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: justify;"&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic2d5CAwW0OMWj4u_DpDduDjoHBI1gKTuXjbdKfmSIY4s3RPQuGTAXrAGQ2EGgtaV7SkASbytV9zb_lqoilD08zmgfB8Cen3SxOhwAJFOXk6uc_Y7NheHsDjojjUmwpngEO9o4hizy4ZE/s1600/IMG_20140512_163431.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"&gt;&lt;img  height="298" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic2d5CAwW0OMWj4u_DpDduDjoHBI1gKTuXjbdKfmSIY4s3RPQuGTAXrAGQ2EGgtaV7SkASbytV9zb_lqoilD08zmgfB8Cen3SxOhwAJFOXk6uc_Y7NheHsDjojjUmwpngEO9o4hizy4ZE/s400/IMG_20140512_163431.jpg" width="400" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td class="tr-caption" style="text-align: center;"&gt;Car waxed and almost fully reassembled&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;Some of you might be very happy with a 1000 or 2000grit job, and rightfully so as it probably looks great. However their is one more step that could set you apart from the rest. A cut and polish detail. If you have access to a professional variable speed dual action polisher (Meguiars, Porter Cable etc.), consider taking advantage of it. Giving the vehicle a quick once over with 2000grit and compounding/polishing/waxing will really make your efforts shine. Consider waiting at least 3-4 weeks before applying products like polish and wax to your new paint as they clog the paints pores and prevent the required "gassing" and could lead to premature paint failure.&amp;nbsp;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;br /&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: left;"&gt;
-&lt;div style="text-align: justify;"&gt;
-The big questions people always have, "Does it look good?" and then "Does it last?". Turbo Camaro answers "Yes!" to both of those. Turbo Camaro was painted in August 2013 and as of this update, March 2016, the paint still looks just as black as it did the day it was done. Keep in mind, Turbo Camaro is a daily driver but is washed regularly and receives hand wax at least 2-3 times a year while stored in a car port or auto tent. A video update of the paint is planned for 2016.&amp;nbsp;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="text-align: justify;"&gt;
-&lt;br /&gt;&lt;/div&gt;
-&lt;div style="text-align: justify;"&gt;&lt;/div&gt;
-&lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;/div&gt;
-&lt;span style="font-size: large;"&gt;&lt;span style="color: red;"&gt;Turbo&lt;/span&gt; &lt;span style="color: #999999;"&gt;|&lt;/span&gt; &lt;span style="color: #eeeeee;"&gt;Camaro&lt;/span&gt;&lt;/span&gt;
+Once the car is bare sheet metal, it has to be cleaned prior to applying primer. The best cleaner is denatured alcohol (DA). If you're short on DA you can use Mineral Spirits (MS) instead. Just appy the product to a lint free cloth and wipe down the car thoroughly. If you feel any bumps or flakes of missed paint, sand it off now as you'll see it a mile away under the primer.&nbsp;
+
+With the metal clean you should give it a once over with a tack cloth. These cheap cloths last forever (with strategic folding) and ensure no lint, dust or hair has settled on the surface to be painted. Use the tack cloth right before every layer of primer/paint as it will save headaches later.&nbsp;
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: justify;"><tbody>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVyqK94H6ZXp_LLkJt9vQzdah1g-BWPVtaOGKFD54at5IhymmZvN5PA6My-UPZcwFgB4SZybxF3_0hlg_LrVJdZ4Nz8Aw8sbFWzTwZ_q7UYfeQdWzJm5-TUKUvfVfKPZqKKIXg9ZUYy8U/s1600/DSC05544.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img  height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVyqK94H6ZXp_LLkJt9vQzdah1g-BWPVtaOGKFD54at5IhymmZvN5PA6My-UPZcwFgB4SZybxF3_0hlg_LrVJdZ4Nz8Aw8sbFWzTwZ_q7UYfeQdWzJm5-TUKUvfVfKPZqKKIXg9ZUYy8U/s200/DSC05544.JPG" width="150" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Tremclad gloss black Rust Paint</td></tr>
+</tbody></table>
+Use a 4" high density foam roller (usually sold as household "door" rollers) set to roll on your favorite one stage automotive or universal primer. Turbo Camaro was primed with Tremclad grey Rust Paint Primer. The primer is not thinned and is applied as per the manufacturer instructions. Be sure to apply at least 2 coats of primer to ensure a solid base for paint.
+
+Following the time guidelines of your primer, begin bodywork. This stage of the project will obviously depend on the condition of your vehicle and how smooth the metal was prior to priming. Turbo Camaro was sanded with 100grit and then 150grit sandpaper, using several medium/large sanding blocks. You don't want to waste time wet sanding here as this stage is for scratch filling and to give something for your paint to stick to. Obviously if you had significant repairs to do, re-prime the repairs and sand to 180grit to ensure a consistent base layer. Once you have that consistent layer and are confident the vehicle is straight... it's time to make a big decision.&nbsp;
+
+<b>"Should I continue on my own?</b>" or "<b>Have I done enough, should a paint shop take over?</b>"
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: right;"><tbody>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdZZXDt4KXXrgDJUC-hYzQaenD68OLrvLL1SC4ragyx-PJSUTRtqmhO9Z_Qm-OqJLzn9uWWL4KoQ_CA2HiKMZ5oBYUGCxXNy9RJ1tsZreD_zSMhgCxMbmUoIpky8Zpw2v8T2keWawDOqw/s1600/DSC05640.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdZZXDt4KXXrgDJUC-hYzQaenD68OLrvLL1SC4ragyx-PJSUTRtqmhO9Z_Qm-OqJLzn9uWWL4KoQ_CA2HiKMZ5oBYUGCxXNy9RJ1tsZreD_zSMhgCxMbmUoIpky8Zpw2v8T2keWawDOqw/s200/DSC05640.JPG" width="200" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">800, 1000, 1500, 2000 grit
+wet sanding paper</td></tr>
+</tbody></table>
+These are the questions nobody can answer for you. You can save a ton of money and have the satisfaction of knowing you did all the work yourself. Or, you can send the car off and spend big bills to have it come back painted or even fully assembled. The mind blowing part is that it isn't even that simple. If you decide to do it yourself, you have to decide how. Turbo Camaro was painted with a basic one stage Tremclad gloss black Oil Based Rust Paint. You could easily opt to use a spray gun and go with modern paints and/or finishes. Having a shop take over is so much easier it'll be tempting no matter what. However you still need to decide exactly what you want them to do for you and at what stage you want it back. The shop idea sounds wonderful but price quotes for sanding/priming/painting and assembly here averaged $3000-5000, and that was consistent, but several well known muscle car shops quoted near $8000. All in, Turbo Camaro's primer and paint was less than $200, but took almost a year of weekends and holidays to complete.&nbsp;
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: justify;"><tbody>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr9on5tUW2PS0y7BiDndZV7lfZN9XRtg-mAFSzdruvAPIXK25U2J5GrGPEPvZRxpMNGc4ntvvsZ_sWBIiz7_cD565kUiaGl7ODpzUMX_B1-hoeX5p8PJIZfImqbfUxOZX36RQgTXKaMVY/s1600/IMG_20130604_170908.png"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img  height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr9on5tUW2PS0y7BiDndZV7lfZN9XRtg-mAFSzdruvAPIXK25U2J5GrGPEPvZRxpMNGc4ntvvsZ_sWBIiz7_cD565kUiaGl7ODpzUMX_B1-hoeX5p8PJIZfImqbfUxOZX36RQgTXKaMVY/s200/IMG_20130604_170908.png" width="200" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">2 coats of Tremclad primer baking in the sun</td></tr>
+</tbody></table>Back on track... You've decided to do it yourself! You're a real champion! Go down to the hardware store and buy a gallon of your favorite Tremclad/Rustoleum paint and without exception, a can of Penetrol. Penetrol is a paint additive that, when mixed at the appropriate ratio, allows the paint to slip onto the surface and smooth out with amazing results. The Penetrol will cut the sanding time in half and give you a better outcome. 
+
+Unfortunately Turbo Camaro didn't get Penetrol until about half way through the paint process so take advantage of this information right from the beginning. Ensure you have a bag of extra 4" rollers and a few dollar store foam paint brushes for hard to reach places. If you don't have any plastic, tarps, paper, old sheets you'll probably want a drop cloth or two as this thinned paint tends to drip everywhere. You must also acquire a wet sanding foam/sponge block (see picture). Lastly and most unfortunately, you need sand paper. Get packs of 400, 600, 800, 1000, 1500 and 2000 grit WET sandpaper designed for metal. Yes, all of those grits are required and it must be wet sandpaper. Skipping any of the grits will only make it harder on you. Tips to save hours of your life will come as you follow along.
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="clear: right; float: right; margin-bottom: 1em; text-align: justify;"><tbody>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjALQPu1Tr1VNPRsYglYJJnrqE1_nT74yUKI7lF_-fKpWxXaaRpfwCaaVoRVaN6jydLAkjLEgNLVxEvpgteTJueRxFcRKbjSJ75w0XUOxLkUYMXKJ2a3pSOdp5FWZ6V1coXX9KshwyjxOI/s1600/IMG_20130701_122414.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjALQPu1Tr1VNPRsYglYJJnrqE1_nT74yUKI7lF_-fKpWxXaaRpfwCaaVoRVaN6jydLAkjLEgNLVxEvpgteTJueRxFcRKbjSJ75w0XUOxLkUYMXKJ2a3pSOdp5FWZ6V1coXX9KshwyjxOI/s200/IMG_20130701_122414.jpg" width="200" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Freshly sanded coats 3-4 - still primer showing</td></tr>
+</tbody></table>
+Clean the primed vehicle with MS and your tack cloth. Mix up a full tray (the mini one that came with the 4" roller set") of paint. Humidity and ambient temperature can have a significant effect on the required mixing ratio. Turbo Camaro was painted in an attached unheated garage and a mix of 60% paint, 30% Penetrol and 10% MS was used. The final consistency is similar to 1% milk and will seem runnier than necessary. It's also going to seem bubbly. Saturate your foam roller in it and allow the excess paint to drip off for a few seconds. bring the roller up to the roof. Touch the roller to the surface and with almost no pressure, slide the roller back and forth in a "V" like pattern ensuring some overlap but not to the point of thinning out previously applied areas. The reason you start with the roof is the thinned paint is going to dribble away on you. It'll dribble down the sail panels, into the drip rails and perhaps onto your unmasked windshield (better cover it!). So, if you start up high, it allows you to continue painting and eventually go over the area where the paint dribbled to. If you had started at the rocker panels you'd be fixing drips the whole time and perhaps
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="clear: right; float: right; margin-bottom: 1em; text-align: right;"><tbody>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_jqueJWZIcPzvkreJyjjq0OTwVV4MHtIV6jBqJwSPGX-sogz7WXsvLcV4cDIjBC9KgZDdLVUg3Lk5Za31VX_aFF4yKZxrkJlx-F3R8a1U42JcFuxM5pnayv4bJPwFmnfW3yPgFfAtaP0/s1600/IMG_20130717_170729.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_jqueJWZIcPzvkreJyjjq0OTwVV4MHtIV6jBqJwSPGX-sogz7WXsvLcV4cDIjBC9KgZDdLVUg3Lk5Za31VX_aFF4yKZxrkJlx-F3R8a1U42JcFuxM5pnayv4bJPwFmnfW3yPgFfAtaP0/s200/IMG_20130717_170729.jpg" width="200" /></a></td></tr>
+<tr><td class="tr-caption" style="font-size: 12.8px; text-align: center;">Coats 7-8 - Full coverage but not thick enough</td></tr>
+</tbody></table>
+battling drying times toward the end of the coat. If you've never painted a large object before, just think of it as a waterfall, starting from the top and painting the areas where the paint will naturally want to go first. Once you've finished a panel, you can move on to the next.
+
+Every square foot of rolled paint will instantly have hundreds of micro-bubbles and you are going to want to pop them all. Don't waste your time. If the paint is thin enough (milky) and you've got that fancy Penetrol mixed in... don't worry about them. After 15-20 minutes they will have all popped and the Penetrol will make it look like glass. That being said, if you get a panel or two done and notice your first panel still has tons of little bubbles, take a recently used but empty roller and with only the weight of the roller, glide over the bubbles to pop them. If this happens, your paint is too thick so add a splash or two of MS. The important part of the first coat of paint is making sure it goes on thin and smooth. Consider the first coat to be a practice coat, you're figuring out the best paint route and seeing if your mix is ideal for the environmental conditions. It''s going to look transparent, hazy and patchy at this point.&nbsp;
+
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;" width="560" height="316"><tbody>
+<tr><td class="tr-caption" style="font-size: 12.8px; text-align: center;">
+
+<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/L-zzDZPwjKQ/0.jpg" frame height="316px" src="https://www.youtube.com/embed/L-zzDZPwjKQ?feature=player_embedded" width="560px"></iframe>
+
+</td></tr>
+</tbody></table>
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: right;"><tbody>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixzdQqKHA4xDO-CzYS75_k2IOgtW0Jx_6b39spAduptiRuh-pZ8uUGaXTRJANVpUDTEm1rY5om7IrfR_qXuo70CXe33EqpJLkkPHvMsojDnLrCGZM_iYI55tvoXXxWaicyX_AzWZecHLE/s1600/IMG_20140219_164246.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixzdQqKHA4xDO-CzYS75_k2IOgtW0Jx_6b39spAduptiRuh-pZ8uUGaXTRJANVpUDTEm1rY5om7IrfR_qXuo70CXe33EqpJLkkPHvMsojDnLrCGZM_iYI55tvoXXxWaicyX_AzWZecHLE/s200/IMG_20140219_164246.jpg" width="200" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Coat 11-12 freshly applied</td></tr>
+</tbody></table>
+
+Good job, you applied coat number one. If you're paint mix dries bubble free and seems smooth, mix the whole gallon now. You'll end up with two buckets of paint but guess what, it's going to be a consistent paint job. You don't want thin paint now, thick in the middle and then thin again. It has to be this consistency the whole time or you will suffer with paint that seems dry but isn't and putting coats on it will trap in moisture and cause inevitable paint failure. Just because it's a budget paint job doesn't mean you don't take it seriously.&nbsp;
+
+Wait at least 12 hours to apply the second coat. If the paint can says more than 12 hours, do that, but don't do less. Don't rush it, go have a beverage. Immediately before you start the second coat, wipe it down with MS and the tack cloth. Apply the second coat as thin as the first coat. The goal should be to try and apply a coat of paint, but always use less paint than you did on your previous coat. Don't get lazy and convince yourself thicker means faster, because that mentality will have you on your hands and knees sanding the car forever.&nbsp;
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: justify;"><tbody>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU85tfFZxPa8l3OJy8LuSSsiKHOP3OJHa7SU7r2FqOuU6QDeoGUFy_FT-0xaiqe3B8lTUI4gIRz2ZoXFS_Y1zhaXybZMuNeTlARzaI0u6jjNP0bxqSViZYPltgzPHY2ID6C4DcD7AFnoY/s1600/IMG_20140219_164349.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU85tfFZxPa8l3OJy8LuSSsiKHOP3OJHa7SU7r2FqOuU6QDeoGUFy_FT-0xaiqe3B8lTUI4gIRz2ZoXFS_Y1zhaXybZMuNeTlARzaI0u6jjNP0bxqSViZYPltgzPHY2ID6C4DcD7AFnoY/s200/IMG_20140219_164349.jpg" width="200" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Final coats 13-14 applied - Yep, it's black.</td></tr>
+</tbody></table>Once the second coat is on you're going to wait at least 48 hours before you even consider touching it. Turbo Camaro always received 5 weekdays after the even numbered coats. Up till now, things have been pretty fun, painting is easy and gives an immediate satisfaction. Unfortunately, the buzz kill has arrived and it's time to cut the fat. Even though you're bound to see some coverage at coat two, and even some gloss, it has to go. Cut a 400 grit page into four and soak all of them in a bucket of water and dish soap. Let them soak for at least 15 minutes as it softens the paper and prevents creasing. Wrap one of the pieces around your wet sponge block and start wet sanding. You have several options when wet sanding but the bottom line is keeping the surface clean and wet. A recycled squirt bottle filled with soapy water is an excellent way to keep the surface wet and slippery while sanding. The goal is to consistently dull the whole vehicle. If you're rollin' gloss black, the gloss will disappear and leave you with a dull charcoal grey color. If it still shows spots or areas of gloss, keep sanding. A sludge of paint and/or primer will build up where your sanding. The side of the wet sanding sponge doubles as a squeegee when wiped across the surface. This is another area where you'll be tempted to give it the ol "good enuf". An imperfection at this point is a crater down the road. Sand into the primer a bit if you have to. If you think you're going to hit bare metal you may want to stop and consider the idea of a bodywork/filler type repair. Body filler is best used between the primer and the paint and becomes difficult to cover if you decide to use later in the process. Either way, by the time your done with sanding, your car will probably show patches of primer and look two toned.&nbsp;
+
+<table height="316" width="560" align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: right;"><tbody>
+<tr><td style="text-align: center;">
+<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/KYd-SjZGcMY/0.jpg" frame height="316" src="https://www.youtube.com/embed/KYd-SjZGcMY?feature=player_embedded" width="560"></iframe>
+</td></tr>
+</tbody></table>
+If you're happy with the smoothness of the paint, you can start the rinse and repeat process of painting coats 3-4 and sanding with 600grit. Painting coats 5-6 and sanding with 800grit. Painting coats 7-8 and sanding with 1000grit. It is highly recommended you get to this point before cutting any corners. Depending on the condition of your car and the paint color choice, you will have full coverage and it's looking very smooth. You will be tempted to stop early as you've sanded the car at least 5 times already. That's probably 10 hours worth of sanding but you are literally at the point of maximum return for your investment. The 1000, 1500 and 2000grit papers take off the least amount of material and, because you didn't skimp out anywhere, the paint is so smooth, it takes very little effort to sand the vehicle now. <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR95hE2FRIzPPK_O4j8VyIGkqLJOz53_JunnHDKBgPCzBsKSmuuwpXv1-VwhGJlg50zIIuMb6cMFpESyfrS3O1KJCmYoo7QIj3E587xmRBgDh-QTfzZFSC65azS3MUxWFon-teT-aVJGc/s1600/DSC06095.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img  height="237" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR95hE2FRIzPPK_O4j8VyIGkqLJOz53_JunnHDKBgPCzBsKSmuuwpXv1-VwhGJlg50zIIuMb6cMFpESyfrS3O1KJCmYoo7QIj3E587xmRBgDh-QTfzZFSC65azS3MUxWFon-teT-aVJGc/s320/DSC06095.JPG" width="320" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Turbo Camaro's Trunk lid</td></tr>
+</tbody></table>Less material removed, more material left on the vehicle. You really want to ensure a good thick coat of paint and putting on another 2-4 coats at this point is potentially doubling the thickness of the paint. Skipping over 1500grit would be acceptable if you can't handle doing another full sand and paint.
+
+Turbo Camaro received 14 coats of paint. That sounds impressive and border line institutionalized, but their were unforeseen bodywork issues with the driver side door and hood that needed to be corrected at coat four, causing a big setback. The point is, you can do as many or as few coats as you want, but if your goal is a professional quality job with budget materials, you have to stick to the plan.&nbsp;
+
+Before you do anything else with your car, including driving in rain or snow, give your new paint job 2-3 weeks to cure. These paints don't have fancy catalysts like modern paints as they go through a "gassing" period where they release fumes as they dry. It's almost like the paint has pores like your skin, and until the gassing period is over, it can be susceptible to weathering.&nbsp;
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: justify;"><tbody>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic2d5CAwW0OMWj4u_DpDduDjoHBI1gKTuXjbdKfmSIY4s3RPQuGTAXrAGQ2EGgtaV7SkASbytV9zb_lqoilD08zmgfB8Cen3SxOhwAJFOXk6uc_Y7NheHsDjojjUmwpngEO9o4hizy4ZE/s1600/IMG_20140512_163431.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img  height="298" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic2d5CAwW0OMWj4u_DpDduDjoHBI1gKTuXjbdKfmSIY4s3RPQuGTAXrAGQ2EGgtaV7SkASbytV9zb_lqoilD08zmgfB8Cen3SxOhwAJFOXk6uc_Y7NheHsDjojjUmwpngEO9o4hizy4ZE/s400/IMG_20140512_163431.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Car waxed and almost fully reassembled</td></tr>
+</tbody></table>Some of you might be very happy with a 1000 or 2000grit job, and rightfully so as it probably looks great. However their is one more step that could set you apart from the rest. A cut and polish detail. If you have access to a professional variable speed dual action polisher (Meguiars, Porter Cable etc.), consider taking advantage of it. Giving the vehicle a quick once over with 2000grit and compounding/polishing/waxing will really make your efforts shine. Consider waiting at least 3-4 weeks before applying products like polish and wax to your new paint as they clog the paints pores and prevent the required "gassing" and could lead to premature paint failure.&nbsp;
+
+The big questions people always have, "Does it look good?" and then "Does it last?". Turbo Camaro answers "Yes!" to both of those. Turbo Camaro was painted in August 2013 and as of this update, March 2016, the paint still looks just as black as it did the day it was done. Keep in mind, Turbo Camaro is a daily driver but is washed regularly and receives hand wax at least 2-3 times a year while stored in a car port or auto tent. A video update of the paint is planned for 2016.&nbsp;
+
+Turbo | Camaro

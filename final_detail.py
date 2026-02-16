@@ -1,17 +1,18 @@
 import os
 import re
+import html
 
 post_dir = "_posts"
 
-# These are the "barnacles" we want to scrape off
+# Barnacles to scrape off
 tags_to_strip = [
     r'<div.*?>', r'</div>', 
     r'<span.*?>', r'</span>', 
-    r'<br\s*/>', r'<br>',
+    r'<br\s*/?>',
     r'imageanchor="1"', r'border="0"'
 ]
 
-print("Starting final text detailing...")
+print("Starting deep cleanup of HTML entities...")
 
 for filename in os.listdir(post_dir):
     if filename.endswith(".md"):
@@ -20,21 +21,22 @@ for filename in os.listdir(post_dir):
         with open(filepath, "r", encoding="utf-8") as f:
             content = f.read()
 
-        # 1. Clean up the messy HTML tags
-        clean_content = content
+        # 1. Fix the Header (Turn 5 dashes into 3)
+        content = re.sub(r'^-----', '---', content)
+
+        # 2. Convert &lt; and &gt; back into < and >
+        content = html.unescape(content)
+
+        # 3. Strip the junk tags
         for tag in tags_to_strip:
-            clean_content = re.sub(tag, '', clean_content, flags=re.IGNORECASE)
+            content = re.sub(tag, '', content, flags=re.IGNORECASE)
 
-        # 2. Fix the specific "Separator" blocks but keep the image/iframe inside
-        # This replaces multiple newlines with a clean double break
-        clean_content = re.sub(r'\n\s*\n', '\n\n', clean_content)
-
-        # 3. Smart replacement for common HTML entities
-        clean_content = clean_content.replace('&nbsp;', ' ')
-        clean_content = clean_content.replace('”', '"').replace('“', '"') # Fix curly quotes
+        # 4. Clean up spacing and curly quotes
+        content = re.sub(r'\n\s*\n', '\n\n', content)
+        content = content.replace('”', '"').replace('“', '"')
 
         with open(filepath, "w", encoding="utf-8") as f:
-            f.write(clean_content)
-        print(f"Detailed: {filename}")
+            f.write(content)
+        print(f"Repaired: {filename}")
 
-print("\nCleanup complete! Your posts are now clean Markdown.")
+print("\nAll 52 files deep-cleaned. Run 'pushit' to update the site.")
