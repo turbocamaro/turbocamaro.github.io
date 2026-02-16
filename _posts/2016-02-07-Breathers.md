@@ -1,51 +1,51 @@
----
+-----
 title: "Breathers"
 date: 2016-02-07 12:00:00 +0000
-categories: [Migration]
+categories: [Build]
 tags: [blogger]
 ---
 
-<div>
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXQwcUny6JeUs3kbC8vjX1m3VdCE04vXDOqkoPjM8FI4aOG1v9ntfTEvLdFXvSsa-20ygmjhZ7RmksO8lGEtQ16F6bKTafLfgi5Y21Y5nj8Vo32s4QJMNOccxaMzqo1L18AXlB6nKbRqM/s1600/20160313_112546.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img alt="Turbo Camaro build photo" border="0" height="297" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXQwcUny6JeUs3kbC8vjX1m3VdCE04vXDOqkoPjM8FI4aOG1v9ntfTEvLdFXvSsa-20ygmjhZ7RmksO8lGEtQ16F6bKTafLfgi5Y21Y5nj8Vo32s4QJMNOccxaMzqo1L18AXlB6nKbRqM/s400/20160313_112546.jpg" width="400" /></a></td></tr>
-<tr><td class="tr-caption" style="text-align: center;">Turbo Camaro's valve cover - breather &amp;amp; PCV Valve installed</td></tr>
-</tbody></table>
-</div>
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3pWSl0OqO_lFwBNydVIpMe_jiEj2PRagQ6xEEVGUUwXyamRBTimjF-mCvy20NyVWJuhRzONa7QQeTKDyKHdENDTMMgFuj2E1TEEG9DtLtO1eZ9tF2QCseUxhCiH2IgqBO3b_RyinVsRY/s1600/20160206_153707.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img alt="Turbo Camaro build photo" border="0" height="238" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3pWSl0OqO_lFwBNydVIpMe_jiEj2PRagQ6xEEVGUUwXyamRBTimjF-mCvy20NyVWJuhRzONa7QQeTKDyKHdENDTMMgFuj2E1TEEG9DtLtO1eZ9tF2QCseUxhCiH2IgqBO3b_RyinVsRY/s320/20160206_153707.jpg" width="320" /></a></td></tr>
-<tr><td class="tr-caption" style="text-align: center;">Rear of both breathers packaging (click to enlarge)</td></tr>
-</tbody></table>
-<div>
-The stock inline 6 has a oil fill cap and a breather at the front of the valve cover. A PCV valve is located at the rear of the valve cover. Both the front breather and PCV valve are filtered through the factory air cleaner on top of the carburetor. This is a fine system and has remained the most environmentally accepted way to maintain clean neutral pressure inside the engine.&amp;nbsp;</div>
-<div>
-<br /></div>
-<div>
-As the site title says, a turbocharger is in play and that changes a lot. The circular carburetor air cleaner system is replaced with a <a href="http:s//www.turbocamaro.ca/2016/02/air-filter.html" target="_blank">Spectre cone air filter</a> in front of the turbocharger. While running hoses to the new filter is possible, it's not going to happen. Instead, the configuration of the breather and PCV valve get changed and things move forward.&amp;nbsp;</div>
-<div>
-<br /></div>
-<div style="text-align: right;">
-</div>
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0cThmZa49Bi4834R5D425Hr5LXnubUW4xLMiw-JptPmQW4JSbsrV9dV0ppPosjk-DXmkBijXmWAWxdr6jNycoBTC0tIZ6p4PE6vYoPjEwe0AU-1lFJvJk2KHjsJ1KzWzYz76rtBa4x9s/s1600/20160313_112610.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img alt="Turbo Camaro build photo" border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0cThmZa49Bi4834R5D425Hr5LXnubUW4xLMiw-JptPmQW4JSbsrV9dV0ppPosjk-DXmkBijXmWAWxdr6jNycoBTC0tIZ6p4PE6vYoPjEwe0AU-1lFJvJk2KHjsJ1KzWzYz76rtBa4x9s/s320/20160313_112610.jpg" width="320" /></a></td></tr>
-<tr><td class="tr-caption" style="text-align: center;">Spectre chrome PCV valve installed</td></tr>
-</tbody></table>
-<div>
-The front side hole for the breather hose is closed with a 1-1/8" oil resistant rubber plug. The oil filler cap is replaced with a Spectre 4273 twist in chrome breather. The rear PCV valve is still in effect, but replaced with a Spectre 4290 PCV valve breather. Note the twist-in breather fit the stock valve cover hole perfectly but the provided PCV valve grommet was too big to fit the stock 1" hole. The PCV valve snout is only 3/4" so a new 1" O.D. with 3/4" I.D. oil resistant rubber grommet was used to fit the stock hole. The PCV valve can work as is, but a hose should be run downward to a filtered air source, or at least to open air. Keep in mind this choice might not be as simple as a personal preference. Depending on the environmental laws in your area, you may not be allowed to vent crankcase gasses into atmosphere. Also note, some classic/antique vehicles have exceptions within the laws due to the technology and methods at the time of manufacturing.&amp;nbsp;</div>
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiba6JOV2K8-_tNXQHa1vIX8sGZYRIet2p7_WNu_ftXb8soSHCZHdHC4gYpRnbXtFEPt-jkBwFRAVzGfhNeui6q2beCdeFJy6qbaC16eYkt0kzVQkF9dIuaegbiHz96PgVUgzhKOOEkQKk/s1600/20160313_112645.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img alt="Turbo Camaro build photo" border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiba6JOV2K8-_tNXQHa1vIX8sGZYRIet2p7_WNu_ftXb8soSHCZHdHC4gYpRnbXtFEPt-jkBwFRAVzGfhNeui6q2beCdeFJy6qbaC16eYkt0kzVQkF9dIuaegbiHz96PgVUgzhKOOEkQKk/s320/20160313_112645.jpg" style="cursor: move;" width="320" /></a></td></tr>
-<tr><td class="tr-caption" style="text-align: center;">Spectre chrome oil breather cap installed</td></tr>
-</tbody></table>
-<div>
-<br /></div>
-<div>
-One other thing to consider, these breathers are about 2.5" tall when installed. Be sure to add 2.5" to your valve cover height with consideration for hood clearance. It's more than possible your hood may not close with these installed.</div>
-<br />
-&amp;nbsp;So, why Spectre? They make a budget friendly product that, for the most part, performs well above knock off eBay brand parts. Spectre has good customer service and a wide variety of quality performance parts. This brand review is based off personal experience only, Turbo Camaro is not sponsored by any brand.<br />
-<br />
-As much as we liked the look and function of these breathers, they have since been removed. The front breather was replaced with the original oil filler cap and the rear PCV valve was replaced by a <a href="http:s//www.turbocamaro.ca/2017/10/oil-catch-can.html" target="_blank">Oil Catch Can assembly</a> as a way to comply with emissions laws and a potential troubleshooting method. The Spectre breathers were a cheap functional part when installed.<br />
-<div>
-<br /></div>
-<div>
-<span style="font-size: large;"><span style="color: red;">Turbo</span><span style="color: #666666;"> |</span> <span style="color: #cccccc;">Camaro</span></span>
+&lt;div&gt;
+&lt;table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; text-align: left;"&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXQwcUny6JeUs3kbC8vjX1m3VdCE04vXDOqkoPjM8FI4aOG1v9ntfTEvLdFXvSsa-20ygmjhZ7RmksO8lGEtQ16F6bKTafLfgi5Y21Y5nj8Vo32s4QJMNOccxaMzqo1L18AXlB6nKbRqM/s1600/20160313_112546.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"&gt;&lt;img border="0" height="297" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXQwcUny6JeUs3kbC8vjX1m3VdCE04vXDOqkoPjM8FI4aOG1v9ntfTEvLdFXvSsa-20ygmjhZ7RmksO8lGEtQ16F6bKTafLfgi5Y21Y5nj8Vo32s4QJMNOccxaMzqo1L18AXlB6nKbRqM/s400/20160313_112546.jpg" width="400" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="tr-caption" style="text-align: center;"&gt;Turbo Camaro's valve cover - breather &amp;amp; PCV Valve installed&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: center;"&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3pWSl0OqO_lFwBNydVIpMe_jiEj2PRagQ6xEEVGUUwXyamRBTimjF-mCvy20NyVWJuhRzONa7QQeTKDyKHdENDTMMgFuj2E1TEEG9DtLtO1eZ9tF2QCseUxhCiH2IgqBO3b_RyinVsRY/s1600/20160206_153707.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"&gt;&lt;img border="0" height="238" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3pWSl0OqO_lFwBNydVIpMe_jiEj2PRagQ6xEEVGUUwXyamRBTimjF-mCvy20NyVWJuhRzONa7QQeTKDyKHdENDTMMgFuj2E1TEEG9DtLtO1eZ9tF2QCseUxhCiH2IgqBO3b_RyinVsRY/s320/20160206_153707.jpg" width="320" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="tr-caption" style="text-align: center;"&gt;Rear of both breathers packaging (click to enlarge)&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;div&gt;
+The stock inline 6 has a oil fill cap and a breather at the front of the valve cover. A PCV valve is located at the rear of the valve cover. Both the front breather and PCV valve are filtered through the factory air cleaner on top of the carburetor. This is a fine system and has remained the most environmentally accepted way to maintain clean neutral pressure inside the engine.&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div&gt;
+As the site title says, a turbocharger is in play and that changes a lot. The circular carburetor air cleaner system is replaced with a &lt;a href="http://www.turbocamaro.ca/2016/02/air-filter.html" target="_blank"&gt;Spectre cone air filter&lt;/a&gt; in front of the turbocharger. While running hoses to the new filter is possible, it's not going to happen. Instead, the configuration of the breather and PCV valve get changed and things move forward.&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div style="text-align: right;"&gt;
+&lt;/div&gt;
+&lt;table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0cThmZa49Bi4834R5D425Hr5LXnubUW4xLMiw-JptPmQW4JSbsrV9dV0ppPosjk-DXmkBijXmWAWxdr6jNycoBTC0tIZ6p4PE6vYoPjEwe0AU-1lFJvJk2KHjsJ1KzWzYz76rtBa4x9s/s1600/20160313_112610.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"&gt;&lt;img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0cThmZa49Bi4834R5D425Hr5LXnubUW4xLMiw-JptPmQW4JSbsrV9dV0ppPosjk-DXmkBijXmWAWxdr6jNycoBTC0tIZ6p4PE6vYoPjEwe0AU-1lFJvJk2KHjsJ1KzWzYz76rtBa4x9s/s320/20160313_112610.jpg" width="320" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="tr-caption" style="text-align: center;"&gt;Spectre chrome PCV valve installed&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;div&gt;
+The front side hole for the breather hose is closed with a 1-1/8" oil resistant rubber plug. The oil filler cap is replaced with a Spectre 4273 twist in chrome breather. The rear PCV valve is still in effect, but replaced with a Spectre 4290 PCV valve breather. Note the twist-in breather fit the stock valve cover hole perfectly but the provided PCV valve grommet was too big to fit the stock 1" hole. The PCV valve snout is only 3/4" so a new 1" O.D. with 3/4" I.D. oil resistant rubber grommet was used to fit the stock hole. The PCV valve can work as is, but a hose should be run downward to a filtered air source, or at least to open air. Keep in mind this choice might not be as simple as a personal preference. Depending on the environmental laws in your area, you may not be allowed to vent crankcase gasses into atmosphere. Also note, some classic/antique vehicles have exceptions within the laws due to the technology and methods at the time of manufacturing.&amp;nbsp;&lt;/div&gt;
+&lt;table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; text-align: center;"&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiba6JOV2K8-_tNXQHa1vIX8sGZYRIet2p7_WNu_ftXb8soSHCZHdHC4gYpRnbXtFEPt-jkBwFRAVzGfhNeui6q2beCdeFJy6qbaC16eYkt0kzVQkF9dIuaegbiHz96PgVUgzhKOOEkQKk/s1600/20160313_112645.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"&gt;&lt;img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiba6JOV2K8-_tNXQHa1vIX8sGZYRIet2p7_WNu_ftXb8soSHCZHdHC4gYpRnbXtFEPt-jkBwFRAVzGfhNeui6q2beCdeFJy6qbaC16eYkt0kzVQkF9dIuaegbiHz96PgVUgzhKOOEkQKk/s320/20160313_112645.jpg" style="cursor: move;" width="320" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class="tr-caption" style="text-align: center;"&gt;Spectre chrome oil breather cap installed&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;div&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div&gt;
+One other thing to consider, these breathers are about 2.5" tall when installed. Be sure to add 2.5" to your valve cover height with consideration for hood clearance. It's more than possible your hood may not close with these installed.&lt;/div&gt;
+&lt;br /&gt;
+&amp;nbsp;So, why Spectre? They make a budget friendly product that, for the most part, performs well above knock off eBay brand parts. Spectre has good customer service and a wide variety of quality performance parts. This brand review is based off personal experience only, Turbo Camaro is not sponsored by any brand.&lt;br /&gt;
+&lt;br /&gt;
+As much as we liked the look and function of these breathers, they have since been removed. The front breather was replaced with the original oil filler cap and the rear PCV valve was replaced by a &lt;a href="http://www.turbocamaro.ca/2017/10/oil-catch-can.html" target="_blank"&gt;Oil Catch Can assembly&lt;/a&gt; as a way to comply with emissions laws and a potential troubleshooting method. The Spectre breathers were a cheap functional part when installed.&lt;br /&gt;
+&lt;div&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;span style="font-size: large;"&gt;&lt;span style="color: red;"&gt;Turbo&lt;/span&gt;&lt;span style="color: #666666;"&gt; |&lt;/span&gt; &lt;span style="color: #cccccc;"&gt;Camaro&lt;/span&gt;&lt;/span&gt;
 
-</div>
+&lt;/div&gt;
