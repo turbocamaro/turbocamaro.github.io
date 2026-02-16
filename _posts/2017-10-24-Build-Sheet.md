@@ -17,72 +17,72 @@ Below is a grid containing a complete list of every project, modification, upgra
 <tbody>
 <tr>
 <th style="background-color: black; text-align: center;"><h3>
-<a href="http://www.turbocamaro.ca/search/label/interior" title="Click to view all interior articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>INTERIOR</strong></span></a></h3>
+<a href="http:s//www.turbocamaro.ca/search/label/interior" title="Click to view all interior articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>INTERIOR</strong></span></a></h3>
 </th></tr>
-<tr><td id="dashlights" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/dash-lighting.html">Dash Lighting</a><span>13 LED Bulbs - Auqa Blue</span></td></tr>
-<tr><td id="dashpaint" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/dash-paint.html">Dash Paint</a><span>Strip, Sand &amp;amp; Paint the Dash</span></td></tr>
-<tr><td id="upholst" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/upholstery.html">Upholstery</a><span>Re-upholster and Chemical Spraying Interior</span></td></tr>
-<tr><td id="seatbelts" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/seat-belts.html">Seat Belts</a><span>Mixing New and Old Seat Belts</span></td></tr>
-<tr><td id="seats" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/scat-procar-rally-1000-seats.html">Seats</a><span>Scat Procar Rally 1000 Smooth Back Seats</span></td></tr>
-<tr><td id="stereo" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/retrosound-motor-3-custom-stereo.html" title="Retrosound Model 2B Motor 3 Custom Stereo">Stereo</a><span>Retrosound Model 2B Motor 3 Stereo</span></td></tr>
-<tr><td id="shifter" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/floor-shift-conversion.html">Shifter</a><span>Column to Floor Shifter Conversion</span></td></tr>
-<tr><td id="sdead" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/sound-deadening.html">Sound Deadening</a><span>80mil Butyl Sound Deadener Everywhere</span></td></tr>
-<tr><td id="headliner" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/headliner.html">Headliner</a><span>Headliner Restoration &amp;amp; Inevitable Swap</span></td></tr>
-<tr><td id="pod" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/console-pod.html">Console Gauge Pod</a><span>Custom 4 Gauge Console Pod</span></td></tr>
-<tr><td id="gauges" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/gauge-choice.html">Gauge Choices</a><span>Choosing the Right Gauges for You</span></td></tr>
-<tr><td id="alarm" valign="middle"><a href="http://www.turbocamaro.ca/2017/10/alarm-system-power-locks.html">Alarm + Power Locks</a><span>Alarm System &amp; Power Lock Upgrade</span></td></tr>
+<tr><td id="dashlights" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/dash-lighting.html">Dash Lighting</a><span>13 LED Bulbs - Auqa Blue</span></td></tr>
+<tr><td id="dashpaint" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/dash-paint.html">Dash Paint</a><span>Strip, Sand &amp;amp; Paint the Dash</span></td></tr>
+<tr><td id="upholst" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/upholstery.html">Upholstery</a><span>Re-upholster and Chemical Spraying Interior</span></td></tr>
+<tr><td id="seatbelts" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/seat-belts.html">Seat Belts</a><span>Mixing New and Old Seat Belts</span></td></tr>
+<tr><td id="seats" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/scat-procar-rally-1000-seats.html">Seats</a><span>Scat Procar Rally 1000 Smooth Back Seats</span></td></tr>
+<tr><td id="stereo" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/retrosound-motor-3-custom-stereo.html" title="Retrosound Model 2B Motor 3 Custom Stereo">Stereo</a><span>Retrosound Model 2B Motor 3 Stereo</span></td></tr>
+<tr><td id="shifter" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/floor-shift-conversion.html">Shifter</a><span>Column to Floor Shifter Conversion</span></td></tr>
+<tr><td id="sdead" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/sound-deadening.html">Sound Deadening</a><span>80mil Butyl Sound Deadener Everywhere</span></td></tr>
+<tr><td id="headliner" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/headliner.html">Headliner</a><span>Headliner Restoration &amp;amp; Inevitable Swap</span></td></tr>
+<tr><td id="pod" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/console-pod.html">Console Gauge Pod</a><span>Custom 4 Gauge Console Pod</span></td></tr>
+<tr><td id="gauges" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/gauge-choice.html">Gauge Choices</a><span>Choosing the Right Gauges for You</span></td></tr>
+<tr><td id="alarm" valign="middle"><a href="http:s//www.turbocamaro.ca/2017/10/alarm-system-power-locks.html">Alarm + Power Locks</a><span>Alarm System &amp; Power Lock Upgrade</span></td></tr>
 <tr><td></td></tr>
 <tr><th style="background-color: black; text-align: center;"><h3>
-<a href="http://www.turbocamaro.ca/search/label/exterior" title="Click to view all exterior articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>EXTERIOR</strong></span></a></h3>
+<a href="http:s//www.turbocamaro.ca/search/label/exterior" title="Click to view all exterior articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>EXTERIOR</strong></span></a></h3>
 </th></tr>
-<tr><td id="bare" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/sanding-grinding.html">Sanding</a><span>Sand and Grind to Bare Metal</span></td></tr>
-<tr><td id="rollpaint" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/rolling-tremclad-paint.html">Rolling Paint</a><span>Rolling Tremclad Paint by Hand</span></td></tr>
-<tr><td id="stripe" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/bumblebee-stripe.html">BumbleBee Stripe</a><span>Measuring and Spraying Stripe</span></td></tr>
-<tr><td id="leds" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/tail-turn-leds.html">Tail &amp;amp; Turn Lights</a><span>Swapping All Lights to LED</span></td></tr>
-<tr><td id="hids" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/hid-conversion.html">Headights</a><span>HID 4300K Round Glass Headights</span></td></tr>
-<tr><td id="quarter" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/quarter-panel-swap.html">Quarter Panel</a><span>Quarter Panel Swap</span></td></tr>
-<tr><td id="tint" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/window-tint.html">Glass &amp;amp; Tint</a><span>Side &amp;amp; Rear Glass at 5%</span></td></tr>
-<tr><td id="chin" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/chin-spoiler.html">Chin Spoiler</a><span>Front Valance Chin Spoiler</span></td></tr>
-<tr><td id="bay" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/the-engine-bay.html">Engine Bay</a><span>Engine Bay Restoration</span></td></tr>
-<tr><td id="hoodlock" valign="middle"><a href="http://www.turbocamaro.ca/2017/10/hood-locks.html">Hood Locks</a><span>Install Hood Locks Not Pins!</span></td></tr>
+<tr><td id="bare" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/sanding-grinding.html">Sanding</a><span>Sand and Grind to Bare Metal</span></td></tr>
+<tr><td id="rollpaint" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/rolling-tremclad-paint.html">Rolling Paint</a><span>Rolling Tremclad Paint by Hand</span></td></tr>
+<tr><td id="stripe" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/bumblebee-stripe.html">BumbleBee Stripe</a><span>Measuring and Spraying Stripe</span></td></tr>
+<tr><td id="leds" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/tail-turn-leds.html">Tail &amp;amp; Turn Lights</a><span>Swapping All Lights to LED</span></td></tr>
+<tr><td id="hids" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/hid-conversion.html">Headights</a><span>HID 4300K Round Glass Headights</span></td></tr>
+<tr><td id="quarter" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/quarter-panel-swap.html">Quarter Panel</a><span>Quarter Panel Swap</span></td></tr>
+<tr><td id="tint" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/window-tint.html">Glass &amp;amp; Tint</a><span>Side &amp;amp; Rear Glass at 5%</span></td></tr>
+<tr><td id="chin" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/chin-spoiler.html">Chin Spoiler</a><span>Front Valance Chin Spoiler</span></td></tr>
+<tr><td id="bay" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/the-engine-bay.html">Engine Bay</a><span>Engine Bay Restoration</span></td></tr>
+<tr><td id="hoodlock" valign="middle"><a href="http:s//www.turbocamaro.ca/2017/10/hood-locks.html">Hood Locks</a><span>Install Hood Locks Not Pins!</span></td></tr>
 <tr><td></td></tr>
 <tr><th style="background-color: black; text-align: center;"><h3>
-<a href="http://www.turbocamaro.ca/search/label/mechanical" title="Click to view all mechanical articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>MECHANICAL</strong></span></a></h3>
+<a href="http:s//www.turbocamaro.ca/search/label/mechanical" title="Click to view all mechanical articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>MECHANICAL</strong></span></a></h3>
 </th></tr>
-<tr><td id="shocks" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/rear-shock-swap.html">Shocks</a><span>Rear Shock Swap</span></td></tr>
-<tr><td id="psteer" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/power-steering-conversion.html">Power Steering</a><span>Manual Power Steering Conversion</span></td></tr>
-<tr><td id="skit" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/shift-kit-install.html">Shift Kit</a><span>Installing a TransGo Shift Kit</span></td></tr>
-<tr><td id="leaf" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/leaf-spring-upgrade.html">Leaf Springs</a><span>Mono to Multi Leaf Spring Upgrade</span></td></tr>
+<tr><td id="shocks" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/rear-shock-swap.html">Shocks</a><span>Rear Shock Swap</span></td></tr>
+<tr><td id="psteer" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/power-steering-conversion.html">Power Steering</a><span>Manual Power Steering Conversion</span></td></tr>
+<tr><td id="skit" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/shift-kit-install.html">Shift Kit</a><span>Installing a TransGo Shift Kit</span></td></tr>
+<tr><td id="leaf" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/leaf-spring-upgrade.html">Leaf Springs</a><span>Mono to Multi Leaf Spring Upgrade</span></td></tr>
 <tr><td></td></tr>
 <tr><th style="background-color: black; text-align: center;"><h3>
-<a href="http://www.turbocamaro.ca/search/label/engine" title="Click to view all engine articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>ENGINE</strong></span></a></h3>
+<a href="http:s//www.turbocamaro.ca/search/label/engine" title="Click to view all engine articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>ENGINE</strong></span></a></h3>
 </th></tr>
-<tr><td id="rebuild" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/engine-rebuild.html">Engine Rebuild</a><span>Complete Inline 6 Rebuild + Extras</span></td></tr>
-<tr><td id="mshop" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/machine-shop-work.html">Machine Shop Work</a><span>Work Completed by the Machine Shop</span></td></tr>
-<tr><td id="crods" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/crank-rods.html">Crankshaft &amp;amp; Rods</a><span>Crank &amp;amp; Rod Mods for Longevity</span></td></tr>
-<tr><td id="cam" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/camshaft.html">Camshaft</a><span>Turbo Suited Compcams Hydraulic Cam &amp;amp; Lifters</span></td></tr>
-<tr><td id="pistons" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/forged-pistons.html">Forged Pistons</a><span>Custom Ordered Ross Racing "70 Over" Forged Pistons</span></td></tr>
-<tr><td id="carb" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/carburetor.html">Carburetor</a><span>Holly 600CFM D.P. with Mechanical Secondaries</span></td></tr>
-<tr><td id="breath" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/breathers.html">Breathers</a><span>Valve Cover Breather &amp;amp; PCV</span></td></tr>
-<tr><td id="mani" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/manifolds.html">Manifolds</a><span>292 Exhaust &amp;amp; Offenhauser Intake</span></td></tr>
-<tr><td id="head" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/head.html">"Lumpy" Head</a><span>Head Work - Valves, Springs &amp;amp; Hi-Flow Lumps</span></td></tr>
-<tr><td id="hei" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/distributor.html">Distributor</a><span>65K Coil in Cap HEI Distributor</span></td></tr>
-<tr><td id="alci" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/alcohol-injection.html">Alcohol Injection</a><span>DevilsOwn Stage 2 Alcohol Injection</span></td></tr>
-<tr><td id="catchcan" valign="middle"><a href="http://www.turbocamaro.ca/2017/10/oil-catch-can.html">Oil Catch Can</a><span>D1 Spec Oil Catch Can</span></td></tr>
-<tr><td id="sniperefi" valign="middle"><a href="http://www.turbocamaro.ca/2017/10/holley-sniper-efi.html">Holley Sniper EFI</a><span>Holley Sniper Electronic Fuel Injection</span></td></tr>
+<tr><td id="rebuild" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/engine-rebuild.html">Engine Rebuild</a><span>Complete Inline 6 Rebuild + Extras</span></td></tr>
+<tr><td id="mshop" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/machine-shop-work.html">Machine Shop Work</a><span>Work Completed by the Machine Shop</span></td></tr>
+<tr><td id="crods" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/crank-rods.html">Crankshaft &amp;amp; Rods</a><span>Crank &amp;amp; Rod Mods for Longevity</span></td></tr>
+<tr><td id="cam" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/camshaft.html">Camshaft</a><span>Turbo Suited Compcams Hydraulic Cam &amp;amp; Lifters</span></td></tr>
+<tr><td id="pistons" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/forged-pistons.html">Forged Pistons</a><span>Custom Ordered Ross Racing "70 Over" Forged Pistons</span></td></tr>
+<tr><td id="carb" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/carburetor.html">Carburetor</a><span>Holly 600CFM D.P. with Mechanical Secondaries</span></td></tr>
+<tr><td id="breath" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/breathers.html">Breathers</a><span>Valve Cover Breather &amp;amp; PCV</span></td></tr>
+<tr><td id="mani" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/manifolds.html">Manifolds</a><span>292 Exhaust &amp;amp; Offenhauser Intake</span></td></tr>
+<tr><td id="head" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/head.html">"Lumpy" Head</a><span>Head Work - Valves, Springs &amp;amp; Hi-Flow Lumps</span></td></tr>
+<tr><td id="hei" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/distributor.html">Distributor</a><span>65K Coil in Cap HEI Distributor</span></td></tr>
+<tr><td id="alci" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/alcohol-injection.html">Alcohol Injection</a><span>DevilsOwn Stage 2 Alcohol Injection</span></td></tr>
+<tr><td id="catchcan" valign="middle"><a href="http:s//www.turbocamaro.ca/2017/10/oil-catch-can.html">Oil Catch Can</a><span>D1 Spec Oil Catch Can</span></td></tr>
+<tr><td id="sniperefi" valign="middle"><a href="http:s//www.turbocamaro.ca/2017/10/holley-sniper-efi.html">Holley Sniper EFI</a><span>Holley Sniper Electronic Fuel Injection</span></td></tr>
 <tr><td></td></tr>
 <tr><th style="background-color: black; text-align: center;"><h3>
-<a href="http://www.turbocamaro.ca/search/label/turbo" title="Click to view all turbo articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>TURBO</strong></span></a></h3>
+<a href="http:s//www.turbocamaro.ca/search/label/turbo" title="Click to view all turbo articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>TURBO</strong></span></a></h3>
 </th></tr>
-<tr><td id="inter" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/intercooler.html">Intercooler</a><span>Aluminum 28x9x2.5" Bar/Plate Intercooler</span></td></tr>
-<tr><td id="pump" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/fuel-pump.html">Fuel Pump</a><span>Fuel Pump Boost Reference Modification</span></td></tr>
-<tr><td id="lines" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/an-lines.html">AN Lines</a><span>Custom fit AN Oil &amp;amp; Fuel Lines</span></td></tr>
-<tr><td id="turbo" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/turbocharger.html">Turbocharger</a><span>CXRacing GT35 .68AR Turbocharger</span></td></tr>
-<tr><td id="hat" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/hat-bonnet.html">Hat / Bonnet</a><span>Spectre 4" Chrome Carb Hat</span></td></tr>
-<tr><td id="bov" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/blow-off-valve.html">Blow Off Valve</a><span>Wyntonm 44mm Stainless Blow Off Valve</span></td></tr>
-<tr><td id="wg" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/wastegate.html">Wastegate</a><span>SPA Turbo Compact 35mm Wastegate Valve</span></td></tr>
-<tr><td id="pipe" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/exhaust-piping.html">Exhaust / Piping</a><span>3" Charge Pipes &amp;amp; New Exhaust</span></td></tr>
-<tr><td id="filter" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/air-filter.html">Air Filter</a><span>Spectre 8131 Black 3" Cone Air Filter</span></td></tr>
+<tr><td id="inter" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/intercooler.html">Intercooler</a><span>Aluminum 28x9x2.5" Bar/Plate Intercooler</span></td></tr>
+<tr><td id="pump" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/fuel-pump.html">Fuel Pump</a><span>Fuel Pump Boost Reference Modification</span></td></tr>
+<tr><td id="lines" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/an-lines.html">AN Lines</a><span>Custom fit AN Oil &amp;amp; Fuel Lines</span></td></tr>
+<tr><td id="turbo" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/turbocharger.html">Turbocharger</a><span>CXRacing GT35 .68AR Turbocharger</span></td></tr>
+<tr><td id="hat" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/hat-bonnet.html">Hat / Bonnet</a><span>Spectre 4" Chrome Carb Hat</span></td></tr>
+<tr><td id="bov" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/blow-off-valve.html">Blow Off Valve</a><span>Wyntonm 44mm Stainless Blow Off Valve</span></td></tr>
+<tr><td id="wg" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/wastegate.html">Wastegate</a><span>SPA Turbo Compact 35mm Wastegate Valve</span></td></tr>
+<tr><td id="pipe" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/exhaust-piping.html">Exhaust / Piping</a><span>3" Charge Pipes &amp;amp; New Exhaust</span></td></tr>
+<tr><td id="filter" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/air-filter.html">Air Filter</a><span>Spectre 8131 Black 3" Cone Air Filter</span></td></tr>
 <tr><td></td></tr>
 </tbody></table>
 </div>
@@ -91,110 +91,110 @@ Below is a grid containing a complete list of every project, modification, upgra
 <tbody>
 <tr>
 <th style="background-color: black; text-align: center;"><h3>
-<a href="http://www.turbocamaro.ca/search/label/interior" title="Click to view all interior articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>INTERIOR</strong></span></a></h3>
+<a href="http:s//www.turbocamaro.ca/search/label/interior" title="Click to view all interior articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>INTERIOR</strong></span></a></h3>
 </th>
 <th style="background-color: black; text-align: center;"><h3>
-<a href="http://www.turbocamaro.ca/search/label/exterior" title="Click to view all exterior articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>EXTERIOR</strong></span></a></h3>
+<a href="http:s//www.turbocamaro.ca/search/label/exterior" title="Click to view all exterior articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>EXTERIOR</strong></span></a></h3>
 </th>
 <th style="background-color: black; text-align: center;"><h3>
-<a href="http://www.turbocamaro.ca/search/label/mechanical" title="Click to view all mechanical articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>MECHANICAL</strong></span></a></h3>
+<a href="http:s//www.turbocamaro.ca/search/label/mechanical" title="Click to view all mechanical articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>MECHANICAL</strong></span></a></h3>
 </th>
 <th style="background-color: black; text-align: center;"><h3>
-<a href="http://www.turbocamaro.ca/search/label/engine" title="Click to view all engine articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>ENGINE</strong></span></a></h3>
+<a href="http:s//www.turbocamaro.ca/search/label/engine" title="Click to view all engine articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>ENGINE</strong></span></a></h3>
 </th>
 <th style="background-color: black; text-align: center;"><h3>
-<a href="http://www.turbocamaro.ca/search/label/turbo" title="Click to view all turbo articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>TURBO</strong></span></a></h3>
+<a href="http:s//www.turbocamaro.ca/search/label/turbo" title="Click to view all turbo articles"><span style="color: red; font-family: &amp;quot;verdana&amp;quot; , sans-serif; font-size: large;"><strong>TURBO</strong></span></a></h3>
 </th>
 </tr>
 <tr>
-<td id="dashlights" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/dash-lighting.html">Dash Lighting</a><span>13 LED Bulbs - Auqa Blue</span></td>
-<td id="bare" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/sanding-grinding.html">Sanding</a><span>Sand and Grind to Bare Metal</span></td>
-<td id="shocks" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/rear-shock-swap.html">Shocks</a><span>Rear Shock Swap</span></td>
-<td id="rebuild" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/engine-rebuild.html">Engine Rebuild</a><span>Complete Inline 6 Rebuild + Extras</span></td>
-<td id="inter" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/intercooler.html">Intercooler</a><span>Aluminum 28x9x2.5" Bar/Plate Intercooler</span></td>
+<td id="dashlights" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/dash-lighting.html">Dash Lighting</a><span>13 LED Bulbs - Auqa Blue</span></td>
+<td id="bare" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/sanding-grinding.html">Sanding</a><span>Sand and Grind to Bare Metal</span></td>
+<td id="shocks" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/rear-shock-swap.html">Shocks</a><span>Rear Shock Swap</span></td>
+<td id="rebuild" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/engine-rebuild.html">Engine Rebuild</a><span>Complete Inline 6 Rebuild + Extras</span></td>
+<td id="inter" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/intercooler.html">Intercooler</a><span>Aluminum 28x9x2.5" Bar/Plate Intercooler</span></td>
 </tr>
 <tr>
-<td id="dashpaint" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/dash-paint.html">Dash Paint</a><span>Strip, Sand &amp;amp; Paint the Dash</span></td>
-<td id="rollpaint" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/rolling-tremclad-paint.html">Rolling Paint</a><span>Rolling Tremclad Paint by Hand</span></td>
-<td id="psteer" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/power-steering-conversion.html">Power Steering</a><span>Manual Power Steering Conversion</span></td>
-<td id="mshop" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/machine-shop-work.html">Machine Shop Work</a><span>Work Completed by the Machine Shop</span></td>
-<td id="pump" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/fuel-pump.html">Fuel Pump</a><span>Fuel Pump Boost Reference Modification</span></td>
+<td id="dashpaint" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/dash-paint.html">Dash Paint</a><span>Strip, Sand &amp;amp; Paint the Dash</span></td>
+<td id="rollpaint" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/rolling-tremclad-paint.html">Rolling Paint</a><span>Rolling Tremclad Paint by Hand</span></td>
+<td id="psteer" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/power-steering-conversion.html">Power Steering</a><span>Manual Power Steering Conversion</span></td>
+<td id="mshop" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/machine-shop-work.html">Machine Shop Work</a><span>Work Completed by the Machine Shop</span></td>
+<td id="pump" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/fuel-pump.html">Fuel Pump</a><span>Fuel Pump Boost Reference Modification</span></td>
 </tr>
 <tr>
-<td id="upholst" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/upholstery.html">Upholstery</a><span>Re-upholster and Chemical Spraying Interior</span></td>
-<td id="stripe" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/bumblebee-stripe.html">BumbleBee Stripe</a><span>Measuring and Spraying Stripe</span></td>
-<td id="skit" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/shift-kit-install.html">Shift Kit</a><span>Installing a TransGo Shift Kit</span></td>
-<td id="crods" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/crank-rods.html">Crankshaft &amp;amp; Rods</a><span>Crank &amp;amp; Rod Mods for Longevity</span></td>
-<td id="lines" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/an-lines.html">AN Lines</a><span>Custom fit AN Oil &amp;amp; Fuel Lines</span></td>
+<td id="upholst" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/upholstery.html">Upholstery</a><span>Re-upholster and Chemical Spraying Interior</span></td>
+<td id="stripe" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/bumblebee-stripe.html">BumbleBee Stripe</a><span>Measuring and Spraying Stripe</span></td>
+<td id="skit" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/shift-kit-install.html">Shift Kit</a><span>Installing a TransGo Shift Kit</span></td>
+<td id="crods" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/crank-rods.html">Crankshaft &amp;amp; Rods</a><span>Crank &amp;amp; Rod Mods for Longevity</span></td>
+<td id="lines" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/an-lines.html">AN Lines</a><span>Custom fit AN Oil &amp;amp; Fuel Lines</span></td>
 </tr>
 <tr>
-<td id="seatbelts" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/seat-belts.html">Seat Belts</a><span>Mixing New and Old Seat Belts</span></td>
-<td id="leds" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/tail-turn-leds.html">Tail &amp;amp; Turn Lights</a><span>Swapping All Lights to LED</span></td>
-<td id="leaf" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/leaf-spring-upgrade.html">Leaf Springs</a><span>Mono to Multi Leaf Spring Upgrade</span></td>
-<td id="cam" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/camshaft.html">Camshaft</a><span>Turbo Suited Compcams Hydraulic Cam &amp;amp; Lifters</span></td>
-<td id="turbo" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/turbocharger.html">Turbocharger</a><span>CXRacing GT35 .68AR Turbocharger</span></td>
+<td id="seatbelts" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/seat-belts.html">Seat Belts</a><span>Mixing New and Old Seat Belts</span></td>
+<td id="leds" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/tail-turn-leds.html">Tail &amp;amp; Turn Lights</a><span>Swapping All Lights to LED</span></td>
+<td id="leaf" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/leaf-spring-upgrade.html">Leaf Springs</a><span>Mono to Multi Leaf Spring Upgrade</span></td>
+<td id="cam" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/camshaft.html">Camshaft</a><span>Turbo Suited Compcams Hydraulic Cam &amp;amp; Lifters</span></td>
+<td id="turbo" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/turbocharger.html">Turbocharger</a><span>CXRacing GT35 .68AR Turbocharger</span></td>
 </tr>
 <tr>
-<td id="seats" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/scat-procar-rally-1000-seats.html">Seats</a><span>Scat Procar Rally 1000 Smooth Back Seats</span></td>
-<td id="hids" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/hid-conversion.html">Headights</a><span>HID 4300K Round Glass Headights</span></td>
+<td id="seats" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/scat-procar-rally-1000-seats.html">Seats</a><span>Scat Procar Rally 1000 Smooth Back Seats</span></td>
+<td id="hids" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/hid-conversion.html">Headights</a><span>HID 4300K Round Glass Headights</span></td>
 <td></td>
-<td id="pistons" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/forged-pistons.html">Forged Pistons</a><span>Custom Ordered Ross Racing "70 Over" Forged Pistons</span></td>
-<td id="hat" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/hat-bonnet.html">Hat / Bonnet</a><span>Spectre 4" Chrome Carb Hat</span></td>
+<td id="pistons" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/forged-pistons.html">Forged Pistons</a><span>Custom Ordered Ross Racing "70 Over" Forged Pistons</span></td>
+<td id="hat" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/hat-bonnet.html">Hat / Bonnet</a><span>Spectre 4" Chrome Carb Hat</span></td>
 </tr>
 <tr>
-<td id="stereo" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/retrosound-motor-3-custom-stereo.html" title="Retrosound Model 2B Motor 3 Custom Stereo">Stereo</a><span>Retrosound Model 2B Motor 3 Stereo</span></td>
-<td id="quarter" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/quarter-panel-swap.html">Quarter Panel</a><span>Quarter Panel Swap</span></td>
+<td id="stereo" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/retrosound-motor-3-custom-stereo.html" title="Retrosound Model 2B Motor 3 Custom Stereo">Stereo</a><span>Retrosound Model 2B Motor 3 Stereo</span></td>
+<td id="quarter" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/quarter-panel-swap.html">Quarter Panel</a><span>Quarter Panel Swap</span></td>
 <td></td>
-<td id="carb" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/carburetor.html">Carburetor</a><span>Holly 600CFM D.P. with Mechanical Secondaries</span></td>
-<td id="bov" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/blow-off-valve.html">Blow Off Valve</a><span>Wyntonm 44mm Stainless Blow Off Valve</span></td>
+<td id="carb" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/carburetor.html">Carburetor</a><span>Holly 600CFM D.P. with Mechanical Secondaries</span></td>
+<td id="bov" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/blow-off-valve.html">Blow Off Valve</a><span>Wyntonm 44mm Stainless Blow Off Valve</span></td>
 </tr>
 <tr>
-<td id="shifter" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/floor-shift-conversion.html">Shifter</a><span>Column to Floor Shifter Conversion</span></td>
-<td id="tint" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/window-tint.html">Glass &amp;amp; Tint</a><span>Side &amp;amp; Rear Glass at 5%</span></td>
+<td id="shifter" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/floor-shift-conversion.html">Shifter</a><span>Column to Floor Shifter Conversion</span></td>
+<td id="tint" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/window-tint.html">Glass &amp;amp; Tint</a><span>Side &amp;amp; Rear Glass at 5%</span></td>
 <td></td>
-<td id="breath" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/breathers.html">Breathers</a><span>Valve Cover Breather &amp;amp; PCV</span></td>
-<td id="wg" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/wastegate.html">Wastegate</a><span>SPA Turbo Compact 35mm Wastegate Valve</span></td>
+<td id="breath" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/breathers.html">Breathers</a><span>Valve Cover Breather &amp;amp; PCV</span></td>
+<td id="wg" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/wastegate.html">Wastegate</a><span>SPA Turbo Compact 35mm Wastegate Valve</span></td>
 </tr>
 <tr>
-<td id="sdead" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/sound-deadening.html">Sound Deadening</a><span>80mil Butyl Sound Deadener Everywhere</span></td>
-<td id="chin" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/chin-spoiler.html">Chin Spoiler</a><span>Front Valance Chin Spoiler</span></td>
+<td id="sdead" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/sound-deadening.html">Sound Deadening</a><span>80mil Butyl Sound Deadener Everywhere</span></td>
+<td id="chin" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/chin-spoiler.html">Chin Spoiler</a><span>Front Valance Chin Spoiler</span></td>
 <td></td>
-<td id="mani" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/manifolds.html">Manifolds</a><span>292 Exhaust &amp;amp; Offenhauser Intake</span></td>
-<td id="pipe" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/exhaust-piping.html">Exhaust / Piping</a><span>3" Charge Pipes &amp;amp; New Exhaust</span></td>
+<td id="mani" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/manifolds.html">Manifolds</a><span>292 Exhaust &amp;amp; Offenhauser Intake</span></td>
+<td id="pipe" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/exhaust-piping.html">Exhaust / Piping</a><span>3" Charge Pipes &amp;amp; New Exhaust</span></td>
 </tr>
 <tr>
-<td id="headliner" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/headliner.html">Headliner</a><span>Headliner Restoration &amp;amp; Inevitable Swap</span></td>
-<td id="bay" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/the-engine-bay.html">Engine Bay</a><span>Engine Bay Restoration</span></td>
+<td id="headliner" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/headliner.html">Headliner</a><span>Headliner Restoration &amp;amp; Inevitable Swap</span></td>
+<td id="bay" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/the-engine-bay.html">Engine Bay</a><span>Engine Bay Restoration</span></td>
 <td></td>
-<td id="head" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/head.html">"Lumpy" Head</a><span>Head Work - Valves, Springs &amp;amp; Hi-Flow Lumps</span></td>
-<td id="filter" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/air-filter.html">Air Filter</a><span>Spectre 8131 Black 3" Cone Air Filter</span></td>
+<td id="head" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/head.html">"Lumpy" Head</a><span>Head Work - Valves, Springs &amp;amp; Hi-Flow Lumps</span></td>
+<td id="filter" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/air-filter.html">Air Filter</a><span>Spectre 8131 Black 3" Cone Air Filter</span></td>
 </tr>
 <tr>
-<td id="pod" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/console-pod.html">Console Gauge Pod</a><span>Custom 4 Gauge Console Pod</span></td>
-<td id="hoodlock" valign="middle"><a href="http://www.turbocamaro.ca/2017/10/hood-locks.html">Hood Locks</a><span>Get Hood Locks not Pins!</span></td>
+<td id="pod" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/console-pod.html">Console Gauge Pod</a><span>Custom 4 Gauge Console Pod</span></td>
+<td id="hoodlock" valign="middle"><a href="http:s//www.turbocamaro.ca/2017/10/hood-locks.html">Hood Locks</a><span>Get Hood Locks not Pins!</span></td>
 <td></td>
-<td id="hei" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/distributor.html">Distributor</a><span>65K Coil in Cap HEI Distributor</span></td>
-<td></td>
-</tr>
-<tr>
-<td id="gauges" valign="middle"><a href="http://www.turbocamaro.ca/2016/01/gauge-choice.html">Gauge Choices</a><span>Choosing the Right Gauges for You</span></td>
-<td></td>
-<td></td>
-<td id="alci" valign="middle"><a href="http://www.turbocamaro.ca/2016/02/alcohol-injection.html">Alcohol Injection</a><span>DevilsOwn Stage 2 Alcohol Injection</span></td>
+<td id="hei" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/distributor.html">Distributor</a><span>65K Coil in Cap HEI Distributor</span></td>
 <td></td>
 </tr>
 <tr>
-<td id="alarm" valign="middle"><a href="http://www.turbocamaro.ca/2017/10/alarm-system-power-locks.html">Alarm + Power Locks</a><span>Alarm System &amp; Upgrading to Power Locks</span></td>
+<td id="gauges" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/01/gauge-choice.html">Gauge Choices</a><span>Choosing the Right Gauges for You</span></td>
 <td></td>
 <td></td>
-<td id="catchcan" valign="middle"><a href="http://www.turbocamaro.ca/2017/10/oil-catch-can.html">Oil Catch Can</a><span>Custom Modified Oil Catch Can</span></td>
+<td id="alci" valign="middle"><a href="http:s//www.turbocamaro.ca/2016/02/alcohol-injection.html">Alcohol Injection</a><span>DevilsOwn Stage 2 Alcohol Injection</span></td>
+<td></td>
+</tr>
+<tr>
+<td id="alarm" valign="middle"><a href="http:s//www.turbocamaro.ca/2017/10/alarm-system-power-locks.html">Alarm + Power Locks</a><span>Alarm System &amp; Upgrading to Power Locks</span></td>
+<td></td>
+<td></td>
+<td id="catchcan" valign="middle"><a href="http:s//www.turbocamaro.ca/2017/10/oil-catch-can.html">Oil Catch Can</a><span>Custom Modified Oil Catch Can</span></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td id="sniperefi" valign="middle"><a href="http://www.turbocamaro.ca/2017/10/holley-sniper-efi.html">Holley Sniper EFI</a><span>Holley Sniper Electronic Fuel Injection System</span></td>
+<td id="sniperefi" valign="middle"><a href="http:s//www.turbocamaro.ca/2017/10/holley-sniper-efi.html">Holley Sniper EFI</a><span>Holley Sniper Electronic Fuel Injection System</span></td>
 <td></td>
 </tr>
 <!-- Here starts an extra row
@@ -261,7 +261,7 @@ $(function() {
 
 /*
 jQuery-Rotate-Plugin v0.2 by anatol.at
-http://jsfiddle.net/Anatol/T6kDR/
+http:s//jsfiddle.net/Anatol/T6kDR/
 */
 $.fn.rotate=function(options) {
   var $this=$(this), prefixes, opts, wait4css=0;

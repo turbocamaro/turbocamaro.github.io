@@ -7,11 +7,11 @@ tags: [blogger]
 
 <style>iframe[id^="twitter-widget-"] {width:100% !important; border: none; height:100% !important; min-height:500px !important; min-width:initial !important; max-width:initial !important; max-height:initial !important;}
 @media all and (-webkit-min-device-pixel-ratio:0) and (min-resolution: .001dpcm) {iframe[id^="twitter-widget-"] {height:98.5% !important;}}</style>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXgmEk7NCo0-yjINrva7-vUk2jzox73YZwvU_kroP-2a0EPUokhpCKpDf1304Hpd8_NLUmmi_usOtwp6DM0OoPuAef4e9-5byIPT620HB3ShSook8QPyBHItIDFtDB5Bb9B89AA7dThMk/s1600/YoutubeChArt-2.png" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img alt="turbo 67 chevy camaro" border="0" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXgmEk7NCo0-yjINrva7-vUk2jzox73YZwvU_kroP-2a0EPUokhpCKpDf1304Hpd8_NLUmmi_usOtwp6DM0OoPuAef4e9-5byIPT620HB3ShSook8QPyBHItIDFtDB5Bb9B89AA7dThMk/s320/YoutubeChArt-2.png" title="" width="320" /></a><br />
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXgmEk7NCo0-yjINrva7-vUk2jzox73YZwvU_kroP-2a0EPUokhpCKpDf1304Hpd8_NLUmmi_usOtwp6DM0OoPuAef4e9-5byIPT620HB3ShSook8QPyBHItIDFtDB5Bb9B89AA7dThMk/s1600/YoutubeChArt-2.png" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img alt="Turbo Camaro build photo" alt="turbo 67 chevy camaro" border="0" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXgmEk7NCo0-yjINrva7-vUk2jzox73YZwvU_kroP-2a0EPUokhpCKpDf1304Hpd8_NLUmmi_usOtwp6DM0OoPuAef4e9-5byIPT620HB3ShSook8QPyBHItIDFtDB5Bb9B89AA7dThMk/s320/YoutubeChArt-2.png" title="" width="320" /></a><br />
 <br />
 Follow along and witness a transformation as this base model 1967 Chevrolet Camaro receives custom fabrication and modern styling all backed by a turbocharged alcohol fueled 250 cubic inch inline 6 engine. No big sponsors or corporate bill folds, every project is completed by one man on a family sized budget. Since 2007, this has been a work in progress, but in 2016, things are just getting interesting.<br />
 <br />
-Whant to know the history of Turbo Camaro? Read <a href="http://www.turbocamaro.ca/p/about.html">the Story</a>.<br />
+Whant to know the history of Turbo Camaro? Read <a href="http:s//www.turbocamaro.ca/p/about.html">the Story</a>.<br />
 <br />
 <br />
 <hr />
@@ -20,9 +20,9 @@ Whant to know the history of Turbo Camaro? Read <a href="http://www.turbocamaro.
 <span style="font-size: large;"><b><br /></b></span>
 <br />
 <div>
-<a href="http://www.turbocamaro.ca/p/build-sheet.html" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img alt="turbo camaro build sheet" border="0" height="132" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU2dPMH8wFH4C_ZQjC6mFXlh3h_Za4M8jY12YPH35hqAfRn24hBUdqeUbErinnVXB_hvZdXsyHpXCaSkRJdrKjlabK3DnNyIRsp8XnUXDnQr5D84WgW46dWd4zpgBMXibjGIjLtdk4aoE/s320/Build+Sheet+Thumbnail.png" title="" width="320" /></a><a href="http://www.turbocamaro.ca/p/build-sheet.html" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><br /></a><a href="http://www.turbocamaro.ca/p/build-sheet.html" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><br /></a><span style="font-size: xx-small;"></span>The heart and soul of this site! Check out this complex grid of Turbo Camaro information. Every project being done to the car from changing a light bulb to rebuilding the engine is documented and narrated for your reading pleasure. See exclusive how-to articles, part reviews and information, diagrams and endless semi-educated opinions on everything related to classic muscle cars.<br />
+<a href="http:s//www.turbocamaro.ca/p/build-sheet.html" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img alt="Turbo Camaro build photo" alt="turbo camaro build sheet" border="0" height="132" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU2dPMH8wFH4C_ZQjC6mFXlh3h_Za4M8jY12YPH35hqAfRn24hBUdqeUbErinnVXB_hvZdXsyHpXCaSkRJdrKjlabK3DnNyIRsp8XnUXDnQr5D84WgW46dWd4zpgBMXibjGIjLtdk4aoE/s320/Build+Sheet+Thumbnail.png" title="" width="320" /></a><a href="http:s//www.turbocamaro.ca/p/build-sheet.html" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><br /></a><a href="http:s//www.turbocamaro.ca/p/build-sheet.html" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><br /></a><span style="font-size: xx-small;"></span>The heart and soul of this site! Check out this complex grid of Turbo Camaro information. Every project being done to the car from changing a light bulb to rebuilding the engine is documented and narrated for your reading pleasure. See exclusive how-to articles, part reviews and information, diagrams and endless semi-educated opinions on everything related to classic muscle cars.<br />
 <br />
-<a href="http://www.turbocamaro.ca/p/build-sheet.html">Click here</a> or the menu bar above to browse the build sheet.<br />
+<a href="http:s//www.turbocamaro.ca/p/build-sheet.html">Click here</a> or the menu bar above to browse the build sheet.<br />
 <br />
 <br />
 <hr />
@@ -77,7 +77,7 @@ $(function() {
 
 /*
 jQuery-Rotate-Plugin v0.2 by anatol.at
-http://jsfiddle.net/Anatol/T6kDR/
+http:s//jsfiddle.net/Anatol/T6kDR/
 */
 $.fn.rotate=function(options) {
   var $this=$(this), prefixes, opts, wait4css=0;
