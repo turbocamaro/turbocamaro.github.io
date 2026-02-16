@@ -21,7 +21,5 @@ While everyone else was dropping LS engines into F-bodies, I wanted to see exact
 * **Management:** Holley Sniper EFI (Self-tuned)
 * **Mission:** A reliable, streetable, and surprisingly quick tribute to doing things the hard way.
 
-[attachment_0](attachment)
-
 ---
 *Follow the progress from the first weld in 2007 to the latest tuning logs in 2026.*
