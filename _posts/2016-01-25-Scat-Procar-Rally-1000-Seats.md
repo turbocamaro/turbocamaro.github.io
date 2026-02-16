@@ -9,5 +9,6 @@ Turbo Camaro received <a href="http://www.turbocamaro.ca/2016/01/upholstery.html
 
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/FhV1KCaTSR0/0.jpg" frame height="316" src="https://www.youtube.com/embed/FhV1KCaTSR0?feature=player_embedded" width="560"></iframe>
 
-<b>Turbo | Camaro</b>
+<b>---
+*Turbo Camaro Build History*</b>
 

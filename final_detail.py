@@ -4,15 +4,7 @@ import html
 
 post_dir = "_posts"
 
-# List of tags to strip entirely
-tags_to_strip = [
-    r'<table.*?>', r'</table>', r'<tbody.*?>', r'</tbody>',
-    r'<tr.*?>', r'</tr>', r'<td.*?>', r'</td>',
-    r'<div.*?>', r'</div>', r'<span.*?>', r'</span>', 
-    r'<br\s*/?>', r'imageanchor="1"', r'border="0"'
-]
-
-print("Applying professional figure captions...")
+print("Converting floating text to professional Figcaptions...")
 
 for filename in os.listdir(post_dir):
     if filename.endswith(".md"):
@@ -21,30 +13,24 @@ for filename in os.listdir(post_dir):
         with open(filepath, "r", encoding="utf-8") as f:
             content = f.read()
 
-        # 1. Header and Entity Fix
-        content = re.sub(r'^-----', '---', content)
+        # 1. Standard Cleanup (Entities and Headers)
         content = html.unescape(content)
+        content = re.sub(r'^-----', '---', content)
 
-        # 2. CAPTION LOGIC: 
-        # This looks for an image followed by text that was marked as a caption in Blogger
-        # and wraps it in a <figure> block for perfect alignment.
-        pattern = r'(<a href=.*?><img.*?></a>)\s*(.*?)(?=\s*<a|<br|Early|With|The|Overall|\n\n|$)'
-        # Note: We'll apply this specifically to known caption text if it's short.
-        
-        # 3. Strip the junk tags
-        for tag in tags_to_strip:
-            content = re.sub(tag, '', content, flags=re.IGNORECASE)
+        # 2. THE CAPTION ENGINE
+        # This regex looks for: 
+        # An image link (<a...><img...></a>) 
+        # Followed by a single line of text (the caption)
+        # Followed by a double newline (the next paragraph)
+        # It wraps them in <figure> and <figcaption>
+        figure_pattern = r'(<a href=.*?><img.*?></a>)\n(.*?)\n\n'
+        content = re. some_sub = re.sub(figure_pattern, r'<figure style="text-align: center; margin: 20px 0;">\1<figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">\2</figcaption></figure>\n\n', content)
 
-        # 4. Final Spacing and Curly Quote fix
-        content = re.sub(r'\n\s*\n', '\n\n', content)
-        content = content.replace('”', '"').replace('“', '"')
-        
-        # 5. Add custom CSS alignment to the images
-        # This centers images and makes captions look like captions
-        content = content.replace('<img ', '<img style="display: block; margin: 0 auto; max-width: 100%; height: auto;" ')
+        # 3. Clean up the "Turbo | Camaro" signature at the bottom
+        content = content.replace("Turbo | Camaro", "---\n*Turbo Camaro Build History*")
 
         with open(filepath, "w", encoding="utf-8") as f:
             f.write(content)
-        print(f"Captions Aligned: {filename}")
+        print(f"Figcaptioned: {filename}")
 
-print("\nDetailing complete. Run 'pushit' to update.")
+print("\nDone! Your captions are now locked to your images.")

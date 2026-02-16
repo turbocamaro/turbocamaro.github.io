@@ -5,11 +5,9 @@ categories: [Build]
 tags: [blogger]
 ---
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb1D6jgbPaqSxTZNMG9Z_PwdXMXwFzyJxEVBGYq9RVM7QE4hPSHr0mTOvwbAxCAXqpB4eBZiloiNHX-eRvO0FILVQhjO0R5-MNXKumF9d4pgaEFbIoqtdSD6InGl_d9IKymvVyRYtV8-U/s1600/CXRacing+Universal+3in+Polished+DIY+Aluminum+FMIC+Turbo+Intercooler+Piping+Kit.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb1D6jgbPaqSxTZNMG9Z_PwdXMXwFzyJxEVBGYq9RVM7QE4hPSHr0mTOvwbAxCAXqpB4eBZiloiNHX-eRvO0FILVQhjO0R5-MNXKumF9d4pgaEFbIoqtdSD6InGl_d9IKymvVyRYtV8-U/s320/CXRacing+Universal+3in+Polished+DIY+Aluminum+FMIC+Turbo+Intercooler+Piping+Kit.jpg" width="320" /></a>
-CX Racing 3x18" @ 2mm Piping kit - $99
+<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb1D6jgbPaqSxTZNMG9Z_PwdXMXwFzyJxEVBGYq9RVM7QE4hPSHr0mTOvwbAxCAXqpB4eBZiloiNHX-eRvO0FILVQhjO0R5-MNXKumF9d4pgaEFbIoqtdSD6InGl_d9IKymvVyRYtV8-U/s1600/CXRacing+Universal+3in+Polished+DIY+Aluminum+FMIC+Turbo+Intercooler+Piping+Kit.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb1D6jgbPaqSxTZNMG9Z_PwdXMXwFzyJxEVBGYq9RVM7QE4hPSHr0mTOvwbAxCAXqpB4eBZiloiNHX-eRvO0FILVQhjO0R5-MNXKumF9d4pgaEFbIoqtdSD6InGl_d9IKymvVyRYtV8-U/s320/CXRacing+Universal+3in+Polished+DIY+Aluminum+FMIC+Turbo+Intercooler+Piping+Kit.jpg" width="320" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">CX Racing 3x18" @ 2mm Piping kit - $99</figcaption></figure>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwz7ki4yzft67cLWHWD99C7YqZ2rxa2HhI5pwmBCCzGut7NN0hytKaKA9V37mCkBdxrLE_B7X7UPLobcWJShj7WPRR6X68wTbAlM9keD0e2pPK-FwTtvIKLoYagC2hrxlyTTkJSXO1D5s/s1600/20150727_182403.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwz7ki4yzft67cLWHWD99C7YqZ2rxa2HhI5pwmBCCzGut7NN0hytKaKA9V37mCkBdxrLE_B7X7UPLobcWJShj7WPRR6X68wTbAlM9keD0e2pPK-FwTtvIKLoYagC2hrxlyTTkJSXO1D5s/s400/20150727_182403.jpg" width="222" /></a>
-CXRacing kit as received
+<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwz7ki4yzft67cLWHWD99C7YqZ2rxa2HhI5pwmBCCzGut7NN0hytKaKA9V37mCkBdxrLE_B7X7UPLobcWJShj7WPRR6X68wTbAlM9keD0e2pPK-FwTtvIKLoYagC2hrxlyTTkJSXO1D5s/s1600/20150727_182403.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwz7ki4yzft67cLWHWD99C7YqZ2rxa2HhI5pwmBCCzGut7NN0hytKaKA9V37mCkBdxrLE_B7X7UPLobcWJShj7WPRR6X68wTbAlM9keD0e2pPK-FwTtvIKLoYagC2hrxlyTTkJSXO1D5s/s400/20150727_182403.jpg" width="222" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">CXRacing kit as received</figcaption></figure>
 
 In order to install a turbocharger, intercooler, carburetor hat, cold air filter, blow off valve and external wastegate, you need metal piping. Obviously a couple of the above parts could be directly mounted to a permanent fixture like the turbocharger or manifold, but you get the point.
 
@@ -25,4 +23,5 @@ Unless you're replacing an existing install and know exactly what pieces you nee
 
 <iframe allowfullscreen="" frame height="315" src="https://www.youtube.com/embed/KLE9NiiHUVY" width="560"></iframe>
 
-Turbo | Camaro
+---
+*Turbo Camaro Build History*

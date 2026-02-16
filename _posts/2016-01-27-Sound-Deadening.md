@@ -13,4 +13,5 @@ Late 2015, 76 square feet of black Noico self-adhesive foil & butyl sound deaden
 
 Stay tuned... 
 
-<b>Turbo | Camaro</b>
+<b>---
+*Turbo Camaro Build History*</b>

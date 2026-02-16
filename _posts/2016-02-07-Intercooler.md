@@ -5,11 +5,9 @@ categories: [Build]
 tags: [blogger]
 ---
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdhRJ2DRavbhjVr3GBLqjpgsVShQehDM8r7h-Q-irqoVfiRPMyztcQLnVlyz7vdSF2I4noZiNBEh4AuaSxv-JDtHowASe7Z9JdG-39RbOqWqnr-fAKeLVZ8_e3-sJq0KdmQ04n16ZXoM/s1600/20150727_182830.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="177" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdhRJ2DRavbhjVr3GBLqjpgsVShQehDM8r7h-Q-irqoVfiRPMyztcQLnVlyz7vdSF2I4noZiNBEh4AuaSxv-JDtHowASe7Z9JdG-39RbOqWqnr-fAKeLVZ8_e3-sJq0KdmQ04n16ZXoM/s320/20150727_182830.jpg" width="320" /></a>
-FantasyMotorSports 28x9x2.5" front mount intercooler
+<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdhRJ2DRavbhjVr3GBLqjpgsVShQehDM8r7h-Q-irqoVfiRPMyztcQLnVlyz7vdSF2I4noZiNBEh4AuaSxv-JDtHowASe7Z9JdG-39RbOqWqnr-fAKeLVZ8_e3-sJq0KdmQ04n16ZXoM/s1600/20150727_182830.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="177" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdhRJ2DRavbhjVr3GBLqjpgsVShQehDM8r7h-Q-irqoVfiRPMyztcQLnVlyz7vdSF2I4noZiNBEh4AuaSxv-JDtHowASe7Z9JdG-39RbOqWqnr-fAKeLVZ8_e3-sJq0KdmQ04n16ZXoM/s320/20150727_182830.jpg" width="320" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">FantasyMotorSports 28x9x2.5" front mount intercooler</figcaption></figure>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9jvlrIWr6cFftNyWTOQh2msGc0-iEJ8QFTHTqTDGeZIfIh_ImyonPSvYCTaIgMmP83aOCbmu_tQH05nGLmbeCpAazHac51ZfpA4TxzYBGFAtsyaU-2Kv8yuPe1ZBKmdssiICXgbbE854/s1600/20150727_182908.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9jvlrIWr6cFftNyWTOQh2msGc0-iEJ8QFTHTqTDGeZIfIh_ImyonPSvYCTaIgMmP83aOCbmu_tQH05nGLmbeCpAazHac51ZfpA4TxzYBGFAtsyaU-2Kv8yuPe1ZBKmdssiICXgbbE854/s320/20150727_182908.jpg" width="180" /></a>
-2.5" inlet & outlet
+<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9jvlrIWr6cFftNyWTOQh2msGc0-iEJ8QFTHTqTDGeZIfIh_ImyonPSvYCTaIgMmP83aOCbmu_tQH05nGLmbeCpAazHac51ZfpA4TxzYBGFAtsyaU-2Kv8yuPe1ZBKmdssiICXgbbE854/s1600/20150727_182908.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9jvlrIWr6cFftNyWTOQh2msGc0-iEJ8QFTHTqTDGeZIfIh_ImyonPSvYCTaIgMmP83aOCbmu_tQH05nGLmbeCpAazHac51ZfpA4TxzYBGFAtsyaU-2Kv8yuPe1ZBKmdssiICXgbbE854/s320/20150727_182908.jpg" width="180" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">2.5" inlet & outlet</figcaption></figure>
 
  A turbocharger is a very efficient way of creating massive power by recycling exhaust gasses and converting them to create pressurized air intake. The technology has become so popular, a lot of modern vehicles use them for increased power and overall fuel economy.
 
@@ -23,4 +21,5 @@ The grille clearance of a first generation Camaro is almost 3" inches of total d
 
 An intercooler is a fairly cheap item that has a big job. If your planning to turbocharger, or just want to master cold air intake, you should consider picking one up.
 
-Turbo | Camaro
+---
+*Turbo Camaro Build History*

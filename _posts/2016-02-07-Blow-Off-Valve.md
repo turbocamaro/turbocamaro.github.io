@@ -5,11 +5,9 @@ categories: [Build]
 tags: [blogger]
 ---
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibOvcOX0yrBEtYP_AM8muVvxgChg3GeDmbMlr0DhQAb4GkmDGLhBOXjMTlEFs8Jdh-6wR6vrHT2iZ6IWEr_hqL7obpXSUQY_hPOdRxFd0ezWQ95uSEcdSO_vNLu2Uiap_fXtFbIh_DWno/s1600/bovtop.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibOvcOX0yrBEtYP_AM8muVvxgChg3GeDmbMlr0DhQAb4GkmDGLhBOXjMTlEFs8Jdh-6wR6vrHT2iZ6IWEr_hqL7obpXSUQY_hPOdRxFd0ezWQ95uSEcdSO_vNLu2Uiap_fXtFbIh_DWno/s400/bovtop.jpg" width="222" /></a>
-Wyntonm 44mm Stainless BOV - $60
+<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibOvcOX0yrBEtYP_AM8muVvxgChg3GeDmbMlr0DhQAb4GkmDGLhBOXjMTlEFs8Jdh-6wR6vrHT2iZ6IWEr_hqL7obpXSUQY_hPOdRxFd0ezWQ95uSEcdSO_vNLu2Uiap_fXtFbIh_DWno/s1600/bovtop.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibOvcOX0yrBEtYP_AM8muVvxgChg3GeDmbMlr0DhQAb4GkmDGLhBOXjMTlEFs8Jdh-6wR6vrHT2iZ6IWEr_hqL7obpXSUQY_hPOdRxFd0ezWQ95uSEcdSO_vNLu2Uiap_fXtFbIh_DWno/s400/bovtop.jpg" width="222" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">Wyntonm 44mm Stainless BOV - $60</figcaption></figure>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBYsdzBGn_C74-9HmhTXjFXngCHtmI0wrdRrVg_duxQx9IC7-O3WnmzF44OsOKzjsJDSFgi1YvQpH9cT9mtCPDscORR8jPWvAgJh_WIY98yItQWCVdsrWxJJZbnqaKb3ZO5CloLKvsQAg/s1600/bovbot.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBYsdzBGn_C74-9HmhTXjFXngCHtmI0wrdRrVg_duxQx9IC7-O3WnmzF44OsOKzjsJDSFgi1YvQpH9cT9mtCPDscORR8jPWvAgJh_WIY98yItQWCVdsrWxJJZbnqaKb3ZO5CloLKvsQAg/s400/bovbot.jpg" width="222" /></a>
-the bottom of the BOV measures 50mm
+<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBYsdzBGn_C74-9HmhTXjFXngCHtmI0wrdRrVg_duxQx9IC7-O3WnmzF44OsOKzjsJDSFgi1YvQpH9cT9mtCPDscORR8jPWvAgJh_WIY98yItQWCVdsrWxJJZbnqaKb3ZO5CloLKvsQAg/s1600/bovbot.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBYsdzBGn_C74-9HmhTXjFXngCHtmI0wrdRrVg_duxQx9IC7-O3WnmzF44OsOKzjsJDSFgi1YvQpH9cT9mtCPDscORR8jPWvAgJh_WIY98yItQWCVdsrWxJJZbnqaKb3ZO5CloLKvsQAg/s400/bovbot.jpg" width="222" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">the bottom of the BOV measures 50mm</figcaption></figure>
 
 You're going to notice a similar theme with the selection of the blow off valve (BOV) and <a href="http://www.turbocamaro.ca/2016/02/wastegate.html" target="_blank">wastegate</a> for Turbo Camaro. The big name brands for these two parts also come with big prices. The goal was to identify quality parts capable of performing as well as the big names without emptying the bank account.
 
@@ -27,5 +25,6 @@ Upon receipt of the valve, it was obvious the reviews of the build quality were 
 
 Updates will be added here once the final install and testing of this item has been done. A video review of this part is planned for 2016.
 
-Turbo | Camaro
+---
+*Turbo Camaro Build History*
 
