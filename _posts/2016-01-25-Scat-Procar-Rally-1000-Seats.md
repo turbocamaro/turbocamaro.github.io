@@ -11,4 +11,3 @@ Turbo Camaro received <a href="http://www.turbocamaro.ca/2016/01/upholstery.html
 
 <b>---
 *Turbo Camaro Build History*</b>
-

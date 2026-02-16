@@ -30,4 +30,3 @@ A video of the DevilsOwn kit install is planned for 2016. Further documentation 
 
 ---
 *Turbo Camaro Build History*
-

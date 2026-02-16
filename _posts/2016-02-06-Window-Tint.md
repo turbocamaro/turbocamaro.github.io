@@ -23,4 +23,3 @@ Once paint and tinting was done, Eric's mobile glass out of Aldergrove, BC broug
 
 ---
 *Turbo Camaro Build History*
-

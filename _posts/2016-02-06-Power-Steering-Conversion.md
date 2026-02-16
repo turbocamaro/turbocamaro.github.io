@@ -33,4 +33,3 @@ Unfortunately the swap from manual to power steering wasn't filmed. Several phot
 
 ---
 *Turbo Camaro Build History*
-

@@ -31,4 +31,3 @@ The only advantage to sealed beams are price and availability. Even then, costs 
 
 ---
 *Turbo Camaro Build History*
-

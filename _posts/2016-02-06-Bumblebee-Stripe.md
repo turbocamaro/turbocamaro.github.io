@@ -50,4 +50,3 @@ Overall, applying or painting your own stripes is only as difficult as your desi
 
 ---
 *Turbo Camaro Build History*
-

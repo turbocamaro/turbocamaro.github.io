@@ -15,6 +15,7 @@ As mentioned all over the internet, if you had to focus you attention on one par
 <li>Install a <a href="https://www.youtube.com/watch?v=dPPyUCLagbI" target="_blank">lump port kit</a></li>
 <li>Increase valve size to 1.94/1.6 valves</li>
 <li>Complete a full intake and exhaust port job
+
 <figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXgXhqfKkKkcMnfVzpzSH4ehdi84szmLtMjz0IPWH0hpJt7h-X1pnj06HU4owOpoGdnFxydEyuTOk4p3ZHtCdNaUeDzsAdN2XliVl5b8aMNFgd8dNF8W6DtWaulmS8EhAVaajq2OTgOyI/s1600/HeadWork.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="120" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXgXhqfKkKkcMnfVzpzSH4ehdi84szmLtMjz0IPWH0hpJt7h-X1pnj06HU4owOpoGdnFxydEyuTOk4p3ZHtCdNaUeDzsAdN2XliVl5b8aMNFgd8dNF8W6DtWaulmS8EhAVaajq2OTgOyI/s200/HeadWork.jpg" width="200" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">Hi-Flow lump kit for Chevy inline 6's</figcaption></figure>
 
 </li>

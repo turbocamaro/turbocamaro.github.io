@@ -23,4 +23,3 @@ The outcome was excellent. The satin black VHT Chassis & Roll Bar paint went on 
 
 ---
 *Turbo Camaro Build History*
-
