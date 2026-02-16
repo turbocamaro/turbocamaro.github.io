@@ -162,6 +162,9 @@ baseurl: ""
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
+  input: GFM
+  parse_block_html: true
+  parse_span_html: true
   footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge
   syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
@@ -172,6 +175,7 @@ kramdown:
     block:
       line_numbers: true
       start_line: 1
+      
 
 collections:
   tabs:
