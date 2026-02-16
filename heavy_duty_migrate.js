@@ -1,55 +1,52 @@
 const fs = require('fs');
-const xml2js = require('xml2js');
 
-const parser = new xml2js.Parser();
-const xmlData = fs.readFileSync('feed.atom');
+const inputFile = 'feed.atom';
+const outputDir = '_posts';
 
-if (!fs.existsSync('_posts')) {
-    fs.mkdirSync('_posts');
+if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir);
 }
 
-parser.parseString(xmlData, (err, result) => {
-    if (err) {
-        console.error("Error parsing XML:", err);
-        return;
-    }
+const data = fs.readFileSync(inputFile, 'utf8');
 
-    const entries = result.feed.entry;
-    console.log(`Found ${entries.length} entries. Starting conversion...`);
+// This splits the file into individual <entry> blocks
+const entries = data.split('<entry>');
+// Remove the first chunk (it's just the feed header)
+entries.shift();
 
-    entries.forEach(entry => {
-        const title = entry.title[0]._ || entry.title[0] || "Untitled Post";
-        const published = entry.published[0].substring(0, 10);
-        
-        // Rugged content extraction
-        let rawContent = "";
-        if (entry.content && entry.content[0]) {
-            rawContent = entry.content[0]._ || entry.content[0];
-        }
+console.log(`Found ${entries.length} entries. Starting brute-force migration...`);
 
-        // Force to string to prevent the .trim() crash
-        let content = String(rawContent);
+entries.forEach(entry => {
+    // 1. Get Title
+    const titleMatch = entry.match(/<title type="text">(.*?)<\/title>/);
+    const title = titleMatch ? titleMatch[1] : "Untitled Post";
 
-        if (!content || content.trim().length === 0 || content === "[object Object]") {
-            console.log(`Skipping ${title} (No readable text/HTML)`);
-            return;
-        }
+    // 2. Get Date
+    const dateMatch = entry.match(/<published>(.*?)T/);
+    const date = dateMatch ? dateMatch[1] : "2026-01-01";
 
-        const cleanTitle = title.replace(/[^a-zA-Z0-9\s]/g, '').replace(/\s+/g, '-').toLowerCase();
-        const fileName = `_posts/${published}-${cleanTitle}.md`;
+    // 3. Get Content (The raw HTML including <img> tags)
+    // This looks for everything between <content type='html'> and </content>
+    const contentMatch = entry.match(/<content type='html'>([\s\S]*?)<\/content>/);
+    let content = contentMatch ? contentMatch[1] : "";
 
-        const fileData = `---
+    if (!content) return;
+
+    // Clean filename
+    const cleanTitle = title.replace(/[^a-zA-Z0-9\s]/g, '').replace(/\s+/g, '-').toLowerCase();
+    const fileName = `${outputDir}/${date}-${cleanTitle}.md`;
+
+    const fileData = `---
 title: "${title}"
-date: ${published} 12:00:00 +0000
+date: ${date} 12:00:00 +0000
 categories: [Migration]
 tags: [blogger]
 ---
 
 ${content}`;
 
-        fs.writeFileSync(fileName, fileData);
-        console.log(`Success: ${fileName}`);
-    });
-
-    console.log("Migration complete. Check your _posts folder.");
+    fs.writeFileSync(fileName, fileData);
+    console.log(`Successfully pulled: ${fileName}`);
 });
+
+console.log("Brute force complete. Check your _posts folder.");
