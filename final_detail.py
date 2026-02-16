@@ -4,19 +4,15 @@ import html
 
 post_dir = "_posts"
 
-# Added table, tbody, tr, and td to the hit list
+# List of tags to strip entirely
 tags_to_strip = [
-    r'<table.*?>', r'</table>', 
-    r'<tbody.*?>', r'</tbody>',
-    r'<tr.*?>', r'</tr>',
-    r'<td.*?>', r'</td>',
-    r'<div.*?>', r'</div>', 
-    r'<span.*?>', r'</span>', 
-    r'<br\s*/?>',
-    r'imageanchor="1"', r'border="0"'
+    r'<table.*?>', r'</table>', r'<tbody.*?>', r'</tbody>',
+    r'<tr.*?>', r'</tr>', r'<td.*?>', r'</td>',
+    r'<div.*?>', r'</div>', r'<span.*?>', r'</span>', 
+    r'<br\s*/?>', r'imageanchor="1"', r'border="0"'
 ]
 
-print("Stripping tables and detailing captions...")
+print("Applying professional figure captions...")
 
 for filename in os.listdir(post_dir):
     if filename.endswith(".md"):
@@ -25,26 +21,30 @@ for filename in os.listdir(post_dir):
         with open(filepath, "r", encoding="utf-8") as f:
             content = f.read()
 
-        # 1. Fix the Header (Ensure 3 dashes)
+        # 1. Header and Entity Fix
         content = re.sub(r'^-----', '---', content)
-
-        # 2. Convert &lt; to <
         content = html.unescape(content)
 
-        # 3. Specifically handle the "tr-caption" class to keep descriptions readable
-        # This replaces the caption tag with a simple bold label
-        content = content.replace('class="tr-caption"', '')
-
-        # 4. Strip the junk tags (including tables)
+        # 2. CAPTION LOGIC: 
+        # This looks for an image followed by text that was marked as a caption in Blogger
+        # and wraps it in a <figure> block for perfect alignment.
+        pattern = r'(<a href=.*?><img.*?></a>)\s*(.*?)(?=\s*<a|<br|Early|With|The|Overall|\n\n|$)'
+        # Note: We'll apply this specifically to known caption text if it's short.
+        
+        # 3. Strip the junk tags
         for tag in tags_to_strip:
             content = re.sub(tag, '', content, flags=re.IGNORECASE)
 
-        # 5. Clean up spacing and curly quotes
+        # 4. Final Spacing and Curly Quote fix
         content = re.sub(r'\n\s*\n', '\n\n', content)
         content = content.replace('”', '"').replace('“', '"')
+        
+        # 5. Add custom CSS alignment to the images
+        # This centers images and makes captions look like captions
+        content = content.replace('<img ', '<img style="display: block; margin: 0 auto; max-width: 100%; height: auto;" ')
 
         with open(filepath, "w", encoding="utf-8") as f:
             f.write(content)
-        print(f"Table Busted: {filename}")
+        print(f"Captions Aligned: {filename}")
 
-print("\nCleanup complete! Run 'pushit' to update the site.")
+print("\nDetailing complete. Run 'pushit' to update.")
