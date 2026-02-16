@@ -11,7 +11,7 @@ Turbo Camaro received &lt;a href="http://www.turbocamaro.ca/2016/01/upholstery.h
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
 &lt;br /&gt;&lt;/div&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/FhV1KCaTSR0/0.jpg" frameborder="0" height="316" src="https://www.youtube.com/embed/FhV1KCaTSR0?feature=player_embedded" width="560"&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/FhV1KCaTSR0/0.jpg" frame height="316" src="https://www.youtube.com/embed/FhV1KCaTSR0?feature=player_embedded" width="560"&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;div style="text-align: center;"&gt;
 &lt;br /&gt;
 &lt;div style="text-align: left;"&gt;

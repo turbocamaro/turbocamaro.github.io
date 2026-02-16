@@ -9,7 +9,7 @@ tags: [blogger]
 &lt;div style="text-align: right;"&gt;
 &lt;/div&gt;
 &lt;table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDCMxOwnnJ29SPVIMfKw7QxpmFTH33n3XzZkhSLx3nZ8iqFbooWhL_LRP1572a6hG3ZDEQ8_a4zLQFDG6OD78JNgGYqDiPSTCOEIx-JvdisaOh4onL2cSFJghtc8s9-7qcBollqeYNRzw/s1600/20160128_090835.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"&gt;&lt;img border="0" height="298" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDCMxOwnnJ29SPVIMfKw7QxpmFTH33n3XzZkhSLx3nZ8iqFbooWhL_LRP1572a6hG3ZDEQ8_a4zLQFDG6OD78JNgGYqDiPSTCOEIx-JvdisaOh4onL2cSFJghtc8s9-7qcBollqeYNRzw/s400/20160128_090835.jpg" width="400" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDCMxOwnnJ29SPVIMfKw7QxpmFTH33n3XzZkhSLx3nZ8iqFbooWhL_LRP1572a6hG3ZDEQ8_a4zLQFDG6OD78JNgGYqDiPSTCOEIx-JvdisaOh4onL2cSFJghtc8s9-7qcBollqeYNRzw/s1600/20160128_090835.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"&gt;&lt;img  height="298" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDCMxOwnnJ29SPVIMfKw7QxpmFTH33n3XzZkhSLx3nZ8iqFbooWhL_LRP1572a6hG3ZDEQ8_a4zLQFDG6OD78JNgGYqDiPSTCOEIx-JvdisaOh4onL2cSFJghtc8s9-7qcBollqeYNRzw/s400/20160128_090835.jpg" width="400" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td class="tr-caption" style="text-align: center;"&gt;&lt;span style="font-size: 12.8px;"&gt;Custom fit 67' Camaro console 4 gauge pod&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
 Gauge technology sure has improved over the years. Vehicle manufactures have come up with clever ways of mounting gauges these days too. Not that there's anything wrong with simple dash clusters or aftermarket pods, but theirs something to be said about smooth built in gauges. &lt;/div&gt;
@@ -25,12 +25,12 @@ Turbo Camaro needed something new but not a far stretch from what the factory of
 &lt;br /&gt;
 &lt;br /&gt;&lt;/div&gt;
 &lt;div class="separator" style="clear: both; text-align: center;"&gt;
-&lt;iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/u8X-Pw-QCCQ/0.jpg" frameborder="0" height="315" src="https://www.youtube.com/embed/u8X-Pw-QCCQ?feature=player_embedded" width="560"&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/u8X-Pw-QCCQ/0.jpg" frame height="315" src="https://www.youtube.com/embed/u8X-Pw-QCCQ?feature=player_embedded" width="560"&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;div dir="ltr"&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB1oU9-T8HxK3y8GKaE745-fFHa_20sWwcNE3t0tgYItbCXsgz886BnXCqJNyANzvPx1NjO1Xzabl7k22mcpe-Ign_vGJVkVmInW2oNqMgjKc9qw8lxH6bcXo_8dhEtbaIi8cmkVScoJs/s1600/20160502_232423.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"&gt;&lt;img border="0" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB1oU9-T8HxK3y8GKaE745-fFHa_20sWwcNE3t0tgYItbCXsgz886BnXCqJNyANzvPx1NjO1Xzabl7k22mcpe-Ign_vGJVkVmInW2oNqMgjKc9qw8lxH6bcXo_8dhEtbaIi8cmkVScoJs/s640/20160502_232423.png" width="640" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td style="text-align: center;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB1oU9-T8HxK3y8GKaE745-fFHa_20sWwcNE3t0tgYItbCXsgz886BnXCqJNyANzvPx1NjO1Xzabl7k22mcpe-Ign_vGJVkVmInW2oNqMgjKc9qw8lxH6bcXo_8dhEtbaIi8cmkVScoJs/s1600/20160502_232423.png"  style="margin-left: auto; margin-right: auto;"&gt;&lt;img  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB1oU9-T8HxK3y8GKaE745-fFHa_20sWwcNE3t0tgYItbCXsgz886BnXCqJNyANzvPx1NjO1Xzabl7k22mcpe-Ign_vGJVkVmInW2oNqMgjKc9qw8lxH6bcXo_8dhEtbaIi8cmkVScoJs/s640/20160502_232423.png" width="640" /&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td class="tr-caption" style="text-align: center;"&gt;Custom 4 gauge pod with AFR, Voltage, Oil Pressure and Vacuum/Boost Gauges installed&lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
 Further updates will be posted here once the console is reinstalled and the gauges are functioning.&lt;/div&gt;
