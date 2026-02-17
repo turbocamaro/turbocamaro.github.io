@@ -57,7 +57,7 @@ Since the Offenhauser and the 292 exhaust were never shipped as a unit, they don
 
 
 
-More documentation on carburetor installation can be found <a href="http://www.turbocamaro.ca/2016/02/carburetor.html" target="_blank">here</a>. If you have any questions or comments about this setup please contact us via one of our social media channels.
+More documentation on carburetor installation can be found <a href="/posts/carburetor/" target="_blank">here</a>. If you have any questions or comments about this setup please contact us via one of our social media channels.
 
 ---
 *Turbo Camaro Build History*

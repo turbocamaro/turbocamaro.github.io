@@ -17,7 +17,7 @@ tags: [blogger]
   <em>Wet sanding sponge</em>
 </div>
 
-Deciding to paint your ride is full of difficult decisions, and can be very costly. If you've already read <a href="http://www.turbocamaro.ca/2016/02/sanding-grinding.html" style="text-align: left;" target="_blank">the sanding article</a>, you already know Turbo Camaro was sanded to bare metal with a grinder equipped with a wire wheel. This article contains a lot of information and has been written as an instruction guide following the exact same steps used to Prime and Paint Turbo Camaro. 
+Deciding to paint your ride is full of difficult decisions, and can be very costly. If you've already read <a href="/posts/sanding-grinding/" style="text-align: left;" target="_blank">the sanding article</a>, you already know Turbo Camaro was sanded to bare metal with a grinder equipped with a wire wheel. This article contains a lot of information and has been written as an instruction guide following the exact same steps used to Prime and Paint Turbo Camaro. 
 
 Once the car is bare sheet metal, it has to be cleaned prior to applying primer. The best cleaner is denatured alcohol (DA). If you're short on DA you can use Mineral Spirits (MS) instead. Just appy the product to a lint free cloth and wipe down the car thoroughly. If you feel any bumps or flakes of missed paint, sand it off now as you'll see it a mile away under the primer. 
 
