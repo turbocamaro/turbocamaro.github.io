@@ -45,7 +45,9 @@ Now spray them just like it says on the can, smooth light passes.Think of the fi
   <em>Back portion of the same seats. </em>
 </div>
 
-Late 2015, it was decided the stock seats didn't offer the cushion or support desired in a daily driver. It probably had something to do with the 48 year old foam and springs in the original seats. Even though it would be easy to find new parts, the cost to bring it all into Canada outweighed the amount to buy brand new modern seats. Days were spent researching seat options and the black Scat Procar Rally 1000 Smoothback bucket seats were selected. The installation and initial review of those seats was <a href="{% post_url 2016-01-25-scat-procar-rally-1000-seats %}">filmed and posted here</a>. 
+Late 2015, it was decided the stock seats didn't offer the cushion or support desired in a daily driver. It probably had something to do with the 48 year old foam and springs in the original seats. Even though it would be easy to find new parts, the cost to bring it all into Canada outweighed the amount to buy brand new modern seats. Days were spent researching seat options and the black Scat Procar Rally 1000 Smoothback bucket seats were selected. The installation and initial review of those seats was <a href="/posts/scat-procar-rally-1000-seats/" target="_blank">filmed and posted here</a>. 
 
-<b>---
-*Turbo Camaro Build History*</b>
+
+
+
+*Turbo Camaro Build History*
