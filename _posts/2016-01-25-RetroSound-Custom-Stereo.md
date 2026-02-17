@@ -15,15 +15,33 @@ The ongoing theme of Turbo Camaro is to add modern components while keeping a cl
 
 The idea of installing a fancy multi-disc bluetooth super stereo in a hidden compartment was explored but didn't meet the "cool factor" criteria. Research pointed out several companies were willing to take a stock stereo and convert it to a digital system, for a fee. The stereo included with this Camaro was a first generation CD player hardly worth turning on; so no stock unit to digitize. Further exploration revealed a stereo manufacturer, Retrosound. They have designed a modular deck with interchangeable kits capable of mimicking the appearance of classic radios, while offering top end modern functionality. That's the kind of tech Turbo Camaro is based on. A Retrosound Model 2B Motor 3 Stereo was ordered but upon receipt their was only time to open the box...
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/l239DOgz-20/0.jpg" frame height="316" src="https://www.youtube.com/embed/l239DOgz-20?feature=player_embedded" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/l239DOgz-20?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 Despite the almost overwhelming number of pieces in the box, the install was completed in a few hours and the results were fantastic...
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/iVHbTbbIQjQ/0.jpg" frame height="316" src="https://www.youtube.com/embed/iVHbTbbIQjQ?feature=player_embedded" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/iVHbTbbIQjQ?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 Several requests were made to make a concise review of the stereo. Many reviews already exist on YouTube but none to date of this specific model installed in a 67' Camaro. Take a look at the review below:
 
-<iframe allowfullscreen="" frame height="315" src="https://www.youtube.com/embed/s3R1rF65wV4" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/s3R1rF65wV4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 If you're looking for a classic stereo but don't need an original, this is a great option. If you have any questions about it or need help with the install. Send us an email or message on any of the social media outlets. 
 

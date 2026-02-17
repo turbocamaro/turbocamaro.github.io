@@ -9,7 +9,13 @@ tags: [blogger]
 
 Obviously you could consider an <a href="http://www.turbocamaro.ca/2017/10/alarm-system-power-locks.html">alarm system</a>, but that might be a little overkill for some people. Perhaps just having alternate hood security is all you need. This is why we went with the hood locks in addition to an alarm system (you can't be too careful).Whether you consider simple hood pins or locks, you'll want to ensure they're stainless steel otherwise they'll rust and ruin the cosmetic appeal.
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/swDYwSbkXRo/0.jpg" frame height="315" src="https://www.youtube.com/embed/swDYwSbkXRo?feature=player_embedded" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/swDYwSbkXRo?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 ---
 *Turbo Camaro Build History*

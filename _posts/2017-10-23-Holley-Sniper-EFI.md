@@ -19,7 +19,13 @@ from <a href="http://www.efisystempro.com/">www.efisystempro.com</a>
 
 So we went with the <a href="https://www.efisystempro.com/sniper/sniper-efi-black" target="_blank">Holley Sniper EFI Master Kit</a> from <a href="https://www.efisystempro.com/" target="_blank">EFI System Pro</a>. It won't seem like a big deal 5 years from now, but EFI System Pro actually had stock on the Sniper when nobody else did, and the price couldn't be beat. Their customer service helped me realize I'd need an extra EFI fuel return line and a <a href="https://www.efisystempro.com/can-usb-dongle-558-443" target="_blank">Can to USB dongle</a> cable for live tuning the fuel and boost tables. That being said, upon release, the Holley Sniper system didn't support a blow through turbocharger as the base software tables didn't include presets for boost. With the addition of the Holley Tuning Software, you can use the dongle cable to get the job done. Beyond that, the Sniper can run up to 650 horse power. Technically the built in injectors can handle a lot more, but internal restrictions apparently don't keep up well much beyond the 650 point.
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/9nSIgjn9NZQ/0.jpg" frame height="315" src="https://www.youtube.com/embed/9nSIgjn9NZQ?feature=player_embedded" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/9nSIgjn9NZQ?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 With the Sniper unboxed, it was time to do some comparisons against the trusty Holley 600CFM. The inline 6 has limited space on the passenger side of the intake as it sits almost up against the valve cover. You can see in the image below that, unfortunately, the Sniper system puts the linkage out an additional ½" or so.
 
@@ -31,7 +37,13 @@ Of course a consideration for anyone is height vs. hood clearance. Various sourc
 
 A solid weekend later, the Holley Sniper EFI system and Master Kit was installed in the camaro. Rather than reading the outcome, take a look at our how-to video:
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/cRLbxH4TMik/0.jpg" frame height="316" src="https://www.youtube.com/embed/cRLbxH4TMik?feature=player_embedded" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/cRLbxH4TMik?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 With the Holley Sniper EFI running smooth, we really want to set it up to control timing but not all options are equal in desirability and some simply aren't compatible with our Inline 6.
 
@@ -45,7 +57,13 @@ For more information about wiring the above ignition options I recommend checkin
 
 For a complete video tutorial covering all aspects of electronic timing control with a GM HEI Distributor and the Holley Sniper EFI System take a look at our video:
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/L9xRJKmaPwA/0.jpg" frame height="315" src="https://www.youtube.com/embed/L9xRJKmaPwA?feature=player_embedded" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/L9xRJKmaPwA?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 Here are the steps from the video recapped for easier reference:
 <ol>
@@ -79,11 +97,23 @@ Here are the steps from the video recapped for easier reference:
 
 Obviously these instructions, and the video couldn't cover every little aspect of this procedure but being confident in the installation, we'd be happy to help however we can. Turbo Camaro is running better than ever and I'm happy to say we can probably make it even better. We still have to tune the boost and fuel tables for maximum performance...
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/ou_0ax39b1M/0.jpg" frame height="315" src="https://www.youtube.com/embed/ou_0ax39b1M?feature=player_embedded" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/ou_0ax39b1M?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 And now that we're actually setup properly to run boost on our Sniper, we can really begin to drive it and let the system learn the engine. Just to throw another twist on things, I really wanted to install a progressive link on the Sniper. I was a big fan of the Mechanical Secondaries feel of our old Holley 600, so a new linkage for the Sniper would give use the best of both fuel systems. For just a few bucks, the car seems to be more efficient and has a much smoother pedal feel. Take a look below.
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/YFDibprdfW4/0.jpg" frame height="315" src="https://www.youtube.com/embed/YFDibprdfW4?feature=player_embedded" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/YFDibprdfW4?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 Interested in checking out the Turbo Camaro Sniper EFI configuration File? <a href="http://www.mediafire.com/file/owck90pd0nzr1wg/TC-JUL2018-5.sniper/file" target="_blank">Download it here</a>.
 

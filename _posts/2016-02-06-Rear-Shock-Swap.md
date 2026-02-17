@@ -9,7 +9,13 @@ tags: [blogger]
 
 That being said, if you've never done it before or are interested in the difference between modern and late model mechanics, the shock swap was filmed for your viewing pleasure. In the video, a pair of standard Monroe shocks were installed but Turbo Camaro currently rides with Monroe MaxAir shocks. The original blue Monroe's were kept for future use.
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/Zml5TYYIM3A/0.jpg" frame height="315" src="https://www.youtube.com/embed/Zml5TYYIM3A?feature=player_embedded" width="420"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/Zml5TYYIM3A?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 ---
 *Turbo Camaro Build History*

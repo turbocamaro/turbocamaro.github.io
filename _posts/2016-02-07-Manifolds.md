@@ -41,9 +41,21 @@ Their are two different types of manifolds for this engine, ones that use the he
 
 Since the Offenhauser and the 292 exhaust were never shipped as a unit, they don't always mesh well. In order to get the parts to fit against the head properly, they will liky require some modification. Instead of describing the required steps to get these two parts installed, a two part video series was filmed. The videos cover the modification, painting, final fitment and parts required to mount a Holley carburetor.
 
-<iframe allowfullscreen="" frame height="315" src="https://www.youtube.com/embed/9To658UdHcw" width="560"></iframe>
 
-<iframe allowfullscreen="" frame height="315" src="https://www.youtube.com/embed/v0jY-F3NmQI" width="560"></iframe>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/9To658UdHcw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
+
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/v0jY-F3NmQI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 More documentation on carburetor installation can be found <a href="http://www.turbocamaro.ca/2016/02/carburetor.html" target="_blank">here</a>. If you have any questions or comments about this setup please contact us via one of our social media channels.
 

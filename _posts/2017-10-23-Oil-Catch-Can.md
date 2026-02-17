@@ -15,7 +15,13 @@ tags: [blogger]
 
 We hit up a local supermarket and found Stainless Steel dish scrubbing wire mesh pads. They are cheap but make sure the ones used are actually Stainless Steel as anything else will corrode or rust, allowing bits of metal flake to enter your engine. With the D1 Spec Oil Catch Can loaded, it was installed via hose from the PCV valve and back to an air intake on the carburetor.
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/vQt_b8920DU/0.jpg" frame height="315" src="https://www.youtube.com/embed/vQt_b8920DU?feature=player_embedded" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/vQt_b8920DU?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 With several months of use, a very faint film of oil could be seen on the stainless steel mesh inside the can. It seems like the functionality of the can is effective and we expect the engine is operating efficiently enough that the intake air in this engine is just fairly clean. If anything changes, an update will be posted here.
 

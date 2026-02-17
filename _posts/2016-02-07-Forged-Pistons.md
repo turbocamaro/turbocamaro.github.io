@@ -39,7 +39,13 @@ The required pistons were ordered through <a href="http://www.12bolt.com/" targe
 
 The installation procedure was filmed and posted to Youtube as part of the short block assembly. See that video below.
 
-<iframe allowfullscreen="" frame height="315" src="https://www.youtube.com/embed/0C2bMTbMEsA" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/0C2bMTbMEsA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 If you have any questions or comments please feel free to contact us via one of our social media channels. 
 

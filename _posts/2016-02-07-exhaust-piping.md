@@ -29,7 +29,13 @@ You can find an extensive selection of these kits on eBay. It would be almost im
 
 Unless you're replacing an existing install and know exactly what pieces you need, you'll never know precisely what to buy. However you can plan out the install to the best of your ability, and then make any modifications during final install.
 
-<iframe allowfullscreen="" frame height="315" src="https://www.youtube.com/embed/KLE9NiiHUVY" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/KLE9NiiHUVY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 ---
 *Turbo Camaro Build History*

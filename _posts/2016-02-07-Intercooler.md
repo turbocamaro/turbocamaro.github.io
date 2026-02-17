@@ -25,7 +25,13 @@ Their are several ways to accomplish this. Turbo Camaro has a <a href="http://ww
 
 The grille clearance of a first generation Camaro is almost 3" inches of total depth, over 40" of width, but the height is restricted by a bumper/hood latch support rail right down the middle of the car (vertically) . You must purchase an intercooler to fit the space or modify the rail to allow a larger intercooler. The intercooler mentioned above fits a 67' Camaro perfectly and is a common size, so you don't need to custom order it. It would have been ideal to use a 3" wide intercooler (with matching 3" depth) but it would require further modification of the rail.
 
-<iframe allowfullscreen="" frame height="315" src="https://www.youtube.com/embed/-iUtkDqE0Iw" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/-iUtkDqE0Iw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 An intercooler is a fairly cheap item that has a big job. If your planning to turbocharger, or just want to master cold air intake, you should consider picking one up.
 

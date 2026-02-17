@@ -41,7 +41,13 @@ Once you have the adapter, you will need at least a 1/2" spacer before you mount
 
 With the carb mounted on a running engine, you'll probably need to open it up at least a few times for tuning. Even with extensive pre-mount configuration, our Holley needed a good reboot to factory settings. The process was filmed and posted to YouTube below:
 
-<iframe allowfullscreen="" frame height="315" src="https://www.youtube.com/embed/y30MtIWYBr8" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/y30MtIWYBr8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 This is not a complete carburetor tutorial but gives you an idea the process Turbo Camaro's Holley 600 went through.
 

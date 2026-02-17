@@ -23,7 +23,13 @@ Even though Turbo Camaro is designed as a daily driver, the desire to have it lo
 
 The bay was caked with Super Clean degreaser and left to marinate. Once the nastiness had lifted, it was blasted out with a pressure washer. Check out the following video to see the rest of the process.
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/Jf3T51bJINU/0.jpg" frame height="315" src="https://www.youtube.com/embed/Jf3T51bJINU?feature=player_embedded" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/Jf3T51bJINU?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 <div align="center">
   <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjwFnc_E6cwM0yeMy1caO8pa7wMAud6US_jQVcxRlRqRDkeSEtZMWeEwn-73MvzYhlfM6zXamP7AY6BMfEPznAHhhCtItJ0cSerttM9kbLHMd1lYgBAeDFB0H3ZocCtHHvf17WH1gOGto/s1600/20160316_151807.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjwFnc_E6cwM0yeMy1caO8pa7wMAud6US_jQVcxRlRqRDkeSEtZMWeEwn-73MvzYhlfM6zXamP7AY6BMfEPznAHhhCtItJ0cSerttM9kbLHMd1lYgBAeDFB0H3ZocCtHHvf17WH1gOGto/s400/20160316_151807.jpg" width="400" /></a>

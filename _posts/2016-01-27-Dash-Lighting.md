@@ -25,7 +25,13 @@ Off to the left is what Turbo Camaro's dash lights look like at night. They are 
 
 These fancy LEDs are great substitutes for bulbs in a lot of automotive products. Our Equus 6088 Tachometer was recently gutted and the circuit board LEDs were replaced with different ones to change the color. The process was filmed and posted to YouTube below:
 
-<iframe allowfullscreen="" frame height="315" src="https://www.youtube.com/embed/vKefmKF2j7M" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/vKefmKF2j7M" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 Turbo Camaro still has an old style dome, shift indicator and heater control light bulb. Once these bulbs are updated to LED's or something fancier, the details will be posted here.
 <b></b>

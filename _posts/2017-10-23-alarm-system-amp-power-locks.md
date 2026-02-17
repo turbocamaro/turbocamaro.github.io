@@ -33,7 +33,13 @@ If your vehicle is like Turbo Camaro, then you won't have an easy path to the pa
 
 Once you have the door actuators in and wires through the looms, you can get your door relays wired up and hook it all up to the alarm. It's important to mount the siren in a location under the hood where it will remain loud, but not be easily accessed from outside the vehicle. A wheel well or high spot on the firewall usually works well. It's also a good idea to secure your alarm system module in a location not easily accessed by an intruder. Mounting it to your steering column or beside your fuse box is fairly obvious. You can get creative with this as there's no reason why it couldn't go above the glove box compartment or in the trunk, if you have the wire length for it. The shock sensor can be mounted to any central solid point as the alarm is already screaming by the time it's found and by then it won't matter if it's ripped out.
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/rIO5WpIBdQA/0.jpg" frame height="315" src="https://www.youtube.com/embed/rIO5WpIBdQA?feature=player_embedded" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/rIO5WpIBdQA?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 Overall the parts used for the Power Lock Upgrade and Alarm System are fantastic and the install went smoothly. The key-less entry feature is worth weather you enable the alarm or not.
 

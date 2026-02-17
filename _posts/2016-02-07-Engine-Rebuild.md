@@ -249,11 +249,23 @@ Block had some surface rust but after some sanding, cleaning and masking it was 
   <em>Block painted with a VHT Metallic Black Pearl spray bomb. The engine re-build as officially started. (<a href="https://www.youtube.com/watch?v=LFl2QXqrkSQ" target="_blank">see video</a>)</em>
 </div>
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/LFl2QXqrkSQ/0.jpg" frame height="315" src="https://www.youtube.com/embed/LFl2QXqrkSQ?feature=player_embedded" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/LFl2QXqrkSQ?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 With most of the components painted, the short block parts were gathered and assembly started. Watch the following video to see bearings, crankshaft, rods, pistons and camshaft installed. Unfortunately some of the video was lost, but it ends with a sneak peak of the engine installed in the car.
 
-<iframe allowfullscreen="" frame height="315" src="https://www.youtube.com/embed/0C2bMTbMEsA" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/0C2bMTbMEsA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 With the short block assembled, the <a href="http://www.turbocamaro.ca/2016/02/head.html" target="_blank">cylinder head</a> needed attention. It was cleaned and 12bolt.com's lump port kit was installed. With the intake ports lumped and ported, the head was cleaned again and painted with the same VHT paint as the block. Since we used a bigger camshaft, larger valve springs were needed. We installed a modification free performance valve spring and retainer kit from 12bolt.com. Videos of all head work were filmed and posted in the appropriate build sheet category and on Youtube.
 
@@ -311,11 +323,23 @@ We created this Chevy 250 build specific engine pre-ignition checklist.
 
 All the hoses, lines, belts and bolts were installed and everything looked ready for final inspection. Using the check sheet shown above, everything was deemed ready for ignition. The inspection was filmed and posted below.
 
-<iframe allowfullscreen="" frame height="315" src="https://www.youtube.com/embed/uDTfjkGoGHI" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/uDTfjkGoGHI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 Part 2 of the above video is posted below. It's short, but goes through the troubleshooting process of a freshly rebuilt motor. Keep in mind We're not master mechanics, so it wasn't the smoothest start. 
 
-<iframe allowfullscreen="" frame height="315" src="https://www.youtube.com/embed/e5kxT_LDgXU" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/e5kxT_LDgXU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 To expand on the video, other than a small coolant and fuel leak, the reason the car wouldn't start on the first attempt was a distributor timing issue. The timing was originally perfectly set slightly advanced of TDC but after the oil primer was used the distributor was dropped back in about 2 gear teeth from the desired position. On top of that, the distributor was left loose to allow for adjustment but it was so loose the vibration from the attempted starts caused it to turn and put it ever further out. Once this was corrected completely (after attempt #3) the engine fired right up and was ready to break in. We completed about 30 minutes revving between 2500-3000 RPM. So, even though it took 4 attempts to start, it was fairly quick and turned out great. There will be a few things to adjust as the engine gets tuned but the rebuild and break in was a success and should provide a solid power plant for future <a href="http://www.turbocamaro.ca/2016/02/alcohol-injection.html">alcohol injection</a> and <a href="http://www.turbocamaro.ca/2016/02/turbocharger.html">turbocharger</a> upgrades.
 

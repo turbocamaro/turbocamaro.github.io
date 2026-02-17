@@ -37,7 +37,13 @@ Completing the above will require the head to be completely disassembled. Once d
 
 When the lump kit was installed in Turbo Camaro, it was filmed and uploaded below.
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/dPPyUCLagbI/0.jpg" frame height="315" src="https://www.youtube.com/embed/dPPyUCLagbI?feature=player_embedded" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/dPPyUCLagbI?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 <div align="center">
   <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiExz8gpIet2lvAaPWxTNZX-LFxKFEGv7wkM5C9sDG1cOE_4GXXu5W6n0xCEsNumTCRNPaFlvq5xTIdhWkA-FZrIX2QkJRPbLDPMU_eiHu7AmqbkEL_fuByX5o4yWyuKmEYfdlxjGJVxZM/s1600/20160206_154742.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiExz8gpIet2lvAaPWxTNZX-LFxKFEGv7wkM5C9sDG1cOE_4GXXu5W6n0xCEsNumTCRNPaFlvq5xTIdhWkA-FZrIX2QkJRPbLDPMU_eiHu7AmqbkEL_fuByX5o4yWyuKmEYfdlxjGJVxZM/s200/20160206_154742.jpg" width="200" /></a>
@@ -55,13 +61,25 @@ With the ports opened and the lumps installed, it's time to lap the original val
 
 In April 2016, the stock valves used in the Turbo Camaro rebuild were cleaned and lapped. A how-to video was filmed and posted below.
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/i2Zvgx1UiyU/0.jpg" frame height="315" src="https://www.youtube.com/embed/i2Zvgx1UiyU?feature=player_embedded" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/i2Zvgx1UiyU?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 Since Turbo Camaro is received a new <a href="http://www.turbocamaro.ca/2016/02/camshaft.html" target="_blank">performance camshaft</a>, new valve springs were also required. A set of <a href="http://www.12bolt.com/store/p12/Performance_Valve_spring%2F_retainer_kit.html" target="_blank">performance springs and retainers</a> were picked up from 12bolt.com. The camshaft has a lift of about .500 while the new springs will handle up to .530.
 
 When you replace or reinstall springs you need to consider some key specs. The amount of pressure the spring will push down when it is compressed and the height at which it is installed. The new springs are designed to be installed at 1.725-1.730". It's a very small window, but with some precision measuring it's very possible to get within this range. The process of measuring and adjusting spring height is very important. A more detailed explanation of measuring spring height, and how it's accomplished was filmed and posted below.
 
-<iframe allowfullscreen="" frame height="315" src="https://www.youtube.com/embed/8DKoLNMqb_k" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/8DKoLNMqb_k" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 <div align="center">
   <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXomCOdOCVQlX_GQj_I_UQFoe2WRcgK4LcB-VuqTtPOv22ZUixjqm5JxJJNc-UJGj9xiFKHOlzrZ8Pll3tRIoAEquf0kObRElNiWnwq3QSGzvs934cKoUvy2dwnLRwcqGy_CkBK7tDJnE/s1600/20160413_202153.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="295" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXomCOdOCVQlX_GQj_I_UQFoe2WRcgK4LcB-VuqTtPOv22ZUixjqm5JxJJNc-UJGj9xiFKHOlzrZ8Pll3tRIoAEquf0kObRElNiWnwq3QSGzvs934cKoUvy2dwnLRwcqGy_CkBK7tDJnE/s400/20160413_202153.jpg" width="400" /></a>
@@ -77,7 +95,13 @@ In the Summer of 2017, the cylinder head was pulled and properly machined. While
   <em>Freshly installed over-sized valves</em>
 </div>
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/9k3Klajxfi8/0.jpg" frame height="315" src="https://www.youtube.com/embed/9k3Klajxfi8?feature=player_embedded" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/9k3Klajxfi8?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 ---
 *Turbo Camaro Build History*

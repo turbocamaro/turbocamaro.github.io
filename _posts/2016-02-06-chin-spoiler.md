@@ -11,7 +11,13 @@ Spoilers are a popular way of adding aerodynamic attitude to a vehicle. The firs
 
 Turbo Camaro was destined to have a chin spoiler, regardless of what factory options it had. It's such a small part of the car and consists of a large piece of cheap plastic and a few support brackets. You can get the whole kit for around $50US, and it takes no more than 20 minutes to install. The install was filmed and uploaded to YouTube for your reference. 
 
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/_ZnWf4Fl4ik/0.jpg" frame height="315" src="https://www.youtube.com/embed/_ZnWf4Fl4ik?feature=player_embedded" width="560"></iframe>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/_ZnWf4Fl4ik?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+
+
 
 ---
 *Turbo Camaro Build History*
