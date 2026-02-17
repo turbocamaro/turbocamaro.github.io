@@ -5,9 +5,17 @@ categories: [Build]
 tags: [blogger]
 ---
 
-<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje6TXkUqkDv-tGHqmIRGTRkFXezM7_iwdXG8MzxpL_Ejngt2G4vuUZiSxNKkbuomC4gKOMXAhtY1ski_X94qJYcpJnWry6F0S1H4l6-6Y9jt2IWl_6cOjzw7-6oIl9vxb3vPjtu3rxE6U/s1600/headliner.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje6TXkUqkDv-tGHqmIRGTRkFXezM7_iwdXG8MzxpL_Ejngt2G4vuUZiSxNKkbuomC4gKOMXAhtY1ski_X94qJYcpJnWry6F0S1H4l6-6Y9jt2IWl_6cOjzw7-6oIl9vxb3vPjtu3rxE6U/s320/headliner.JPG" width="320" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">Original Marina Blue headliner from a 67' Camaro</figcaption></figure>
+<div align="center">
+  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje6TXkUqkDv-tGHqmIRGTRkFXezM7_iwdXG8MzxpL_Ejngt2G4vuUZiSxNKkbuomC4gKOMXAhtY1ski_X94qJYcpJnWry6F0S1H4l6-6Y9jt2IWl_6cOjzw7-6oIl9vxb3vPjtu3rxE6U/s1600/headliner.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje6TXkUqkDv-tGHqmIRGTRkFXezM7_iwdXG8MzxpL_Ejngt2G4vuUZiSxNKkbuomC4gKOMXAhtY1ski_X94qJYcpJnWry6F0S1H4l6-6Y9jt2IWl_6cOjzw7-6oIl9vxb3vPjtu3rxE6U/s320/headliner.JPG" width="320" /></a>
+  <br/>
+  <em>Original Marina Blue headliner from a 67' Camaro</em>
+</div>
 
-<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoMQ_ukRihrDj9oBoOIyO8vEXr_z1ZQJIl5GEwRK2DKlnl5NhElZoIAf1hf91fiPQkT3m_QDDW7Gnt4L7PPFEVk9a0yq8i8bbtSulnA5yaB2QjlYPWCHoNn8v4EzGDmflxZ-rTZ9BdBMw/s1600/DSC05704.JPG"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoMQ_ukRihrDj9oBoOIyO8vEXr_z1ZQJIl5GEwRK2DKlnl5NhElZoIAf1hf91fiPQkT3m_QDDW7Gnt4L7PPFEVk9a0yq8i8bbtSulnA5yaB2QjlYPWCHoNn8v4EzGDmflxZ-rTZ9BdBMw/s320/DSC05704.JPG" width="320" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">Headliner spray dyed black with SEM Vinyl Spray</figcaption></figure>
+<div align="center">
+  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoMQ_ukRihrDj9oBoOIyO8vEXr_z1ZQJIl5GEwRK2DKlnl5NhElZoIAf1hf91fiPQkT3m_QDDW7Gnt4L7PPFEVk9a0yq8i8bbtSulnA5yaB2QjlYPWCHoNn8v4EzGDmflxZ-rTZ9BdBMw/s1600/DSC05704.JPG"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoMQ_ukRihrDj9oBoOIyO8vEXr_z1ZQJIl5GEwRK2DKlnl5NhElZoIAf1hf91fiPQkT3m_QDDW7Gnt4L7PPFEVk9a0yq8i8bbtSulnA5yaB2QjlYPWCHoNn8v4EzGDmflxZ-rTZ9BdBMw/s320/DSC05704.JPG" width="320" /></a>
+  <br/>
+  <em>Headliner spray dyed black with SEM Vinyl Spray</em>
+</div>
 
 Originally the goal of Turbo Camaro was to simply build a daily driver that looked decent using most, if not all the original parts. This mentality brought on a series of repairs and "fixes" that have since needed more attention. 
 
@@ -15,9 +23,17 @@ One of those "fixes" was the headliner. The headliner is a large sheet of vinyl 
 
 The original headliner was marina blue and saggy. It had a small tear near the windshield too. The plan was to remove the headliner, spray dye it with black SEM vinyl coat and reinstall it. Unfortunately that plan was foiled almost immediately. Upon removal of the liner, it was apparent the cloth loops had been disintegrating for years and wouldn't be reusable. Simply looking at them the wrong way caused them to rip. It was obvious the existing headliner would need extensive repairs, or a new one would need to be ordered and Turbo Camaro would be liner-less for 6-8 weeks. 
 
-<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRFfJKy9c_dJNoGOs0sDDrYp2XCpTIwukzw41lbjSpviJAhWTJAUn5FyfkfDss9uqyz0B67nfUXhF6LffPSEFqRD_VZhCgoEOL6kULQHKeBr22sjeiCtomcDosJjpTOAy3tCmvlMopt2M/s1600/DSC05722.JPG"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRFfJKy9c_dJNoGOs0sDDrYp2XCpTIwukzw41lbjSpviJAhWTJAUn5FyfkfDss9uqyz0B67nfUXhF6LffPSEFqRD_VZhCgoEOL6kULQHKeBr22sjeiCtomcDosJjpTOAy3tCmvlMopt2M/s320/DSC05722.JPG" width="320" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">The headliner fabric loops were toast</figcaption></figure>
+<div align="center">
+  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRFfJKy9c_dJNoGOs0sDDrYp2XCpTIwukzw41lbjSpviJAhWTJAUn5FyfkfDss9uqyz0B67nfUXhF6LffPSEFqRD_VZhCgoEOL6kULQHKeBr22sjeiCtomcDosJjpTOAy3tCmvlMopt2M/s1600/DSC05722.JPG"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRFfJKy9c_dJNoGOs0sDDrYp2XCpTIwukzw41lbjSpviJAhWTJAUn5FyfkfDss9uqyz0B67nfUXhF6LffPSEFqRD_VZhCgoEOL6kULQHKeBr22sjeiCtomcDosJjpTOAy3tCmvlMopt2M/s320/DSC05722.JPG" width="320" /></a>
+  <br/>
+  <em>The headliner fabric loops were toast</em>
+</div>
 
-<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaRQKZkdzsrunGrmiLuXL_6vsTmXjAwXcE7ZD82S194DFGeDtpP6WPB1A2QfpHOdBd4WYM9fkk_ZUYN0kTIYr6NcFLxL3_Yzq2Yv_Mcnpgaf5zZObkag75rFmf1M0Z1zNYFAwaMBZsWgI/s1600/DSC05708.JPG"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaRQKZkdzsrunGrmiLuXL_6vsTmXjAwXcE7ZD82S194DFGeDtpP6WPB1A2QfpHOdBd4WYM9fkk_ZUYN0kTIYr6NcFLxL3_Yzq2Yv_Mcnpgaf5zZObkag75rFmf1M0Z1zNYFAwaMBZsWgI/s320/DSC05708.JPG" width="320" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">Headliner removed - Note the roof rails</figcaption></figure>
+<div align="center">
+  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaRQKZkdzsrunGrmiLuXL_6vsTmXjAwXcE7ZD82S194DFGeDtpP6WPB1A2QfpHOdBd4WYM9fkk_ZUYN0kTIYr6NcFLxL3_Yzq2Yv_Mcnpgaf5zZObkag75rFmf1M0Z1zNYFAwaMBZsWgI/s1600/DSC05708.JPG"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaRQKZkdzsrunGrmiLuXL_6vsTmXjAwXcE7ZD82S194DFGeDtpP6WPB1A2QfpHOdBd4WYM9fkk_ZUYN0kTIYr6NcFLxL3_Yzq2Yv_Mcnpgaf5zZObkag75rFmf1M0Z1zNYFAwaMBZsWgI/s320/DSC05708.JPG" width="320" /></a>
+  <br/>
+  <em>Headliner removed - Note the roof rails</em>
+</div>
 
 How hard could repairing a vinyl rip and some cloth loops be? Let's cut to the chase, a new liner in the color of your choice is worth $60, if you spend more than an hour or two at the most on it, it's not worth it. However, let's focus on what actually happened. 
 

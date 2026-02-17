@@ -5,13 +5,21 @@ categories: [Build]
 tags: [blogger]
 ---
 
-<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4jYsb8GnOJ_Cs-LdD98vxb0A3uMacYb0pj-awI4IIjzVRedst0nZrEm07j0bY7ZU1d4QgzTro09H2bAJgmgqQs0YZ4eCcGl3Acc6xZwc2s81Zu-eC_Klg24E8egVnh5-KYTQ-6-kVMOw/s1600/DSC05276.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="239" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4jYsb8GnOJ_Cs-LdD98vxb0A3uMacYb0pj-awI4IIjzVRedst0nZrEm07j0bY7ZU1d4QgzTro09H2bAJgmgqQs0YZ4eCcGl3Acc6xZwc2s81Zu-eC_Klg24E8egVnh5-KYTQ-6-kVMOw/s320/DSC05276.jpg" width="320" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">Stock points distributor prior to removal</figcaption></figure>
+<div align="center">
+  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4jYsb8GnOJ_Cs-LdD98vxb0A3uMacYb0pj-awI4IIjzVRedst0nZrEm07j0bY7ZU1d4QgzTro09H2bAJgmgqQs0YZ4eCcGl3Acc6xZwc2s81Zu-eC_Klg24E8egVnh5-KYTQ-6-kVMOw/s1600/DSC05276.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="239" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4jYsb8GnOJ_Cs-LdD98vxb0A3uMacYb0pj-awI4IIjzVRedst0nZrEm07j0bY7ZU1d4QgzTro09H2bAJgmgqQs0YZ4eCcGl3Acc6xZwc2s81Zu-eC_Klg24E8egVnh5-KYTQ-6-kVMOw/s320/DSC05276.jpg" width="320" /></a>
+  <br/>
+  <em>Stock points distributor prior to removal</em>
+</div>
 
 Turbo Camaro's Chevy 250 inline 6 was manufactured in 1968 (nope, not a numbers matching car) and lets face it, technology has changed, and in a lot of ways, improved over the years. That doesn't mean a brand new Camaro engine is going to be subbed in, but perhaps we can identify some of the outdated components and bring in an upgrade.
 
 The distributor has seen some "advances" over the years. The stock distributor ran a points system and in it's day, worked very well. In 1974 GM introduced the High Energy Ignition (HEI) distributor. The HEI distributor does exactly the same thing as the stock distributor but the separate coil is in the distributor cap and a control module with magnetic pickup replace the points. The HEI is a more reliable and more powerful distributor that requires less maintenance. Sure, the points distributor was smaller and technically factory "right" for this motor, but it's too much of a loss over the HEI gains.
 
-<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqAytsAiDrlDUaoAoeygMtD-B0CPvWwdbIvMWIrBQ2HQWCCJsptLa4KfdIYY3QmkfHzoKTr7wDNqbXzfoy7oKmnO3cNgm27dA733yt9I3cch715O9h_EGXpLavFA7ZRM-yujf6pxowZqo/s1600/hei.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqAytsAiDrlDUaoAoeygMtD-B0CPvWwdbIvMWIrBQ2HQWCCJsptLa4KfdIYY3QmkfHzoKTr7wDNqbXzfoy7oKmnO3cNgm27dA733yt9I3cch715O9h_EGXpLavFA7ZRM-yujf6pxowZqo/s400/hei.jpg" width="400" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">HEI Distributor with 65K coil in cap purchased off eBay</figcaption></figure>
+<div align="center">
+  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqAytsAiDrlDUaoAoeygMtD-B0CPvWwdbIvMWIrBQ2HQWCCJsptLa4KfdIYY3QmkfHzoKTr7wDNqbXzfoy7oKmnO3cNgm27dA733yt9I3cch715O9h_EGXpLavFA7ZRM-yujf6pxowZqo/s1600/hei.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqAytsAiDrlDUaoAoeygMtD-B0CPvWwdbIvMWIrBQ2HQWCCJsptLa4KfdIYY3QmkfHzoKTr7wDNqbXzfoy7oKmnO3cNgm27dA733yt9I3cch715O9h_EGXpLavFA7ZRM-yujf6pxowZqo/s400/hei.jpg" width="400" /></a>
+  <br/>
+  <em>HEI Distributor with 65K coil in cap purchased off eBay</em>
+</div>
 
 An eBay HEI distributor with a 65000 volt coil was purchased for about $65US. Even though it's an eBay special it's a good piece and has been starting the car without issue since early 2014.
 

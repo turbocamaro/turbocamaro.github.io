@@ -5,9 +5,17 @@ categories: [Build]
 tags: [blogger]
 ---
 
-<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMMJS6yDgbvqRbMTRqqQDSw5O4fTNJ14jpD3rw8oXozxtjn6W6i67_Lgi84Hzj9QCSK3RIPpxzeoGv0HVluDQWzrXqTz_lQH-9cXCcXj0ojZbp0Rua4h0oQtBz0cBxOsWlEtn6611uGyw/s1600/20151118_100248.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="177" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMMJS6yDgbvqRbMTRqqQDSw5O4fTNJ14jpD3rw8oXozxtjn6W6i67_Lgi84Hzj9QCSK3RIPpxzeoGv0HVluDQWzrXqTz_lQH-9cXCcXj0ojZbp0Rua4h0oQtBz0cBxOsWlEtn6611uGyw/s320/20151118_100248.jpg" width="320" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">Turbo Camaro's head and valve train pre-rebuild</figcaption></figure>
+<div align="center">
+  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMMJS6yDgbvqRbMTRqqQDSw5O4fTNJ14jpD3rw8oXozxtjn6W6i67_Lgi84Hzj9QCSK3RIPpxzeoGv0HVluDQWzrXqTz_lQH-9cXCcXj0ojZbp0Rua4h0oQtBz0cBxOsWlEtn6611uGyw/s1600/20151118_100248.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="177" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMMJS6yDgbvqRbMTRqqQDSw5O4fTNJ14jpD3rw8oXozxtjn6W6i67_Lgi84Hzj9QCSK3RIPpxzeoGv0HVluDQWzrXqTz_lQH-9cXCcXj0ojZbp0Rua4h0oQtBz0cBxOsWlEtn6611uGyw/s320/20151118_100248.jpg" width="320" /></a>
+  <br/>
+  <em>Turbo Camaro's head and valve train pre-rebuild</em>
+</div>
 
-<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQfwx14-2GlqfmDMgg3sfIXE7sM3UlXwqF_moEANUw5OknSmM1ccg3wzJ9QB_Rpx9wtJ6ycrWeZTYSy29WB7LIm8cSDyh-hdpOy2U_TvalDneBqXVHHI8njh8BhFLiQY63WLxIRKvxfFk/s1600/20160206_154818.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQfwx14-2GlqfmDMgg3sfIXE7sM3UlXwqF_moEANUw5OknSmM1ccg3wzJ9QB_Rpx9wtJ6ycrWeZTYSy29WB7LIm8cSDyh-hdpOy2U_TvalDneBqXVHHI8njh8BhFLiQY63WLxIRKvxfFk/s320/20160206_154818.jpg" width="320" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">Semi-dismantled Chevy 250 head</figcaption></figure>
+<div align="center">
+  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQfwx14-2GlqfmDMgg3sfIXE7sM3UlXwqF_moEANUw5OknSmM1ccg3wzJ9QB_Rpx9wtJ6ycrWeZTYSy29WB7LIm8cSDyh-hdpOy2U_TvalDneBqXVHHI8njh8BhFLiQY63WLxIRKvxfFk/s1600/20160206_154818.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQfwx14-2GlqfmDMgg3sfIXE7sM3UlXwqF_moEANUw5OknSmM1ccg3wzJ9QB_Rpx9wtJ6ycrWeZTYSy29WB7LIm8cSDyh-hdpOy2U_TvalDneBqXVHHI8njh8BhFLiQY63WLxIRKvxfFk/s320/20160206_154818.jpg" width="320" /></a>
+  <br/>
+  <em>Semi-dismantled Chevy 250 head</em>
+</div>
 
 As mentioned all over the internet, if you had to focus you attention on one part of the Chevy inline 6 to gain power, it would be the cylinder head. The head was cast for stability and economy and requires significant modification and upgrades to get decent performance gains. The following is a list of things you can do to improve the Chevy 250 head for power:
 
@@ -16,7 +24,11 @@ As mentioned all over the internet, if you had to focus you attention on one par
 <li>Increase valve size to 1.94/1.6 valves</li>
 <li>Complete a full intake and exhaust port job
 
-<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXgXhqfKkKkcMnfVzpzSH4ehdi84szmLtMjz0IPWH0hpJt7h-X1pnj06HU4owOpoGdnFxydEyuTOk4p3ZHtCdNaUeDzsAdN2XliVl5b8aMNFgd8dNF8W6DtWaulmS8EhAVaajq2OTgOyI/s1600/HeadWork.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="120" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXgXhqfKkKkcMnfVzpzSH4ehdi84szmLtMjz0IPWH0hpJt7h-X1pnj06HU4owOpoGdnFxydEyuTOk4p3ZHtCdNaUeDzsAdN2XliVl5b8aMNFgd8dNF8W6DtWaulmS8EhAVaajq2OTgOyI/s200/HeadWork.jpg" width="200" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">Hi-Flow lump kit for Chevy inline 6's</figcaption></figure>
+<div align="center">
+  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXgXhqfKkKkcMnfVzpzSH4ehdi84szmLtMjz0IPWH0hpJt7h-X1pnj06HU4owOpoGdnFxydEyuTOk4p3ZHtCdNaUeDzsAdN2XliVl5b8aMNFgd8dNF8W6DtWaulmS8EhAVaajq2OTgOyI/s1600/HeadWork.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="120" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXgXhqfKkKkcMnfVzpzSH4ehdi84szmLtMjz0IPWH0hpJt7h-X1pnj06HU4owOpoGdnFxydEyuTOk4p3ZHtCdNaUeDzsAdN2XliVl5b8aMNFgd8dNF8W6DtWaulmS8EhAVaajq2OTgOyI/s200/HeadWork.jpg" width="200" /></a>
+  <br/>
+  <em>Hi-Flow lump kit for Chevy inline 6's</em>
+</div>
 
 </li>
 </ul>
@@ -27,9 +39,17 @@ When the lump kit was installed in Turbo Camaro, it was filmed and uploaded belo
 
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/dPPyUCLagbI/0.jpg" frame height="315" src="https://www.youtube.com/embed/dPPyUCLagbI?feature=player_embedded" width="560"></iframe>
 
-<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiExz8gpIet2lvAaPWxTNZX-LFxKFEGv7wkM5C9sDG1cOE_4GXXu5W6n0xCEsNumTCRNPaFlvq5xTIdhWkA-FZrIX2QkJRPbLDPMU_eiHu7AmqbkEL_fuByX5o4yWyuKmEYfdlxjGJVxZM/s1600/20160206_154742.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiExz8gpIet2lvAaPWxTNZX-LFxKFEGv7wkM5C9sDG1cOE_4GXXu5W6n0xCEsNumTCRNPaFlvq5xTIdhWkA-FZrIX2QkJRPbLDPMU_eiHu7AmqbkEL_fuByX5o4yWyuKmEYfdlxjGJVxZM/s200/20160206_154742.jpg" width="200" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">Valves are waiting to be cleaned and lapped</figcaption></figure>
+<div align="center">
+  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiExz8gpIet2lvAaPWxTNZX-LFxKFEGv7wkM5C9sDG1cOE_4GXXu5W6n0xCEsNumTCRNPaFlvq5xTIdhWkA-FZrIX2QkJRPbLDPMU_eiHu7AmqbkEL_fuByX5o4yWyuKmEYfdlxjGJVxZM/s1600/20160206_154742.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiExz8gpIet2lvAaPWxTNZX-LFxKFEGv7wkM5C9sDG1cOE_4GXXu5W6n0xCEsNumTCRNPaFlvq5xTIdhWkA-FZrIX2QkJRPbLDPMU_eiHu7AmqbkEL_fuByX5o4yWyuKmEYfdlxjGJVxZM/s200/20160206_154742.jpg" width="200" /></a>
+  <br/>
+  <em>Valves are waiting to be cleaned and lapped</em>
+</div>
 
-<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgllQiGPKEoE6c8Mgd-GjHWvbnSS9pBOMB-7m1QxYf8oKRoAsvr8VZDYzQsPgLdxvZiL_ROlkEKCj8DWd2Gk7eNgDu2S3WO_yVROhMHLdK6sNN7sCKioqGARo42RIz6kwl2Sk71FjlezgY/s1600/20160206_154716.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgllQiGPKEoE6c8Mgd-GjHWvbnSS9pBOMB-7m1QxYf8oKRoAsvr8VZDYzQsPgLdxvZiL_ROlkEKCj8DWd2Gk7eNgDu2S3WO_yVROhMHLdK6sNN7sCKioqGARo42RIz6kwl2Sk71FjlezgY/s200/20160206_154716.jpg" width="200" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">Valve stems pushed through a pizza box</figcaption></figure>
+<div align="center">
+  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgllQiGPKEoE6c8Mgd-GjHWvbnSS9pBOMB-7m1QxYf8oKRoAsvr8VZDYzQsPgLdxvZiL_ROlkEKCj8DWd2Gk7eNgDu2S3WO_yVROhMHLdK6sNN7sCKioqGARo42RIz6kwl2Sk71FjlezgY/s1600/20160206_154716.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgllQiGPKEoE6c8Mgd-GjHWvbnSS9pBOMB-7m1QxYf8oKRoAsvr8VZDYzQsPgLdxvZiL_ROlkEKCj8DWd2Gk7eNgDu2S3WO_yVROhMHLdK6sNN7sCKioqGARo42RIz6kwl2Sk71FjlezgY/s200/20160206_154716.jpg" width="200" /></a>
+  <br/>
+  <em>Valve stems pushed through a pizza box</em>
+</div>
 
 With the ports opened and the lumps installed, it's time to lap the original valves. Even though extra power can be gained through an increase in valve size, it wasn't in the budget for the initial rebuild. New valves or not, the process of cleaning the head and valves, and lapping them is extremely important. Combustion chamber efficiency and overall compression will be effected by how well the valves are lapped. The process of lapping the valves is simply a way of grinding one surface against another in order to create a flush mating area.
 
@@ -43,11 +63,19 @@ When you replace or reinstall springs you need to consider some key specs. The a
 
 <iframe allowfullscreen="" frame height="315" src="https://www.youtube.com/embed/8DKoLNMqb_k" width="560"></iframe>
 
-<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXomCOdOCVQlX_GQj_I_UQFoe2WRcgK4LcB-VuqTtPOv22ZUixjqm5JxJJNc-UJGj9xiFKHOlzrZ8Pll3tRIoAEquf0kObRElNiWnwq3QSGzvs934cKoUvy2dwnLRwcqGy_CkBK7tDJnE/s1600/20160413_202153.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="295" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXomCOdOCVQlX_GQj_I_UQFoe2WRcgK4LcB-VuqTtPOv22ZUixjqm5JxJJNc-UJGj9xiFKHOlzrZ8Pll3tRIoAEquf0kObRElNiWnwq3QSGzvs934cKoUvy2dwnLRwcqGy_CkBK7tDJnE/s400/20160413_202153.jpg" width="400" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">Head ported, lumped and painted. Valve job complete and springs/rockers installed with valve cover.</figcaption></figure>
+<div align="center">
+  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXomCOdOCVQlX_GQj_I_UQFoe2WRcgK4LcB-VuqTtPOv22ZUixjqm5JxJJNc-UJGj9xiFKHOlzrZ8Pll3tRIoAEquf0kObRElNiWnwq3QSGzvs934cKoUvy2dwnLRwcqGy_CkBK7tDJnE/s1600/20160413_202153.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="295" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXomCOdOCVQlX_GQj_I_UQFoe2WRcgK4LcB-VuqTtPOv22ZUixjqm5JxJJNc-UJGj9xiFKHOlzrZ8Pll3tRIoAEquf0kObRElNiWnwq3QSGzvs934cKoUvy2dwnLRwcqGy_CkBK7tDJnE/s400/20160413_202153.jpg" width="400" /></a>
+  <br/>
+  <em>Head ported, lumped and painted. Valve job complete and springs/rockers installed with valve cover.</em>
+</div>
 
 In the Summer of 2017, the cylinder head was pulled and properly machined. While it was off, it was ported and larger 1.84' intake and 1.6" valves, seats and inserts were installed. A noticeable power increase was obtained from this as the valves allow more airflow and flow in the inline engines is always in demand. The valve guides were also cut to allow for positive valve seals to be used instead of the stock o-rings. The performance springs and original rockers/studs were used for the upgrade.
 
-<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehHFnp8NgBQa92k5Fd9l71x9ILm8vMrZDYilUWGBgFjiqAwLh5Bgsm16b4tBKP1r8M0tIiwbzmCHry6srTcFKSX1XFcXhLjSIW_ZAa1yCGOK0WGS4AVsxeL7OlUqNoJouB4TBMKhux_g/s1600/20170410_150136.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="900" data-original-width="1600" height="225" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehHFnp8NgBQa92k5Fd9l71x9ILm8vMrZDYilUWGBgFjiqAwLh5Bgsm16b4tBKP1r8M0tIiwbzmCHry6srTcFKSX1XFcXhLjSIW_ZAa1yCGOK0WGS4AVsxeL7OlUqNoJouB4TBMKhux_g/s400/20170410_150136.jpg" width="400" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">Freshly installed over-sized valves</figcaption></figure>
+<div align="center">
+  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehHFnp8NgBQa92k5Fd9l71x9ILm8vMrZDYilUWGBgFjiqAwLh5Bgsm16b4tBKP1r8M0tIiwbzmCHry6srTcFKSX1XFcXhLjSIW_ZAa1yCGOK0WGS4AVsxeL7OlUqNoJouB4TBMKhux_g/s1600/20170410_150136.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="900" data-original-width="1600" height="225" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehHFnp8NgBQa92k5Fd9l71x9ILm8vMrZDYilUWGBgFjiqAwLh5Bgsm16b4tBKP1r8M0tIiwbzmCHry6srTcFKSX1XFcXhLjSIW_ZAa1yCGOK0WGS4AVsxeL7OlUqNoJouB4TBMKhux_g/s400/20170410_150136.jpg" width="400" /></a>
+  <br/>
+  <em>Freshly installed over-sized valves</em>
+</div>
 
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/9k3Klajxfi8/0.jpg" frame height="315" src="https://www.youtube.com/embed/9k3Klajxfi8?feature=player_embedded" width="560"></iframe>
 

@@ -5,9 +5,17 @@ categories: [Build]
 tags: [blogger]
 ---
 
-<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjffKnNRB8epRAaslOnhiFFdCbKcpCy6NuA1qf3dkgku85mNXMhefZ8Gja54w5IKGvpzT5vQtRA7L31mpuNsIar5QKnxjRwLXUiEVuGANObmEkntrIXl_bcSiBeYSD2P3junsHAYZePC7I/s1600/20151220_120829.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjffKnNRB8epRAaslOnhiFFdCbKcpCy6NuA1qf3dkgku85mNXMhefZ8Gja54w5IKGvpzT5vQtRA7L31mpuNsIar5QKnxjRwLXUiEVuGANObmEkntrIXl_bcSiBeYSD2P3junsHAYZePC7I/s320/20151220_120829.jpg" width="320" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">Turbo Camaro's engine bay is disgusting</figcaption></figure>
+<div align="center">
+  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjffKnNRB8epRAaslOnhiFFdCbKcpCy6NuA1qf3dkgku85mNXMhefZ8Gja54w5IKGvpzT5vQtRA7L31mpuNsIar5QKnxjRwLXUiEVuGANObmEkntrIXl_bcSiBeYSD2P3junsHAYZePC7I/s1600/20151220_120829.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjffKnNRB8epRAaslOnhiFFdCbKcpCy6NuA1qf3dkgku85mNXMhefZ8Gja54w5IKGvpzT5vQtRA7L31mpuNsIar5QKnxjRwLXUiEVuGANObmEkntrIXl_bcSiBeYSD2P3junsHAYZePC7I/s320/20151220_120829.jpg" width="320" /></a>
+  <br/>
+  <em>Turbo Camaro's engine bay is disgusting</em>
+</div>
 
-<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTV_HnOfw3AlSDCJ_rUSLyEKVEXXkL97sOGCzYKEzxb1mQFQ6bAotcO2bhG-mzMrm_QhPQ_p5olE8zCowm5vAK62Q8PxXqMlZQf8LzdxNZfsBuXW2LCNSN0PufYXpRYwSBkAJUPtfCP6g/s1600/20151220_120853.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTV_HnOfw3AlSDCJ_rUSLyEKVEXXkL97sOGCzYKEzxb1mQFQ6bAotcO2bhG-mzMrm_QhPQ_p5olE8zCowm5vAK62Q8PxXqMlZQf8LzdxNZfsBuXW2LCNSN0PufYXpRYwSBkAJUPtfCP6g/s320/20151220_120853.jpg" style="cursor: move;" width="320" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">Check out that thick sludge on the frame</figcaption></figure>
+<div align="center">
+  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTV_HnOfw3AlSDCJ_rUSLyEKVEXXkL97sOGCzYKEzxb1mQFQ6bAotcO2bhG-mzMrm_QhPQ_p5olE8zCowm5vAK62Q8PxXqMlZQf8LzdxNZfsBuXW2LCNSN0PufYXpRYwSBkAJUPtfCP6g/s1600/20151220_120853.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTV_HnOfw3AlSDCJ_rUSLyEKVEXXkL97sOGCzYKEzxb1mQFQ6bAotcO2bhG-mzMrm_QhPQ_p5olE8zCowm5vAK62Q8PxXqMlZQf8LzdxNZfsBuXW2LCNSN0PufYXpRYwSBkAJUPtfCP6g/s320/20151220_120853.jpg" style="cursor: move;" width="320" /></a>
+  <br/>
+  <em>Check out that thick sludge on the frame</em>
+</div>
 
 The engine bay of a car is a very underrated area of any vehicle. The bay holds your prized engine and its components while getting splashed with oil, coolant and sometimes fuel. If you ever get a chance to give this area a little attention, do it as the opportunity doesn't come often.
 
@@ -17,7 +25,11 @@ The bay was caked with Super Clean degreaser and left to marinate. Once the nast
 
 <iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/Jf3T51bJINU/0.jpg" frame height="315" src="https://www.youtube.com/embed/Jf3T51bJINU?feature=player_embedded" width="560"></iframe>
 
-<figure style="text-align: center; margin: 20px 0;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjwFnc_E6cwM0yeMy1caO8pa7wMAud6US_jQVcxRlRqRDkeSEtZMWeEwn-73MvzYhlfM6zXamP7AY6BMfEPznAHhhCtItJ0cSerttM9kbLHMd1lYgBAeDFB0H3ZocCtHHvf17WH1gOGto/s1600/20160316_151807.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjwFnc_E6cwM0yeMy1caO8pa7wMAud6US_jQVcxRlRqRDkeSEtZMWeEwn-73MvzYhlfM6zXamP7AY6BMfEPznAHhhCtItJ0cSerttM9kbLHMd1lYgBAeDFB0H3ZocCtHHvf17WH1gOGto/s400/20160316_151807.jpg" width="400" /></a><figcaption style="font-style: italic; font-size: 0.9em; color: #666; margin-top: 8px;">A little Satin Black VHT paint and it looks great</figcaption></figure>
+<div align="center">
+  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjwFnc_E6cwM0yeMy1caO8pa7wMAud6US_jQVcxRlRqRDkeSEtZMWeEwn-73MvzYhlfM6zXamP7AY6BMfEPznAHhhCtItJ0cSerttM9kbLHMd1lYgBAeDFB0H3ZocCtHHvf17WH1gOGto/s1600/20160316_151807.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjwFnc_E6cwM0yeMy1caO8pa7wMAud6US_jQVcxRlRqRDkeSEtZMWeEwn-73MvzYhlfM6zXamP7AY6BMfEPznAHhhCtItJ0cSerttM9kbLHMd1lYgBAeDFB0H3ZocCtHHvf17WH1gOGto/s400/20160316_151807.jpg" width="400" /></a>
+  <br/>
+  <em>A little Satin Black VHT paint and it looks great</em>
+</div>
 
 The outcome was excellent. The satin black VHT Chassis & Roll Bar paint went on smooth and provided great coverage in only 2 coats. As mentioned in the video, the results could always be better but considering only $25 was spent on the materials and about 4 hours worth of work, it couldn't be better. Now it's time to put an engine in there.
 
