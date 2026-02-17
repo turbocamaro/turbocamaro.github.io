@@ -6,13 +6,13 @@ tags: [blogger]
 ---
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjooa0rS2lDnbl2LywP9iUXDc2q6iV4WwWU4oCYZZTgjus3pRW1hzfx5VXVNZZzes2PTRxi1JWFf9KAQ_3yrGbTUPHcerZP4gVapUiJcNwrEfFkdGBD-DquMnrlAuCExFHqpkV7TQcces/s1600/hat.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjooa0rS2lDnbl2LywP9iUXDc2q6iV4WwWU4oCYZZTgjus3pRW1hzfx5VXVNZZzes2PTRxi1JWFf9KAQ_3yrGbTUPHcerZP4gVapUiJcNwrEfFkdGBD-DquMnrlAuCExFHqpkV7TQcces/s400/hat.jpg" width="400" /></a>
+  <a href="/assets/img/posts/hat.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/hat.jpg" width="400" /></a>
   <br/>
   <em>Spectre 9849 Polished Carburetor Hat - $99</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC3QMZlqyp5QOglz2uspLSSlBvlqH1Edae-c8n4osP0G7J-3reKq6mfyYQ8UsijN9tOVEMlXc5DvZ8Gq0uyAReWVBP5LXxBeEwQDesclq989DKs14txM4Qh8krlMCki4k4v2PdDVNs6iE/s1600/20150905_155131.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC3QMZlqyp5QOglz2uspLSSlBvlqH1Edae-c8n4osP0G7J-3reKq6mfyYQ8UsijN9tOVEMlXc5DvZ8Gq0uyAReWVBP5LXxBeEwQDesclq989DKs14txM4Qh8krlMCki4k4v2PdDVNs6iE/s400/20150905_155131.jpg" width="222" /></a>
+  <a href="/assets/img/posts/20150905_155131.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="/assets/img/posts/20150905_155131.jpg" width="222" /></a>
   <br/>
   <em>Spectre hat with 4" intake and 5-1/8" outlet</em>
 </div>
@@ -22,14 +22,14 @@ Once it was decided to run a turbocharger, a list of components was made. Slowly
 Take the carburetor hat (bonnet or plenum) for example. The purchased part is a Spectre 9849 single intake regular height hat. It is 3.5" tall, 9" long and has a 4" intake and it fits on any carburetor with a 5-1/8" inlet. It should fit nicely on the <a href="http://www.turbocamaro.ca/2016/02/carburetor.html" target="_blank">Holley 4776 600CFM DP with mechanical secondaries</a>. It's polished aluminium and quite hefty. The size is good but like any part mounting to the top of your engine, be sure you have enough clearance between it and the hood. Overall it feels like a high quality part but at $99US it's not cheap for what it is. Hopefully the profit made on these is paying off all the R&D staff as they probably cost very little to manufacture.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcJuyGwKhzyU3nN0xgS8zzgsNH3RLrRluVeo9YaXLyii7vZhM_Rg_v5dnFwYHf2h9YnhNpmTo7noG3jYXl6TI9sL1snmjcaB8YaaYJkzoeZFKGplKdFhelBEfovHmNXKE96d17gp-EZAg/s1600/evpa-or-proevpa-or-pro05050018.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="187" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcJuyGwKhzyU3nN0xgS8zzgsNH3RLrRluVeo9YaXLyii7vZhM_Rg_v5dnFwYHf2h9YnhNpmTo7noG3jYXl6TI9sL1snmjcaB8YaaYJkzoeZFKGplKdFhelBEfovHmNXKE96d17gp-EZAg/s320/evpa-or-proevpa-or-pro05050018.JPG" width="320" /></a>
+  <a href="/assets/img/posts/evpa-or-proevpa-or-pro05050018.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="187" src="/assets/img/posts/evpa-or-proevpa-or-pro05050018.JPG" width="320" /></a>
   <br/>
   <em>EV 4150 Pro Polished Hat - $280</em>
 </div>
 
 Interestingly enough, purchasing a carb hat isn't that simple. They come in different sizes and finishes as well as with, or without an internal divider. Not to mention several manufactures (like Spectre) offer low profile versions for those with short hood clearance. These are just the physical characteristics, what about the actual results of these things?
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWXRCM80L3-iw7NZPjckCrmymOGWf-lpOuGpS8CSFLelFrSVRFWBUiKnV_mS4Es_RjLEaknNnZfnNk1u922YHvjQJtX78MKNG7In36_F3jT1NI0hyphenhyphenmhKbrAuTPULnmez_XerpCumYjPxM/w1204-h677-no/"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="220" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWXRCM80L3-iw7NZPjckCrmymOGWf-lpOuGpS8CSFLelFrSVRFWBUiKnV_mS4Es_RjLEaknNnZfnNk1u922YHvjQJtX78MKNG7In36_F3jT1NI0hyphenhyphenmhKbrAuTPULnmez_XerpCumYjPxM/w1204-h677-no/" width="400" /></a>
+<a href="/assets/img/posts/"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="220" src="/assets/img/posts/" width="400" /></a>
 Pre-Turbo installation of the Spectre 9849. Note the "low profile" wing nut offered by 
 Spectre is 1/4" while this Holley carburetor uses a 5/16" thread. You'd need an 
 adapter to be able to use that nut on this plenum.
@@ -37,7 +37,7 @@ adapter to be able to use that nut on this plenum.
 Can you just buy anything that fits and have it work the same as the most expensive one? The answer to that is no. A $40 hat made out of an old cast iron pot on eBay is not going to work as well as the $280 Extreme Velocity (EV) Pro series. The <a href="http://www.superiorairflow.com/" target="_blank">Extreme Velocity site</a> claims to make more power than any other hat on the market. So, lets break this down for a second. EV's dyno sheets show an average overall power increase of 5% over competitors using their hat. The Spectre hat will likely run Turbo Camaro to 350HP for it's cost of $99. If the EV gets an aditional 5%, that's almost 18HP. Each extra HP will cost $10 for a total of $180. That's not the best deal but it really depends on your project. For a little Chevy 250 with 350HP, it might not be worth it as 18HP may only be slightly noticeable. If you're building a 800HP drag car, the 5% gain is closer to 40HP and that could make all the difference spread over a quarter mile. The $180 price difference was enough to pay for most of the <a href="{% post_url 2016-02-07-alcohol-injection %}" target="_blank">DevilsOwn Alcohol Injection kit</a>, which should increase power 5-10% and help with detonation, air intake temperature and combustion chamber cleanliness. It's not always about how much an item is, but how you can spend your money efficiently.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc_ihCc1-juZ4xrIZglzqbSOj-_Gt_47BcqFiJEhqd5aF7QAzXEjOIT4rDFkkIVSzDEmCDZ2YXckoTFQSGTZmrgPRx-9K92E8NLBJ7GLtCq2IjFqaS1XFPBDvWXFvRgPUWVUZZTbAv1Ec/s1600/SpectreHatMod.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="788" data-original-width="1200" height="262" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc_ihCc1-juZ4xrIZglzqbSOj-_Gt_47BcqFiJEhqd5aF7QAzXEjOIT4rDFkkIVSzDEmCDZ2YXckoTFQSGTZmrgPRx-9K92E8NLBJ7GLtCq2IjFqaS1XFPBDvWXFvRgPUWVUZZTbAv1Ec/s400/SpectreHatMod.jpg" width="400" /></a>
+  <a href="/assets/img/posts/SpectreHatMod.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="788" data-original-width="1200" height="262" src="/assets/img/posts/SpectreHatMod.jpg" width="400" /></a>
   <br/>
   <em>Spectre Hat hacked to clear valve cover.</em>
 </div>

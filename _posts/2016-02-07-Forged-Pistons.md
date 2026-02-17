@@ -6,13 +6,13 @@ tags: [blogger]
 ---
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFVZ5fSTO1tqOv4WaynOwY1JOmDQ0z6rhTZO9EHQEVe4-RT-2gN_-q32PXldyhjVKBSJn3vOHOChct3idS71DPbD5BjuCbbtIEIPYCUicTGAZc_Yifs9E304ifgi-wzJrdmpOcjvlNA4w/s1600/20151118_102331.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFVZ5fSTO1tqOv4WaynOwY1JOmDQ0z6rhTZO9EHQEVe4-RT-2gN_-q32PXldyhjVKBSJn3vOHOChct3idS71DPbD5BjuCbbtIEIPYCUicTGAZc_Yifs9E304ifgi-wzJrdmpOcjvlNA4w/s320/20151118_102331.jpg" width="180" /></a>
+  <a href="/assets/img/posts/20151118_102331.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/20151118_102331.jpg" width="180" /></a>
   <br/>
   <em>Chevy 250 block and pistons</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTfdYWgsbeGnEF2xL8aB3E_uM_c1eCBrjyfDEnfKhc9hfikf_VnHZYt3uKA7SuiZVXG8f7M6imQVbYXQdjKjkwPjrfjjquY3K4HN8tDTpti3icD7duBMndekBu3hevuTVUgzpl_AK320Y/s1600/20151119_105253.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="223" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTfdYWgsbeGnEF2xL8aB3E_uM_c1eCBrjyfDEnfKhc9hfikf_VnHZYt3uKA7SuiZVXG8f7M6imQVbYXQdjKjkwPjrfjjquY3K4HN8tDTpti3icD7duBMndekBu3hevuTVUgzpl_AK320Y/s400/20151119_105253.jpg" width="400" /></a>
+  <a href="/assets/img/posts/20151119_105253.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="223" src="/assets/img/posts/20151119_105253.jpg" width="400" /></a>
   <br/>
   <em>Just above dead center observe "60" on the piston face</em>
 </div>
@@ -22,13 +22,13 @@ Rebuilding a motor is no easy task. A lot of components need to be stripped, cle
 Speaking of costs, a turbocharged motor more or less requires forged pistons (cha-ching). Since it's 2016 and these Inline 6's maintain a solid reputation, custom forged pistons exist, but at a premium. A set of custom forged pistons from Ross Racing cost approximately $700US. That's not saying they are the most expensive pistons ever made, but going into an under powered, and mostly undesired Inline 6 makes them seem pricey. You might be able to find similar pistons cheaper through some sort of Groupon or perhaps a different manufacturer, but Ross has been around a long time and makes a solid product.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPdHkaOj6K_8IlLo8yfmnlM49OJomH7g05bSMKHLq6klkKs2GQMMh_gYe0-DxVt7YRruib6kVPUrbRzWg_wVq0pdFEcRs2EyLY9HJn5m70koHurcI18iSekP99WppF1_JB_cgEyCljBBw/s1600/20150905_155319.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPdHkaOj6K_8IlLo8yfmnlM49OJomH7g05bSMKHLq6klkKs2GQMMh_gYe0-DxVt7YRruib6kVPUrbRzWg_wVq0pdFEcRs2EyLY9HJn5m70koHurcI18iSekP99WppF1_JB_cgEyCljBBw/s320/20150905_155319.jpg" width="320" /></a>
+  <a href="/assets/img/posts/20150905_155319.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150905_155319.jpg" width="320" /></a>
   <br/>
   <em>Ross pistons well packaged with all components</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0d6sKjX7EEkPIJeilK22QR82c79KZ5_AN_HyrFWSojokuEz0rZmB_Q5udEIbKH9HBPTemkSKMXIgAlMjrpADmR9tFe5Zhn7PyiDSjDOqszGigQuwTAyX6cRX-imv6WYm-H4pNktiog70/s1600/pistons.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0d6sKjX7EEkPIJeilK22QR82c79KZ5_AN_HyrFWSojokuEz0rZmB_Q5udEIbKH9HBPTemkSKMXIgAlMjrpADmR9tFe5Zhn7PyiDSjDOqszGigQuwTAyX6cRX-imv6WYm-H4pNktiog70/s320/pistons.jpg" width="320" /></a>
+  <a href="/assets/img/posts/pistons.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/pistons.jpg" width="320" /></a>
   <br/>
   <em>Ross Racing forged piston 0.070" over bore with 12CC dish</em>
 </div>

@@ -6,13 +6,13 @@ tags: [blogger]
 ---
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwL_axIG78NMAy9B9vrzNXFzmUocC_xQGxnKx7wxq9Nm6k9tVCfqDQ-a2YiUKjvmaW1rQ1xVqJaV6_dEMDzTUDBFpMUSCx4FL3kF9RXi0nhtbRy3jqCpPguSqxL8hJP-1oIPTtbfZ-O0o/s1600/2x+1157+BAY15D+LED+27+SMD+5050+Amber+Yellow+Tail+Turn+Signal+Car+Light+Bulb+Lamp.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="199" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwL_axIG78NMAy9B9vrzNXFzmUocC_xQGxnKx7wxq9Nm6k9tVCfqDQ-a2YiUKjvmaW1rQ1xVqJaV6_dEMDzTUDBFpMUSCx4FL3kF9RXi0nhtbRy3jqCpPguSqxL8hJP-1oIPTtbfZ-O0o/s200/2x+1157+BAY15D+LED+27+SMD+5050+Amber+Yellow+Tail+Turn+Signal+Car+Light+Bulb+Lamp.jpg" width="200" /></a>
+  <a href="/assets/img/posts/2x+1157+BAY15D+LED+27+SMD+5050+Amber+Yellow+Tail+Turn+Signal+Car+Light+Bulb+Lamp.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="199" src="/assets/img/posts/2x+1157+BAY15D+LED+27+SMD+5050+Amber+Yellow+Tail+Turn+Signal+Car+Light+Bulb+Lamp.jpg" width="200" /></a>
   <br/>
   <em>27 LED amber colored 1157 Bulb</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir2OpKEP-KiaD71umnNkKrh4x7z1KMRb7kgfOlLBNwYx2gDW0jTz8xtDvSL-frSU49D65h2rF1R1gjL6O8I81_oO6fruHraepMkc3wd_F82zw8xVQ-zXBJFNWv4Xu8qTSPlj73PXKZrLk/s1600/6650.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="211" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir2OpKEP-KiaD71umnNkKrh4x7z1KMRb7kgfOlLBNwYx2gDW0jTz8xtDvSL-frSU49D65h2rF1R1gjL6O8I81_oO6fruHraepMkc3wd_F82zw8xVQ-zXBJFNWv4Xu8qTSPlj73PXKZrLk/s320/6650.jpg" width="320" /></a>
+  <a href="/assets/img/posts/6650.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="211" src="/assets/img/posts/6650.jpg" width="320" /></a>
   <br/>
   <em>20 LED "RapidFire" brake light kit</em>
 </div>
@@ -22,13 +22,13 @@ Turbo Camaro is all about DIY modern technology in a daily driver. Part of the m
 It's very easy to find replacements for Camaro signal, brake and reverse light bulbs. The 67' Camaro doesn't have side marker or dedicated fog lights, but they'd be easy to source too. Ensuring your signals are bright is important, but probably not as important for your safety as the brake and reverse lights. Increasing visibility during day and night driving is paramount to a smooth drive. Stock bulbs work, but their is room for improvement.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9g9-YGyXiSRah81m2GxF4Ckkl9bypiM6cUSbIjaGPT1SG5iQJE13qCZyDbeRvOBdQ13A-UnWiyQ106BGnQ4pR5mKUvtWmpPy8SJg0Ahr-J4evmBCY_X6fT0q1NeWcn9uSe2x18mkCIV8/s1600/IMG_20150211_141406.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9g9-YGyXiSRah81m2GxF4Ckkl9bypiM6cUSbIjaGPT1SG5iQJE13qCZyDbeRvOBdQ13A-UnWiyQ106BGnQ4pR5mKUvtWmpPy8SJg0Ahr-J4evmBCY_X6fT0q1NeWcn9uSe2x18mkCIV8/s200/IMG_20150211_141406.jpg" width="200" /></a>
+  <a href="/assets/img/posts/IMG_20150211_141406.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="/assets/img/posts/IMG_20150211_141406.jpg" width="200" /></a>
   <br/>
   <em>Stock reverse lights</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaIgC09lm_kDN7apjWDWzcK4pVN9JldeJHH8aZmJQH6MhgUcD34j8BZWISCfg5qd4TL2z6HvjfZmZTVkwQanmXAE8BKNo9tLu712NH8r0EqUyER_koxTpqta6s-gIgk-7gRVGFqC6Qiks/s1600/IMG_20150211_154204.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaIgC09lm_kDN7apjWDWzcK4pVN9JldeJHH8aZmJQH6MhgUcD34j8BZWISCfg5qd4TL2z6HvjfZmZTVkwQanmXAE8BKNo9tLu712NH8r0EqUyER_koxTpqta6s-gIgk-7gRVGFqC6Qiks/s200/IMG_20150211_154204.jpg" width="200" /></a>
+  <a href="/assets/img/posts/IMG_20150211_154204.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="/assets/img/posts/IMG_20150211_154204.jpg" width="200" /></a>
   <br/>
   <em>New "super white" LED lights</em>
 </div>
@@ -38,7 +38,7 @@ Turbo Camaro's brake/Signal bulb was replaced with a 20 LED RapidFire panel. Tha
 The front turn signal/fog bulbs are a regular white bulb with an orange coating on the glass. 
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7h0qBD69PC8XPL4pcJzyR1yREqRDNxhyphenhyphenT2ptgj9VEwY6XkgUf_QA8Rjc8NmeglZWaXiLli66S1bLNqaIBgemZydUUOP1b1pLrX822tlq5MtgoZygA2jje9q1vtf0SMhULwmvOqBPeGBk/s1600/IMG_20150322_142403.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7h0qBD69PC8XPL4pcJzyR1yREqRDNxhyphenhyphenT2ptgj9VEwY6XkgUf_QA8Rjc8NmeglZWaXiLli66S1bLNqaIBgemZydUUOP1b1pLrX822tlq5MtgoZygA2jje9q1vtf0SMhULwmvOqBPeGBk/s200/IMG_20150322_142403.jpg" width="200" /></a>
+  <a href="/assets/img/posts/IMG_20150322_142403.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="/assets/img/posts/IMG_20150322_142403.jpg" width="200" /></a>
   <br/>
   <em>New amber LED signal lights</em>
 </div>

@@ -6,13 +6,13 @@ tags: [blogger]
 ---
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK_ZE4E_RTCecUQe1Enf3SmLTRKWwLDf0JrS-geE5k0fUUHgvO5hNsECUyfeHhgNvI6eAOuwyWwYw2YI7ZZK_8GFNpqBppzT8OmOZjM8BUufUJZ_v8jK4NPovkPCcLvCXhr0PrgsoWcsM/s1600/DSC05528.JPG"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK_ZE4E_RTCecUQe1Enf3SmLTRKWwLDf0JrS-geE5k0fUUHgvO5hNsECUyfeHhgNvI6eAOuwyWwYw2YI7ZZK_8GFNpqBppzT8OmOZjM8BUufUJZ_v8jK4NPovkPCcLvCXhr0PrgsoWcsM/s320/DSC05528.JPG" width="320" /></a>
+  <a href="/assets/img/posts/DSC05528.JPG"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05528.JPG" width="320" /></a>
   <br/>
   <em>The blue paint was unsalvageable</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz8gs4CJ52M6iB1Ka5r6nucxOMEI-JKV6Jr8_G9kFTxLPqCbzRtj_Vk_7CEWHHSkZvc4njVpuiYOKhEoMlUiSaUFktab28vfS48sIl-bN9FdFPM_h5XaenJwxUFHu8eCDo7nuwrwgew40/s1600/DSC05535.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz8gs4CJ52M6iB1Ka5r6nucxOMEI-JKV6Jr8_G9kFTxLPqCbzRtj_Vk_7CEWHHSkZvc4njVpuiYOKhEoMlUiSaUFktab28vfS48sIl-bN9FdFPM_h5XaenJwxUFHu8eCDo7nuwrwgew40/s320/DSC05535.JPG" width="320" /></a>
+  <a href="/assets/img/posts/DSC05535.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05535.JPG" width="320" /></a>
   <br/>
   <em>Sanding with a drill</em>
 </div>
@@ -24,13 +24,13 @@ A plan to strip the car to bare metal was made and executed with grace and skill
 A few Sand & Rust Remover discs were purchased for use on a drill, but they didn't last long and obviously weren't up to the challenge of stripping an entire car. Don't get me wrong, they would have worked eventually but it would probably take 15-20 of them, and at $8 a piece it would have blown the budget.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ4l9SMKhuKGLIFZxfoF3lDXzTz3DuNOw2j8JERKATsnuC_kgkeB20LvvMUAhtOMfwlHiAXYKG-1zU_WtiuVb_s2Gc7hbRR5GEaBXVu5OHfNqDc7ie6MhfQ-yaSditCcWrUOpJjRxL-Z0/s1600/DSC05745.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ4l9SMKhuKGLIFZxfoF3lDXzTz3DuNOw2j8JERKATsnuC_kgkeB20LvvMUAhtOMfwlHiAXYKG-1zU_WtiuVb_s2Gc7hbRR5GEaBXVu5OHfNqDc7ie6MhfQ-yaSditCcWrUOpJjRxL-Z0/s320/DSC05745.JPG" width="320" /></a>
+  <a href="/assets/img/posts/DSC05745.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05745.JPG" width="320" /></a>
   <br/>
   <em>Dust from one sweep of the floor.</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJC5qXsodQ1wZF0WLwqe1_kcLqzL_h55cLwAGynMMVZhdAkq_fXcWQKBVJtHM6RyXdRUfxJsoYCjxqS68NpD59m1nY5tbjrndqbUS1gKYcWbhHAbHstrIFIXDh_OYMyETDjw-3UD-6EOI/s1600/51gTcGBRw2L._SX300_.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="312" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJC5qXsodQ1wZF0WLwqe1_kcLqzL_h55cLwAGynMMVZhdAkq_fXcWQKBVJtHM6RyXdRUfxJsoYCjxqS68NpD59m1nY5tbjrndqbUS1gKYcWbhHAbHstrIFIXDh_OYMyETDjw-3UD-6EOI/s320/51gTcGBRw2L._SX300_.jpg" style="cursor: move;" width="320" /></a>
+  <a href="/assets/img/posts/51gTcGBRw2L._SX300_.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="312" src="/assets/img/posts/51gTcGBRw2L._SX300_.jpg" style="cursor: move;" width="320" /></a>
   <br/>
   <em>Wire wheel for a grinder</em>
 </div>
@@ -44,7 +44,7 @@ It was time to get serious. Money was being spent on products that were not gett
 <li>As the wire wheel spins it gets hot and transfers that heat to the car. Spinning too long in one spot will get very hot and potentially cause warpage. Keep the wheel moving and make second and even third passes on areas requiring more attention.  </li>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfFNx45F3ze_ftH6Wd6oBGlQfkN3pq8ZZPaB_mojG9UpBQzj6bdTqhmo-CUgbTQ48RC373yG24bjY8p0Pp1SFp_keAaosO717n0U5lbM3uPR2ulw1FPY5DmRa9QroDTPHG9RHAf2HHRBc/s1600/DSC05747.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfFNx45F3ze_ftH6Wd6oBGlQfkN3pq8ZZPaB_mojG9UpBQzj6bdTqhmo-CUgbTQ48RC373yG24bjY8p0Pp1SFp_keAaosO717n0U5lbM3uPR2ulw1FPY5DmRa9QroDTPHG9RHAf2HHRBc/s400/DSC05747.JPG" width="400" /></a>
+  <a href="/assets/img/posts/DSC05747.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="300" src="/assets/img/posts/DSC05747.JPG" width="400" /></a>
   <br/>
   <em>Apply clear coat and call it done... no, not really.</em>
 </div>

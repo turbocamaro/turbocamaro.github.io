@@ -6,13 +6,13 @@ tags: [blogger]
 ---
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdhRJ2DRavbhjVr3GBLqjpgsVShQehDM8r7h-Q-irqoVfiRPMyztcQLnVlyz7vdSF2I4noZiNBEh4AuaSxv-JDtHowASe7Z9JdG-39RbOqWqnr-fAKeLVZ8_e3-sJq0KdmQ04n16ZXoM/s1600/20150727_182830.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="177" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVdhRJ2DRavbhjVr3GBLqjpgsVShQehDM8r7h-Q-irqoVfiRPMyztcQLnVlyz7vdSF2I4noZiNBEh4AuaSxv-JDtHowASe7Z9JdG-39RbOqWqnr-fAKeLVZ8_e3-sJq0KdmQ04n16ZXoM/s320/20150727_182830.jpg" width="320" /></a>
+  <a href="/assets/img/posts/20150727_182830.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="177" src="/assets/img/posts/20150727_182830.jpg" width="320" /></a>
   <br/>
   <em>FantasyMotorSports 28x9x2.5" front mount intercooler</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9jvlrIWr6cFftNyWTOQh2msGc0-iEJ8QFTHTqTDGeZIfIh_ImyonPSvYCTaIgMmP83aOCbmu_tQH05nGLmbeCpAazHac51ZfpA4TxzYBGFAtsyaU-2Kv8yuPe1ZBKmdssiICXgbbE854/s1600/20150727_182908.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9jvlrIWr6cFftNyWTOQh2msGc0-iEJ8QFTHTqTDGeZIfIh_ImyonPSvYCTaIgMmP83aOCbmu_tQH05nGLmbeCpAazHac51ZfpA4TxzYBGFAtsyaU-2Kv8yuPe1ZBKmdssiICXgbbE854/s320/20150727_182908.jpg" width="180" /></a>
+  <a href="/assets/img/posts/20150727_182908.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/20150727_182908.jpg" width="180" /></a>
   <br/>
   <em>2.5" inlet & outlet</em>
 </div>

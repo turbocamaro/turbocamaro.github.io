@@ -8,7 +8,7 @@ tags: [blogger]
 The ongoing theme of Turbo Camaro is to add modern components while keeping a classic look. This concept can become a challenge and really test build intentions. Stereo systems can be very important to passengers as they provide entertainment and can set the mood of a drive. That being said, stereo technology has changed since 1967 and a deck from that era wouldn't be acceptable in this car.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihkZeo8oj6CSc13sNB9SYl_rMNmC092eWrQ4P4jFXwYRAMM9mLIoGL8QvpiAt__Nv7Qo1RiRsRCiaLhBc7TXGdBz6Wke-YIrse26DCuVZKG8IrfgyEV2BDOl6CEP966gCcR9rvwiqtS_o/s1600/retrosound.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="125" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihkZeo8oj6CSc13sNB9SYl_rMNmC092eWrQ4P4jFXwYRAMM9mLIoGL8QvpiAt__Nv7Qo1RiRsRCiaLhBc7TXGdBz6Wke-YIrse26DCuVZKG8IrfgyEV2BDOl6CEP966gCcR9rvwiqtS_o/s200/retrosound.jpg" width="200" /></a>
+  <a href="/assets/img/posts/retrosound.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="125" src="/assets/img/posts/retrosound.jpg" width="200" /></a>
   <br/>
   <em>A random RetroSound Stereo</em>
 </div>

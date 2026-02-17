@@ -6,13 +6,13 @@ tags: [blogger]
 ---
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5-53GEi7gMmxg1HKeZPrhFnDSx_8GxEREQArPnvdLvzYyLEcfVgi25xtzSTlZbtJd8NkOB1JrKdLDjkf9Q-bNm_PitnnOUy4xrNTOAgoC1fkDXm47h2ac1Ib6pWlGk5BI7I6BOlTkOe4/s1600/wastegate1.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5-53GEi7gMmxg1HKeZPrhFnDSx_8GxEREQArPnvdLvzYyLEcfVgi25xtzSTlZbtJd8NkOB1JrKdLDjkf9Q-bNm_PitnnOUy4xrNTOAgoC1fkDXm47h2ac1Ib6pWlGk5BI7I6BOlTkOe4/s320/wastegate1.jpg" width="179" /></a>
+  <a href="/assets/img/posts/wastegate1.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/wastegate1.jpg" width="179" /></a>
   <br/>
   <em>SPA Turbo 35mm Wastegate - $65</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc1-OKpoHD8JPOtzILAW9xNKszoreKzOySMP75hxIO6SXvqxgXKeF6VoQ7rT3shtOrm6ZgYWiB0hyDKMUD8k7MkGOFXA6MtaUSyKpIjJ8YLlRQScO4isj7V9Jr7vi2bAtLuFh3lP4JnlM/s1600/wastegate2.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc1-OKpoHD8JPOtzILAW9xNKszoreKzOySMP75hxIO6SXvqxgXKeF6VoQ7rT3shtOrm6ZgYWiB0hyDKMUD8k7MkGOFXA6MtaUSyKpIjJ8YLlRQScO4isj7V9Jr7vi2bAtLuFh3lP4JnlM/s320/wastegate2.jpg" width="179" /></a>
+  <a href="/assets/img/posts/wastegate2.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/wastegate2.jpg" width="179" /></a>
   <br/>
   <em>SPA Turbo "S" inlet flange</em>
 </div>
@@ -24,7 +24,7 @@ The wastegate is mounted between between the exhaust ports on the cylinder head 
 After literally days of researching, the brand SPA Turbo was identified as a solid company that does their own R&D and manufacturing in Brazil. Brazil is well known by those in the inline forums as Brazil has an active inline 6 drag racing community. A SPA Turbo compact 35mm stainless steel wastegate was purchased off eBay for $65US.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI1QT95KvSZXSxXQe_KE9a3KZFHg3vjkwC87e3Wb9j8N21QApCUZuPIYlGQzracsxeV-6u1b_geTtmlmSzE7lFmkMkZbmNHV1qB48g-Bkj-WgbeCW8LvmImp5HPyjC7fReLW7saYyix48/s1600/wastegate3.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI1QT95KvSZXSxXQe_KE9a3KZFHg3vjkwC87e3Wb9j8N21QApCUZuPIYlGQzracsxeV-6u1b_geTtmlmSzE7lFmkMkZbmNHV1qB48g-Bkj-WgbeCW8LvmImp5HPyjC7fReLW7saYyix48/s400/wastegate3.jpg" width="400" /></a>
+  <a href="/assets/img/posts/wastegate3.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/wastegate3.jpg" width="400" /></a>
   <br/>
   <em>Boost control built into the top of the wastegate</em>
 </div>

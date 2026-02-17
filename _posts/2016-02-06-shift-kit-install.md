@@ -6,13 +6,13 @@ tags: [blogger]
 ---
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQGYv-M494YZWfHMIpL2bdC5e6ovGTfU523-00UHqyOSL8HNN4KjG9OxyjQ__nyP94xJymvC7x96N4Y8aJqUhOkPQM9IL5JuqZVLrMYht5GU0UEqlRMjpjP0TCg9OyXUXP70AzKc55iEk/s1600/trg-350-1-2_w.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="259" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQGYv-M494YZWfHMIpL2bdC5e6ovGTfU523-00UHqyOSL8HNN4KjG9OxyjQ__nyP94xJymvC7x96N4Y8aJqUhOkPQM9IL5JuqZVLrMYht5GU0UEqlRMjpjP0TCg9OyXUXP70AzKc55iEk/s320/trg-350-1-2_w.jpg" width="320" /></a>
+  <a href="/assets/img/posts/trg-350-1-2_w.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="259" src="/assets/img/posts/trg-350-1-2_w.jpg" width="320" /></a>
   <br/>
   <em>Transgo 350-1&2 Shift Kit</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2eMqXelMPoNOD1n8a5o0A4H8RLSMiZTiu5Ozey-RUzoC6jtisNZt6bHsViqNFCwq3ZBUhM1Gvuu8eVCzokqWe7U_kpD5OedcFbWEr7BxebG3diNMzE6E0k2rhLfVUtlDj3LK3-IPyYwg/s1600/t350_18.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="222" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2eMqXelMPoNOD1n8a5o0A4H8RLSMiZTiu5Ozey-RUzoC6jtisNZt6bHsViqNFCwq3ZBUhM1Gvuu8eVCzokqWe7U_kpD5OedcFbWEr7BxebG3diNMzE6E0k2rhLfVUtlDj3LK3-IPyYwg/s320/t350_18.jpg" width="320" /></a>
+  <a href="/assets/img/posts/t350_18.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="222" src="/assets/img/posts/t350_18.jpg" width="320" /></a>
   <br/>
   <em>Turbo 350 valve body and internals (borrowed image)</em>
 </div>
@@ -22,13 +22,13 @@ Turbo Camaro was received with, and still has a Turbo Hydra-matic 350 (TH350 or 
 The automatic Turbo 350 is perfect for a daily driver (comparing to the original Powerglide at least), so rather than replacement, a shift kit is in order. A shift kit tightens the overlap between automatic shifts and because of this, provides a harder shift and helps to cut down on transmission wear. When moving to a performance application, such as a super or turbocharger, a shift kit is almost mandatory to prevent excessive wear on your transmission. 
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDwD0QeW17sPFDYC4V0QxZuzEgnZeoBv-8JgYolGv7vTrwfT7uLyrM2-3YAcD3fY2_bcvNOAyEuc3bf6LagHJWex8kL2Xjz1d94qS2fWWazxKsKIVYx46Q6Y5Xt6e50gWDf6fTqbD_fzQ/s1600/350_valvebody2.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="230" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDwD0QeW17sPFDYC4V0QxZuzEgnZeoBv-8JgYolGv7vTrwfT7uLyrM2-3YAcD3fY2_bcvNOAyEuc3bf6LagHJWex8kL2Xjz1d94qS2fWWazxKsKIVYx46Q6Y5Xt6e50gWDf6fTqbD_fzQ/s320/350_valvebody2.jpg" width="320" /></a>
+  <a href="/assets/img/posts/350_valvebody2.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="230" src="/assets/img/posts/350_valvebody2.jpg" width="320" /></a>
   <br/>
   <em>Turbo 350 valve body diagram</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghBv5GplRPxkSCNlhncbQIvzQJ4eG7YD8Ft9VkbTf5no4tDd6flzcKiJXjhk5tT-iEBo6eAiB15jhNH9Rxvzy-aUS6pVAoQsFaFhZaSyFFEL9XED1KFDeF1p4uX6cYojv_NneMMzwMyQQ/s1600/vlcsnap-2016-02-06-09h55m55s902.png"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="179" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghBv5GplRPxkSCNlhncbQIvzQJ4eG7YD8Ft9VkbTf5no4tDd6flzcKiJXjhk5tT-iEBo6eAiB15jhNH9Rxvzy-aUS6pVAoQsFaFhZaSyFFEL9XED1KFDeF1p4uX6cYojv_NneMMzwMyQQ/s320/vlcsnap-2016-02-06-09h55m55s902.png" width="320" /></a>
+  <a href="/assets/img/posts/vlcsnap-2016-02-06-09h55m55s902.png"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="179" src="/assets/img/posts/vlcsnap-2016-02-06-09h55m55s902.png" width="320" /></a>
   <br/>
   <em>Transmission pan removed on Turbo Camaro</em>
 </div>

@@ -6,7 +6,7 @@ tags: [blogger]
 ---
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq3It-4QC5XZBTkogGe-qe2czRsxThkEW3aKHO428oymB0mMg42reJZQmWuFuqN_nf7Jhmv4IWLSE7Er423ZTTZYOHi8Zdh6rl58tNXIlyv9ux4rfJeZlxucaNaVXuAC-PZboiO9yWZKk/s1600/20170928_100034.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="1200" data-original-width="1600" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq3It-4QC5XZBTkogGe-qe2czRsxThkEW3aKHO428oymB0mMg42reJZQmWuFuqN_nf7Jhmv4IWLSE7Er423ZTTZYOHi8Zdh6rl58tNXIlyv9ux4rfJeZlxucaNaVXuAC-PZboiO9yWZKk/s400/20170928_100034.jpg" width="400" /></a>
+  <a href="/assets/img/posts/20170928_100034.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="1200" data-original-width="1600" height="300" src="/assets/img/posts/20170928_100034.jpg" width="400" /></a>
   <br/>
   <em>Pyle PWD701 Alarm System & Wiring Diagram</em>
 </div>
@@ -16,7 +16,7 @@ With security on the rise after installing the <a href="{% post_url 2017-10-23-h
 The alarm install consisted of two parts. A manual to power lock upgrade for the key-less entry and the actual alarm module wiring. Sodial "heavy duty" power door lock actuator kits were installed in the doors and a Pyle PWD701 Alarm System under the dash. The The whole package, with relays was about $45US. Overall a very fair price for a sense of security. Even without the security, having a fob to lock and unlock your doors is a nice modernization in itself.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwYkzekcvbaaXzs_snjoSjWIbmOwekLNZ09wwYxZ-2Fg3-8mejfGHz1ERRQRVHt-lwuAIl7zRnWM-821qTZ7iQ8tc72OCprtYl2dg9NM7arTO_L0eaLTeCBsteA8bUdqq988KIG3sHC-U/s1600/20170924_170143.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="1600" data-original-width="1200" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwYkzekcvbaaXzs_snjoSjWIbmOwekLNZ09wwYxZ-2Fg3-8mejfGHz1ERRQRVHt-lwuAIl7zRnWM-821qTZ7iQ8tc72OCprtYl2dg9NM7arTO_L0eaLTeCBsteA8bUdqq988KIG3sHC-U/s320/20170924_170143.jpg" width="240" /></a>
+  <a href="/assets/img/posts/20170924_170143.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="1600" data-original-width="1200" height="320" src="/assets/img/posts/20170924_170143.jpg" width="240" /></a>
   <br/>
   <em>2 five pin relays joined and wired for locks</em>
 </div>
@@ -24,7 +24,7 @@ The alarm install consisted of two parts. A manual to power lock upgrade for the
 The trick to installing the actuators is to ensure the full up/down motion is unobstructed. You have to make sure you have a fairly straight shot from the actuator to either the door lock rod, or a mounting point on the lock assembly. If you watch the video below, you'll get a good look at how our actuator rods were mounted to the lock rods. Once you have one installed you just need to run the two wires to the passenger compartment.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzecHKYHMGOnrGK3RH1bhr3sZ9x2Ou_I-H-XbQ_daorumdlYXXS_YEIJ9ybS7NMKjMhCHNedm5hyphenhyphenrNUQhNodhZy-YHbwjCKBzZ0N2oFARlqVqSmixoT0-8LTWXhIx4kq4BbJIbOpxfM_4/s1600/20170924_155451.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="1600" data-original-width="1200" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzecHKYHMGOnrGK3RH1bhr3sZ9x2Ou_I-H-XbQ_daorumdlYXXS_YEIJ9ybS7NMKjMhCHNedm5hyphenhyphenrNUQhNodhZy-YHbwjCKBzZ0N2oFARlqVqSmixoT0-8LTWXhIx4kq4BbJIbOpxfM_4/s320/20170924_155451.jpg" width="240" /></a>
+  <a href="/assets/img/posts/20170924_155451.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="1600" data-original-width="1200" height="320" src="/assets/img/posts/20170924_155451.jpg" width="240" /></a>
   <br/>
   <em>Keep It Clean Stainless Loom</em>
 </div>

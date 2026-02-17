@@ -6,13 +6,13 @@ tags: [blogger]
 ---
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjffKnNRB8epRAaslOnhiFFdCbKcpCy6NuA1qf3dkgku85mNXMhefZ8Gja54w5IKGvpzT5vQtRA7L31mpuNsIar5QKnxjRwLXUiEVuGANObmEkntrIXl_bcSiBeYSD2P3junsHAYZePC7I/s1600/20151220_120829.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjffKnNRB8epRAaslOnhiFFdCbKcpCy6NuA1qf3dkgku85mNXMhefZ8Gja54w5IKGvpzT5vQtRA7L31mpuNsIar5QKnxjRwLXUiEVuGANObmEkntrIXl_bcSiBeYSD2P3junsHAYZePC7I/s320/20151220_120829.jpg" width="320" /></a>
+  <a href="/assets/img/posts/20151220_120829.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="/assets/img/posts/20151220_120829.jpg" width="320" /></a>
   <br/>
   <em>Turbo Camaro's engine bay is disgusting</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTV_HnOfw3AlSDCJ_rUSLyEKVEXXkL97sOGCzYKEzxb1mQFQ6bAotcO2bhG-mzMrm_QhPQ_p5olE8zCowm5vAK62Q8PxXqMlZQf8LzdxNZfsBuXW2LCNSN0PufYXpRYwSBkAJUPtfCP6g/s1600/20151220_120853.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTV_HnOfw3AlSDCJ_rUSLyEKVEXXkL97sOGCzYKEzxb1mQFQ6bAotcO2bhG-mzMrm_QhPQ_p5olE8zCowm5vAK62Q8PxXqMlZQf8LzdxNZfsBuXW2LCNSN0PufYXpRYwSBkAJUPtfCP6g/s320/20151220_120853.jpg" style="cursor: move;" width="320" /></a>
+  <a href="/assets/img/posts/20151220_120853.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="/assets/img/posts/20151220_120853.jpg" style="cursor: move;" width="320" /></a>
   <br/>
   <em>Check out that thick sludge on the frame</em>
 </div>
@@ -32,7 +32,7 @@ The bay was caked with Super Clean degreaser and left to marinate. Once the nast
 
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjwFnc_E6cwM0yeMy1caO8pa7wMAud6US_jQVcxRlRqRDkeSEtZMWeEwn-73MvzYhlfM6zXamP7AY6BMfEPznAHhhCtItJ0cSerttM9kbLHMd1lYgBAeDFB0H3ZocCtHHvf17WH1gOGto/s1600/20160316_151807.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjwFnc_E6cwM0yeMy1caO8pa7wMAud6US_jQVcxRlRqRDkeSEtZMWeEwn-73MvzYhlfM6zXamP7AY6BMfEPznAHhhCtItJ0cSerttM9kbLHMd1lYgBAeDFB0H3ZocCtHHvf17WH1gOGto/s400/20160316_151807.jpg" width="400" /></a>
+  <a href="/assets/img/posts/20160316_151807.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="300" src="/assets/img/posts/20160316_151807.jpg" width="400" /></a>
   <br/>
   <em>A little Satin Black VHT paint and it looks great</em>
 </div>

@@ -6,7 +6,7 @@ tags: [blogger]
 ---
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ9sP_6YDSCb8VPK5DEwUToV4lfJc0ESBmlKSkTY9xa1VQOIkrbxV_VOEEJB0IJ1_7hjLqv9a-uSi3rGSuMgBvAI1FsEnidkuactnxXr_v4Cjp-VE4hllinKqZId1AGyRkGxl3NwbvIDc/s1600/194+13+5050+SMD+LED+Crystal+Aqua+Ice+Blue+Car+Light+Lamp+Bulb+DC+12V.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ9sP_6YDSCb8VPK5DEwUToV4lfJc0ESBmlKSkTY9xa1VQOIkrbxV_VOEEJB0IJ1_7hjLqv9a-uSi3rGSuMgBvAI1FsEnidkuactnxXr_v4Cjp-VE4hllinKqZId1AGyRkGxl3NwbvIDc/s200/194+13+5050+SMD+LED+Crystal+Aqua+Ice+Blue+Car+Light+Lamp+Bulb+DC+12V.jpg" width="200" /></a>
+  <a href="/assets/img/posts/194+13+5050+SMD+LED+Crystal+Aqua+Ice+Blue+Car+Light+Lamp+Bulb+DC+12V.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="200" src="/assets/img/posts/194+13+5050+SMD+LED+Crystal+Aqua+Ice+Blue+Car+Light+Lamp+Bulb+DC+12V.jpg" width="200" /></a>
   <br/>
   <em>13 SMD LED's - 194 Connector - Crystal Aqua Ice Blue</em>
 </div>
@@ -14,7 +14,7 @@ tags: [blogger]
 The problem with lighting on classic cars was the technology available at the time. The Light Emitting Diode (LED) has since flourished and become wildly available for almost any application. You can literally get an LED with any connector and color you want. It's fairly easy to pick what color you want your dash to be, but the hard choice is where to get them from.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtZtix3VPnJYCfs7rYKWDyu3-17Zm0WFXACUghvY2HOBPsAvsgeZVB6gG3uY7K4zFM49Ag8e2RuOFrGhlrLf6cGtwj_c1clIyR70ij-kVxDO5jPGx0p6mWzR-ht9YEaaivzSFLFULhmR4/s1600/IMG_20150313_194509.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtZtix3VPnJYCfs7rYKWDyu3-17Zm0WFXACUghvY2HOBPsAvsgeZVB6gG3uY7K4zFM49Ag8e2RuOFrGhlrLf6cGtwj_c1clIyR70ij-kVxDO5jPGx0p6mWzR-ht9YEaaivzSFLFULhmR4/s320/IMG_20150313_194509.jpg" width="320" /></a>
+  <a href="/assets/img/posts/IMG_20150313_194509.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/IMG_20150313_194509.jpg" width="320" /></a>
   <br/>
   <em>Aqua Ice Blue lights on the Stock 67' Camaro Cluster</em>
 </div>

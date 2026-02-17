@@ -12,188 +12,188 @@ Once it was decided the engine project was starting, the first step was to pull 
 An engine lift was rented from a local shop and the engine was removed in just under 45 minutes. From there you can mount it on a stand and start getting your hands dirty...
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfE2CJz_FOm9wHtKk6t6308Ufne08187X87AZagVWAWduWyHI8kKJrFXAkqU9UoIXQRieU3ksRdrwk6Oln3C8vdgANEjMA9MvodZy9RnjntsXfOUSelhnbl3_BL4FuLXUWhLgOPUkUsZ4/s1600/20151118_091729.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfE2CJz_FOm9wHtKk6t6308Ufne08187X87AZagVWAWduWyHI8kKJrFXAkqU9UoIXQRieU3ksRdrwk6Oln3C8vdgANEjMA9MvodZy9RnjntsXfOUSelhnbl3_BL4FuLXUWhLgOPUkUsZ4/s640/20151118_091729.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_091729.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_091729.jpg" width="640" /></a>
   <br/>
   <em>Dirty ol' Chevy 250 Inline 6 - just put on the stand and is ready for disassembly</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHWSVrpDnCR9T4oyCY6RsOHDwwgnLwAMOuqjt1hyphenhyphenSxCwARPe5Pa63LqQPYwZqkoJluscOWT_hMLQyKaiuqdg0nFR0SHrqa-_KiG9Ox-SKNL_JhyphenhyphenDfl7nutReoIPMaQW4nIC1iOs_EanmM/s1600/20151118_091736.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHWSVrpDnCR9T4oyCY6RsOHDwwgnLwAMOuqjt1hyphenhyphenSxCwARPe5Pa63LqQPYwZqkoJluscOWT_hMLQyKaiuqdg0nFR0SHrqa-_KiG9Ox-SKNL_JhyphenhyphenDfl7nutReoIPMaQW4nIC1iOs_EanmM/s640/20151118_091736.jpg" width="360" /></a>
+  <a href="/assets/img/posts/20151118_091736.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="/assets/img/posts/20151118_091736.jpg" width="360" /></a>
   <br/>
   <em>Quite a build up of oily sludge, but not for long</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicuWdgTIO4142FgI_1JB_o1yZbsyKUn_XYtsAgjFB-8ESxE-RdY5vf6Egb6i-Ud0j3_ue5ShP0dktGm10QbPgLC2tmn0gTfpCVm822Guo9oryoXbj7lHVeUJidRmEuG7RZXih4eNVksao/s1600/20151118_091745.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="356" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicuWdgTIO4142FgI_1JB_o1yZbsyKUn_XYtsAgjFB-8ESxE-RdY5vf6Egb6i-Ud0j3_ue5ShP0dktGm10QbPgLC2tmn0gTfpCVm822Guo9oryoXbj7lHVeUJidRmEuG7RZXih4eNVksao/s640/20151118_091745.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_091745.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="356" src="/assets/img/posts/20151118_091745.jpg" width="640" /></a>
   <br/>
   <em>Goodbye stock intake and exhaust manifold. You are obsolete</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdlvC-KTfYjfmo_-qvory2lQviQ0QjN2rbRptaNUukI6ImnWb6kGfSjkZOpexIp_htbY2h5hyphenhyphenCFyB_zdg2HwG4-GDiMTAazHxnhE-IBjzyc5DmmgDPh9mSUPVDBiwciqEBT1LS_4fldhg/s1600/20151118_091759.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdlvC-KTfYjfmo_-qvory2lQviQ0QjN2rbRptaNUukI6ImnWb6kGfSjkZOpexIp_htbY2h5hyphenhyphenCFyB_zdg2HwG4-GDiMTAazHxnhE-IBjzyc5DmmgDPh9mSUPVDBiwciqEBT1LS_4fldhg/s640/20151118_091759.jpg" width="360" /></a>
+  <a href="/assets/img/posts/20151118_091759.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="/assets/img/posts/20151118_091759.jpg" width="360" /></a>
   <br/>
   <em>Pulled right off the transmission, flywheel and all</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0BKs6QrzkYmsIjisWwfA8nzsn_1opf00HomgTusHUvRO4zPGLc_Rh3TnrHcKcWmXG3I5rxgfKjugmHxPegwQ0RqL7U4hqWnhzczEJ3RRGEFnsAFB8B8ybcA0bog9NyD68TgC0UZjcJbk/s1600/20151118_091809.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="356" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0BKs6QrzkYmsIjisWwfA8nzsn_1opf00HomgTusHUvRO4zPGLc_Rh3TnrHcKcWmXG3I5rxgfKjugmHxPegwQ0RqL7U4hqWnhzczEJ3RRGEFnsAFB8B8ybcA0bog9NyD68TgC0UZjcJbk/s640/20151118_091809.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_091809.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="356" src="/assets/img/posts/20151118_091809.jpg" width="640" /></a>
   <br/>
   <em>Fairly shallow oil pan but no obvious leaks</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0Qg2lQLhOTbRZH2ntIPKZlH3zXTHB010qUdyYUJRSTKveXF6ghdc-Wybprhk3xLPUkLxA9wz0P-AUOgAsnGPVoxHkJeHwA1ipVAk5aef1DDFqZaup962aCfo41zwRMhfS_7ISKjQmrac/s1600/20151118_091819.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0Qg2lQLhOTbRZH2ntIPKZlH3zXTHB010qUdyYUJRSTKveXF6ghdc-Wybprhk3xLPUkLxA9wz0P-AUOgAsnGPVoxHkJeHwA1ipVAk5aef1DDFqZaup962aCfo41zwRMhfS_7ISKjQmrac/s640/20151118_091819.jpg" width="360" /></a>
+  <a href="/assets/img/posts/20151118_091819.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="/assets/img/posts/20151118_091819.jpg" width="360" /></a>
   <br/>
   <em>Replaced the damper a few months ago, should of painted it</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfVykzA5wpyP3FAwB3BNMxzta1vEN_EwhOqUrJL-ZyV8XbjYP4xLuKvNuvb8QFp7Io2nl1VJuAlJ9fkz8ALkUr7CAbeTKhi56Wn0ZHtZ2hm3OhdZYoSCe-nA9ta-yjGaHDd20yIr_rVM8/s1600/20151118_091828.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="356" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfVykzA5wpyP3FAwB3BNMxzta1vEN_EwhOqUrJL-ZyV8XbjYP4xLuKvNuvb8QFp7Io2nl1VJuAlJ9fkz8ALkUr7CAbeTKhi56Wn0ZHtZ2hm3OhdZYoSCe-nA9ta-yjGaHDd20yIr_rVM8/s640/20151118_091828.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_091828.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="356" src="/assets/img/posts/20151118_091828.jpg" width="640" /></a>
   <br/>
   <em>No components on this side of the block... yet</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrphpTWZiWJhrQmjlDFU1nL48gJ5aGmzV2u7zw8qKQgQ8ovI5xqoyyCcJhszmfyF6oLv8epHZwvTf4JE-53fPuc2n8xCgRhuDz3ptyLmXbyp91L4zEVQAFl1YDtTQy53aCq2a8I6fKywg/s1600/20151118_091838.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrphpTWZiWJhrQmjlDFU1nL48gJ5aGmzV2u7zw8qKQgQ8ovI5xqoyyCcJhszmfyF6oLv8epHZwvTf4JE-53fPuc2n8xCgRhuDz3ptyLmXbyp91L4zEVQAFl1YDtTQy53aCq2a8I6fKywg/s640/20151118_091838.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_091838.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_091838.jpg" width="640" /></a>
   <br/>
   <em>Valve cover had a leak for a while but gasket was replaced a couple months ago</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpjsW57E_rDoU0TXOQItjA9Y837-55QDrdRRRv-YyOsTVB9vdJkaI2yaXf3BW5j0KlgGlsjKR0Lm650eS4fWoi8WW2e__x1B00f13hf4sROuvJyfGU2OD5bvHCDE5vazh6bdLsqR0c8LQ/s1600/20151118_091847.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpjsW57E_rDoU0TXOQItjA9Y837-55QDrdRRRv-YyOsTVB9vdJkaI2yaXf3BW5j0KlgGlsjKR0Lm650eS4fWoi8WW2e__x1B00f13hf4sROuvJyfGU2OD5bvHCDE5vazh6bdLsqR0c8LQ/s640/20151118_091847.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_091847.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_091847.jpg" width="640" /></a>
   <br/>
   <em>Starter solenoid was rebuilt in 2015. </em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivnZCFF5rUt1s9MNhFNcUBjNtrawqpZcKLPRLP3-D8LDldLG1ATcf8BO8m6PHwsyG9fe-LmAom4VTi5ARxGcalS5b7jbTeS_fzrxLAbcUagao5bxUJClK5U2g5LY5DGjHLVUXbkbWMRSY/s1600/20151118_091852.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivnZCFF5rUt1s9MNhFNcUBjNtrawqpZcKLPRLP3-D8LDldLG1ATcf8BO8m6PHwsyG9fe-LmAom4VTi5ARxGcalS5b7jbTeS_fzrxLAbcUagao5bxUJClK5U2g5LY5DGjHLVUXbkbWMRSY/s640/20151118_091852.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_091852.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_091852.jpg" width="640" /></a>
   <br/>
   <em>Car wouldn't start August 2015 so put in a new Delphi MF0019 fuel pump</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDc2neT6z2OcOVWITZXVJ0f4xLNcuUFobALXJH3nbNdTbUIH-IWYXjlxCDFZPnXba2fUGyEbIQQP4icQcKisdRDoPdCUKEev6XJCED0tuipeNPHYn7NZs8GREr7Ab7h0Z-j5YfC5v0Dy4/s1600/20151118_091901.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDc2neT6z2OcOVWITZXVJ0f4xLNcuUFobALXJH3nbNdTbUIH-IWYXjlxCDFZPnXba2fUGyEbIQQP4icQcKisdRDoPdCUKEev6XJCED0tuipeNPHYn7NZs8GREr7Ab7h0Z-j5YfC5v0Dy4/s640/20151118_091901.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_091901.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_091901.jpg" width="640" /></a>
   <br/>
   <em>Motor mounts are solid but need cleaning</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRNUQrdvYXqLe3Zpn6-xuMRqIxhElewjgxt4WP-wwBI8iPv90K1y09piZPEalzZGwKymIbtoW-rWCCHlyPSeiTxyvPgzNotm-cK0mcC465rOe9iFX42AvCE0uyylkX2qa8D0-x05fPQbY/s1600/20151118_091911.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRNUQrdvYXqLe3Zpn6-xuMRqIxhElewjgxt4WP-wwBI8iPv90K1y09piZPEalzZGwKymIbtoW-rWCCHlyPSeiTxyvPgzNotm-cK0mcC465rOe9iFX42AvCE0uyylkX2qa8D0-x05fPQbY/s640/20151118_091911.jpg" width="360" /></a>
+  <a href="/assets/img/posts/20151118_091911.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="/assets/img/posts/20151118_091911.jpg" width="360" /></a>
   <br/>
   <em>Thermostat and water pump work fine, but need cleaning</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSrc4wY9-flwGc2WvqTKP2YgY7ZrBZyVVRsJjfXmkM5W-ys5BHOvuYnfnk_aFkP8FrN1Q34Eo1BHS_NT2nk_aBFjheE_bpX_qYaNtCG_VxEOg7BUN79NW3CqWpZbhZBrmgPjn5IolBXrs/s1600/20151118_091918.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSrc4wY9-flwGc2WvqTKP2YgY7ZrBZyVVRsJjfXmkM5W-ys5BHOvuYnfnk_aFkP8FrN1Q34Eo1BHS_NT2nk_aBFjheE_bpX_qYaNtCG_VxEOg7BUN79NW3CqWpZbhZBrmgPjn5IolBXrs/s640/20151118_091918.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_091918.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_091918.jpg" width="640" /></a>
   <br/>
   <em>Car had smog package when purchased - removed it and installed brass plugs</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaGhqKWkjaN7E87O6T9PeVPQiVUuLi-m5YZxeIHGD6L1PohYSo_1dnSKVBLByFfMePcLJxfnoAuDRdNyz5ZzbnX3zW-l7HOm5k1wmb0264X50iSYzowM3fbsq55D8TMr210I6tW2Qdw4o/s1600/20151118_091922.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaGhqKWkjaN7E87O6T9PeVPQiVUuLi-m5YZxeIHGD6L1PohYSo_1dnSKVBLByFfMePcLJxfnoAuDRdNyz5ZzbnX3zW-l7HOm5k1wmb0264X50iSYzowM3fbsq55D8TMr210I6tW2Qdw4o/s640/20151118_091922.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_091922.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_091922.jpg" width="640" /></a>
   <br/>
   <em>You can really see how much the valve cover leaked here</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIz3Zk5fJCdTtzHX8sBY4FS736OzBtmFMSKDkV0inChH80pHBtWJ6f7vchd7pZIaYCAaDUTZ-G38RAUW6IoH7rBRvSvHfcYFf2CCyEcjWUxyt8pvqc73Fcl1TUUuoGGahUMlxh4WHAW8Q/s1600/20151118_091933.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIz3Zk5fJCdTtzHX8sBY4FS736OzBtmFMSKDkV0inChH80pHBtWJ6f7vchd7pZIaYCAaDUTZ-G38RAUW6IoH7rBRvSvHfcYFf2CCyEcjWUxyt8pvqc73Fcl1TUUuoGGahUMlxh4WHAW8Q/s640/20151118_091933.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_091933.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_091933.jpg" width="640" /></a>
   <br/>
   <em>Years and grime and another filthy motor mount</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3UoYm2aI9XKHqZvsAnw8WS3PpY5dypIsriG2z8lIKgxtMEEKfwIcJOSaGY1SQKpj9lpgvWJ-9ihYDYYV9hK08ZznU-tHFzCrsvTZCzFNrrh_-eU3vf1RVqX_5cYdA7JoyFY_LpDIJtmo/s1600/20151118_091940.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3UoYm2aI9XKHqZvsAnw8WS3PpY5dypIsriG2z8lIKgxtMEEKfwIcJOSaGY1SQKpj9lpgvWJ-9ihYDYYV9hK08ZznU-tHFzCrsvTZCzFNrrh_-eU3vf1RVqX_5cYdA7JoyFY_LpDIJtmo/s640/20151118_091940.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_091940.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_091940.jpg" width="640" /></a>
   <br/>
   <em>Always hated the nuts on the exhaust manifold. Glad it's no more</em>
 </div>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6FsOHesOPS7-vFOGOj753vKJ1f1KZaZ1ZTy6b37v2fL8HgV4HW8bAhhPU0MlWAj-kFScPuqHZmzKYEMciOtJXVNjefD0MqR1EBMY0WTO73hXS5ejAg4TRkpuEybuHcnardEnZ9Ic5VJg/s1600/20151118_094257.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6FsOHesOPS7-vFOGOj753vKJ1f1KZaZ1ZTy6b37v2fL8HgV4HW8bAhhPU0MlWAj-kFScPuqHZmzKYEMciOtJXVNjefD0MqR1EBMY0WTO73hXS5ejAg4TRkpuEybuHcnardEnZ9Ic5VJg/s640/20151118_094257.jpg" width="640" /></a>
+<a href="/assets/img/posts/20151118_094257.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_094257.jpg" width="640" /></a>
 Exhaust manifold, intake manifold and carburetor removed. A good look at the
 bolt bosses in the intake ports. Check out the Head article for more info on them
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7mvMBhOrVXm0wet19SKEvPmfpPrh31z3NaHHOK-SuuPzOI5xZCBAw5brrRNxK4vdYGmLs_eGudL7zQPB_11Wwmx3DqKBeYJGUDb_P4qNjb3X7VMPtubMOgzEuGnbe6ZyOuTut66h9PKs/s1600/20151118_100239.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7mvMBhOrVXm0wet19SKEvPmfpPrh31z3NaHHOK-SuuPzOI5xZCBAw5brrRNxK4vdYGmLs_eGudL7zQPB_11Wwmx3DqKBeYJGUDb_P4qNjb3X7VMPtubMOgzEuGnbe6ZyOuTut66h9PKs/s640/20151118_100239.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_100239.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_100239.jpg" width="640" /></a>
   <br/>
   <em>Valve cover off, surprisingly clean in there despite all the orange paint</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4nQjWO9T4Dgh54b-8MQVq5Hc52k1XVvA9EkGftAbgIR-IbzLu2Oq3Wqu15VbRgmdEPKpds5VqvtdMD0RXts9iqSzQSSTOuWqNXYlE9KxcjRW3ji937QvrB3L1Ssz_mfVaOGRKArwod1Q/s1600/20151118_100257.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4nQjWO9T4Dgh54b-8MQVq5Hc52k1XVvA9EkGftAbgIR-IbzLu2Oq3Wqu15VbRgmdEPKpds5VqvtdMD0RXts9iqSzQSSTOuWqNXYlE9KxcjRW3ji937QvrB3L1Ssz_mfVaOGRKArwod1Q/s640/20151118_100257.jpg" width="360" /></a>
+  <a href="/assets/img/posts/20151118_100257.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="/assets/img/posts/20151118_100257.jpg" width="360" /></a>
   <br/>
   <em>Starter, Water pump and thermostat housing removed. First look inside the block. Still a lot of fluid in there</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0KInxXfLVYiGBXvwRBrQO-cU3bvksBuo8ClH1jBdkPC5EkLr9aZ3W8pi8X6V9Vq7zNKMy6jbGaDLJbNcRIaN0FMDcSrL31UIvNBj-mB-lcpR7UdEE-csavlQ4TAqAs1km590UVsnyTzU/s1600/20151118_102322.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0KInxXfLVYiGBXvwRBrQO-cU3bvksBuo8ClH1jBdkPC5EkLr9aZ3W8pi8X6V9Vq7zNKMy6jbGaDLJbNcRIaN0FMDcSrL31UIvNBj-mB-lcpR7UdEE-csavlQ4TAqAs1km590UVsnyTzU/s640/20151118_102322.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_102322.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_102322.jpg" width="640" /></a>
   <br/>
   <em>Head unbolted. Hard to do with the engine stand on wheels as those bolts are tight.</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqnpabaM_t5_eJ7oOT8UiVVFDkf_tHoYhsx6A7GjGWk4RRQTM8HxVa5Bhr8xyicSEFkd85bMiXQFCqQIdWS2KlmwPS9tszvP02HPIYEJDJyRjbUaZZlPhU8vyvsKvTUmwzuyLZ8jKFn4Y/s1600/20151118_102331.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqnpabaM_t5_eJ7oOT8UiVVFDkf_tHoYhsx6A7GjGWk4RRQTM8HxVa5Bhr8xyicSEFkd85bMiXQFCqQIdWS2KlmwPS9tszvP02HPIYEJDJyRjbUaZZlPhU8vyvsKvTUmwzuyLZ8jKFn4Y/s640/20151118_102331.jpg" width="360" /></a>
+  <a href="/assets/img/posts/20151118_102331.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="/assets/img/posts/20151118_102331.jpg" width="360" /></a>
   <br/>
   <em>Pistons don't look too bad actually and the deck is fairly smooth</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0dMczhv3TNVBLUXcIVEYMdELJ_Vs7QlZeG6tLd81IiWQ97B-kJ3sFTGuPguirbVoefRmOshkGSptPyqGk-_APSXHb8yUOsnryCZznX_BD9_DCgApcpCHWalqSiDiAyKIAGPWZWVO5M4w/s1600/20151118_102338.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0dMczhv3TNVBLUXcIVEYMdELJ_Vs7QlZeG6tLd81IiWQ97B-kJ3sFTGuPguirbVoefRmOshkGSptPyqGk-_APSXHb8yUOsnryCZznX_BD9_DCgApcpCHWalqSiDiAyKIAGPWZWVO5M4w/s640/20151118_102338.jpg" width="360" /></a>
+  <a href="/assets/img/posts/20151118_102338.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="/assets/img/posts/20151118_102338.jpg" width="360" /></a>
   <br/>
   <em>They don't look as good as you get closer. New forged ones are standing by anyway</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJGzFcoCrYhmm-lkYPDkvFPMDriKKzWMPx1X6dtrnaMbyE8vJ0hr10QfMymMrBmRoG6BIlT2-gAIHOPAttxd_G8SJnLwuaqgws96VgxKXDQP1H5khExNWc0mRAaA32Ii9EFcrkwEA-G_w/s1600/20151119_105253.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="356" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJGzFcoCrYhmm-lkYPDkvFPMDriKKzWMPx1X6dtrnaMbyE8vJ0hr10QfMymMrBmRoG6BIlT2-gAIHOPAttxd_G8SJnLwuaqgws96VgxKXDQP1H5khExNWc0mRAaA32Ii9EFcrkwEA-G_w/s640/20151119_105253.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151119_105253.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="356" src="/assets/img/posts/20151119_105253.jpg" width="640" /></a>
   <br/>
   <em>You might be able to see "60" on the piston. Yep, 0.060" oversized already</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidWlYOJRKG0psXY4MnrUDj10dzC3TagBP6g8pQIN9V7N4tAMnGQ8jLS444_VJFGoCoJkkl1RKHCoxcyekPGLqCbSpM1662u7T2b0WmHr0XvT3mQsNobb97U6a30pypO60IrAZGniPrLWU/s1600/20151118_114825.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidWlYOJRKG0psXY4MnrUDj10dzC3TagBP6g8pQIN9V7N4tAMnGQ8jLS444_VJFGoCoJkkl1RKHCoxcyekPGLqCbSpM1662u7T2b0WmHr0XvT3mQsNobb97U6a30pypO60IrAZGniPrLWU/s640/20151118_114825.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_114825.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_114825.jpg" width="640" /></a>
   <br/>
   <em>Spun the block over, removed the oil pan bolts</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6K617Dt2jMOQuc7XPezcb4uqWCMij5nwIJobBPP190fEupFUcUihP-xF4TWh_pEfu8c_4GD-GZEAJ2Ickyg0KAvp4WSEdDc8rANZJGU6CaZovAsFNt4w1iRrlDfp641826WTPaMPeK2M/s1600/20151118_114834.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6K617Dt2jMOQuc7XPezcb4uqWCMij5nwIJobBPP190fEupFUcUihP-xF4TWh_pEfu8c_4GD-GZEAJ2Ickyg0KAvp4WSEdDc8rANZJGU6CaZovAsFNt4w1iRrlDfp641826WTPaMPeK2M/s640/20151118_114834.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_114834.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_114834.jpg" width="640" /></a>
   <br/>
   <em>Oil filter, fuel pump and starter removed</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC6Wp0BZy_8rEmU7wn1vtsMz0JZiLO2XIpATufbGv34WAMB92E-SXnAsXTJnAv1T8CxEKaUqv4gYuZhdoArds_ETHMUhADhRJQkZ0tNaWHxQxFc18bk9URWtByqaa5RkKgFzGYC__nNbA/s1600/20151118_120543.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC6Wp0BZy_8rEmU7wn1vtsMz0JZiLO2XIpATufbGv34WAMB92E-SXnAsXTJnAv1T8CxEKaUqv4gYuZhdoArds_ETHMUhADhRJQkZ0tNaWHxQxFc18bk9URWtByqaa5RkKgFzGYC__nNbA/s640/20151118_120543.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_120543.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_120543.jpg" width="640" /></a>
   <br/>
   <em>Oil pan removed, front of the crank and oil pump</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwgqvKIZJ2RG-LjnOm342YdgpPmfoustOx3oCA1pOiu5hGDNo4KVlAy_uQ1GuIS441wjwR7tLpi8NHMXfeVujoOJh_-gaP_85Tu8MIo8_Dd5H8j_YxNAjZYQcKc3gE14F6S0X7WtsytbY/s1600/20151118_120548.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwgqvKIZJ2RG-LjnOm342YdgpPmfoustOx3oCA1pOiu5hGDNo4KVlAy_uQ1GuIS441wjwR7tLpi8NHMXfeVujoOJh_-gaP_85Tu8MIo8_Dd5H8j_YxNAjZYQcKc3gE14F6S0X7WtsytbY/s640/20151118_120548.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_120548.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_120548.jpg" width="640" /></a>
   <br/>
   <em>Back of the crank and oil pump head</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWJCglfJUrnrbHrd9W7ryv8xKdpgGKjvAOxQgxMLgNM2fwKw0hH6C4G7883CEZyKqzek_0VJK9hmB4fCIo6H0ciPuNJh-udlbWLiC9mZPaCUoFXRIXXAqIXJ03mo0Do7zkd1GCKeKVsGQ/s1600/20151118_120558.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWJCglfJUrnrbHrd9W7ryv8xKdpgGKjvAOxQgxMLgNM2fwKw0hH6C4G7883CEZyKqzek_0VJK9hmB4fCIo6H0ciPuNJh-udlbWLiC9mZPaCUoFXRIXXAqIXJ03mo0Do7zkd1GCKeKVsGQ/s640/20151118_120558.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_120558.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_120558.jpg" width="640" /></a>
   <br/>
   <em>The underside of the engine from a few feet back. Removed the dipstick by just wiggling it out</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk1dHNYvyzl3pHK08NMjzJlOqGE6Azh81EFjju_ADsJiy5JkVsL-9NuJemYQNqFrjMhiC63w7xWKVImUd0ZlHAwuH2Jjvfp7699JlzJ3Vx4042XY7XGHfBi232Nizx_ekiNH5mwnw_1d8/s1600/20151118_120605.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk1dHNYvyzl3pHK08NMjzJlOqGE6Azh81EFjju_ADsJiy5JkVsL-9NuJemYQNqFrjMhiC63w7xWKVImUd0ZlHAwuH2Jjvfp7699JlzJ3Vx4042XY7XGHfBi232Nizx_ekiNH5mwnw_1d8/s640/20151118_120605.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151118_120605.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_120605.jpg" width="640" /></a>
   <br/>
   <em>Underside of the engine from the other side</em>
 </div>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAkt_mBo9IHO3W9DsFOHtTph595GL02h8ikH2m2wtNnjU7hir-N14AlW58C4nDymax3RWy-4zCaA__R5tpQa1hST6Y5kw21lfPu7BrTOKsGv58xRI-NaurJJGENAeCXkO71VJ3WYdQfNI/s1600/20151118_120613.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAkt_mBo9IHO3W9DsFOHtTph595GL02h8ikH2m2wtNnjU7hir-N14AlW58C4nDymax3RWy-4zCaA__R5tpQa1hST6Y5kw21lfPu7BrTOKsGv58xRI-NaurJJGENAeCXkO71VJ3WYdQfNI/s640/20151118_120613.jpg" width="640" /></a>
+<a href="/assets/img/posts/20151118_120613.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_120613.jpg" width="640" /></a>
 A good look at how the oil pump mounts. This might not be so obvious
 when it comes time to put it back together
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnbNWFRvPgKO_YY_AhTWZ_jAxbudjKdpuFmuzYEpoXTY765IaFMS2ikHi77JTZXmSf6dgmFndDON9RYBD40B5MveQWaNX2SDHmoRAfEXEFZsNPJ7lWZrqGADeS_J2t0YfhguccOEhNKdg/s1600/20151119_090858.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="356" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnbNWFRvPgKO_YY_AhTWZ_jAxbudjKdpuFmuzYEpoXTY765IaFMS2ikHi77JTZXmSf6dgmFndDON9RYBD40B5MveQWaNX2SDHmoRAfEXEFZsNPJ7lWZrqGADeS_J2t0YfhguccOEhNKdg/s640/20151119_090858.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20151119_090858.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="356" src="/assets/img/posts/20151119_090858.jpg" width="640" /></a>
   <br/>
   <em>Removed the side covers and used a pair of needle nose pliers to pull the lifters out. They're garbage</em>
 </div>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT7LzMFCNsEW-uVVHmeaCnI79v5T5deYGDz7TLbUhLvo7Nijef26PV9-kVanKudiRFVTLTXS0v8SyUHLLnWqzFtgPPXaM0cRIGX7BVnVBnxEQGu8obQyeRD0RFZAGuMYj5CxgA9jP_wDs/s1600/20151119_092628.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT7LzMFCNsEW-uVVHmeaCnI79v5T5deYGDz7TLbUhLvo7Nijef26PV9-kVanKudiRFVTLTXS0v8SyUHLLnWqzFtgPPXaM0cRIGX7BVnVBnxEQGu8obQyeRD0RFZAGuMYj5CxgA9jP_wDs/s640/20151119_092628.jpg" width="360" /></a>
+<a href="/assets/img/posts/20151119_092628.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="/assets/img/posts/20151119_092628.jpg" width="360" /></a>
 Timing cover removed to expose the crank and cam gears. The
 stock cam gear is a fibre material. It will be replaced with a ComCams
 aluminium gear. Rotate the gear until the thrust plate bolts are visible through
@@ -202,7 +202,7 @@ proceed. It is easier to do this with the block upside down and the crankshaft�
 removed. Slide it out slowly to avoid doing damage to
  the thrust plate. 
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS5OEsJdyo3r5vbnPQGTDRNdXV92ce-o3HWfutU8zX2zaqoPo0pMTcM2c3nzdZVbuzzSzTBPj0wpVGt1IkePkHRyaajZ94rftkSYKM_V-SopAZLXF22tRP5pDlw81mnvObewlUBF90nQQ/w1186-h667-no/"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="356" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS5OEsJdyo3r5vbnPQGTDRNdXV92ce-o3HWfutU8zX2zaqoPo0pMTcM2c3nzdZVbuzzSzTBPj0wpVGt1IkePkHRyaajZ94rftkSYKM_V-SopAZLXF22tRP5pDlw81mnvObewlUBF90nQQ/w1186-h667-no/" width="640" /></a>
+<a href="/assets/img/posts/"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="356" src="/assets/img/posts/" width="640" /></a>
 
 Connecting rods unbolted and pulled out of the top of the block with pistons. 
 
@@ -212,23 +212,23 @@ to cylinder walls. Spare hose or duct tape works well. Re-fasten the rod caps to
 
 the original rod. The stock rods are forged and will be reused. 
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_ImQ91f_QHiu4HIKULc6wLHRMoKRP3IMVeZwbhHr65oQ5bOqt6nQbORlaYhc7iDvXQN8Mu1B24bFRNuSeeEICwS6OxsQN8V1jpLvka1G0tamsjxFZRAY_IzPqTLUBvzoRLGSfptbV6xg/s1600/20151119_125433.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="356" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_ImQ91f_QHiu4HIKULc6wLHRMoKRP3IMVeZwbhHr65oQ5bOqt6nQbORlaYhc7iDvXQN8Mu1B24bFRNuSeeEICwS6OxsQN8V1jpLvka1G0tamsjxFZRAY_IzPqTLUBvzoRLGSfptbV6xg/s640/20151119_125433.jpg" width="640" /></a>
+<a href="/assets/img/posts/20151119_125433.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="356" src="/assets/img/posts/20151119_125433.jpg" width="640" /></a>
 
 If you have a wrist pin removal tool or small press you can remove the
 
 old pistons, otherwise you can have the shop remove them for you
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-XpFbc4mKF-9I_-Rod4T5E7Wjjg-1xn9_99az0nqGWNY1oINVmvZ3uE8MDpQseJOuyoj2jVIkecWjRhDS5ucQO3z_cK9taL0Gw2shCNmZEY5QH3cupen0es8gBmYiGYNQ7kro4_bwp2I/s1600/20151119_125441.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="356" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-XpFbc4mKF-9I_-Rod4T5E7Wjjg-1xn9_99az0nqGWNY1oINVmvZ3uE8MDpQseJOuyoj2jVIkecWjRhDS5ucQO3z_cK9taL0Gw2shCNmZEY5QH3cupen0es8gBmYiGYNQ7kro4_bwp2I/s640/20151119_125441.jpg" width="640" /></a>
+<a href="/assets/img/posts/20151119_125441.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="356" src="/assets/img/posts/20151119_125441.jpg" width="640" /></a>
 With the oil pump, connecting rods and pistons removed, you can unbolt and remove the
 crankshaft. Brace the stand as the bolts will be tight. Be sure to have a soft place to put
 the crank down, it's longer and heavier than it's V8 counterparts and you don't want to damage
 it. Loosely bolt the caps back in their original spots for transport to the machine shop. 
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3ABlBr8Vj2J00WNq-xnNvS5YRtWGk8TUnYg3hSxEo627XJolL-uJZs4ucdQNF8_DQBrn5qAxOxTJU1nVHjyFqFVv7yfslgG1FISJyEmrOOAmPeUr5MRZkpIwAFUqco1vX67zljc0GSSE/s1600/20160206_154003.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3ABlBr8Vj2J00WNq-xnNvS5YRtWGk8TUnYg3hSxEo627XJolL-uJZs4ucdQNF8_DQBrn5qAxOxTJU1nVHjyFqFVv7yfslgG1FISJyEmrOOAmPeUr5MRZkpIwAFUqco1vX67zljc0GSSE/s640/20160206_154003.jpg" width="480" /></a>
+<a href="/assets/img/posts/20160206_154003.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="/assets/img/posts/20160206_154003.jpg" width="480" /></a>
 New Fel-Pro complete engine gasket set. All of these gaskets will
 be used with the exception of the head gasket (see below)
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBY_ILvuwuhI461CFtYOKGtSljNtI0yrYJUmPqjGmvd4cWiGojUs0GyhjvSL_J5xP8UwiWFruKP0hqr6luLvQcE5i-UL8v8GkTOziygZasYBMW33G0H3aMHbHnGDeHwpVHnvHZA5Vl29I/s1600/20160206_154013.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBY_ILvuwuhI461CFtYOKGtSljNtI0yrYJUmPqjGmvd4cWiGojUs0GyhjvSL_J5xP8UwiWFruKP0hqr6luLvQcE5i-UL8v8GkTOziygZasYBMW33G0H3aMHbHnGDeHwpVHnvHZA5Vl29I/s640/20160206_154013.jpg" width="480" /></a>
+<a href="/assets/img/posts/20160206_154013.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="/assets/img/posts/20160206_154013.jpg" width="480" /></a>
 Felpro Performance head gasket for racing and turbocharged applications.
 This gasket was close to the same price as the complete gasket kit but with only a
 couple performance head gaskets available, it's unavoidable.
@@ -239,12 +239,12 @@ The machine shop quickly advised the 0.060" oversized cylinders were very usable
 
 On March 18 2016, the parts were picked up from the Machine shop and brought home. The block had been done for a while so it had accumulated a bit of surface rust. The block was checked for extra slag and casting before it was sanded, cleaned and painted with VHT Metallic Black Pearl. The process was filmed and posted here.
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHeH7j3fEzL0-AKxdpVRNC08hJdmrssDcfJH8Mp7sn76UBzHf72ifCpaPwlhvYj9qlbhOYNC9F843XTNgiGKjwEp0PfB87NyiQVx9yapbqsSCsJKxY6BhV_3gkf8JBztY0zcVYfJ_Oxzs/s1600/IMG_20160324_112737.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHeH7j3fEzL0-AKxdpVRNC08hJdmrssDcfJH8Mp7sn76UBzHf72ifCpaPwlhvYj9qlbhOYNC9F843XTNgiGKjwEp0PfB87NyiQVx9yapbqsSCsJKxY6BhV_3gkf8JBztY0zcVYfJ_Oxzs/s640/IMG_20160324_112737.jpg" width="640" /></a>
+<a href="/assets/img/posts/IMG_20160324_112737.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="480" src="/assets/img/posts/IMG_20160324_112737.jpg" width="640" /></a>
 
 Block had some surface rust but after some sanding, cleaning and masking it was ready for paint. (<a href="https://www.youtube.com/watch?v=LFl2QXqrkSQ" target="_blank">see video</a>) 
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-t0n1m26TM3mf8vC-gFX3CcGyeUcz-fK4IYxDq_2E2aFfyABp7K6fBtvK0tX-j7zTBlYl0ZYyp_I-1BUWTSJJK_Mi80ntydaQvEa4nHZtEXIbGwFXzFZRZV8_izRQDmV1GzeopxGgFHQ/s1600/20160324_163837.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="480" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-t0n1m26TM3mf8vC-gFX3CcGyeUcz-fK4IYxDq_2E2aFfyABp7K6fBtvK0tX-j7zTBlYl0ZYyp_I-1BUWTSJJK_Mi80ntydaQvEa4nHZtEXIbGwFXzFZRZV8_izRQDmV1GzeopxGgFHQ/s640/20160324_163837.jpg" width="640" /></a>
+  <a href="/assets/img/posts/20160324_163837.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="480" src="/assets/img/posts/20160324_163837.jpg" width="640" /></a>
   <br/>
   <em>Block painted with a VHT Metallic Black Pearl spray bomb. The engine re-build as officially started. (<a href="https://www.youtube.com/watch?v=LFl2QXqrkSQ" target="_blank">see video</a>)</em>
 </div>
@@ -274,25 +274,25 @@ The head was then bolted onto the block using the Felpro 1025 head gasket (pictu
 With most of the long block assembled, it was time to bring the engine home. An engine hoist was rented for about $30 and in about an hour the engine was back in the bay.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYeKPSEYAN7JLmx5nnxFy7NHNqiYs1oktJ7wCAdpK4BsTnMQIHJOSXYTZFTFrq0wMwu-3EKXsEl5wjCrFHfJvtHK4SNcyW2svxnq_XvXawgq-J2YkekAbYms85PKgGqNfuy5pup6We6Xg/w903-h677-no/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="472" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYeKPSEYAN7JLmx5nnxFy7NHNqiYs1oktJ7wCAdpK4BsTnMQIHJOSXYTZFTFrq0wMwu-3EKXsEl5wjCrFHfJvtHK4SNcyW2svxnq_XvXawgq-J2YkekAbYms85PKgGqNfuy5pup6We6Xg/w903-h677-no/" width="640" /></a>
+  <a href="/assets/img/posts/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="472" src="/assets/img/posts/" width="640" /></a>
   <br/>
   <em>Fresh Chevy 250 ready for transplant</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg3xPdfeO03RN51StTG9JkEyJAQHGipBStTqfWeSrzULEVWOCycgGbjtygChq3tCnbJxctOy7f6IBdV7xF5nzLigvKu21aAlxJi96O9j9amxTWJcfIadDDxX5S71AgX-SGSNUukEs4AQ4/w903-h677-no/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="474" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg3xPdfeO03RN51StTG9JkEyJAQHGipBStTqfWeSrzULEVWOCycgGbjtygChq3tCnbJxctOy7f6IBdV7xF5nzLigvKu21aAlxJi96O9j9amxTWJcfIadDDxX5S71AgX-SGSNUukEs4AQ4/w903-h677-no/" width="640" /></a>
+  <a href="/assets/img/posts/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="474" src="/assets/img/posts/" width="640" /></a>
   <br/>
   <em>The motor was pulled by separating the flexplate from the torque converter. The Turbo 350 transmission had a shift kit installed last year so there was no need to pull it with the motor. </em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBkpsgEV5l0MWUuyG8rRnWFLnCBIt2CIBZVpLPsmfi20lk88TFnjOCwazq_VWxDg_U4kHpx1Dff1mK6n_gEUVUymHAUmMgf9CX5gKp7m2oTiSsoJQcObBbZMMnrmkHckpJ3UQDRUw3s8/w903-h677-no/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="474" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVBkpsgEV5l0MWUuyG8rRnWFLnCBIt2CIBZVpLPsmfi20lk88TFnjOCwazq_VWxDg_U4kHpx1Dff1mK6n_gEUVUymHAUmMgf9CX5gKp7m2oTiSsoJQcObBbZMMnrmkHckpJ3UQDRUw3s8/w903-h677-no/" width="640" /></a>
+  <a href="/assets/img/posts/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="474" src="/assets/img/posts/" width="640" /></a>
   <br/>
   <em>The motor mount bolts were shabby but a quick trip to the hardware store solved that. New spacers were created out of a piece of pipe. That pipe, the fuel pump and the carburetor are the only parts that didn't get painted. The bolts connecting the block to the transmission are difficult to get started but a ratcheting box end wrench makes short work of the limited space. </em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkx0ECXI0EXbBa369WDf-MjQ8Uje52YgiXzaOkk7_Zvw_zQkFc5rAMjw66fGvYYBp4-hVlJ6yap-y4K6TdBBplDlLutZd4o84cXyAnoFEzdtvaQW9nNMmv3BiM0lnkDECLQi8NPaEqrHU/w381-h677-no/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkx0ECXI0EXbBa369WDf-MjQ8Uje52YgiXzaOkk7_Zvw_zQkFc5rAMjw66fGvYYBp4-hVlJ6yap-y4K6TdBBplDlLutZd4o84cXyAnoFEzdtvaQW9nNMmv3BiM0lnkDECLQi8NPaEqrHU/w381-h677-no/" width="360" /></a>
+  <a href="/assets/img/posts/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="/assets/img/posts/" width="360" /></a>
   <br/>
   <em>The block wasn't the only part painted. The Offenhauser script was finger painted on. The oil fill cap was replaced with a <a href="{% post_url 2016-02-07-breathers %}" target="_blank">Spectre chrome breather</a> and the PCV was replaced with a matching <a href="{% post_url 2016-02-07-breathers %}" target="_blank">chrome Spectre PCV</a>. This is a good picture to notice the lack of modern carb adapter plate on the manifold.</em>
 </div>
@@ -300,24 +300,24 @@ With most of the long block assembled, it was time to bring the engine home. An 
 The intake manifold, an <a href="{% post_url 2016-02-07-manifolds %}" target="_blank">Offenhauser 5416 and the Chevy 292 exhaust manifold</a> do not come as a factory unit so they do not always mesh well. Be sure to mock up your build prior to paint and final assembly as you will likely need to grind here and there to make things fit. A 2 part video series was filmed regarding the fitment of the manifolds and parts required to fit the carburetor.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBmx_qb7VYXA8NTgzlsVQZUvL3KBVlyMD14J_RX2uECs7sH170B-RohHHsGrNrEoxpbBKBkkLxpZSUxzdXqKeWrp2WLZMzBesDvHD0w5i5AWh1VHnk0GAgz0KikwFGEwU7h0kau69UBRg/w903-h677-no/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="474" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBmx_qb7VYXA8NTgzlsVQZUvL3KBVlyMD14J_RX2uECs7sH170B-RohHHsGrNrEoxpbBKBkkLxpZSUxzdXqKeWrp2WLZMzBesDvHD0w5i5AWh1VHnk0GAgz0KikwFGEwU7h0kau69UBRg/w903-h677-no/" width="640" /></a>
+  <a href="/assets/img/posts/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="474" src="/assets/img/posts/" width="640" /></a>
   <br/>
   <em>The manifolds are painted and torqued to the head. We had to wait almost a week for the 1/2" carb spacer and Trans-Dapt 2090 adapter plate. Both the spacer and adapter were required to mount the more modern Holley 4776 4 barrel carburetor. If your Offenhauser 5416 already has the plate, you'll just need the spacer for the throttle linkage to clear the intake flange. </em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-W_Hrxefu7AFf1YoLJw84fZC4__JyemU5YnyfzNiGA9mrCAJXZVHnuGnYeFQuXCG5RncheHAb6C8hvWw-U_aI5uRHyL90VxHFQg5ym1fi09Q3K1HR8CHArMdIGUhYuhWKjecPbFR5X1k/w1204-h677-no/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="354" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-W_Hrxefu7AFf1YoLJw84fZC4__JyemU5YnyfzNiGA9mrCAJXZVHnuGnYeFQuXCG5RncheHAb6C8hvWw-U_aI5uRHyL90VxHFQg5ym1fi09Q3K1HR8CHArMdIGUhYuhWKjecPbFR5X1k/w1204-h677-no/" width="640" /></a>
+  <a href="/assets/img/posts/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="354" src="/assets/img/posts/" width="640" /></a>
   <br/>
   <em>The final manifold setup was fairly simple but seemed to take forever to get right. Offenhauser 5416, gasket, Trans Dapt 2090 adapter, gasket, black 1/2" phenolic spacer, <a href="http://www.turbocamaro.ca/2016/02/carburetor.html" target="_blank">Holley 4776 carburetor</a>, ring gasket and finally a Spectre 9849 Plenum. With all this there is only about a 1/2" for hood clearance but it's enough to get a wing nut up there to hold it all together. </em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWXRCM80L3-iw7NZPjckCrmymOGWf-lpOuGpS8CSFLelFrSVRFWBUiKnV_mS4Es_RjLEaknNnZfnNk1u922YHvjQJtX78MKNG7In36_F3jT1NI0hyphenhyphenmhKbrAuTPULnmez_XerpCumYjPxM/w1204-h677-no/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="354" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWXRCM80L3-iw7NZPjckCrmymOGWf-lpOuGpS8CSFLelFrSVRFWBUiKnV_mS4Es_RjLEaknNnZfnNk1u922YHvjQJtX78MKNG7In36_F3jT1NI0hyphenhyphenmhKbrAuTPULnmez_XerpCumYjPxM/w1204-h677-no/" width="640" /></a>
+  <a href="/assets/img/posts/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="354" src="/assets/img/posts/" width="640" /></a>
   <br/>
   <em>The initial timing was set for TDC and the distributor loosely clamped down. Radiator reinstalled and all associated hoses and fittings secured. </em>
 </div>
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPicvkpj5UqKHUAf-J5TWzEw9UEY6twHPRmaFHYMD5o6kHn6cG9TO4D4x52gYTqiAKkyAGwEgssJjglsm3HQOa2VcSQl0c4xF0YofIEpj2NnwjqK5sDGujfabfDwEO7ySj444IcNxIT-U/s1600/Engine+Checklist.png"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPicvkpj5UqKHUAf-J5TWzEw9UEY6twHPRmaFHYMD5o6kHn6cG9TO4D4x52gYTqiAKkyAGwEgssJjglsm3HQOa2VcSQl0c4xF0YofIEpj2NnwjqK5sDGujfabfDwEO7ySj444IcNxIT-U/s640/Engine+Checklist.png" width="490" /></a>
+<a href="/assets/img/posts/Engine+Checklist.png"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="/assets/img/posts/Engine+Checklist.png" width="490" /></a>
 We created this Chevy 250 build specific engine pre-ignition checklist.
 <a href="http://www.mediafire.com/download/66bym0t2zt3yq97/Engine_Checklist.pdf" target="_blank">Download it here</a> and check the boxes before you break in your new engine.
 

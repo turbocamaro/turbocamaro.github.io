@@ -6,13 +6,13 @@ tags: [blogger]
 ---
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMMJS6yDgbvqRbMTRqqQDSw5O4fTNJ14jpD3rw8oXozxtjn6W6i67_Lgi84Hzj9QCSK3RIPpxzeoGv0HVluDQWzrXqTz_lQH-9cXCcXj0ojZbp0Rua4h0oQtBz0cBxOsWlEtn6611uGyw/s1600/20151118_100248.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="177" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMMJS6yDgbvqRbMTRqqQDSw5O4fTNJ14jpD3rw8oXozxtjn6W6i67_Lgi84Hzj9QCSK3RIPpxzeoGv0HVluDQWzrXqTz_lQH-9cXCcXj0ojZbp0Rua4h0oQtBz0cBxOsWlEtn6611uGyw/s320/20151118_100248.jpg" width="320" /></a>
+  <a href="/assets/img/posts/20151118_100248.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="177" src="/assets/img/posts/20151118_100248.jpg" width="320" /></a>
   <br/>
   <em>Turbo Camaro's head and valve train pre-rebuild</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQfwx14-2GlqfmDMgg3sfIXE7sM3UlXwqF_moEANUw5OknSmM1ccg3wzJ9QB_Rpx9wtJ6ycrWeZTYSy29WB7LIm8cSDyh-hdpOy2U_TvalDneBqXVHHI8njh8BhFLiQY63WLxIRKvxfFk/s1600/20160206_154818.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQfwx14-2GlqfmDMgg3sfIXE7sM3UlXwqF_moEANUw5OknSmM1ccg3wzJ9QB_Rpx9wtJ6ycrWeZTYSy29WB7LIm8cSDyh-hdpOy2U_TvalDneBqXVHHI8njh8BhFLiQY63WLxIRKvxfFk/s320/20160206_154818.jpg" width="320" /></a>
+  <a href="/assets/img/posts/20160206_154818.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="/assets/img/posts/20160206_154818.jpg" width="320" /></a>
   <br/>
   <em>Semi-dismantled Chevy 250 head</em>
 </div>
@@ -25,7 +25,7 @@ As mentioned all over the internet, if you had to focus you attention on one par
 <li>Complete a full intake and exhaust port job
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXgXhqfKkKkcMnfVzpzSH4ehdi84szmLtMjz0IPWH0hpJt7h-X1pnj06HU4owOpoGdnFxydEyuTOk4p3ZHtCdNaUeDzsAdN2XliVl5b8aMNFgd8dNF8W6DtWaulmS8EhAVaajq2OTgOyI/s1600/HeadWork.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="120" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXgXhqfKkKkcMnfVzpzSH4ehdi84szmLtMjz0IPWH0hpJt7h-X1pnj06HU4owOpoGdnFxydEyuTOk4p3ZHtCdNaUeDzsAdN2XliVl5b8aMNFgd8dNF8W6DtWaulmS8EhAVaajq2OTgOyI/s200/HeadWork.jpg" width="200" /></a>
+  <a href="/assets/img/posts/HeadWork.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="120" src="/assets/img/posts/HeadWork.jpg" width="200" /></a>
   <br/>
   <em>Hi-Flow lump kit for Chevy inline 6's</em>
 </div>
@@ -46,13 +46,13 @@ When the lump kit was installed in Turbo Camaro, it was filmed and uploaded belo
 
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiExz8gpIet2lvAaPWxTNZX-LFxKFEGv7wkM5C9sDG1cOE_4GXXu5W6n0xCEsNumTCRNPaFlvq5xTIdhWkA-FZrIX2QkJRPbLDPMU_eiHu7AmqbkEL_fuByX5o4yWyuKmEYfdlxjGJVxZM/s1600/20160206_154742.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiExz8gpIet2lvAaPWxTNZX-LFxKFEGv7wkM5C9sDG1cOE_4GXXu5W6n0xCEsNumTCRNPaFlvq5xTIdhWkA-FZrIX2QkJRPbLDPMU_eiHu7AmqbkEL_fuByX5o4yWyuKmEYfdlxjGJVxZM/s200/20160206_154742.jpg" width="200" /></a>
+  <a href="/assets/img/posts/20160206_154742.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="/assets/img/posts/20160206_154742.jpg" width="200" /></a>
   <br/>
   <em>Valves are waiting to be cleaned and lapped</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgllQiGPKEoE6c8Mgd-GjHWvbnSS9pBOMB-7m1QxYf8oKRoAsvr8VZDYzQsPgLdxvZiL_ROlkEKCj8DWd2Gk7eNgDu2S3WO_yVROhMHLdK6sNN7sCKioqGARo42RIz6kwl2Sk71FjlezgY/s1600/20160206_154716.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgllQiGPKEoE6c8Mgd-GjHWvbnSS9pBOMB-7m1QxYf8oKRoAsvr8VZDYzQsPgLdxvZiL_ROlkEKCj8DWd2Gk7eNgDu2S3WO_yVROhMHLdK6sNN7sCKioqGARo42RIz6kwl2Sk71FjlezgY/s200/20160206_154716.jpg" width="200" /></a>
+  <a href="/assets/img/posts/20160206_154716.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="/assets/img/posts/20160206_154716.jpg" width="200" /></a>
   <br/>
   <em>Valve stems pushed through a pizza box</em>
 </div>
@@ -82,7 +82,7 @@ When you replace or reinstall springs you need to consider some key specs. The a
 
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXomCOdOCVQlX_GQj_I_UQFoe2WRcgK4LcB-VuqTtPOv22ZUixjqm5JxJJNc-UJGj9xiFKHOlzrZ8Pll3tRIoAEquf0kObRElNiWnwq3QSGzvs934cKoUvy2dwnLRwcqGy_CkBK7tDJnE/s1600/20160413_202153.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="295" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXomCOdOCVQlX_GQj_I_UQFoe2WRcgK4LcB-VuqTtPOv22ZUixjqm5JxJJNc-UJGj9xiFKHOlzrZ8Pll3tRIoAEquf0kObRElNiWnwq3QSGzvs934cKoUvy2dwnLRwcqGy_CkBK7tDJnE/s400/20160413_202153.jpg" width="400" /></a>
+  <a href="/assets/img/posts/20160413_202153.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="295" src="/assets/img/posts/20160413_202153.jpg" width="400" /></a>
   <br/>
   <em>Head ported, lumped and painted. Valve job complete and springs/rockers installed with valve cover.</em>
 </div>
@@ -90,7 +90,7 @@ When you replace or reinstall springs you need to consider some key specs. The a
 In the Summer of 2017, the cylinder head was pulled and properly machined. While it was off, it was ported and larger 1.84' intake and 1.6" valves, seats and inserts were installed. A noticeable power increase was obtained from this as the valves allow more airflow and flow in the inline engines is always in demand. The valve guides were also cut to allow for positive valve seals to be used instead of the stock o-rings. The performance springs and original rockers/studs were used for the upgrade.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehHFnp8NgBQa92k5Fd9l71x9ILm8vMrZDYilUWGBgFjiqAwLh5Bgsm16b4tBKP1r8M0tIiwbzmCHry6srTcFKSX1XFcXhLjSIW_ZAa1yCGOK0WGS4AVsxeL7OlUqNoJouB4TBMKhux_g/s1600/20170410_150136.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="900" data-original-width="1600" height="225" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehHFnp8NgBQa92k5Fd9l71x9ILm8vMrZDYilUWGBgFjiqAwLh5Bgsm16b4tBKP1r8M0tIiwbzmCHry6srTcFKSX1XFcXhLjSIW_ZAa1yCGOK0WGS4AVsxeL7OlUqNoJouB4TBMKhux_g/s400/20170410_150136.jpg" width="400" /></a>
+  <a href="/assets/img/posts/20170410_150136.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="900" data-original-width="1600" height="225" src="/assets/img/posts/20170410_150136.jpg" width="400" /></a>
   <br/>
   <em>Freshly installed over-sized valves</em>
 </div>

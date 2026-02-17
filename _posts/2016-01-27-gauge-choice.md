@@ -12,7 +12,7 @@ Gauges are a critical component to a vehicle. Consider them to be the window to 
 Turbo Camaro is undergoing a transformation from a base model straight six to a turbocharged street demon. That's forced induction being fed by a <a href="http://www.turbocamaro.ca/2016/02/carburetor.html" target="_blank">Holley 4776 600cfm double pumper with mechanical secondaries</a>. For those who missed the point, it's carbureted, meaning no fuel injection or fancy learning computers to tune everything automatically. So, a turbo car needs a boost gauge, and a lot of boost gauges have a split meter, showing vacuum (- pressure) on the left and boost (+ pressure) on the right. That's two gauges in one, fantastic. 
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0g1hEGx45rRYy3p681mSZ5roU8t105_T21UuScJsxvk22mWOVyg7VVgFhY4IPZQvR-Q460E1lXmyk31ES7nxWOTB0GdNeUgDLJctsygWAN2TFRrNY8D4GbPvh4MysRBXidf7E_mlzaeY/s1600/4gaugepod.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0g1hEGx45rRYy3p681mSZ5roU8t105_T21UuScJsxvk22mWOVyg7VVgFhY4IPZQvR-Q460E1lXmyk31ES7nxWOTB0GdNeUgDLJctsygWAN2TFRrNY8D4GbPvh4MysRBXidf7E_mlzaeY/s320/4gaugepod.JPG" width="320" /></a>
+  <a href="/assets/img/posts/4gaugepod.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/4gaugepod.JPG" width="320" /></a>
   <br/>
   <em>Custom 4 gauge console pod for Turbo Camaro's gauges.</em>
 </div>
@@ -24,7 +24,7 @@ The Vacuum/Boost and AFR gauges are all you really need for tuning, but what abo
 Turbo Camaro will keep its stock odometer, speedometer and fuel gauge but with the use of the <a href="{% post_url 2016-01-27-console-pod %}" target="_blank">custom four gauge console pod</a>, a 52mm AEM Wideband AFR, VDO Oil Pressure, VDO Vacuum/Boost and VDO Voltmeter gauge will be installed. A larger tachometer might be installed on the column at a later time. 
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOGaHfnttzq7Tm2NOUjLjQbwcKvLsBz2oJjZWvJTlvb1IaXHU5sVxcHC72D7Q28pb7FwSp81F9IagjdOe8ds-TQzQwEMs6X7nC9INf37kIJKU68CzRD7iKb5WVl2hKQqPDvsuxmfoCTJU/s1600/gauges.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOGaHfnttzq7Tm2NOUjLjQbwcKvLsBz2oJjZWvJTlvb1IaXHU5sVxcHC72D7Q28pb7FwSp81F9IagjdOe8ds-TQzQwEMs6X7nC9INf37kIJKU68CzRD7iKb5WVl2hKQqPDvsuxmfoCTJU/s1600/gauges.jpg" /></a>
+  <a href="/assets/img/posts/gauges.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  src="/assets/img/posts/gauges.jpg" /></a>
   <br/>
   <em>Turbo Camaro's gauge selection - Oil Pressure, Vac/Boost, AFR and Voltmeter.</em>
 </div>

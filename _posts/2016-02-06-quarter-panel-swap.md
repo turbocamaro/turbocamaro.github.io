@@ -5,12 +5,12 @@ categories: [Build]
 tags: [blogger]
 ---
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY-84e1TqaGazRq_A1bXPtS-pDEiNZ3di-NhuXjtLIV6RCXHuZcJ312Oz5eP9g31FSyrSyEJrL1weN1PLxLGkD8Coyck1qcNtb38ol-pWZKoFCzSzBAH7J7v5ki-rsVntkiOEa9z6K5A8/s1600/Photo0230.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="236" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY-84e1TqaGazRq_A1bXPtS-pDEiNZ3di-NhuXjtLIV6RCXHuZcJ312Oz5eP9g31FSyrSyEJrL1weN1PLxLGkD8Coyck1qcNtb38ol-pWZKoFCzSzBAH7J7v5ki-rsVntkiOEa9z6K5A8/s320/Photo0230.jpg" width="320" /></a>
+<a href="/assets/img/posts/Photo0230.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="236" src="/assets/img/posts/Photo0230.jpg" width="320" /></a>
 
 Original quarter panel was spliced together
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOoE11tXO4EVN9PYZ6RDLyEfYxixEvqm4Y1o1iS5-98AeDwOm5V6SkrVfsuOm373hvW2HnsxM4Gtv9N75qCOyYdgQ9n73vohpl9rVcl9C67rukgLkl1pC7Nycgvdif6l3H0XXk1mIs8Lk/s1600/spotweld+cutter.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOoE11tXO4EVN9PYZ6RDLyEfYxixEvqm4Y1o1iS5-98AeDwOm5V6SkrVfsuOm373hvW2HnsxM4Gtv9N75qCOyYdgQ9n73vohpl9rVcl9C67rukgLkl1pC7Nycgvdif6l3H0XXk1mIs8Lk/s200/spotweld+cutter.jpg" width="200" /></a>
+  <a href="/assets/img/posts/spotweld+cutter.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="200" src="/assets/img/posts/spotweld+cutter.jpg" width="200" /></a>
   <br/>
   <em>Get yourself a couple spot weld cutters</em>
 </div>
@@ -20,20 +20,20 @@ Even at the time of purchase, it was known the passenger side rear quarter panel
 The first step to replacing the panel is removing the old one. Be sure you study the new panel to ensure you don't cut beyond it's size or you'll end up with gaps between the
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTyAJxLm85LVGQ2t_eMYdwnNPbEMNpc3cPzTC1ye0Cq_fZuMq10d5kCqCmJGGT1hcjp5-Yf5uVdogvPeq2JOhkLlfPBbcKNjTZUb2dN-43y_A2buDUANEse-BtJd9bQf9YtG6HCkp7S7o/s1600/2012-05-19+14.42.48.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="237" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTyAJxLm85LVGQ2t_eMYdwnNPbEMNpc3cPzTC1ye0Cq_fZuMq10d5kCqCmJGGT1hcjp5-Yf5uVdogvPeq2JOhkLlfPBbcKNjTZUb2dN-43y_A2buDUANEse-BtJd9bQf9YtG6HCkp7S7o/s320/2012-05-19+14.42.48.jpg" width="320" /></a>
+  <a href="/assets/img/posts/2012-05-19+14.42.48.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="237" src="/assets/img/posts/2012-05-19+14.42.48.jpg" width="320" /></a>
   <br/>
   <em>New passenger quarter panel</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbW4p8keLRbnlPXqAcPYMPkch4oaD0nlisuJnRNiFJclrNEMSgeb4BMnPvR1UjBCgh1V0mXPnJ7vDn5GHzhPcKDh7bIETKH5e2BBv_VVNrHXWtk5RBExtOf5RT0aO86hpRogIwWPETojI/s1600/2012-05-19+15.15.16+%25281%2529.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="148" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbW4p8keLRbnlPXqAcPYMPkch4oaD0nlisuJnRNiFJclrNEMSgeb4BMnPvR1UjBCgh1V0mXPnJ7vDn5GHzhPcKDh7bIETKH5e2BBv_VVNrHXWtk5RBExtOf5RT0aO86hpRogIwWPETojI/s200/2012-05-19+15.15.16+%25281%2529.jpg" width="200" /></a>
+  <a href="/assets/img/posts/2012-05-19+15.15.16+%25281%2529.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="148" src="/assets/img/posts/2012-05-19+15.15.16+%25281%2529.jpg" width="200" /></a>
   <br/>
   <em>Old panel "cut away" before spot weld removal</em>
 </div>
 
 new and the old. In this case, the old panel is fastened with a large number of spot welds everywhere but the top of the sail panel. The spot welds can be drilled out but that causes "swiss cheesing" of your connecting panels. Instead of a standard drill bit, you best to use a Spot Weld Cutter. It's like a drill bit with a circular cutter around it. It allows you to cut around the spot weld just enough to free the panel, while leaving the underlying metal undamaged. 
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik7bxA6CKXpBylZ-7OXGVMczxm5CfD9YiCGsSJSOvLcBRlE0lF1TGa-kcjm17Q1SwkhzTpA71g-YRil69ELVKdp73aqAxAlD3FX5s2WUfS8x9PwCrVT-xRibcr_6ePyO11wnY9zu9k8s0/s1600/DSC06125.JPG"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="236" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik7bxA6CKXpBylZ-7OXGVMczxm5CfD9YiCGsSJSOvLcBRlE0lF1TGa-kcjm17Q1SwkhzTpA71g-YRil69ELVKdp73aqAxAlD3FX5s2WUfS8x9PwCrVT-xRibcr_6ePyO11wnY9zu9k8s0/s320/DSC06125.JPG" width="320" /></a>
+<a href="/assets/img/posts/DSC06125.JPG"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="236" src="/assets/img/posts/DSC06125.JPG" width="320" /></a>
 
 Door jam welded up and striker fastened
 
@@ -46,7 +46,7 @@ You don't need to cut the panel apart like in the provided pictures, but it can 
 Once you have the old panel completely removed, consider coating the bare metal of neighboring panels with paint. Paint, or a more expensive specialty coating, will help protect the metal and prevent rust.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_oTMiqHV3V15dLaEiP6BCv6RqAKQrJuvV2059GK0hDDr0sq5jD2MDCvEQXtyqa2-nN0ILoWV_RYdzlLu9a3x0VWdUK078DDqYZT4xQu-qKqwOPs9909F3yAumgPci-ufkbNRjYiZJ9uU/s1600/DSC06129.JPG"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="296" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_oTMiqHV3V15dLaEiP6BCv6RqAKQrJuvV2059GK0hDDr0sq5jD2MDCvEQXtyqa2-nN0ILoWV_RYdzlLu9a3x0VWdUK078DDqYZT4xQu-qKqwOPs9909F3yAumgPci-ufkbNRjYiZJ9uU/s400/DSC06129.JPG" width="400" /></a>
+  <a href="/assets/img/posts/DSC06129.JPG"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="296" src="/assets/img/posts/DSC06129.JPG" width="400" /></a>
   <br/>
   <em>New panel lined up perfectly with the door body line</em>
 </div>

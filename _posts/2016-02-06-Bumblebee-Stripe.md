@@ -6,7 +6,7 @@ tags: [blogger]
 ---
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0G-8ljhozRqfo_xcjeYmq3Zc7hoQoMkVLu8ZaRgiBE26mLHEPlgbMwY1lrIEeniArWyZYdhIryFUQveHOm-i3k8nVCidUqqcOUDbNP6dxOb2Hr7rsZKPwuH7ZK0xReH3R2NU2OQgnzqg/s1600/IMG_20140523_153635.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="148" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0G-8ljhozRqfo_xcjeYmq3Zc7hoQoMkVLu8ZaRgiBE26mLHEPlgbMwY1lrIEeniArWyZYdhIryFUQveHOm-i3k8nVCidUqqcOUDbNP6dxOb2Hr7rsZKPwuH7ZK0xReH3R2NU2OQgnzqg/s200/IMG_20140523_153635.jpg" width="200" /></a>
+  <a href="/assets/img/posts/IMG_20140523_153635.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="148" src="/assets/img/posts/IMG_20140523_153635.jpg" width="200" /></a>
   <br/>
   <em>Anthracite Grey Bumblebee Stripe</em>
 </div>
@@ -16,7 +16,7 @@ If you thought you were done when you picked the color(s) of your vehicle, now y
 Whether you decide to do a simple stripe or a full mural, you have to choose between paint and decal. Using the bumblebee as the example, you have 4 options:
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0R-BgWB8MyRNsnlm8vXabhOBBrEilt01HLRHUGGEaLpWTW1w1QNKRwic-7FbyZO62x9l_6bgnuLJIUosXPUao5T5nKxKuC9tHh26Zye-OwGdyGmpA7WJYdut0BoxJ_0uGsdjIbK6OZWM/s1600/hpqscan0002.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="193" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0R-BgWB8MyRNsnlm8vXabhOBBrEilt01HLRHUGGEaLpWTW1w1QNKRwic-7FbyZO62x9l_6bgnuLJIUosXPUao5T5nKxKuC9tHh26Zye-OwGdyGmpA7WJYdut0BoxJ_0uGsdjIbK6OZWM/s200/hpqscan0002.jpg" width="200" /></a>
+  <a href="/assets/img/posts/hpqscan0002.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="193" src="/assets/img/posts/hpqscan0002.jpg" width="200" /></a>
   <br/>
   <em>67' Camaro Bumblebee Stripe</em>
 </div>
@@ -29,7 +29,7 @@ Whether you decide to do a simple stripe or a full mural, you have to choose bet
 </ul>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb9rump_X6-xHRXapJSO2smYkg_nc_rIRlDyqyDlgCKWAm8cN1JPfHn8C0fGQ2qtMeLeA_q98tNXAPGG6YViWin-GSverrENwb1NWbiqHo11t4jnCuI8ApaZhsX-0hP_AWU3vjEmms1Kk/s1600/hpqscan0003.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto; text-align: left;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="159" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb9rump_X6-xHRXapJSO2smYkg_nc_rIRlDyqyDlgCKWAm8cN1JPfHn8C0fGQ2qtMeLeA_q98tNXAPGG6YViWin-GSverrENwb1NWbiqHo11t4jnCuI8ApaZhsX-0hP_AWU3vjEmms1Kk/s200/hpqscan0003.jpg" width="200" /></a>
+  <a href="/assets/img/posts/hpqscan0003.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto; text-align: left;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="159" src="/assets/img/posts/hpqscan0003.jpg" width="200" /></a>
   <br/>
   <em>67' Camaro Bumblebee Stripe</em>
 </div>
@@ -41,7 +41,7 @@ The grey stripe was painted on with Anthracite Grey Plasti-Dip. The grey is a su
 The measurements for the stripe were located in various forums and image searches. 
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9y0sWhoHoQOJneL8_dD3xhRRLZBOg68DtMUTY6YeH9lRBg1LEKNM64qBbSPwG-Mi9BZObrnRFj8rw0fANxUGiXbYYoCFSDiRgr5RkxACSMbbdGr76DeTYNhFvYAQ15IBf_miEz7qLTo4/s1600/2051033646_102_4700.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto; text-align: left;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9y0sWhoHoQOJneL8_dD3xhRRLZBOg68DtMUTY6YeH9lRBg1LEKNM64qBbSPwG-Mi9BZObrnRFj8rw0fANxUGiXbYYoCFSDiRgr5RkxACSMbbdGr76DeTYNhFvYAQ15IBf_miEz7qLTo4/s200/2051033646_102_4700.jpg" width="200" /></a>
+  <a href="/assets/img/posts/2051033646_102_4700.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto; text-align: left;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="/assets/img/posts/2051033646_102_4700.jpg" width="200" /></a>
   <br/>
   <em>Example stripe with measurements</em>
 </div>
@@ -51,7 +51,7 @@ It's quite clear the factory did not make the stripes a science as several facto
 In order to paint a stripe you need to clean off the target area with denatured alcohol or mineral spirits. These products will not damage any cured paints but should not be left on the surface for any length of time. Wipe on, wipe off. Using painters tape of varied thicknesses, mask off the stripe according to your sample. For this stripe, 2" and 1/8" green painters tape worked perfectly. When masking, try to use long pieces of tape as it will make it easier to remove when the time comes. Be sure to mask off the stripe and the rest of the vehicle as well. 
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN_JT4GSI6N_hdHM4LXvYjGxhYz9sPQkv3KxypsxJZikmtJKZc15NMaLMhnLQ2TsbP4XZQJHD4XmDjosHBVyjmSYK5TMlvrD0O7NzuFtTeHOLEaTaZISxBwoTXa0aNDeJVRHBbw9dgFqc/s1600/IMG_20140523_003504.jpg"  style="clear: right; display: inline !important; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN_JT4GSI6N_hdHM4LXvYjGxhYz9sPQkv3KxypsxJZikmtJKZc15NMaLMhnLQ2TsbP4XZQJHD4XmDjosHBVyjmSYK5TMlvrD0O7NzuFtTeHOLEaTaZISxBwoTXa0aNDeJVRHBbw9dgFqc/s200/IMG_20140523_003504.jpg" width="200" /></a>
+  <a href="/assets/img/posts/IMG_20140523_003504.jpg"  style="clear: right; display: inline !important; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="/assets/img/posts/IMG_20140523_003504.jpg" width="200" /></a>
   <br/>
   <em>Turbo Camaro with its mask on</em>
 </div>
@@ -61,7 +61,7 @@ Spray paint over spray travels far and can easily dust your windshield if you're
 Once you have the stripe masked off, run your finger along the tape to ensure it hasn't bubbled up. Apply a small amount of Mineral Spirits or Denatures Alcohol to a clean cloth and wipe the surface to be painted, while trying to avoid contact with the tape. The tape with resist the cleaner but if it gets saturated it could lift the edges causing paint to bleed out of bounds. Do a quick once over with a tack cloth if you have one. Following the directions on your selected paint, spray 2-3 light coats. Keep these coats light, almost like you're misting the paint on. Once you almost have full coverage, apply a light/medium coat, making sure you don't spray to thick as to cause runs (especially on vertical panels). If you're confident this first medium coat is all you need, immediately put the paint down and starting from one end, remove all the tape that makes contact with the stripe. Pull the tape upwards and slightly away from the freshly painted stripe.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZahf3Jb6LpLKv87lk6uh2Clj2edVLFtaqFnil3cH77edF1gXbuG8yTuPmwWuA_RqZVlFkiFUTyg3C8AC0PuNyDhMfWGL_XChHDUeoKUCya8vqpp5M3t5FEkUGX8dvH_FiumNLaNkEbBs/s1600/IMG_20140523_153645.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto; text-align: left;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZahf3Jb6LpLKv87lk6uh2Clj2edVLFtaqFnil3cH77edF1gXbuG8yTuPmwWuA_RqZVlFkiFUTyg3C8AC0PuNyDhMfWGL_XChHDUeoKUCya8vqpp5M3t5FEkUGX8dvH_FiumNLaNkEbBs/s200/IMG_20140523_153645.jpg" width="150" /></a>
+  <a href="/assets/img/posts/IMG_20140523_153645.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto; text-align: left;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="200" src="/assets/img/posts/IMG_20140523_153645.jpg" width="150" /></a>
   <br/>
   <em>Painted Bumblebee Stripe</em>
 </div>
@@ -71,7 +71,7 @@ If you remove the tape quickly but smoothly, the paint will maintain a crisp edg
 Overall, applying or painting your own stripes is only as difficult as your design. If you've taken the time to paint your own car, you may as well do your own stripe. If you spent $6000 on a new paint job, maybe let them take care of the stripe too. 
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKBCX6EJ7dwswSPzDdZtChoO0-jGpQegbeGGEoY6QvAtEdAqDRxwZ1rmHwM1Or3ZutKGCpKJY61lEYiM1zn0HvT2pB8Isi4w8S1R3dULsG0M70RSwuezwYZFNUEktinJtarAERftt_nes/s1600/IMG_20140618_170630.jpg"  style="clear: right; display: inline !important; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="298" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKBCX6EJ7dwswSPzDdZtChoO0-jGpQegbeGGEoY6QvAtEdAqDRxwZ1rmHwM1Or3ZutKGCpKJY61lEYiM1zn0HvT2pB8Isi4w8S1R3dULsG0M70RSwuezwYZFNUEktinJtarAERftt_nes/s400/IMG_20140618_170630.jpg" width="400" /></a>
+  <a href="/assets/img/posts/IMG_20140618_170630.jpg"  style="clear: right; display: inline !important; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="298" src="/assets/img/posts/IMG_20140618_170630.jpg" width="400" /></a>
   <br/>
   <em>Turbo Camaro's Anthracite Grey Bumblebee Stripe</em>
 </div>

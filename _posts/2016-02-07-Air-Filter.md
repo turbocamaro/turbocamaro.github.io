@@ -6,13 +6,13 @@ tags: [blogger]
 ---
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9luxrCCwjcsitqbsrhpXJALzANgpq5xwQZqr5BN_i-vXzeX3Zqu0T9uYooIzqICOiBPG4tzmT7hcohY8XFkK47dz7kZbrC2F7o5M1rVBYbx4a5mAD_Olk3WDp3z1GvGDitzQjL75pEaw/s1600/DSC05266.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="293" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9luxrCCwjcsitqbsrhpXJALzANgpq5xwQZqr5BN_i-vXzeX3Zqu0T9uYooIzqICOiBPG4tzmT7hcohY8XFkK47dz7kZbrC2F7o5M1rVBYbx4a5mAD_Olk3WDp3z1GvGDitzQjL75pEaw/s400/DSC05266.jpg" width="400" /></a>
+  <a href="/assets/img/posts/DSC05266.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="293" src="/assets/img/posts/DSC05266.jpg" width="400" /></a>
   <br/>
   <em>Turbo Camaro's stock Chevy 250 engine back in February 2010</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFwzavFIJtXTbWazzDOi056zkLXvRnQ8RxcS4fKwYf_Ja7d6dmxniLwllbCZ4wu1DGMzI2VtNF5bJxfl1BOEDp19a0auJJbuDngOJIXZLg-PKNeDL8VuK8MTGt0nXvBQ0wCkdvrLM-qV4/s1600/filter.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFwzavFIJtXTbWazzDOi056zkLXvRnQ8RxcS4fKwYf_Ja7d6dmxniLwllbCZ4wu1DGMzI2VtNF5bJxfl1BOEDp19a0auJJbuDngOJIXZLg-PKNeDL8VuK8MTGt0nXvBQ0wCkdvrLM-qV4/s320/filter.jpg" width="320" /></a>
+  <a href="/assets/img/posts/filter.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/filter.jpg" width="320" /></a>
   <br/>
   <em>Spectre 8131 3" cone air filter - $26US</em>
 </div>
@@ -20,7 +20,7 @@ tags: [blogger]
 Once you opt to run a turbocharger, a lot of the external components need to be modified or replaced with compatible parts. Like most vehicles of the era, the stock air cleaner was a ring shape and fit inside a circular dish enclosure (see image). The stock enclosure was actually well designed as it was low profile and managed to acquire air from over a foot away due to the long snout. However, this style air cleaner won't work as it is replaced with the <a href="{% post_url 2016-02-07-hat-bonnet %}" target="_blank">carburetor hat</a> and air is drawn in from a different location.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKgherML0HxxlvIgbP5wKco23r1pLOFWKRqH9r-ctz_XRpay5o5D3M42a9r91pc7ahK4kzSA2GzT90N-QThXCQDx5LJ3beHA1h0gZ6ZiZRsPQuMcewjRPaNSEpUykeLRLB6MncgdtZhWo/s1600/20150905_154907.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKgherML0HxxlvIgbP5wKco23r1pLOFWKRqH9r-ctz_XRpay5o5D3M42a9r91pc7ahK4kzSA2GzT90N-QThXCQDx5LJ3beHA1h0gZ6ZiZRsPQuMcewjRPaNSEpUykeLRLB6MncgdtZhWo/s320/20150905_154907.jpg" width="177" /></a>
+  <a href="/assets/img/posts/20150905_154907.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/20150905_154907.jpg" width="177" /></a>
   <br/>
   <em>Filter with 3 mounting rings</em>
 </div>

@@ -6,13 +6,13 @@ tags: [blogger]
 ---
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibOvcOX0yrBEtYP_AM8muVvxgChg3GeDmbMlr0DhQAb4GkmDGLhBOXjMTlEFs8Jdh-6wR6vrHT2iZ6IWEr_hqL7obpXSUQY_hPOdRxFd0ezWQ95uSEcdSO_vNLu2Uiap_fXtFbIh_DWno/s1600/bovtop.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibOvcOX0yrBEtYP_AM8muVvxgChg3GeDmbMlr0DhQAb4GkmDGLhBOXjMTlEFs8Jdh-6wR6vrHT2iZ6IWEr_hqL7obpXSUQY_hPOdRxFd0ezWQ95uSEcdSO_vNLu2Uiap_fXtFbIh_DWno/s400/bovtop.jpg" width="222" /></a>
+  <a href="/assets/img/posts/bovtop.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="/assets/img/posts/bovtop.jpg" width="222" /></a>
   <br/>
   <em>Wyntonm 44mm Stainless BOV - $60</em>
 </div>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBYsdzBGn_C74-9HmhTXjFXngCHtmI0wrdRrVg_duxQx9IC7-O3WnmzF44OsOKzjsJDSFgi1YvQpH9cT9mtCPDscORR8jPWvAgJh_WIY98yItQWCVdsrWxJJZbnqaKb3ZO5CloLKvsQAg/s1600/bovbot.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBYsdzBGn_C74-9HmhTXjFXngCHtmI0wrdRrVg_duxQx9IC7-O3WnmzF44OsOKzjsJDSFgi1YvQpH9cT9mtCPDscORR8jPWvAgJh_WIY98yItQWCVdsrWxJJZbnqaKb3ZO5CloLKvsQAg/s400/bovbot.jpg" width="222" /></a>
+  <a href="/assets/img/posts/bovbot.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="/assets/img/posts/bovbot.jpg" width="222" /></a>
   <br/>
   <em>the bottom of the BOV measures 50mm</em>
 </div>
@@ -23,7 +23,7 @@ In case you're already lost. The BOV gets positioned between the turbocharger an
 
 After significant research and scavenging google for reviews and testimonials, the brand Wyntonm was found to have great prices, excellent manufacturing standards and several positive reviews. Feel free to google the brand and see for yourself, their reputation is strong. A Wyntonm 44mm Stainless Steel blow off valve with 3" diameter adapter pipe and clamp was ordered.
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_rzF_RgcDymv0upZy46aSbaLM013JZN3bDmB6bAWeRtVlfcGV29K0oauVeOF_EhCVIQuCt-q9c94ORC9q0j6LKnYSUjNbtTLUjlGWVlw3pI2nl6DUAyjyIoVv0wsXpiA7_9myekUoTE4/s1600/bov+pipe.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_rzF_RgcDymv0upZy46aSbaLM013JZN3bDmB6bAWeRtVlfcGV29K0oauVeOF_EhCVIQuCt-q9c94ORC9q0j6LKnYSUjNbtTLUjlGWVlw3pI2nl6DUAyjyIoVv0wsXpiA7_9myekUoTE4/s320/bov+pipe.jpg" width="320" /></a>
+<a href="/assets/img/posts/bov+pipe.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/bov+pipe.jpg" width="320" /></a>
 
 Adapter pipe - 3" diameter
 

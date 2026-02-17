@@ -6,7 +6,7 @@ tags: [blogger]
 ---
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDCMxOwnnJ29SPVIMfKw7QxpmFTH33n3XzZkhSLx3nZ8iqFbooWhL_LRP1572a6hG3ZDEQ8_a4zLQFDG6OD78JNgGYqDiPSTCOEIx-JvdisaOh4onL2cSFJghtc8s9-7qcBollqeYNRzw/s1600/20160128_090835.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="298" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDCMxOwnnJ29SPVIMfKw7QxpmFTH33n3XzZkhSLx3nZ8iqFbooWhL_LRP1572a6hG3ZDEQ8_a4zLQFDG6OD78JNgGYqDiPSTCOEIx-JvdisaOh4onL2cSFJghtc8s9-7qcBollqeYNRzw/s400/20160128_090835.jpg" width="400" /></a>
+  <a href="/assets/img/posts/20160128_090835.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="298" src="/assets/img/posts/20160128_090835.jpg" width="400" /></a>
   <br/>
   <em>Custom fit 67' Camaro console 4 gauge pod</em>
 </div>
@@ -26,7 +26,7 @@ Turbo Camaro needed something new but not a far stretch from what the factory of
 
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB1oU9-T8HxK3y8GKaE745-fFHa_20sWwcNE3t0tgYItbCXsgz886BnXCqJNyANzvPx1NjO1Xzabl7k22mcpe-Ign_vGJVkVmInW2oNqMgjKc9qw8lxH6bcXo_8dhEtbaIi8cmkVScoJs/s1600/20160502_232423.png"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB1oU9-T8HxK3y8GKaE745-fFHa_20sWwcNE3t0tgYItbCXsgz886BnXCqJNyANzvPx1NjO1Xzabl7k22mcpe-Ign_vGJVkVmInW2oNqMgjKc9qw8lxH6bcXo_8dhEtbaIi8cmkVScoJs/s640/20160502_232423.png" width="640" /></a>
+  <a href="/assets/img/posts/20160502_232423.png"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20160502_232423.png" width="640" /></a>
   <br/>
   <em>Custom 4 gauge pod with AFR, Voltage, Oil Pressure and Vacuum/Boost Gauges installed</em>
 </div>

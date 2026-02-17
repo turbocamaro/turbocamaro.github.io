@@ -6,7 +6,7 @@ tags: [blogger]
 ---
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiCj8Unlg71et2lnRsMgFN0RrYtmdg_fwEqNrZCUYyDRx-GwX-R513XAYT98X-zasG4ZFILNrCyBg8Lqo2j9fu9VyYevNJq9nSn9xdbOgEa9IMMfmSt_o9hGqjXW5fHVPdJAgtJw7Cyg/s1600/thompson+machine.gif"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoiCj8Unlg71et2lnRsMgFN0RrYtmdg_fwEqNrZCUYyDRx-GwX-R513XAYT98X-zasG4ZFILNrCyBg8Lqo2j9fu9VyYevNJq9nSn9xdbOgEa9IMMfmSt_o9hGqjXW5fHVPdJAgtJw7Cyg/s400/thompson+machine.gif" width="400" /></a>
+  <a href="/assets/img/posts/thompson+machine.gif"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/thompson+machine.gif" width="400" /></a>
   <br/>
   <em>Located in Nanaimo, BC - Canada</em>
 </div>
@@ -31,7 +31,7 @@ The list of services completed by Thompson Machine were as follows:
 </ul>
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivTXtfTdDV-HdKhZHCK3xs3QaxYDMrC2128Z-xUxFQrpXZ9Zz-D-FAf_oBjROtNauLSvgkzhnjiyEuJ3zgiQHkJzKzrL_YIARyzwYQRt2fYU1HH3eT_bnf1wj0BJzZvnoc4zrTsVkCXwQ/s1600/EngineUltrasound.png"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivTXtfTdDV-HdKhZHCK3xs3QaxYDMrC2128Z-xUxFQrpXZ9Zz-D-FAf_oBjROtNauLSvgkzhnjiyEuJ3zgiQHkJzKzrL_YIARyzwYQRt2fYU1HH3eT_bnf1wj0BJzZvnoc4zrTsVkCXwQ/s320/EngineUltrasound.png" width="248" /></a>
+  <a href="/assets/img/posts/EngineUltrasound.png"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/EngineUltrasound.png" width="248" /></a>
   <br/>
   <em>Ultrasound results (click to enlarge)</em>
 </div>
@@ -43,7 +43,7 @@ Initially, the connecting rod bolts were going to stay stock, but with the inves
 The stock Camshaft gear is a fiber material and is a weak spot in the rotating assembly. Fiber gears work fine in a low power stock inline 6, but shouldn't be used in performance applications. A CompCams steel timing gear set was purchased to replace the existing gears. The shop will heat-press on the new Cam & Crankshaft gear but this is a process you could do at home by putting them in a freezer overnight and then heating the gear in the oven for a few minutes. The microscopically slimmer Camshaft snout will easily accept the microscopically enlarged gear. As it was mentioned, this process is easy but it just makes sense to have the shop do it properly in just a few minutes.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwraj9P1M1Y5mtIJWVX-IyCtt2XJDfkCWsAgxKOU4v-VUkX-WRwxOy5QrUo85makY_NSZRWuWoNsAw3q3b5tuSE_BzSljwdLcOJySF2xwQsSNCK8FPhD92PibQXBbde_1RRWLAxYSpOTw/s1600/20160206_153838.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwraj9P1M1Y5mtIJWVX-IyCtt2XJDfkCWsAgxKOU4v-VUkX-WRwxOy5QrUo85makY_NSZRWuWoNsAw3q3b5tuSE_BzSljwdLcOJySF2xwQsSNCK8FPhD92PibQXBbde_1RRWLAxYSpOTw/s320/20160206_153838.jpg" width="320" /></a>
+  <a href="/assets/img/posts/20160206_153838.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="/assets/img/posts/20160206_153838.jpg" width="320" /></a>
   <br/>
   <em>Compcams inline 6 steel timing gear set</em>
 </div>

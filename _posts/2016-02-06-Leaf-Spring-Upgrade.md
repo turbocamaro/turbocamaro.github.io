@@ -6,7 +6,7 @@ tags: [blogger]
 ---
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh94Nf9dHrD76Ilb_HA9OodtoSWlKHN2e9AUKKdcAHheEci4gP8eP4JWNbqKijKoljuP-_jdCqwywIxlbAjHim0KAqCK-fIElLe4NafB8wRbe76psnLRHhJ2RhgRb2Bac3I9mIbRQ0PYM0/s1600/IMG_20150131_093326.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh94Nf9dHrD76Ilb_HA9OodtoSWlKHN2e9AUKKdcAHheEci4gP8eP4JWNbqKijKoljuP-_jdCqwywIxlbAjHim0KAqCK-fIElLe4NafB8wRbe76psnLRHhJ2RhgRb2Bac3I9mIbRQ0PYM0/s320/IMG_20150131_093326.jpg" width="320" /></a>
+  <a href="/assets/img/posts/IMG_20150131_093326.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="/assets/img/posts/IMG_20150131_093326.jpg" width="320" /></a>
   <br/>
   <em>Stock mono-leaf suspension</em>
 </div>
@@ -16,7 +16,7 @@ The mechanical weak spot on all 67' Camaro's is the factory mono-leaf springs. T
 In case you're lost, mono means one, and it refers to the number of leaf springs in your rear axle suspension. Most of the 1968-69 year V8 Camaros received multi-leaf suspension consisting of 4 or even 5 leafs. Having additional leafs adds rear end firmness and longevity. The mono-leaf spring probably held up just fine initially, but after decades of hard starts they start to stay permenatly flexed and sag. If you wanted to upgrade your rear suspension you have plenty of options. You can take your existing mono's to a spring shop and they can heat treat and attempt to put the spring back in your springs. You can take the whole car to the same shop and have them install a 'helper' spring to assist the tired mono. Their are several mono to multi conversion kits available and of course, brand new complete rear suspension packages exist for those with financial stability.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjEx-53_uulnoF656zPm24hmyRsl3870u4BMnUYLRqU-rDxbmZaIN04MzCOKqvJPRVrf_32GhYlnDF2P0DRjhbs71idsal_djowipA9ItYU50RMDDZoNN2AkeIMgyZIAWtFF0unWVjiOM/s1600/LeafSprings.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjEx-53_uulnoF656zPm24hmyRsl3870u4BMnUYLRqU-rDxbmZaIN04MzCOKqvJPRVrf_32GhYlnDF2P0DRjhbs71idsal_djowipA9ItYU50RMDDZoNN2AkeIMgyZIAWtFF0unWVjiOM/s320/LeafSprings.jpg" width="320" /></a>
+  <a href="/assets/img/posts/LeafSprings.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/LeafSprings.jpg" width="320" /></a>
   <br/>
   <em>3 leaf springs with U-Bolts instead of stock T-Bolts</em>
 </div>
@@ -26,7 +26,7 @@ Turbo Camaro received the mono to multi converstion, but instead of buying a com
 Overall, it's a relatively simple swap that doesn't take a lot of know how to complete.
 
 <div align="center">
-  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsDMmQK84UJpQ3-iLKGYWNV2rIBNmV53Qc-hFqdiW7GHOhkn15ZU5KrqEnyFo6i0E_MazBu3pAzg-Tut9ok5Ce25mi7lGjSahKVEdmSKoec2X_8icDU8AT15cjCZxJ-Cg3J8BH_OHdiW8/s1600/IMG_2327.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsDMmQK84UJpQ3-iLKGYWNV2rIBNmV53Qc-hFqdiW7GHOhkn15ZU5KrqEnyFo6i0E_MazBu3pAzg-Tut9ok5Ce25mi7lGjSahKVEdmSKoec2X_8icDU8AT15cjCZxJ-Cg3J8BH_OHdiW8/s320/IMG_2327.jpg" width="320" /></a>
+  <a href="/assets/img/posts/IMG_2327.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/IMG_2327.jpg" width="320" /></a>
   <br/>
   <em>3 leaf conversion with U-Bolts (borrowed image)</em>
 </div>
