@@ -17,7 +17,7 @@ tags: [blogger]
   <em>SPA Turbo "S" inlet flange</em>
 </div>
 
-As mentioned in the <a href="http://www.turbocamaro.ca/2016/02/blow-off-valve.html" target="_blank">blow off valve article</a>, it was important to find it, and a wastegate capable of competing with the big name brands, without paying big prices. A really nice Wyntonm BOV was purchased for a fraction of the big brand cost but it was doubtful a similar deal could be found on an external wastegate.
+As mentioned in the <a href="{% post_url 2016-02-07-blow-off-valve %}" target="_blank">blow off valve article</a>, it was important to find it, and a wastegate capable of competing with the big name brands, without paying big prices. A really nice Wyntonm BOV was purchased for a fraction of the big brand cost but it was doubtful a similar deal could be found on an external wastegate.
 
 The wastegate is mounted between between the exhaust ports on the cylinder head and the inlet port on the turbocharger. As the exhaust gasses leave your engine they build up in the manifold as they enter the turbo. If the exhaust pressure in the manifold exceeds the desired amount of boost, the wastegate opens and allows the exhaust to bypass the turbocharger and leave the vehicle through the exhaust pipe/muffler.
 

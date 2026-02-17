@@ -1,39 +1,45 @@
 import os
 import re
-import html
 
 post_dir = "_posts"
 
-print("Automating responsive YouTube containers...")
+# 1. First, we build a map of all your posts so we know what to link to
+post_map = {}
+for filename in os.listdir(post_dir):
+    if filename.endswith(".md"):
+        # Extract the date and slug: 2016-02-07-crank-and-rods
+        # The filename (minus .md) is exactly what 'post_url' needs
+        base_name = filename.replace(".md", "")
+        # The "slug" part is usually the end: crank-and-rods
+        slug = "-".join(base_name.split("-")[3:])
+        post_map[slug] = base_name
+
+print(f"Mapped {len(post_map)} posts for internal linking.")
+
+# 2. Now we scan and replace the old URLs
+print("Updating internal links...")
 
 for filename in os.listdir(post_dir):
     if filename.endswith(".md"):
         filepath = os.path.join(post_dir, filename)
-        
         with open(filepath, "r", encoding="utf-8") as f:
             content = f.read()
 
-        # 1. Standardize text and quotes
-        content = html.unescape(content)
+        # Regex to find old Blogger/Custom domain links
+        # Matches: http://www.turbocamaro.ca/2016/02/something.html
+        link_pattern = r'https?://(?:www\.)?turbocamaro\.ca/\d{4}/\d{2}/([^/\s\>]+)\.html'
 
-        # 2. THE VIDEO FIX: Wrap iframes in a responsive div
-        # We remove the fixed width/height and use a 16:9 aspect ratio container
-        video_pattern = r'<iframe.*?src="(https://www.youtube.com/embed/.*?)".*?></iframe>'
-        
-        def responsive_video(match):
-            video_url = match.group(1)
-            return (
-                f'\n\n<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">'
-                f'\n  <iframe src="{video_url}" '
-                f'style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" '
-                f'allowfullscreen></iframe>'
-                f'\n</div>\n\n'
-            )
+        def replace_link(match):
+            old_slug = match.group(1).replace("_", "-") # Blogger uses underscores sometimes
+            if old_slug in post_map:
+                new_link = f"{{% post_url {post_map[old_slug]} %}}"
+                return new_link
+            return match.group(0) # Keep original if no match found
 
-        content = re.sub(video_pattern, responsive_video, content, flags=re.DOTALL)
+        new_content = re.sub(link_pattern, replace_link, content)
 
         with open(filepath, "w", encoding="utf-8") as f:
-            f.write(content.strip())
-        print(f"Video Resized: {filename}")
+            f.write(new_content)
+        print(f"Updated links in: {filename}")
 
-print("\nAll videos are now responsive. Run 'pushit' to update.")
+print("\nInternal links fixed! Run 'pushit' to sync.")

@@ -11,7 +11,7 @@ tags: [blogger]
   <em>CX Racing turbocharger (eBay photo)</em>
 </div>
 
-A lot of time and effort went into selecting a turbocharger. With branding like "Turbo Camaro" it woul be unfortunate to use a junk turbo and end up blowing it in the first 20 minutes. It was decided to avoid selecting a big name like Garret or Turbonetics as they were too expensive and didn't fit in the big picture. Also, no scrap yard deals or cheap crap. It was decided to follow the same selection strategy as the <a href="http://www.turbocamaro.ca/2016/02/blow-off-valve.html" target="_blank">BOV</a> and <a href="http://www.turbocamaro.ca/2016/02/wastegate.html" target="_blank">wastegate</a>.
+A lot of time and effort went into selecting a turbocharger. With branding like "Turbo Camaro" it woul be unfortunate to use a junk turbo and end up blowing it in the first 20 minutes. It was decided to avoid selecting a big name like Garret or Turbonetics as they were too expensive and didn't fit in the big picture. Also, no scrap yard deals or cheap crap. It was decided to follow the same selection strategy as the <a href="{% post_url 2016-02-07-blow-off-valve %}" target="_blank">BOV</a> and <a href="{% post_url 2016-02-07-wastegate %}" target="_blank">wastegate</a>.
 
 With so many horror stories and negative reviews of products purchased off eBay, it can seriously dissuade a potential buyer. Even with all the negativity, you can't tell me their isn't at least one inexpensive, reputable, high quality turbocharger brand on eBay. The process started with writing down all the names of the brands that wern't too expensive or look like complete garbage. The initial list was googled and searched on multiple forums and names were slowly but surly crossed off.
 

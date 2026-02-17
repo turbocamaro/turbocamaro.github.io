@@ -15,7 +15,7 @@ The great thing about classic cars is the availability and affordability of afte
 
 One of the biggest changes you can make to your interior is upholstery. Not just your seats, but carpets, headliner, package tray and door panels too. These classic cars are loaded with different cloth and fibre based materials that can be easily replaced or restored. Sometimes it makes sense to refresh an old piece instead of dishing out hundreds for new ones. SEM Classic Coat Fabric and Vinyl spray was used to change the Marina Blue items (forget the carpet, it'll never work) to a classic black.
 
-You have to take whatever item you want to spray out of the car. Unbolt the seats, remove the door panels and drop the headliner. The headliner on Turbo Camaro went through a similar process, in <a href="http://www.turbocamaro.ca/2016/01/headliner.html">this article</a>. Get them far away from your car as over spray is a nightmare.
+You have to take whatever item you want to spray out of the car. Unbolt the seats, remove the door panels and drop the headliner. The headliner on Turbo Camaro went through a similar process, in <a href="{% post_url 2016-01-27-headliner %}">this article</a>. Get them far away from your car as over spray is a nightmare.
 
 <div align="center">
   <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilavhvpjcvN-d3w3XglmisysxgnlYTEHuML9aWc7fwLti0nhAJMZMHIO_Z2Pl2tlxp1oJbCUYnEo5TNsnXRR2rcMX7N19oENNoAgsAJuWkpByX6Ku7dNAl5ZLrRtq_d-2Dv42nuE7B9sM/s1600/2012-04-25+12.38.54.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="239" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilavhvpjcvN-d3w3XglmisysxgnlYTEHuML9aWc7fwLti0nhAJMZMHIO_Z2Pl2tlxp1oJbCUYnEo5TNsnXRR2rcMX7N19oENNoAgsAJuWkpByX6Ku7dNAl5ZLrRtq_d-2Dv42nuE7B9sM/s320/2012-04-25+12.38.54.jpg" width="320" /></a>
@@ -45,7 +45,7 @@ Now spray them just like it says on the can, smooth light passes.Think of the fi
   <em>Back portion of the same seats. </em>
 </div>
 
-Late 2015, it was decided the stock seats didn't offer the cushion or support desired in a daily driver. It probably had something to do with the 48 year old foam and springs in the original seats. Even though it would be easy to find new parts, the cost to bring it all into Canada outweighed the amount to buy brand new modern seats. Days were spent researching seat options and the black Scat Procar Rally 1000 Smoothback bucket seats were selected. The installation and initial review of those seats was <a href="http://www.turbocamaro.ca/2016/01/scat-procar-rally-1000-seats.html">filmed and posted here</a>. 
+Late 2015, it was decided the stock seats didn't offer the cushion or support desired in a daily driver. It probably had something to do with the 48 year old foam and springs in the original seats. Even though it would be easy to find new parts, the cost to bring it all into Canada outweighed the amount to buy brand new modern seats. Days were spent researching seat options and the black Scat Procar Rally 1000 Smoothback bucket seats were selected. The installation and initial review of those seats was <a href="{% post_url 2016-01-25-scat-procar-rally-1000-seats %}">filmed and posted here</a>. 
 
 <b>---
 *Turbo Camaro Build History*</b>

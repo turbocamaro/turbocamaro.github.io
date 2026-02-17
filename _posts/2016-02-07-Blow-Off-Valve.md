@@ -17,7 +17,7 @@ tags: [blogger]
   <em>the bottom of the BOV measures 50mm</em>
 </div>
 
-You're going to notice a similar theme with the selection of the blow off valve (BOV) and <a href="http://www.turbocamaro.ca/2016/02/wastegate.html" target="_blank">wastegate</a> for Turbo Camaro. The big name brands for these two parts also come with big prices. The goal was to identify quality parts capable of performing as well as the big names without emptying the bank account.
+You're going to notice a similar theme with the selection of the blow off valve (BOV) and <a href="{% post_url 2016-02-07-wastegate %}" target="_blank">wastegate</a> for Turbo Camaro. The big name brands for these two parts also come with big prices. The goal was to identify quality parts capable of performing as well as the big names without emptying the bank account.
 
 In case you're already lost. The BOV gets positioned between the turbocharger and the carburetor and acts as a pressure release. The turbocharger spools up, pressurizes the air feeding into the carburetor. If you take your foot off the gas suddenly the turbocharger will stop spooling and the pressure has nowhere to go. If not vented immeiately, the backpressure caused can cause damage to the turbocharger. The BOV vents the unneeded pressure and makes a popular "shwooshh" sound.
 
