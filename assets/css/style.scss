@@ -1,47 +1,32 @@
----
-# This allows Jekyll to process the SCSS
----
-
-@import "main";
-
-/* Mobile Sticky Header Fix */
+/* Mobile Logo Swap - Corrected Filename */
 @media (max-width: 849px) {
+  #topbar-title {
+    color: transparent !important;
+    background-image: url('/assets/img/tc_logo_tp.png') !important; /* Updated name */
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    display: block !important;
+    height: 38px; 
+    width: 100%;
+    max-width: 220px;
+    margin: 0 auto;
+  }
+
   #topbar-wrapper {
-    position: fixed;
+    height: 60px !important; /* Slightly taller for the Turbo logo */
+    display: flex;
+    align-items: center;
+    position: fixed; /* Ensuring the 'floating' behavior is locked in */
     top: 0;
-    left: 0;
     width: 100%;
     z-index: 1030;
     background-color: var(--main-bg);
     border-bottom: 1px solid var(--main-border-color);
   }
 
-  /* Prevent content from hiding under the floating bar */
+  /* Offset the content so the first post title isn't hidden */
   #main-wrapper {
-    padding-top: 4rem; 
-  }
-  
-  /* Ensure the sidebar/menu button stays clickable */
-  #sidebar-trigger {
-    display: flex;
-    align-items: center;
-  }
-}
-
-/* Replace Text Title with Logo on Mobile */
-@media (max-width: 849px) {
-  #topbar-title {
-    background-image: url('/assets/img/tc_logo_tp.png'); /* Change to your filename */
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    
-    /* This hides the "Turbo Camaro" text but keeps the link clickable */
-    text-indent: -9999px; 
-    
-    /* Adjust these to match your logo's shape */
-    height: 40px; 
-    width: 150px; 
-    margin: 0 auto;
+    padding-top: 60px !important;
   }
 }
