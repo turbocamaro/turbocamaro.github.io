@@ -1,0 +1,24 @@
+/* Mobile Sticky Header & Logo */
+@media (max-width: 849px) {
+  #topbar-wrapper {
+    position: fixed !important;
+    top: 0 !important;
+    width: 100% !important;
+    z-index: 1030 !important;
+    background-color: var(--main-bg) !important;
+  }
+
+  #topbar-title {
+    background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
+    background-size: contain !important;
+    text-indent: -9999px !important;
+    display: block !important;
+    height: 32px !important;
+    width: 160px !important;
+    margin: 0 auto !important;
+  }
+
+  #main-wrapper {
+    padding-top: 60px !important;
+  }
+}
