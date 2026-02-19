@@ -39,7 +39,7 @@ One other thing to consider, these breathers are about 2.5" tall when installed.
 
  So, why Spectre? They make a budget friendly product that, for the most part, performs well above knock off eBay brand parts. Spectre has good customer service and a wide variety of quality performance parts. This brand review is based off personal experience only, Turbo Camaro is not sponsored by any brand.
 
-As much as we liked the look and function of these breathers, they have since been removed. The front breather was replaced with the original oil filler cap and the rear PCV valve was replaced by a <a href="{% post_url 2017-10-23-oil-catch-can %}" target="_blank">Oil Catch Can assembly</a> as a way to comply with emissions laws and a potential troubleshooting method. The Spectre breathers were a cheap functional part when installed.
+As much as we liked the look and function of these breathers, they have since been removed. The front breather was replaced with the original oil filler cap and the rear PCV valve was replaced by a <a href="/posts/oil-catch-can/" target="_blank">Oil Catch Can assembly</a> as a way to comply with emissions laws and a potential troubleshooting method. The Spectre breathers were a cheap functional part when installed.
 
 ---
 *Turbo Camaro Build History*
