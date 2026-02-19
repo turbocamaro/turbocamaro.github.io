@@ -1,0 +1,29 @@
+---
+# This allows Jekyll to process the SCSS
+---
+
+@import "main";
+
+/* Mobile Sticky Header Fix */
+@media (max-width: 849px) {
+  #topbar-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1030;
+    background-color: var(--main-bg);
+    border-bottom: 1px solid var(--main-border-color);
+  }
+
+  /* Prevent content from hiding under the floating bar */
+  #main-wrapper {
+    padding-top: 4rem; 
+  }
+  
+  /* Ensure the sidebar/menu button stays clickable */
+  #sidebar-trigger {
+    display: flex;
+    align-items: center;
+  }
+}
