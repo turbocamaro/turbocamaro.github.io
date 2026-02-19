@@ -15,7 +15,7 @@ The great thing about classic cars is the availability and affordability of afte
 
 One of the biggest changes you can make to your interior is upholstery. Not just your seats, but carpets, headliner, package tray and door panels too. These classic cars are loaded with different cloth and fibre based materials that can be easily replaced or restored. Sometimes it makes sense to refresh an old piece instead of dishing out hundreds for new ones. SEM Classic Coat Fabric and Vinyl spray was used to change the Marina Blue items (forget the carpet, it'll never work) to a classic black.
 
-You have to take whatever item you want to spray out of the car. Unbolt the seats, remove the door panels and drop the headliner. The headliner on Turbo Camaro went through a similar process, in <a href="{% post_url 2016-01-27-headliner %}">this article</a>. Get them far away from your car as over spray is a nightmare.
+You have to take whatever item you want to spray out of the car. Unbolt the seats, remove the door panels and drop the headliner. The headliner on Turbo Camaro went through a similar process, in <a href="/posts/headliner/">this article</a>. Get them far away from your car as over spray is a nightmare.
 
 <div align="center">
   <a href="/assets/img/posts/2012-04-25+12.38.54.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="239" src="/assets/img/posts/2012-04-25+12.38.54.jpg" width="320" /></a>

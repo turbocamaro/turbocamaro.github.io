@@ -69,7 +69,7 @@ In April 2016, the stock valves used in the Turbo Camaro rebuild were cleaned an
 
 
 
-Since Turbo Camaro is received a new <a href="{% post_url 2016-02-07-camshaft %}" target="_blank">performance camshaft</a>, new valve springs were also required. A set of <a href="http://www.12bolt.com/store/p12/Performance_Valve_spring%2F_retainer_kit.html" target="_blank">performance springs and retainers</a> were picked up from 12bolt.com. The camshaft has a lift of about .500 while the new springs will handle up to .530.
+Since Turbo Camaro is received a new <a href="/posts/camshaft/" target="_blank">performance camshaft</a>, new valve springs were also required. A set of <a href="http://www.12bolt.com/store/p12/Performance_Valve_spring%2F_retainer_kit.html" target="_blank">performance springs and retainers</a> were picked up from 12bolt.com. The camshaft has a lift of about .500 while the new springs will handle up to .530.
 
 When you replace or reinstall springs you need to consider some key specs. The amount of pressure the spring will push down when it is compressed and the height at which it is installed. The new springs are designed to be installed at 1.725-1.730". It's a very small window, but with some precision measuring it's very possible to get within this range. The process of measuring and adjusting spring height is very important. A more detailed explanation of measuring spring height, and how it's accomplished was filmed and posted below.
 

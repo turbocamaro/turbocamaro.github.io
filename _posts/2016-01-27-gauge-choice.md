@@ -21,7 +21,7 @@ Tuning a carburetor for a naturally aspirated engine can be tricky enough, but a
 
 The Vacuum/Boost and AFR gauges are all you really need for tuning, but what about the overall health of your ride? If oil pressure drops suddenly you might notice it on the gauge and prevent catastrophic engine failure. If fuel pressure drops, a gauge could help diagnose a problem with your fuel pump or some kind of obstruction. Perhaps your alternator is roasting and you catch the charge voltage sinking on the voltmeter. Seeing a rise in water temperature could prevent a major meltdown. These are very real scenarios but you need to have the gauges to see them coming. 
 
-Turbo Camaro will keep its stock odometer, speedometer and fuel gauge but with the use of the <a href="{% post_url 2016-01-27-console-pod %}" target="_blank">custom four gauge console pod</a>, a 52mm AEM Wideband AFR, VDO Oil Pressure, VDO Vacuum/Boost and VDO Voltmeter gauge will be installed. A larger tachometer might be installed on the column at a later time. 
+Turbo Camaro will keep its stock odometer, speedometer and fuel gauge but with the use of the <a href="/posts/console-pod/" target="_blank">custom four gauge console pod</a>, a 52mm AEM Wideband AFR, VDO Oil Pressure, VDO Vacuum/Boost and VDO Voltmeter gauge will be installed. A larger tachometer might be installed on the column at a later time. 
 
 <div align="center">
   <a href="/assets/img/posts/gauges.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  src="/assets/img/posts/gauges.jpg" /></a>
