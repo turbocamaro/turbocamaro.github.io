@@ -19,7 +19,7 @@ tags: [blogger]
 
 The stock inline 6 has a oil fill cap and a breather at the front of the valve cover. A PCV valve is located at the rear of the valve cover. Both the front breather and PCV valve are filtered through the factory air cleaner on top of the carburetor. This is a fine system and has remained the most environmentally accepted way to maintain clean neutral pressure inside the engine. 
 
-As the site title says, a turbocharger is in play and that changes a lot. The circular carburetor air cleaner system is replaced with a <a href="{% post_url 2016-02-07-air-filter %}" target="_blank">Spectre cone air filter</a> in front of the turbocharger. While running hoses to the new filter is possible, it's not going to happen. Instead, the configuration of the breather and PCV valve get changed and things move forward. 
+As the site title says, a turbocharger is in play and that changes a lot. The circular carburetor air cleaner system is replaced with a <a href="/posts/air-filter/" target="_blank">Spectre cone air filter</a> in front of the turbocharger. While running hoses to the new filter is possible, it's not going to happen. Instead, the configuration of the breather and PCV valve get changed and things move forward. 
 
 <div align="center">
   <a href="/assets/img/posts/20160313_112610.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/20160313_112610.jpg" width="320" /></a>
