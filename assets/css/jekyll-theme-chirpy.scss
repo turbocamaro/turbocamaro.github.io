@@ -59,40 +59,38 @@
     padding-top: 60px !important;
   }
 }
-/* Sidebar Branding Overhaul */
-.tc-brand-container {
-  position: relative !important;
-  display: block !important;
-  width: 180px !important; /* Increased width since title text is gone */
-  margin: 1rem auto 2rem auto !important;
-  background-color: transparent !important; /* Kills the white background */
-  border: none !important;
-  box-shadow: none !important;
-  border-radius: 0 !important; /* Kills the circle crop */
-  padding: 0 !important;
-}
-
-/* Ensure the link itself isn't forcing a circle */
-#avatar.tc-brand-container, #avatar.rounded-circle {
-  border-radius: 0 !important;
+/* Sidebar Branding Final Fix */
+#sidebar #avatar.tc-brand-container {
+  background-color: transparent !important; /* Forces the white square to vanish */
   background: none !important;
   border: none !important;
+  box-shadow: none !important;
+  border-radius: 0 !important; /* Removes any leftover circular clipping */
+  padding: 0 !important;
+  width: 180px !important;
+  height: auto !important;
+  display: block !important;
+  margin: 1.5rem auto !important;
+}
+
+#sidebar #avatar.tc-brand-container img {
+  border-radius: 0 !important; /* Ensures the images themselves aren't rounded */
+  box-shadow: none !important;
 }
 
 .tc-base-logo {
   width: 100% !important;
   height: auto !important;
-  z-index: 1;
+  display: block;
 }
 
 .tc-rotating-overlay {
   position: absolute !important;
-  /* Adjust these values to position the turbo on the graphic */
-  top: 10%; 
-  left: 30%;
-  width: 50px !important; 
+  top: 15%; 
+  left: 25%;
+  width: 60px !important; 
   z-index: 2;
-  animation: tc-spin 4s infinite linear;
+  animation: tc-spin 10s infinite linear;
 }
 
 @keyframes tc-spin {
