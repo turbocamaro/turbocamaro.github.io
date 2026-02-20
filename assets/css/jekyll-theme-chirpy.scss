@@ -59,41 +59,30 @@
     padding-top: 60px !important;
   }
 }
-/* KILL THE CIRCLE AND WHITE BOX */
-#sidebar #avatar, 
-#sidebar .profile-wrapper a,
-#sidebar .rounded-circle {
+/* Sidebar Branding Final Alignment */
+#sidebar #avatar.tc-brand-container {
   background: transparent !important;
-  background-color: transparent !important;
   border: none !important;
   box-shadow: none !important;
-  border-radius: 0 !important; /* Forces rectangular shape */
-  overflow: visible !important; /* Allows racetrack to spin outside box */
-  padding: 0 !important;
-}
-
-#sidebar #avatar img {
   border-radius: 0 !important;
-  box-shadow: none !important;
-}
-
-.tc-brand-container {
-  position: relative !important;
+  
+  /* Centering Logic */
   display: block !important;
-  width: 200px !important;
-  margin: 20px auto !important;
+  width: 180px !important; 
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-top: 2rem !important;
+  margin-bottom: 2rem !important;
+  
+  /* The "10% Adjustment" nudge */
+  /* If it's still too far right, this moves it left */
+  transform: translateX(-5%) !important; 
+  
+  padding: 0 !important;
+  overflow: visible !important;
 }
 
-.tc-rotating-overlay {
-  position: absolute !important;
-  top: 10%; 
-  left: 20%;
-  width: 70px !important; 
-  z-index: 2;
-  animation: tc-spin 8s infinite linear;
-}
-
-@keyframes tc-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+#sidebar .profile-wrapper {
+  width: 100% !important;
+  text-align: center !important;
 }
