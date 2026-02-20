@@ -22,26 +22,38 @@
     border-bottom: 1px solid var(--main-border-color) !important;
     height: 50px !important;
     
-    /* This is the fix for the search icon spacing */
+    /* The Fix: Ensure the container allows items to push to the edges */
     display: flex !important;
-    justify-content: space-between !important; 
     align-items: center !important;
-    padding: 0 15px !important; /* Adds a little breathing room on the edges */
+    justify-content: space-between !important;
+    padding: 0 10px !important;
   }
 
   #topbar-title {
-    /* Remove 'margin: 0 auto' if it's there, as it fights 'space-between' */
     color: transparent !important;
     background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
     background-size: contain !important;
     display: block !important;
     height: 32px !important;
-    width: 180px !important;
+    width: 150px !important; /* Slightly smaller to ensure no overlap */
     
-    /* Ensures the logo stays centered even when the icons on the side are different sizes */
+    /* The Centering Anchor */
     position: absolute !important;
     left: 50% !important;
     transform: translateX(-50%) !important;
+  }
+
+  /* Force the search button to the far right */
+  #search-trigger {
+    display: flex !important;
+    margin-left: auto !important; 
+    padding: 10px !important;
+  }
+
+  /* Ensure the sidebar trigger stays left */
+  #sidebar-trigger {
+    display: flex !important;
+    padding: 10px !important;
   }
 
   #main-wrapper {
