@@ -11,16 +11,17 @@
 /* append your custom style below */
 
 @media (max-width: 849px) {
-  /* 1. Reset the Topbar Container */
+  /* 1. Lock the Bar Height */
   #topbar-wrapper #topbar {
-    display: block !important; /* Switch to block to control children manually */
+    display: block !important;
     position: relative !important;
     width: 100% !important;
-    height: 50px !important;
+    height: 50px !important; /* Forces the vertical space */
     padding: 0 !important;
+    margin: 0 !important;
   }
 
-  /* 2. The Hamburger - Pinned to the Left Wall */
+  /* 2. The Hamburger - Pinned Left & Centered Vertically */
   #sidebar-trigger {
     position: absolute !important;
     left: 15px !important;
@@ -30,56 +31,25 @@
     z-index: 10 !important;
   }
 
-  /* 3. The Logo - Pinned to the Dead Center */
+  /* 3. The Logo - Pinned Center & Centered Vertically */
   #topbar-title {
     position: absolute !important;
     left: 50% !important;
-    top: 50% !important;
-    transform: translate(-50%, -50%) !important;
-    width: 150px !important; /* Adjusted for visibility */
+    top: 50% !important; /* Pulls from top to middle */
+    /* The first -50% centers horizontally, the second -50% centers vertically */
+    transform: translate(-50%, -50%) !important; 
+    
+    width: 150px !important;
     height: 32px !important;
     background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
     background-size: contain !important;
     color: transparent !important;
     display: block !important;
     z-index: 1;
-    transition: opacity 0.2s ease !important;
-  }
-
-  /* 4. The Search - Pinned to the Right Wall */
-  /* Targeting the trigger AND the wrapper to ensure it moves from behind the logo */
-  #search-wrapper, #search-trigger {
-    position: absolute !important;
-    right: 15px !important;
-    top: 50% !important;
-    transform: translateY(-50%) !important;
-    display: flex !important;
-    z-index: 10 !important;
-  }
-
-  /* 5. THE FADE: Logic for when search is clicked */
-  /* Chirpy toggles 'searching-on' or 'searching' on the HTML/Body */
-  html[searching] #topbar-title,
-  .searching-on #topbar-title,
-  #search-input:focus ~ #topbar-title {
-    opacity: 0 !important;
-    visibility: hidden !important;
-  }
-
-  /* 6. Fix for the Search Input overlap */
-  #search-input {
-    background-color: var(--main-bg) !important;
-    margin-right: 40px !important; /* Space for the 'X' button */
-  }
-
-  /* Kill underlines and default styles */
-  #topbar-wrapper a, #sidebar-trigger, #search-trigger {
-    text-decoration: none !important;
-    border: none !important;
-    box-shadow: none !important;
-  }
-}
-
+    margin: 0 !important;
+    padding: 0 !important;
+    transition: opacity
+      
 
 /* --- TURBO CAMARO FINAL ALIGNMENT & BRANDING --- */
 
