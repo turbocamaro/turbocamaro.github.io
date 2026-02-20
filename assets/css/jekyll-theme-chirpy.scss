@@ -59,30 +59,37 @@
     padding-top: 60px !important;
   }
 }
-/* Sidebar Branding Final Alignment */
+/* Ensure the container is the "Anchor" */
 #sidebar #avatar.tc-brand-container {
-  background: transparent !important;
-  border: none !important;
-  box-shadow: none !important;
-  border-radius: 0 !important;
-  
-  /* Centering Logic */
+  position: relative !important; /* This is the anchor point */
   display: block !important;
-  width: 180px !important; 
-  margin-left: auto !important;
-  margin-right: auto !important;
-  margin-top: 2rem !important;
-  margin-bottom: 2rem !important;
-  
-  /* The "10% Adjustment" nudge */
-  /* If it's still too far right, this moves it left */
-  transform: translateX(-5%) !important; 
-  
-  padding: 0 !important;
-  overflow: visible !important;
+  width: 180px !important;
+  margin: 2rem auto !important;
+  background: transparent !important;
+  transform: translateX(-5%) !important; /* Your centering nudge */
 }
 
-#sidebar .profile-wrapper {
-  width: 100% !important;
-  text-align: center !important;
+/* The Racetrack Overlay */
+.tc-rotating-overlay {
+  position: absolute !important;
+  /* Use Top/Left to 'Seat' it on the logo */
+  top: 20px !important; 
+  left: 50% !important;
+  
+  /* Use Margin-Left to center it perfectly on that 50% line */
+  margin-left: -35px !important; /* This must be exactly half of the width below */
+  
+  width: 70px !important; 
+  height: 70px !important;
+  z-index: 10 !important;
+  
+  /* The Animation Engine */
+  animation: tc-spin 10s infinite linear !important;
+  display: block !important;
+}
+
+/* Force the animation to exist */
+@keyframes tc-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
 }
