@@ -25,10 +25,19 @@
     justify-content: space-between !important;
     padding: 0 5px !important; /* Tightens the edge spacing */
   }
-
-/* Sidebar Branding - Final Polish */
+/* Sidebar Branding - Reverse Gear & Background Kill */
 #sidebar #avatar.tc-brand-container,
-[data-theme] #sidebar #avatar.tc-brand-container {
+#sidebar .profile-wrapper #avatar,
+#sidebar .profile-wrapper img {
+  background: transparent !important;
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  outline: none !important;
+}
+
+#sidebar #avatar.tc-brand-container {
   position: relative !important;
   display: flex !important;
   justify-content: center !important;
@@ -36,27 +45,17 @@
   width: 210px !important; 
   height: 210px !important; 
   margin: 1.5rem auto !important;
-  
-  /* Kill the White Rectangle - Targeting multiple layers */
-  background: transparent !important;
-  background-color: transparent !important;
-  border: none !important;
-  box-shadow: none !important;
-  outline: none !important;
-  border-radius: 0 !important;
   overflow: visible !important;
   transform: translateX(-5%) !important; 
-}
-
-/* Ensure no theme-specific background colors leak in */
-#sidebar .profile-wrapper a#avatar {
-  background: none !important;
 }
 
 .tc-base-logo {
   width: 175px !important; 
   height: auto !important;
   z-index: 1;
+  /* If the logo itself has a white background, this filter can sometimes hide it 
+     (Only use this if the logo is meant to be white/gray on a dark background) */
+  /* mix-blend-mode: multiply; */
 }
 
 .tc-rotating-overlay {
@@ -67,18 +66,18 @@
   max-width: none !important;
   z-index: 2;
   
-  /* Centering and Animation */
-  /* Duration: 3.15s (5% slower than 3s) */
+  /* Counter-Clockwise Animation */
   animation: tc-spin-ccw 3.15s infinite linear !important; 
   display: block !important;
 }
 
-/* THE FIX: Counter-Clockwise (CCW) Rotation while staying centered */
+/* THE FIX: Reversing the values for Counter-Clockwise rotation */
 @keyframes tc-spin-ccw {
   from { 
-    transform: translate(-50%, -50%) rotate(0deg); 
+    transform: translate(-50%, -50%) rotate(360deg); 
   }
   to { 
-    transform: translate(-50%, -50%) rotate(-360deg); 
+    transform: translate(-50%, -50%) rotate(0deg); 
   }
-}
+  }
+  
