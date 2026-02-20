@@ -11,66 +11,59 @@
 /* append your custom style below */
 
 @media (max-width: 849px) {
-  /* 1. Reset the Topbar Wrapper */
+  /* 1. Reset the Topbar Wrapper to a full-width flex container */
   #topbar-wrapper {
-    position: fixed !important;
-    top: 0 !important;
-    left: 0 !important;
-    width: 100% !important;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-between !important; /* Forces items to opposite ends */
+    align-items: center !important;
+    padding: 0 15px !important;
     height: 50px !important;
-    display: flex !important;
-    justify-content: space-between !important;
-    align-items: center !important;
-    padding: 0 10px !important;
-    background-color: var(--main-bg) !important;
-    border-bottom: 1px solid var(--main-border-color) !important;
-    z-index: 1050 !important;
   }
 
-  /* 2. Kill the blue underlines on ALL topbar icons */
-  #topbar-wrapper a, 
-  #sidebar-trigger, 
-  #search-trigger {
-    text-decoration: none !important;
-    border-bottom: none !important;
-    box-shadow: none !important;
-    outline: none !important;
-    display: flex !important;
-    align-items: center !important;
-    color: var(--topbar-text-color) !important;
-  }
-
-  /* 3. The Logo - Absolute center to prevent icon interference */
+  /* 2. The Logo - Absolute Center */
   #topbar-title {
-    color: transparent !important;
-    background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
-    background-size: contain !important;
-    display: block !important;
-    height: 32px !important;
-    width: 160px !important;
     position: absolute !important;
     left: 50% !important;
     transform: translateX(-50%) !important;
+    width: 160px !important;
+    height: 32px !important;
+    background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
+    background-size: contain !important;
+    color: transparent !important;
     z-index: 1;
-    pointer-events: none !important; /* Clicks go through to icons if overlapping */
+    margin: 0 !important;
   }
 
-  /* 4. The Hamburger - Pinned Left */
+  /* 3. The Hamburger (Sidebar Trigger) - Force to Left */
   #sidebar-trigger {
     order: 1 !important;
+    flex: 0 0 auto !important;
+    display: flex !important;
     z-index: 2;
   }
 
-  /* 5. The Search Icon - Pinned Right */
+  /* 4. The Search Icon - Force to Right */
   #search-trigger {
-    order: 3 !important;
-    margin-left: auto !important; /* Shoves it to the right */
+    order: 2 !important;
+    margin-left: auto !important; /* This is the key that shoves it right */
+    flex: 0 0 auto !important;
+    display: flex !important;
     z-index: 2;
   }
 
-  /* 6. Push content down so it's not hidden under the fixed bar */
-  #main-wrapper {
-    padding-top: 60px !important;
+  /* 5. Clean up any theme-added spacers that might be in the way */
+  #search-wrapper, .search-wrapper {
+    margin-left: auto !important;
+    display: flex !important;
+  }
+
+  /* Kill the blue underlines and default styling */
+  #topbar-wrapper a, #sidebar-trigger, #search-trigger {
+    text-decoration: none !important;
+    border: none !important;
+    box-shadow: none !important;
+    color: var(--topbar-text-color) !important;
   }
 }
 
