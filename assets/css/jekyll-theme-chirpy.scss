@@ -59,14 +59,24 @@
     padding-top: 60px !important;
   }
 }
-/* Sidebar Custom Logo & Rotating Turbo */
-.tc-logo-container {
+/* Sidebar Branding Overhaul */
+.tc-brand-container {
   position: relative !important;
   display: block !important;
-  width: 140px !important; /* Adjust based on sidebar width */
-  margin: 0 auto 1.5rem auto !important;
+  width: 180px !important; /* Increased width since title text is gone */
+  margin: 1rem auto 2rem auto !important;
+  background-color: transparent !important; /* Kills the white background */
   border: none !important;
+  box-shadow: none !important;
   border-radius: 0 !important; /* Kills the circle crop */
+  padding: 0 !important;
+}
+
+/* Ensure the link itself isn't forcing a circle */
+#avatar.tc-brand-container, #avatar.rounded-circle {
+  border-radius: 0 !important;
+  background: none !important;
+  border: none !important;
 }
 
 .tc-base-logo {
@@ -77,10 +87,10 @@
 
 .tc-rotating-overlay {
   position: absolute !important;
-  /* Adjust these top/left percentages to center the turbo over the logo's engine */
-  top: 15%; 
-  left: 25%;
-  width: 45px !important; 
+  /* Adjust these values to position the turbo on the graphic */
+  top: 10%; 
+  left: 30%;
+  width: 50px !important; 
   z-index: 2;
   animation: tc-spin 4s infinite linear;
 }
