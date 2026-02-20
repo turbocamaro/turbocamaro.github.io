@@ -9,6 +9,7 @@
 ';
 
 /* append your custom style below */
+
 /* Mobile Logo & Sticky Header */
 @media (max-width: 849px) {
   #topbar-wrapper {
@@ -20,18 +21,27 @@
     background-color: var(--main-bg) !important;
     border-bottom: 1px solid var(--main-border-color) !important;
     height: 50px !important;
+    
+    /* This is the fix for the search icon spacing */
     display: flex !important;
+    justify-content: space-between !important; 
     align-items: center !important;
+    padding: 0 15px !important; /* Adds a little breathing room on the edges */
   }
 
   #topbar-title {
+    /* Remove 'margin: 0 auto' if it's there, as it fights 'space-between' */
     color: transparent !important;
     background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
     background-size: contain !important;
     display: block !important;
     height: 32px !important;
     width: 180px !important;
-    margin: 0 auto !important;
+    
+    /* Ensures the logo stays centered even when the icons on the side are different sizes */
+    position: absolute !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
   }
 
   #main-wrapper {
