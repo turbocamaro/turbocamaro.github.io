@@ -11,45 +11,85 @@
 /* append your custom style below */
 
 @media (max-width: 849px) {
-  /* 1. Lock the Bar Height */
-  #topbar-wrapper #topbar {
-    display: block !important;
-    position: relative !important;
-    width: 100% !important;
-    height: 50px !important; /* Forces the vertical space */
+  /* 1. Deflate the Header and Wrapper */
+  #topbar-wrapper, #topbar-wrapper #topbar {
+    height: 50px !important;
+    min-height: 50px !important;
+    max-height: 50px !important;
     padding: 0 !important;
     margin: 0 !important;
+    overflow: hidden !important; /* Prevents logo from stretching the bar */
   }
 
-  /* 2. The Hamburger - Pinned Left & Centered Vertically */
+  /* 2. The Hamburger - Pinned Left */
   #sidebar-trigger {
     position: absolute !important;
-    left: 15px !important;
-    top: 50% !important;
-    transform: translateY(-50%) !important;
+    left: 10px !important;
+    top: 0 !important;
+    height: 50px !important; /* Matches bar height */
     display: flex !important;
+    align-items: center !important;
     z-index: 10 !important;
   }
 
-  /* 3. The Logo - Pinned Center & Centered Vertically */
+  /* 3. The Logo - Centered and Non-Intrusive */
   #topbar-title {
     position: absolute !important;
     left: 50% !important;
-    top: 50% !important; /* Pulls from top to middle */
-    /* The first -50% centers horizontally, the second -50% centers vertically */
-    transform: translate(-50%, -50%) !important; 
+    top: 50% !important;
+    transform: translate(-50%, -50%) !important;
     
+    /* Image Settings */
     width: 150px !important;
-    height: 32px !important;
+    height: 30px !important;
     background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
     background-size: contain !important;
+    
+    /* Clean up text/spacing that pushes the bar down */
     color: transparent !important;
+    line-height: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
     display: block !important;
     z-index: 1;
-    margin: 0 !important;
-    padding: 0 !important;
-    transition: opacity
-      
+    transition: opacity 0.1s ease-in-out !important;
+  }
+
+  /* 4. THE FADE: High-specificity trigger */
+  /* Chirpy 7.x uses 'searching' on the #topbar-wrapper or body */
+  #topbar-wrapper[searching] #topbar-title,
+  html[searching] #topbar-title,
+  body.searching-on #topbar-title,
+  #search-wrapper.active ~ #topbar-title {
+    opacity: 0 !important;
+    visibility: hidden !important;
+  }
+
+  /* 5. The Search - Pinned Right */
+  #search-wrapper {
+    position: absolute !important;
+    right: 10px !important;
+    top: 0 !important;
+    height: 50px !important;
+    display: flex !important;
+    align-items: center !important;
+    z-index: 10 !important;
+  }
+
+  /* Fix the search input field width and background */
+  #search-input {
+    background-color: var(--main-bg) !important;
+    height: 30px !important;
+    margin-right: 35px !important;
+  }
+
+  /* Global Underline Kill */
+  #topbar-wrapper a, #sidebar-trigger, #search-trigger {
+    text-decoration: none !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+}
 
 /* --- TURBO CAMARO FINAL ALIGNMENT & BRANDING --- */
 
