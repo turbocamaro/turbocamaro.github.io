@@ -10,80 +10,75 @@
 
 /* append your custom style below */
 
+
 @media (max-width: 849px) {
-  /* 1. Force the container to a strict 50px height */
-  #topbar-wrapper, #topbar-wrapper #topbar {
+  /* 1. Force the containers to span the ENTIRE phone width */
+  #topbar-wrapper, 
+  #topbar-wrapper #topbar {
+    display: block !important;
+    position: relative !important;
+    width: 100vw !important; /* Forces it to the edges of the phone */
     height: 50px !important;
-    min-height: 50px !important;
-    max-height: 50px !important;
     padding: 0 !important;
     margin: 0 !important;
-    position: relative !important;
-    display: block !important; /* Kills the flexbox huddle */
+    left: 0 !important;
   }
 
-  /* 2. Hamburger - Pinned far LEFT */
+  /* 2. Hamburger - Pinned Left */
   #sidebar-trigger {
     position: absolute !important;
     left: 15px !important;
     top: 50% !important;
     transform: translateY(-50%) !important;
     display: flex !important;
-    z-index: 10 !important;
-    margin: 0 !important;
+    z-index: 20 !important;
   }
 
-  /* 3. Logo - Pinned DEAD CENTER (Horizontal and Vertical) */
+  /* 3. Logo - Pinned Center */
   #topbar-title {
     position: absolute !important;
     left: 50% !important;
-    /* Use 46% to counteract the 'sag'—this pulls it slightly higher than center */
-    top: 46% !important; 
+    top: 48% !important; /* Levelled */
     transform: translate(-50%, -50%) !important;
-    
-    width: 150px !important;
+    width: 140px !important;
     height: 30px !important;
     background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
     background-size: contain !important;
-    
     display: block !important;
     color: transparent !important;
-    line-height: 0 !important;
     z-index: 1;
-    transition: opacity 0.15s ease-in-out !important;
+    transition: opacity 0.15s ease !important;
   }
 
-  /* 4. Search Icon - Pinned far RIGHT */
-  #search-trigger {
+  /* 4. Search Icon - Pinned Right */
+  #search-wrapper {
     position: absolute !important;
-    right: 15px !important;
+    right: 15px !important; /* If this is on the left, the container width is the culprit */
     top: 50% !important;
     transform: translateY(-50%) !important;
     display: flex !important;
-    z-index: 10 !important;
-    margin: 0 !important;
+    z-index: 20 !important;
   }
 
-  /* 5. THE FADE: Hide logo when search field is active */
-  /* We are targeting the 'searching' attribute the theme adds to the topbar */
-  #topbar-wrapper[searching] #topbar-title,
+  #search-trigger {
+    display: flex !important;
+  }
+
+  /* 5. THE FADE: High-Specificity */
   html[searching] #topbar-title,
-  .searching-on #topbar-title,
+  body.searching-on #topbar-title,
+  #topbar-wrapper[searching] #topbar-title,
   #search-input:focus ~ #topbar-title {
     opacity: 0 !important;
     visibility: hidden !important;
   }
 
-  /* 6. Fix for search input appearance */
-  #search-input {
-    background-color: var(--main-bg) !important;
-    margin-right: 40px !important;
-  }
-
-  /* Cleanup */
-  #topbar-wrapper a {
+  /* Kill the blue highlights/underlines */
+  #topbar-wrapper a, #sidebar-trigger, #search-trigger {
     text-decoration: none !important;
     border: none !important;
+    box-shadow: none !important;
+    outline: none !important;
   }
 }
 
