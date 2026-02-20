@@ -11,71 +11,54 @@
 /* append your custom style below */
 
 @media (max-width: 849px) {
-  /* 1. Lock the Bar Height */
-  #topbar-wrapper #topbar {
-    display: block !important;
-    position: relative !important;
-    width: 100% !important;
-    height: 50px !important; /* Forces the vertical space */
-    padding: 0 !important;
-    margin: 0 !important;
+  /* 1. Force the bar to stay 50px high no matter what */
+  #topbar-wrapper, #topbar-wrapper #topbar {
+    height: 50px !important;
+    overflow: hidden !important; 
   }
 
-  /* 2. The Hamburger - Pinned Left & Centered Vertically */
-  #sidebar-trigger {
-    position: absolute !important;
-    left: 15px !important;
-    top: 50% !important;
-    transform: translateY(-50%) !important;
-    display: flex !important;
-    z-index: 10 !important;
-  }
-
-  /* 3. The Logo - Pinned Center & Centered Vertically */
+  /* 2. THE LOGO - Deflated and Levelled */
   #topbar-title {
     position: absolute !important;
     left: 50% !important;
-    top: 50% !important; /* Pulls from top to middle */
-    /* The first -50% centers horizontally, the second -50% centers vertically */
-    transform: translate(-50%, -50%) !important; 
+    /* Nudge it up: using 48% instead of 50% often fixes the 'visual' sag */
+    top: 48% !important; 
+    transform: translate(-50%, -50%) !important;
     
     width: 150px !important;
-    height: 32px !important;
+    height: 30px !important;
     background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
     background-size: contain !important;
-    color: transparent !important;
-    display: block !important;
-    z-index: 1;
+    
+    /* Kill the 'invisible' text spacing that pushes the bar down */
+    line-height: 0 !important;
     margin: 0 !important;
     padding: 0 !important;
-    transition: opacity 0.2s ease !important;
+    display: block !important;
+    color: transparent !important;
+    z-index: 1;
+    transition: opacity 0.15s ease-in-out !important;
   }
 
-  /* 4. The Search - Pinned Right & Centered Vertically */
-  #search-wrapper, #search-trigger {
-    position: absolute !important;
-    right: 15px !important;
-    top: 50% !important;
-    transform: translateY(-50%) !important;
-    display: flex !important;
-    z-index: 10 !important;
-  }
-
-  /* 5. THE FADE: Hide logo when search is active */
+  /* 3. THE FADE - The 'No-Nonsense' Trigger List */
+  /* This covers every state Chirpy toggles when search is active */
+  #topbar-wrapper[searching] #topbar-title,
   html[searching] #topbar-title,
-  .searching-on #topbar-title,
-  #search-input:focus ~ #topbar-title {
+  body.searching-on #topbar-title,
+  #search-input:focus ~ #topbar-title,
+  #search-wrapper.active #topbar-title {
     opacity: 0 !important;
     visibility: hidden !important;
+    transition: opacity 0.1s ease-in-out !important;
   }
 
-  /* Kill underlines and default styles */
-  #topbar-wrapper a, #sidebar-trigger, #search-trigger {
-    text-decoration: none !important;
-    border: none !important;
-    box-shadow: none !important;
+  /* 4. LEAVE YOUR BUTTON CODE ALONE (The code that had them on the far left/right) */
+  /* Ensure they have a high Z-Index so they stay 'above' the logo */
+  #sidebar-trigger, #search-wrapper {
+    z-index: 10 !important;
   }
 }
+
 
 /* --- TURBO CAMARO FINAL ALIGNMENT & BRANDING --- */
 
