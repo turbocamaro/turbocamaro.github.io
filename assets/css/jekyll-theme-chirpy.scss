@@ -1,3 +1,14 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
 /* Mobile Logo & Sticky Header */
 @media (max-width: 849px) {
   #topbar-wrapper {
