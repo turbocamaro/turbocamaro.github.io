@@ -1,9 +1,11 @@
 ---
 # Mandatory Front Matter
 ---
-@import "main";
 
-/* Mobile Logo & Sticky Header */
+/* Manually point to the theme's main file since the shortcut is failing */
+@import "../../vendor/bundle/ruby/3.3.0/gems/jekyll-theme-chirpy-7.4.1/_sass/main";
+
+/* --- TURBO CAMARO CUSTOMIZATIONS --- */
 @media (max-width: 849px) {
   #topbar-wrapper {
     position: fixed !important;
