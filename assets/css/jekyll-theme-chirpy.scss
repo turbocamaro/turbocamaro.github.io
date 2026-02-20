@@ -59,26 +59,26 @@
     padding-top: 60px !important;
   }
 }
-/* Sidebar Branding - Oversized Racetrack Mode */
+/* Sidebar Branding - High Speed Orbit */
 #sidebar #avatar.tc-brand-container {
   position: relative !important;
   display: flex !important;
   justify-content: center !important;
   align-items: center !important;
-  width: 180px !important; /* Logo width */
-  height: 180px !important; /* Height to accommodate the circle */
-  margin: 2rem auto !important;
+  /* Scaled up the container to accommodate the 15% logo increase */
+  width: 210px !important; 
+  height: 210px !important; 
+  margin: 1.5rem auto !important;
   background: transparent !important;
-  background-color: transparent !important; /* Kill the white rectangle */
   border: none !important;
-  box-shadow: none !important;
   border-radius: 0 !important;
-  overflow: visible !important; /* CRITICAL: Allows racetrack to sit outside logo */
+  overflow: visible !important;
   transform: translateX(-5%) !important; 
 }
 
 .tc-base-logo {
-  width: 150px !important; /* Shrink logo slightly to let racetrack "orbit" it */
+  /* Increased size by ~15% (from 150px to 175px) */
+  width: 175px !important; 
   height: auto !important;
   z-index: 1;
 }
@@ -87,21 +87,22 @@
   position: absolute !important;
   top: 50% !important;
   left: 50% !important;
-  
-  /* Centering math: moves the center of the racetrack to the center of the container */
-  transform: translate(-50%, -50%) !important; 
-  
-  width: 240px !important; /* Larger than the 180px container */
+  width: 260px !important; /* Scaled racetrack accordingly */
   max-width: none !important;
   z-index: 2;
   
-  /* 50% Faster Spin: Changed from 10s to 5s */
-  animation: tc-spin 5s infinite linear !important;
+  /* Resetting the base transform and applying the animation */
+  transform: translate(-50%, -50%) rotate(0deg);
+  animation: tc-spin-centered 3s infinite linear !important; 
   display: block !important;
 }
 
-/* The Animation Engine - Using a combine transform to keep centering while spinning */
-@keyframes tc-spin {
-  from { transform: translate(-50%, -50%) rotate(0deg); }
-  to { transform: translate(-50%, -50%) rotate(360deg); }
+/* THE FIX: This animation keeps the racetrack centered (-50%, -50%) while it spins */
+@keyframes tc-spin-centered {
+  from { 
+    transform: translate(-50%, -50%) rotate(0deg); 
+  }
+  to { 
+    transform: translate(-50%, -50%) rotate(360deg); 
+  }
 }
