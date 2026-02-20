@@ -26,58 +26,34 @@
     padding: 0 5px !important; /* Tightens the edge spacing */
   }
 
-  /* Remove the blue underlines from the icons */
-  #sidebar-trigger, #search-trigger {
-    display: flex !important;
-    align-items: center !important;
-    text-decoration: none !important; /* Kills the blue line */
-    color: var(--topbar-text-color) !important; /* Keeps icon color correct */
-    border-bottom: none !important; /* Just in case it's a border */
-  }
-
-  #topbar-title {
-    color: transparent !important;
-    background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
-    background-size: contain !important;
-    display: block !important;
-    height: 32px !important;
-    width: 160px !important;
-    
-    /* Perfect Center Anchor */
-    position: absolute !important;
-    left: 50% !important;
-    transform: translateX(-50%) !important;
-    pointer-events: none !important; /* Let clicks "pass through" to icons if they overlap */
-  }
-
-  /* Force the magnifying glass to the absolute right */
-  #search-trigger {
-    margin-left: auto !important;
-  }
-
-  #main-wrapper {
-    padding-top: 60px !important;
-  }
-}
-/* Sidebar Branding - High Speed Orbit */
-#sidebar #avatar.tc-brand-container {
+/* Sidebar Branding - Final Polish */
+#sidebar #avatar.tc-brand-container,
+[data-theme] #sidebar #avatar.tc-brand-container {
   position: relative !important;
   display: flex !important;
   justify-content: center !important;
   align-items: center !important;
-  /* Scaled up the container to accommodate the 15% logo increase */
   width: 210px !important; 
   height: 210px !important; 
   margin: 1.5rem auto !important;
+  
+  /* Kill the White Rectangle - Targeting multiple layers */
   background: transparent !important;
+  background-color: transparent !important;
   border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
   border-radius: 0 !important;
   overflow: visible !important;
   transform: translateX(-5%) !important; 
 }
 
+/* Ensure no theme-specific background colors leak in */
+#sidebar .profile-wrapper a#avatar {
+  background: none !important;
+}
+
 .tc-base-logo {
-  /* Increased size by ~15% (from 150px to 175px) */
   width: 175px !important; 
   height: auto !important;
   z-index: 1;
@@ -87,22 +63,22 @@
   position: absolute !important;
   top: 50% !important;
   left: 50% !important;
-  width: 260px !important; /* Scaled racetrack accordingly */
+  width: 260px !important; 
   max-width: none !important;
   z-index: 2;
   
-  /* Resetting the base transform and applying the animation */
-  transform: translate(-50%, -50%) rotate(0deg);
-  animation: tc-spin-centered 3s infinite linear !important; 
+  /* Centering and Animation */
+  /* Duration: 3.15s (5% slower than 3s) */
+  animation: tc-spin-ccw 3.15s infinite linear !important; 
   display: block !important;
 }
 
-/* THE FIX: This animation keeps the racetrack centered (-50%, -50%) while it spins */
-@keyframes tc-spin-centered {
+/* THE FIX: Counter-Clockwise (CCW) Rotation while staying centered */
+@keyframes tc-spin-ccw {
   from { 
     transform: translate(-50%, -50%) rotate(0deg); 
   }
   to { 
-    transform: translate(-50%, -50%) rotate(360deg); 
+    transform: translate(-50%, -50%) rotate(-360deg); 
   }
 }
