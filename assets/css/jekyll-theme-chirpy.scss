@@ -11,58 +11,68 @@
 /* append your custom style below */
 
 @media (max-width: 849px) {
-  /* 1. Define the Topbar as a rigid 3-column Grid */
+  /* 1. Reset the Topbar Container */
   #topbar-wrapper #topbar {
-    display: grid !important;
-    grid-template-columns: 1fr auto 1fr !important; /* Left, Center, Right */
-    align-items: center !important;
+    display: block !important; /* Switch to block to control children manually */
+    position: relative !important;
     width: 100% !important;
     height: 50px !important;
-    padding: 0 15px !important;
+    padding: 0 !important;
   }
 
-  /* 2. Stall 1: The Hamburger (Far Left) */
+  /* 2. The Hamburger - Pinned to the Left Wall */
   #sidebar-trigger {
-    grid-column: 1 !important;
-    justify-self: start !important;
+    position: absolute !important;
+    left: 15px !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
     display: flex !important;
-    order: -1 !important; /* Forces it to the absolute beginning */
+    z-index: 10 !important;
   }
 
-  /* 3. Stall 2: The Logo (Dead Center) */
+  /* 3. The Logo - Pinned to the Dead Center */
   #topbar-title {
-    grid-column: 2 !important;
-    justify-self: center !important;
-    width: 140px !important;
-    height: 30px !important;
+    position: absolute !important;
+    left: 50% !important;
+    top: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    width: 150px !important; /* Adjusted for visibility */
+    height: 32px !important;
     background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
     background-size: contain !important;
     color: transparent !important;
     display: block !important;
+    z-index: 1;
     transition: opacity 0.2s ease !important;
   }
 
-  /* 4. Stall 3: The Search (Far Right) */
-  #search-wrapper {
-    grid-column: 3 !important;
-    justify-self: end !important;
+  /* 4. The Search - Pinned to the Right Wall */
+  /* Targeting the trigger AND the wrapper to ensure it moves from behind the logo */
+  #search-wrapper, #search-trigger {
+    position: absolute !important;
+    right: 15px !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
     display: flex !important;
-  }
-
-  #search-trigger {
-    display: flex !important;
+    z-index: 10 !important;
   }
 
   /* 5. THE FADE: Logic for when search is clicked */
-  /* This targets the 'searching' state of the HTML or focused input */
+  /* Chirpy toggles 'searching-on' or 'searching' on the HTML/Body */
   html[searching] #topbar-title,
-  #search-input:focus ~ #topbar-title,
-  .searching-on #topbar-title {
+  .searching-on #topbar-title,
+  #search-input:focus ~ #topbar-title {
     opacity: 0 !important;
     visibility: hidden !important;
   }
 
-  /* Kill underlines and fix search bar overlap */
+  /* 6. Fix for the Search Input overlap */
+  #search-input {
+    background-color: var(--main-bg) !important;
+    margin-right: 40px !important; /* Space for the 'X' button */
+  }
+
+  /* Kill underlines and default styles */
   #topbar-wrapper a, #sidebar-trigger, #search-trigger {
     text-decoration: none !important;
     border: none !important;
