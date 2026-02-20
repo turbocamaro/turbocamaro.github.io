@@ -2,20 +2,20 @@
   <header class="profile-wrapper">
     <a href="{{ '/' | relative_url }}" id="avatar" class="tc-brand-container">
       <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" class="tc-base-logo" alt="Turbo Camaro Logo">
-      <img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" class="tc-rotating-overlay" alt="Rotating Turbo">
+      <img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" class="tc-rotating-overlay" alt="Rotating Racetrack">
     </a>
-    
-    </header>
+  </header>
+
   <nav class="flex-column flex-grow-1 w-100 ps-0">
     <ul class="nav">
-      <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
+      <li class="nav-item{% if page.layout == 'home' %}{{ ' active' }}{% endif %}">
         <a href="{{ '/' | relative_url }}" class="nav-link">
           <i class="fa-fw fas fa-home"></i>
-          <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
+          <span>HOME</span>
         </a>
       </li>
       {% for tab in site.tabs %}
-        <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
+        <li class="nav-item{% if tab.url == page.url %}{{ ' active' }}{% endif %}">
           <a href="{{ tab.url | relative_url }}" class="nav-link">
             <i class="fa-fw {{ tab.icon }}"></i>
             {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
@@ -31,35 +31,15 @@
       <button type="button" class="btn btn-link nav-link" aria-label="Switch Mode" id="mode-toggle">
         <i class="fas fa-adjust"></i>
       </button>
-      {% if site.data.contact.size > 0 %}<span class="icon-border"></span>{% endif %}
+      <span class="icon-border"></span>
     {% endunless %}
-
     {% for entry in site.data.contact %}
-      {%- assign url = null -%}
-      {% case entry.type %}
-        {% when 'github', 'twitter' %}
-          {%- capture url -%}https://{{ entry.type }}.com/{{ site[entry.type].username }}{%- endcapture -%}
-        {% when 'email' %}
-          {%- assign email = site.social.email | split: '@' -%}
-          {%- capture url -%}javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'){%- endcapture -%}
-        {% when 'rss' %}{% assign url = '/feed.xml' | relative_url %}
-        {% else %}{% assign url = entry.url %}
-      {% endcase %}
-      {% if url %}
-        <a href="{{ url }}" aria-label="{{ entry.type }}" {% unless entry.noblank %}target="_blank" rel="noopener noreferrer"{% endunless %}>
-          <i class="{{ entry.icon }}"></i>
-        </a>
-      {% endif %}
+      <a href="{{ entry.url }}" aria-label="{{ entry.type }}">
+        <i class="{{ entry.icon }}"></i>
+      </a>
     {% endfor %}
   </div>
 </aside>
-      {% if site.data.contact.size > 0 %}
-        <span class="icon-border"></span>
-      {% endif %}
-    {% endunless %}
-
-    {% for entry in site.data.contact %}
-      {%- assign url = null -%}
 
       {% case entry.type %}
         {% when 'github', 'twitter' %}
