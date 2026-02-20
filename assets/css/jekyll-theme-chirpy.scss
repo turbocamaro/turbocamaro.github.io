@@ -11,64 +11,78 @@
 /* append your custom style below */
 
 @media (max-width: 849px) {
-  /* 1. Force the inner topbar to be a full-width container */
+  /* 1. Setup the Topbar as a 3-column grid */
   #topbar-wrapper #topbar {
     display: flex !important;
-    justify-content: space-between !important; /* This is the key 'Separator' */
+    justify-content: space-between !important;
     align-items: center !important;
     width: 100% !important;
     padding: 0 15px !important;
-    position: relative !important;
+    height: 50px !important;
   }
 
-  /* 2. The Hamburger - Anchor to the LEFT */
+  /* 2. Hamburger Section (Left 33%) */
   #sidebar-trigger {
+    flex: 1 !important; /* Takes up 1/3 of space */
+    display: flex !important;
+    justify-content: flex-start !important;
     order: 1 !important;
-    margin-right: auto !important; /* Pushes everything else to the right */
-    display: flex !important;
     z-index: 10 !important;
+    margin: 0 !important;
   }
 
-  /* 3. The Search - Anchor to the RIGHT */
-  #search-wrapper {
-    order: 3 !important;
-    margin-left: auto !important; /* Pushes everything else to the left */
+  /* 3. Logo Section (Center 33%) */
+  #topbar-title {
+    flex: 1 !important; /* Takes up 1/3 of space */
     display: flex !important;
-    justify-content: flex-end !important;
-    z-index: 10 !important;
-  }
-
-  /* 4. The Logo - Absolute Center */
-  #topbar-wrapper #topbar-title {
-    position: absolute !important;
-    left: 50% !important;
-    transform: translateX(-50%) !important;
-    width: 140px !important;
-    height: 32px !important;
+    justify-content: center !important;
+    order: 2 !important;
+    /* Resetting Absolute positioning to let Flexbox handle the centering */
+    position: static !important; 
+    transform: none !important;
+    
+    /* Logo Graphic */
     background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
     background-size: contain !important;
+    width: 140px !important;
+    height: 30px !important;
     color: transparent !important;
-    z-index: 1;
-    margin: 0 !important;
     transition: opacity 0.2s ease !important;
   }
 
-  /* 5. THE FADE: Hide logo when searching */
-  /* Chirpy often uses the 'input-focus' or a parent class 'searching-on' */
+  /* 4. Search Section (Right 33%) */
+  #search-wrapper {
+    flex: 1 !important; /* Takes up 1/3 of space */
+    display: flex !important;
+    justify-content: flex-end !important;
+    order: 3 !important;
+    z-index: 10 !important;
+    margin: 0 !important;
+  }
+
+  #search-trigger {
+    display: flex !important;
+  }
+
+  /* 5. THE FADE: Hide logo when search is active */
+  /* This works when the search input is focused */
+  #search-input:focus ~ #topbar-title,
   html[searching] #topbar-title,
-  .searching-on #topbar-title,
-  #search-input:focus ~ #topbar-title {
+  .searching-on #topbar-title {
     opacity: 0 !important;
     visibility: hidden !important;
   }
 
-  /* Cleanup */
+  /* Kill underlines and fix mobile search bar width */
   #topbar-wrapper a, #sidebar-trigger, #search-trigger {
     text-decoration: none !important;
     border: none !important;
   }
-}
 
+  #search-input {
+    width: 100% !important;
+  }
+}
 
 
 /* --- TURBO CAMARO FINAL ALIGNMENT & BRANDING --- */
