@@ -10,7 +10,6 @@
 
 /* append your custom style below */
 
-/* Mobile Logo & Sticky Header */
 @media (max-width: 849px) {
   #topbar-wrapper {
     position: fixed !important;
@@ -21,12 +20,19 @@
     background-color: var(--main-bg) !important;
     border-bottom: 1px solid var(--main-border-color) !important;
     height: 50px !important;
-    
-    /* The Fix: Ensure the container allows items to push to the edges */
     display: flex !important;
     align-items: center !important;
     justify-content: space-between !important;
-    padding: 0 10px !important;
+    padding: 0 5px !important; /* Tightens the edge spacing */
+  }
+
+  /* Remove the blue underlines from the icons */
+  #sidebar-trigger, #search-trigger {
+    display: flex !important;
+    align-items: center !important;
+    text-decoration: none !important; /* Kills the blue line */
+    color: var(--topbar-text-color) !important; /* Keeps icon color correct */
+    border-bottom: none !important; /* Just in case it's a border */
   }
 
   #topbar-title {
@@ -35,25 +41,18 @@
     background-size: contain !important;
     display: block !important;
     height: 32px !important;
-    width: 150px !important; /* Slightly smaller to ensure no overlap */
+    width: 160px !important;
     
-    /* The Centering Anchor */
+    /* Perfect Center Anchor */
     position: absolute !important;
     left: 50% !important;
     transform: translateX(-50%) !important;
+    pointer-events: none !important; /* Let clicks "pass through" to icons if they overlap */
   }
 
-  /* Force the search button to the far right */
+  /* Force the magnifying glass to the absolute right */
   #search-trigger {
-    display: flex !important;
-    margin-left: auto !important; 
-    padding: 10px !important;
-  }
-
-  /* Ensure the sidebar trigger stays left */
-  #sidebar-trigger {
-    display: flex !important;
-    padding: 10px !important;
+    margin-left: auto !important;
   }
 
   #main-wrapper {
