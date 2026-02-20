@@ -59,3 +59,33 @@
     padding-top: 60px !important;
   }
 }
+/* Sidebar Custom Logo & Rotating Turbo */
+.tc-logo-container {
+  position: relative !important;
+  display: block !important;
+  width: 140px !important; /* Adjust based on sidebar width */
+  margin: 0 auto 1.5rem auto !important;
+  border: none !important;
+  border-radius: 0 !important; /* Kills the circle crop */
+}
+
+.tc-base-logo {
+  width: 100% !important;
+  height: auto !important;
+  z-index: 1;
+}
+
+.tc-rotating-overlay {
+  position: absolute !important;
+  /* Adjust these top/left percentages to center the turbo over the logo's engine */
+  top: 15%; 
+  left: 25%;
+  width: 45px !important; 
+  z-index: 2;
+  animation: tc-spin 4s infinite linear;
+}
+
+@keyframes tc-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
