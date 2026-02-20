@@ -11,71 +11,64 @@
 /* append your custom style below */
 
 @media (max-width: 849px) {
-  /* 1. Target the inner topbar div specifically */
+  /* 1. Force the inner topbar to be a full-width container */
   #topbar-wrapper #topbar {
     display: flex !important;
-    flex-direction: row !important;
-    justify-content: space-between !important;
+    justify-content: space-between !important; /* This is the key 'Separator' */
     align-items: center !important;
     width: 100% !important;
     padding: 0 15px !important;
+    position: relative !important;
   }
 
-  /* 2. The Logo - Centered and Fading */
+  /* 2. The Hamburger - Anchor to the LEFT */
+  #sidebar-trigger {
+    order: 1 !important;
+    margin-right: auto !important; /* Pushes everything else to the right */
+    display: flex !important;
+    z-index: 10 !important;
+  }
+
+  /* 3. The Search - Anchor to the RIGHT */
+  #search-wrapper {
+    order: 3 !important;
+    margin-left: auto !important; /* Pushes everything else to the left */
+    display: flex !important;
+    justify-content: flex-end !important;
+    z-index: 10 !important;
+  }
+
+  /* 4. The Logo - Absolute Center */
   #topbar-wrapper #topbar-title {
     position: absolute !important;
     left: 50% !important;
     transform: translateX(-50%) !important;
-    width: 140px !important; /* Slightly smaller for mobile safety */
+    width: 140px !important;
     height: 32px !important;
     background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
     background-size: contain !important;
     color: transparent !important;
     z-index: 1;
-    transition: opacity 0.2s ease-in-out, visibility 0.2s !important;
+    margin: 0 !important;
+    transition: opacity 0.2s ease !important;
   }
 
-  /* 3. THE FADE: Hide logo when search is focused or has text */
-  /* This targets the search input being 'open' */
-  #search-input:focus ~ #topbar-title,
-  #search-wrapper.active #topbar-title,
-  html[data-searching] #topbar-title {
+  /* 5. THE FADE: Hide logo when searching */
+  /* Chirpy often uses the 'input-focus' or a parent class 'searching-on' */
+  html[searching] #topbar-title,
+  .searching-on #topbar-title,
+  #search-input:focus ~ #topbar-title {
     opacity: 0 !important;
     visibility: hidden !important;
   }
 
-  /* 4. Force Hamburger Left and Search Right */
-  #sidebar-trigger {
-    order: 1 !important;
-    flex: 0 0 auto !important;
-  }
-
-  #search-wrapper {
-    order: 3 !important;
-    margin-left: auto !important; /* The 'Spring' that pushes it right */
-    display: flex !important;
-    justify-content: flex-end !important;
-  }
-
-  #search-trigger {
-    display: flex !important;
-  }
-
-  /* 5. Clean up the search input so it doesn't overlap icons */
-  #search-input {
-    max-width: 70% !important;
-    margin-right: 10px !important;
-  }
-
-  /* Underline & Border Kill */
-  #topbar-wrapper a, 
-  #sidebar-trigger, 
-  #search-trigger {
+  /* Cleanup */
+  #topbar-wrapper a, #sidebar-trigger, #search-trigger {
     text-decoration: none !important;
     border: none !important;
-    box-shadow: none !important;
   }
 }
+
 
 
 /* --- TURBO CAMARO FINAL ALIGNMENT & BRANDING --- */
