@@ -59,37 +59,49 @@
     padding-top: 60px !important;
   }
 }
-/* Ensure the container is the "Anchor" */
+/* Sidebar Branding - Oversized Racetrack Mode */
 #sidebar #avatar.tc-brand-container {
-  position: relative !important; /* This is the anchor point */
-  display: block !important;
-  width: 180px !important;
+  position: relative !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 180px !important; /* Logo width */
+  height: 180px !important; /* Height to accommodate the circle */
   margin: 2rem auto !important;
   background: transparent !important;
-  transform: translateX(-5%) !important; /* Your centering nudge */
+  background-color: transparent !important; /* Kill the white rectangle */
+  border: none !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  overflow: visible !important; /* CRITICAL: Allows racetrack to sit outside logo */
+  transform: translateX(-5%) !important; 
 }
 
-/* The Racetrack Overlay */
+.tc-base-logo {
+  width: 150px !important; /* Shrink logo slightly to let racetrack "orbit" it */
+  height: auto !important;
+  z-index: 1;
+}
+
 .tc-rotating-overlay {
   position: absolute !important;
-  /* Use Top/Left to 'Seat' it on the logo */
-  top: 20px !important; 
+  top: 50% !important;
   left: 50% !important;
   
-  /* Use Margin-Left to center it perfectly on that 50% line */
-  margin-left: -35px !important; /* This must be exactly half of the width below */
+  /* Centering math: moves the center of the racetrack to the center of the container */
+  transform: translate(-50%, -50%) !important; 
   
-  width: 70px !important; 
-  height: 70px !important;
-  z-index: 10 !important;
+  width: 240px !important; /* Larger than the 180px container */
+  max-width: none !important;
+  z-index: 2;
   
-  /* The Animation Engine */
-  animation: tc-spin 10s infinite linear !important;
+  /* 50% Faster Spin: Changed from 10s to 5s */
+  animation: tc-spin 5s infinite linear !important;
   display: block !important;
 }
 
-/* Force the animation to exist */
+/* The Animation Engine - Using a combine transform to keep centering while spinning */
 @keyframes tc-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  from { transform: translate(-50%, -50%) rotate(0deg); }
+  to { transform: translate(-50%, -50%) rotate(360deg); }
 }
