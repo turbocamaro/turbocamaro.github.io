@@ -11,16 +11,16 @@
 /* append your custom style below */
 
 @media (max-width: 849px) {
-  /* 1. Reset the Bar */
-  #topbar-wrapper {
+  /* 1. Target the ACTUAL inner container for alignment */
+  #topbar {
     display: flex !important;
-    flex-direction: row !important;
     justify-content: space-between !important;
     align-items: center !important;
     padding: 0 10px !important;
+    width: 100% !important;
   }
 
-  /* 2. The Logo - Centered and "Ignore Clicks" */
+  /* 2. The Logo - Centered */
   #topbar-title {
     position: absolute !important;
     left: 50% !important;
@@ -30,44 +30,40 @@
     background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
     background-size: contain !important;
     color: transparent !important;
-    z-index: 1; /* Sits behind buttons */
-    pointer-events: none !important; 
+    z-index: 1;
+    transition: opacity 0.2s ease-in-out !important; /* Smooth fade */
   }
 
-  /* 3. The Hamburger - Left Side */
+  /* 3. THE FADE: Hide logo when search is active */
+  /* Chirpy adds a 'searching' attribute to the HTML tag when active */
+  html[searching] #topbar-title {
+    opacity: 0 !important;
+    visibility: hidden !important;
+  }
+
+  /* 4. Force the Icons to the Edges */
   #sidebar-trigger {
-    flex: 0 0 auto !important;
-    z-index: 10 !important;
-  }
-
-  /* 4. The Search - Pinned Right */
-  /* This targets the actual container that huddles on the left */
-  #search-wrapper {
-    margin-left: auto !important; /* Forces the entire search unit to the right */
-    display: flex !important;
-    justify-content: flex-end !important;
-    flex: 1 !important;
-    z-index: 10 !important;
+    order: 1 !important;
   }
 
   #search-trigger {
-    display: flex !important;
-    margin-left: auto !important;
+    order: 3 !important;
+    margin-left: auto !important; /* Pushes it to the far right */
   }
 
-  /* 5. The Search Input Field */
-  /* This prevents the search box from appearing 'under' the logo */
-  #search-input {
-    background-color: var(--main-bg) !important;
-    border: 1px solid var(--main-border-color) !important;
+  /* 5. Fix the Search Input positioning */
+  #search {
+    flex-grow: 1 !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    z-index: 10 !important;
   }
 
-  /* Kill the blue underlines and default styling */
+  /* Kill blue lines */
   #topbar-wrapper a, #sidebar-trigger, #search-trigger {
     text-decoration: none !important;
     border: none !important;
     box-shadow: none !important;
-    color: var(--topbar-text-color) !important;
   }
 }
 
