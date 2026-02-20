@@ -11,17 +11,16 @@
 /* append your custom style below */
 
 @media (max-width: 849px) {
-  /* 1. Reset the Topbar Wrapper to a full-width flex container */
+  /* 1. Reset the Bar */
   #topbar-wrapper {
     display: flex !important;
     flex-direction: row !important;
-    justify-content: space-between !important; /* Forces items to opposite ends */
+    justify-content: space-between !important;
     align-items: center !important;
-    padding: 0 15px !important;
-    height: 50px !important;
+    padding: 0 10px !important;
   }
 
-  /* 2. The Logo - Absolute Center */
+  /* 2. The Logo - Centered and "Ignore Clicks" */
   #topbar-title {
     position: absolute !important;
     left: 50% !important;
@@ -31,31 +30,36 @@
     background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
     background-size: contain !important;
     color: transparent !important;
-    z-index: 1;
-    margin: 0 !important;
+    z-index: 1; /* Sits behind buttons */
+    pointer-events: none !important; 
   }
 
-  /* 3. The Hamburger (Sidebar Trigger) - Force to Left */
+  /* 3. The Hamburger - Left Side */
   #sidebar-trigger {
-    order: 1 !important;
     flex: 0 0 auto !important;
-    display: flex !important;
-    z-index: 2;
+    z-index: 10 !important;
   }
 
-  /* 4. The Search Icon - Force to Right */
+  /* 4. The Search - Pinned Right */
+  /* This targets the actual container that huddles on the left */
+  #search-wrapper {
+    margin-left: auto !important; /* Forces the entire search unit to the right */
+    display: flex !important;
+    justify-content: flex-end !important;
+    flex: 1 !important;
+    z-index: 10 !important;
+  }
+
   #search-trigger {
-    order: 2 !important;
-    margin-left: auto !important; /* This is the key that shoves it right */
-    flex: 0 0 auto !important;
     display: flex !important;
-    z-index: 2;
+    margin-left: auto !important;
   }
 
-  /* 5. Clean up any theme-added spacers that might be in the way */
-  #search-wrapper, .search-wrapper {
-    margin-left: auto !important;
-    display: flex !important;
+  /* 5. The Search Input Field */
+  /* This prevents the search box from appearing 'under' the logo */
+  #search-input {
+    background-color: var(--main-bg) !important;
+    border: 1px solid var(--main-border-color) !important;
   }
 
   /* Kill the blue underlines and default styling */
@@ -66,6 +70,7 @@
     color: var(--topbar-text-color) !important;
   }
 }
+
 
 /* --- TURBO CAMARO FINAL ALIGNMENT & BRANDING --- */
 
