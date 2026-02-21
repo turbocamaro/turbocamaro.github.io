@@ -8,8 +8,12 @@ hide_title: true
 <style>
   /* Hide ONLY the navbar logo on mobile for this page */
  {
-    #topbar-title {
+html body #topbar-title {
       display: none !important;
+      opacity: 0 !important;
+      visibility: hidden !important;
+      width: 0 !important;
+      height: 0 !important;
     }
   }
 </style>
