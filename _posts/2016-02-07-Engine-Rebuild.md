@@ -1,7 +1,8 @@
 ﻿---
+title: "Engine Rebuild"
+layout: post
 categories: ["Engine"]
 tags: [Build, Internals, Rebuild]
-title: "Engine Rebuild"
 date: 2016-02-07 12:00:00 +0000
 ---
 
