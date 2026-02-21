@@ -1,5 +1,5 @@
 ---
-layout: tags
+layout: keywords
 icon: fas fa-tags
 order: 2
 ---
