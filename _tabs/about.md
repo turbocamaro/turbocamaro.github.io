@@ -6,6 +6,8 @@ permalink: /about/
 order: 1
 ---
 
+![First Photo In Canada](/assets/img/DSC02344.jpg)
+
 ### The Genesis of Defiance
 In 2007, my objective was simple: find a vehicle that was affordable, fuel-efficient, and reliable. By any objective measure, I failed. After exhausting the usual digital classifieds, I found myself staring at an eBay listing for a $9,400 Navy Blue 1967 Camaro. It was equipped with a 250ci Inline-6 and a Turbo Hydramatic 350—a combination I initially dismissed as underpowered and unremarkable.
 
@@ -19,6 +21,7 @@ By 2013, the Camaro was a fixture in my garage, its aging paint a constant remin
 
 Initial skepticism gave way to obsessive research. I studied every project, noted every failure, and eventually gained the confidence to attempt the "$50 Rustoleum Paint Job." With a $300 investment in materials and a massive expenditure of "sweat equity," the project received the green light.
 
+![Rolled On Paint](https://github.com/user-attachments/assets/bbd87887-317a-44eb-9db1-f36964139e5e)
 
 
 ### A Brand and a Philosophy
