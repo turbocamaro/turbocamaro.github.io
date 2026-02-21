@@ -4,18 +4,20 @@ permalink: /
 ---
 
 <style>
-  /* Hide ONLY the navbar logo on mobile for this page */
- {
-html body #topbar-title {
+  /* This targets the logo specifically on the homepage */
+  @media (max-width: 849px) {
+    html body #topbar-title, 
+    html body #topbar-title::before, 
+    html body #topbar-title::after {
       display: none !important;
       opacity: 0 !important;
       visibility: hidden !important;
+      background-image: none !important; /* Kills the Camaro logo image */
       width: 0 !important;
       height: 0 !important;
     }
   }
 </style>
-
 
 ![67 Camaro](/assets/img/YoutubeChArt-2.png)
 
