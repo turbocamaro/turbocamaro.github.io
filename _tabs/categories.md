@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: categories
 title: Build Process
 permalink: /categories/
 icon: fas fa-stream
