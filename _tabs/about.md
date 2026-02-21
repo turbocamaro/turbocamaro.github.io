@@ -25,7 +25,7 @@ Fast forward to 2013: the Camaro had spent a lot of time in storage where I tink
 I read every page of every project and took notes. I gained a lot of confidence in the "$50 Rustoleum Paint Job" theory. Since the materials were only $200-$300 and the rest was just time and effort, the wife gave two thumbs up and it was time to get started.
 
 <div align="center">
-  <a href="/assets/img/posts/20160324_163837.jpg" style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;" height="480" src="/assets/img/posts/20160324_163837.jpg" width="640" /></a>
+  <a href="/assets/img/FreshRolledPaint.jpg" style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;" height="480" src="/assets/img/FreshRolledPaint.jpg" width="640" /></a>
   <br/>
   <em>The $50 Paint Job: Proof that sweat equity can beat a big check.</em>
 </div>
