@@ -2,6 +2,7 @@
 layout: page
 title: About the Build
 icon: fas fa-info-circle
+permalink: /about/
 order: 1
 ---
 
