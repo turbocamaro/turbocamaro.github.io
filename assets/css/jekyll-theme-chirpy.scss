@@ -1,3 +1,6 @@
+---
+---
+
 /* prettier-ignore */
 @use 'main
 {%- if jekyll.environment == 'production' -%}
@@ -5,18 +8,7 @@
 {%- endif -%}
 ';
 
-/* --- 1. DESKTOP SIDEBAR (THE MASTERPIECE) --- */
-#sidebar #avatar.tc-brand-container,
-#sidebar .profile-wrapper #avatar,
-#sidebar .profile-wrapper img {
-  background: transparent !important;
-  background-color: transparent !important;
-  border: none !important;
-  box-shadow: none !important;
-  border-radius: 0 !important;
-  outline: none !important;
-}
-
+/* --- DESKTOP SIDEBAR: TURBO CAMARO BRANDING --- */
 #sidebar #avatar.tc-brand-container {
   position: relative !important;
   display: flex !important;
@@ -25,8 +17,11 @@
   width: 210px !important; 
   height: 210px !important; 
   margin: 1.5rem auto !important;
+  background: transparent !important;
   overflow: visible !important;
-  transform: translateX(-5%) !important; 
+  transform: translateX(-5%) !important;
+  border: none !important;
+  box-shadow: none !important;
 }
 
 .tc-base-logo {
@@ -44,7 +39,6 @@
   max-width: none !important;
   z-index: 2;
   display: block !important;
-  /* Re-locked to your preferred 3.15s counter-clockwise spin */
   animation: tc-spin-ccw 3.15s infinite linear !important; 
 }
 
@@ -53,13 +47,8 @@
   to { transform: translate(-50%, -50%) rotate(0deg); }
 }
 
-/* --- 2. MOBILE TOPBAR (NAVBAR) LOCKDOWN --- */
+/* --- MOBILE TOPBAR: FIXED POSITIONING --- */
 @media (max-width: 849px) {
-  /* Ensure main content doesn't hide behind the bar */
-  #main-wrapper {
-    padding-top: 60px !important;
-  }
-
   #topbar-wrapper, #topbar {
     height: 50px !important;
     background-color: var(--main-bg) !important;
@@ -69,69 +58,49 @@
     left: 0 !important;
     width: 100% !important;
     z-index: 1050 !important;
-    border-bottom: 1px solid var(--main-border-color) !important;
   }
 
-  /* Hamburger - Left */
   #sidebar-trigger {
     position: fixed !important;
     left: 15px !important;
     top: 0 !important;
     height: 50px !important;
-    width: 40px !important;
     display: flex !important;
     align-items: center !important;
-    justify-content: center !important;
     z-index: 9999 !important;
   }
 
-  /* Search - Right */
   #search-trigger {
     position: fixed !important;
     right: 15px !important;
     top: 0 !important;
     height: 50px !important;
-    width: 40px !important;
     display: flex !important;
     align-items: center !important;
-    justify-content: center !important;
     z-index: 9999 !important;
   }
 
-  /* Logo - Fixed Vertical Sag and Restored Image */
   #topbar-title {
     position: fixed !important;
     left: 50% !important;
-    top: 22px !important; /* Lifted up from the bottom edge */
+    top: 22px !important; /* Levelled vertically */
     transform: translate(-50%, -50%) !important;
-    
-    /* Restoring the Image */
-    background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
-    background-size: contain !important;
     width: 150px !important;
     height: 30px !important;
-    
+    background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
+    background-size: contain !important;
+    color: transparent !important;
+    text-indent: -9999px !important;
     display: block !important;
-    color: transparent !important; /* Hides the default text */
-    text-indent: -9999px !important; /* Extra insurance to hide text */
     z-index: 9998 !important;
-    transition: opacity 0.15s ease-in-out !important;
-    pointer-events: none !important;
+    transition: opacity 0.15s ease !important;
   }
 
-  /* Fade triggers for search mode */
+  /* Fade triggers */
   html[searching] #topbar-title,
   body.searching-on #topbar-title,
-  #topbar-wrapper[searching] #topbar-title,
   #search-input:focus ~ #topbar-title {
     opacity: 0 !important;
     visibility: hidden !important;
-  }
-
-  /* Kill highlights/underlines */
-  #topbar-wrapper a, #sidebar-trigger, #search-trigger {
-    text-decoration: none !important;
-    border: none !important;
-    box-shadow: none !important;
   }
 }
