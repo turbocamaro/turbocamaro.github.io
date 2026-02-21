@@ -2,7 +2,6 @@
 layout: page
 permalink: /
 ---
-
 <style>
   /* This targets the logo specifically on the homepage */
   @media (max-width: 849px) {
@@ -18,9 +17,11 @@ permalink: /
     }
   }
 </style>
-
-![67 Camaro](/assets/img/YoutubeChArt-2.png)
-
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="{{ '/assets/img/YoutubeChArt-2.png' | relative_url }}" 
+       alt="67 Camaro" 
+       style="width: 85%; height: auto; border-radius: 8px;">
+</div>
 
 Follow along and witness a transformation as this base model 1967 Chevrolet Camaro receives custom fabrication and modern styling all backed by a turbocharged alcohol injected highly modified 250 cubic inch inline 6 engine. No big sponsors or corporate bill folds, every upgrade is completed by a regular guy on a family conscious budget. 
 
