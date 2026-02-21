@@ -9,7 +9,74 @@
 ';
 
 /* append your custom style below */
+@media (max-width: 849px) {
+  /* 1. Reset the Topbar height and kill all background huddling */
+  #topbar-wrapper, #topbar {
+    height: 50px !important;
+    background-color: var(--main-bg) !important;
+    display: block !important; /* Force out of flex mode */
+  }
 
+  /* 2. PIN TO SCREEN: Hamburger far left */
+  #sidebar-trigger {
+    position: fixed !important;
+    left: 15px !important;
+    top: 0 !important;
+    height: 50px !important;
+    width: 40px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    z-index: 9999 !important; /* Above everything */
+    margin: 0 !important;
+  }
+
+  /* 3. PIN TO SCREEN: Search far right */
+  #search-trigger {
+    position: fixed !important;
+    right: 15px !important;
+    top: 0 !important;
+    height: 50px !important;
+    width: 40px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    z-index: 9999 !important; /* Above everything */
+    margin: 0 !important;
+  }
+
+  /* 4. PIN TO CENTER: Turbo Camaro Logo */
+  #topbar-title {
+    position: fixed !important;
+    left: 50% !important;
+    top: 25px !important; /* Midpoint of the 50px bar */
+    transform: translate(-50%, -50%) !important;
+    width: 150px !important;
+    height: 30px !important;
+    background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
+    background-size: contain !important;
+    color: transparent !important;
+    display: block !important;
+    z-index: 9998 !important;
+    transition: opacity 0.2s ease !important;
+  }
+
+  /* 5. THE FADE: High-priority triggers */
+  html[searching] #topbar-title,
+  body.searching-on #topbar-title,
+  #topbar-wrapper[searching] #topbar-title,
+  #search-input:focus ~ #topbar-title {
+    opacity: 0 !important;
+    visibility: hidden !important;
+  }
+
+  /* Kill the blue highlights/borders */
+  #topbar-wrapper a, #sidebar-trigger, #search-trigger {
+    text-decoration: none !important;
+    border: none !important;
+    outline: none !important;
+  }
+}
 
 /* --- TURBO CAMARO FINAL ALIGNMENT & BRANDING --- */
 
