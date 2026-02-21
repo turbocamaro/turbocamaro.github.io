@@ -8,7 +8,7 @@
 {%- endif -%}
 ';
 
-/* --- DESKTOP SIDEBAR: TURBO CAMARO BRANDING --- */
+/* --- 1. DESKTOP SIDEBAR: TURBO CAMARO BRANDING --- */
 #sidebar #avatar.tc-brand-container {
   position: relative !important;
   display: flex !important;
@@ -47,7 +47,7 @@
   to { transform: translate(-50%, -50%) rotate(0deg); }
 }
 
-/* --- MOBILE TOPBAR: FIXED POSITIONING --- */
+/* --- 2. MOBILE TOPBAR: FIXED POSITIONING & ICON CLEANUP --- */
 @media (max-width: 849px) {
   #topbar-wrapper, #topbar {
     height: 50px !important;
@@ -58,8 +58,10 @@
     left: 0 !important;
     width: 100% !important;
     z-index: 1050 !important;
+    border-bottom: 1px solid var(--main-border-color) !important;
   }
 
+  /* Hamburger - Left */
   #sidebar-trigger {
     position: fixed !important;
     left: 15px !important;
@@ -68,8 +70,13 @@
     display: flex !important;
     align-items: center !important;
     z-index: 9999 !important;
+    /* Kill Underline */
+    text-decoration: none !important;
+    border: none !important;
+    box-shadow: none !important;
   }
 
+  /* Search - Right */
   #search-trigger {
     position: fixed !important;
     right: 15px !important;
@@ -78,12 +85,23 @@
     display: flex !important;
     align-items: center !important;
     z-index: 9999 !important;
+    /* Kill Underline */
+    text-decoration: none !important;
+    border: none !important;
+    box-shadow: none !important;
   }
 
+  /* Force kill underlines on any child icons inside buttons */
+  #sidebar-trigger i, #search-trigger i {
+    text-decoration: none !important;
+    border: none !important;
+  }
+
+  /* Logo - Fixed Vertical Sag and Restored Image */
   #topbar-title {
     position: fixed !important;
     left: 50% !important;
-    top: 22px !important; /* Levelled vertically */
+    top: 22px !important; 
     transform: translate(-50%, -50%) !important;
     width: 150px !important;
     height: 30px !important;
@@ -96,11 +114,16 @@
     transition: opacity 0.15s ease !important;
   }
 
-  /* Fade triggers */
+  /* Fade triggers for search mode */
   html[searching] #topbar-title,
   body.searching-on #topbar-title,
   #search-input:focus ~ #topbar-title {
     opacity: 0 !important;
     visibility: hidden !important;
+  }
+
+  /* Push content down to avoid bar overlap */
+  #main-wrapper {
+    padding-top: 60px !important;
   }
 }
