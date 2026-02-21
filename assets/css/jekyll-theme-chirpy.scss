@@ -47,12 +47,13 @@
   to { transform: translate(-50%, -50%) rotate(0deg); }
 }
 
-/* --- 2. MOBILE TOPBAR: AGGRESSIVE SEARCH TAKEOVER --- */
+/* --- 2. MOBILE TOPBAR: STABLE SEARCH ROW --- */
 @media (max-width: 849px) {
   #topbar-wrapper, #topbar {
     height: 50px !important;
     background-color: var(--main-bg) !important;
-    display: block !important;
+    display: flex !important; /* Back to flex to keep things on one line */
+    align-items: center !important;
     position: fixed !important;
     top: 0 !important;
     left: 0 !important;
@@ -61,35 +62,23 @@
     border-bottom: 1px solid var(--main-border-color) !important;
   }
 
-  /* Hamburger & Search Icon Initial States */
-  #sidebar-trigger, #search-trigger, #topbar-title {
-    transition: opacity 0.1s ease !important;
-  }
-
+  /* Hamburger & Search Icon - Initial State */
   #sidebar-trigger {
-    position: fixed !important;
+    position: absolute !important;
     left: 15px !important;
-    top: 0 !important;
-    height: 50px !important;
-    display: flex !important;
-    align-items: center !important;
     z-index: 1060 !important;
-    text-decoration: none !important;
+    transition: all 0.1s ease !important;
   }
 
   #search-trigger {
-    position: fixed !important;
+    position: absolute !important;
     right: 15px !important;
-    top: 0 !important;
-    height: 50px !important;
-    display: flex !important;
-    align-items: center !important;
     z-index: 1060 !important;
-    text-decoration: none !important;
+    transition: all 0.1s ease !important;
   }
 
   #topbar-title {
-    position: fixed !important;
+    position: absolute !important;
     left: 50% !important;
     top: 22px !important; 
     transform: translate(-50%, -50%) !important;
@@ -99,49 +88,54 @@
     background-size: contain !important;
     color: transparent !important;
     text-indent: -9999px !important;
-    display: block !important;
     z-index: 1055 !important;
+    transition: all 0.1s ease !important;
   }
 
-  /* --- THE FAIL-SAFE HIDE LOGIC --- */
-  /* If the search wrapper is NOT hidden (display:flex), hide the logo and buttons */
-  #search-wrapper:not([style*="display: none"]) ~ #topbar-title,
-  #search-wrapper:not([style*="display: none"]) ~ #sidebar-trigger,
-  #search-wrapper:not([style*="display: none"]) ~ #search-trigger,
-  #search-input:focus ~ #topbar-title,
-  html[searching] #topbar-title,
+  /* --- THE "CLEAR THE DECK" KILL SWITCH --- */
+  /* When searching, we don't just hide them, we remove their width so the cancel button has room */
   html[searching] #sidebar-trigger,
-  html[searching] #search-trigger {
+  html[searching] #search-trigger,
+  html[searching] #topbar-title,
+  body.searching-on #sidebar-trigger,
+  body.searching-on #search-trigger,
+  body.searching-on #topbar-title {
     opacity: 0 !important;
     visibility: hidden !important;
+    width: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
     pointer-events: none !important;
   }
 
-  /* Fix for the Search Overlay specifically */
+  /* Force the search wrapper to behave as a single-row flex item */
   #search-wrapper {
-    position: fixed !important;
-    top: 0 !important;
-    left: 0 !important;
+    display: none; /* JS toggles this */
     width: 100% !important;
     height: 50px !important;
-    z-index: 1080 !important; /* Force it to the absolute top layer */
-    background: var(--main-bg) !important;
     padding: 0 10px !important;
+    background: var(--main-bg) !important;
+    z-index: 1070 !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: space-between !important;
   }
 
+  html[searching] #search-wrapper,
+  body.searching-on #search-wrapper {
+    display: flex !important;
+  }
+
+  /* Prevent the search input from being too wide and pushing the cancel button down */
   #search-input {
-    width: 100% !important;
-    border: none !important;
+    flex: 1 !important;
+    min-width: 0 !important; /* Allows it to shrink if needed */
     background: transparent !important;
+    border: none !important;
+    margin-right: 5px !important;
   }
 
   #main-wrapper {
     padding-top: 60px !important;
-  }
-
-  /* Final Underline Kill */
-  #topbar-wrapper a, #sidebar-trigger, #search-trigger {
-    border: none !important;
-    box-shadow: none !important;
   }
 }
