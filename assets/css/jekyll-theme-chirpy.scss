@@ -8,20 +8,29 @@
 {%- endif -%}
 ';
 
-/* --- 1. DESKTOP SIDEBAR: TURBO CAMARO BRANDING --- */
+/* --- 1. DESKTOP SIDEBAR: TURBO CAMARO BRANDING (TIGHTENED) --- */
 #sidebar #avatar.tc-brand-container {
   position: relative !important;
   display: flex !important;
   justify-content: center !important;
   align-items: center !important;
   width: 210px !important; 
-  height: 210px !important; 
-  margin: 1.5rem auto !important;
+  /* Reduced height from 210px to 140px to eliminate vertical dead space */
+  height: 140px !important; 
+  /* Reduced margin from 1.5rem to 0.75rem to cut top/bottom space in half */
+  margin: 0.75rem auto !important;
   background: transparent !important;
   overflow: visible !important;
   transform: translateX(-5%) !important;
   border: none !important;
   box-shadow: none !important;
+  outline: none !important;
+}
+
+/* Ensure the profile-wrapper doesn't add its own extra padding */
+#sidebar .profile-wrapper {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0 !important;
 }
 
 .tc-base-logo {
@@ -52,7 +61,7 @@
   #topbar-wrapper, #topbar {
     height: 50px !important;
     background-color: var(--main-bg) !important;
-    display: flex !important; /* Back to flex to keep things on one line */
+    display: flex !important;
     align-items: center !important;
     position: fixed !important;
     top: 0 !important;
@@ -62,12 +71,13 @@
     border-bottom: 1px solid var(--main-border-color) !important;
   }
 
-  /* Hamburger & Search Icon - Initial State */
   #sidebar-trigger {
     position: absolute !important;
     left: 15px !important;
     z-index: 1060 !important;
     transition: all 0.1s ease !important;
+    text-decoration: none !important;
+    border: none !important;
   }
 
   #search-trigger {
@@ -75,6 +85,8 @@
     right: 15px !important;
     z-index: 1060 !important;
     transition: all 0.1s ease !important;
+    text-decoration: none !important;
+    border: none !important;
   }
 
   #topbar-title {
@@ -92,8 +104,7 @@
     transition: all 0.1s ease !important;
   }
 
-  /* --- THE "CLEAR THE DECK" KILL SWITCH --- */
-  /* When searching, we don't just hide them, we remove their width so the cancel button has room */
+  /* SEARCH CLEAR DECK LOGIC */
   html[searching] #sidebar-trigger,
   html[searching] #search-trigger,
   html[searching] #topbar-title,
@@ -108,9 +119,8 @@
     pointer-events: none !important;
   }
 
-  /* Force the search wrapper to behave as a single-row flex item */
   #search-wrapper {
-    display: none; /* JS toggles this */
+    display: none; 
     width: 100% !important;
     height: 50px !important;
     padding: 0 10px !important;
@@ -126,10 +136,9 @@
     display: flex !important;
   }
 
-  /* Prevent the search input from being too wide and pushing the cancel button down */
   #search-input {
     flex: 1 !important;
-    min-width: 0 !important; /* Allows it to shrink if needed */
+    min-width: 0 !important;
     background: transparent !important;
     border: none !important;
     margin-right: 5px !important;
