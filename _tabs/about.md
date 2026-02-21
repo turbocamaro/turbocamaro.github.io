@@ -6,35 +6,35 @@ permalink: /about/
 order: 1
 ---
 
-### The Origin Story
-It all started in 2007, on a brisk spring evening as I continued the search for a new vehicle; somthing cheap, fuel efficient snd reliable (**Spoiler Alert:** I failed in my quest). After giving up on Craigslist and Kijiji offerings I turned to Ebay. I stumbled upon a $9,400 navy blue 1967 Camaro with a 250ci Inline 6 snd a Turbo Hydramatic 350 transmission. I don't think I even saved the auction at first as i didnt know much sbout Inline 6's but assumed it would be underpowered and unsatisfying to drive (I got that right at least). However after a few days of mulling on it, I realized it was a unique moment in time where the Canadian dollar was a slight value above the US dollar, therby making the auction cheaper than listed. I recognized the deal and ended up taking it for thr list price. Shipping was arranged from California to Washington where I crossed the border and deove it home. I took it to Canadian Tire and it passed inspection after replacing just the windshield wipers. I often think about how lucky I was not gettting ripped off by the seller or the shipping company. I got what I paid for, a solid body 67 Camaro in need of TLC and a revitalized power plant. Thr stsge was set for a real rags to riches story, a lot like Cinderella Man or Pretty Woman, but without the boxing or prostitution.
+### The Genesis of Defiance
+In 2007, my objective was simple: find a vehicle that was affordable, fuel-efficient, and reliable. By any objective measure, I failed. After exhausting the usual digital classifieds, I found myself staring at an eBay listing for a $9,400 Navy Blue 1967 Camaro. It was equipped with a 250ci Inline-6 and a Turbo Hydramatic 350—a combination I initially dismissed as underpowered and unremarkable.
 
-### YouTube Startup
+However, a rare economic alignment occurred: the Canadian dollar climbed above the US greenback. Recognizing a fleeting arbitrage opportunity, I pulled the trigger. I took delivery in Washington, crossed the border, and drove it home. To my astonishment, it passed inspection at Canadian Tire with nothing more than new wiper blades. I was lucky; I hadn't been swindled by a seller or a carrier. Instead, I had acquired a solid-bodied '67 in desperate need of a revitalized soul. The stage was set for a transformation—a narrative of grit and refinement, achieved on a blue-collar budget.
 
-After the first drive home I relaized the suspension was tired and would be the first upgrade. After just buying the Camaro I didnt have the money to spend a thousand plus on parts, so I bought perioud correct V8 coils and Monroe shocks. I decided to film a good portion of the swap, which eventually became the first filmed video for Turbo Camaro. I started filming a lot of upgrades from the headlights, bodywork, paint prep and even regulsr oil changes. I wanted to document the transformation of thr csr, not yet reslizing the direction it would go.
+### Documentation as a Discipline
+The initial voyage home revealed a suspension that had long since surrendered. Operating on a post-purchase "family-conscious" budget, I bypassed the four-figure professional kits for period-correct V8 coils and Monroe shocks. I decided to document the swap on camera, unaware that this footage would become the cornerstone of the Turbo Camaro archive. What began as a record of routine maintenance—oil changes, lighting, and basic bodywork—slowly evolved into a digital blueprint of the car's metamorphosis.
 
-### A Brand was Born
+### The $50 Experiment
+By 2013, the Camaro was a fixture in my garage, its aging paint a constant reminder of the gap between my vision and my bank account. Local quotes for professional bodywork exceeded $20,000—an impossible sum at the time. My search for an alternative led me to the "Rolled On" forums, an underground community dedicated to the high art of applying industrial rust paint with a foam roller.
 
-Fast forward to 2013, the Camsro spent a lot of time in storsge where I tinkerer with it and noted the cracked paint. Some family budgeting was done but there was no way to afford the local price quotes of $20,000+ for paint and body work. Until one day when **Rolled On Forums** was discovered. The forums provided detailed and proven methods of rolling regular metal rust paint on a vehicle and having them look as good as spray jobs. The first thought was, there is no way it will look good and definitely won't last (it didn't). So, every page of every project was read and notes were taken. I gained a lot of confidence in the "$50 Rustoleum Paint Job" theory. Since the materials would only cost $200-300 and the rest was just time and effort, the wife gave two thumbs up and it was time to get started.
-
-It was at this point Turbo Camaro was born. Sure, there was an interest in turbochargers, but the idea of doing everything "in house" and documenting it for everyone was a newfound hobby in itself. With the paint job completed in 2015 and the engine build underway, it seemed like a perfect opportunity to bring as many interested parties along as this classic car went through a meticulous transformation to a unique, daily driven, turbocharged performance vehicle.
-
-### Powerplant Potential
+Initial skepticism gave way to obsessive research. I studied every project, noted every failure, and eventually gained the confidence to attempt the "$50 Rustoleum Paint Job." With a $300 investment in materials and a massive expenditure of "sweat equity," the project received the green light.
 
 
 
+### A Brand and a Philosophy
+It was during this era that "Turbo Camaro" transcended being just a project name and became a philosophy. I wasn't just building a car; I was developing a hobby in documentation and "in-house" fabrication. Following the completion of the paint in 2015, the focus shifted to the long block. The mission had crystallized: to transform this classic F-body into a unique, daily-driven performance machine utilizing turbocharging, intercooling, and sophisticated alcohol and fuel injection—all without big-name sponsors or corporate billfolds.
 
-### The Philosophy
-I’m a firm believer in doing the work yourself. From a $50 Rustoleum roll-on paint job that lasted years to the current **Holley Sniper EFI** integration, every modification has been documented with the pros and especially the cons. If a part failed or a tune was off, I've shared it here so others don't make the same mistakes.
+### Why the Straight-6?
+In a world of ubiquitous LS-swaps, dropping a crate engine into an F-body felt like an admission of defeat. I wanted to discover the true ceiling of the "Leaning Tower of Power" under modern boost. The Inline-6 is a unique challenge; it is temperamental to tune and demands a level of custom fabrication and patience that a modern V8 simply doesn't require.
 
-### Why the Inline-6?
-While everyone else was dropping LS engines into F-bodies, I wanted to see exactly what the "Leaning Tower of Power" (and its bigger cousins) could do with modern boost. It’s unique, it’s challenging to tune, and it requires a level of fabrication and patience that a crate engine just doesn't demand.
+There is a profound satisfaction in shattering misconceptions. Raising the hood of a '67 Camaro to reveal a turbocharged straight-six—and then proving its capability on the asphalt—is a tribute to doing things the hard way.
 
-### Current Specs (The TL;DR)
-* **Engine:** 260ci Inline-6 (Evolution of the 250)
-* **Induction:** Custom Turbocharged setup
-* **Management:** Holley Sniper EFI (Self-tuned)
-* **Mission:** A reliable, streetable, and surprisingly quick tribute to doing things the hard way.
+### The Horizon: The Best is Yet to Come
+While 2007 to 2025 was defined by restoration and foundational engineering, 2026 marks a shift from "building" to "optimizing." The mission has evolved beyond mere survival on the street. With refined mapping on the Holley Sniper, high-pressure alcohol injection, and a chassis now capable of handling the load, we are entering the high-output era of this project. 
+
+The most ambitious chapters of the Turbo Camaro story haven't been written yet. We are no longer just chasing reliability; we are chasing the limits of what a 250ci straight-six can achieve. This isn't just a car; it's a 20-year testament to the fact that you don't need a six-figure shop to build something extraordinary.
+
+### The Mission: To build a reliable, streetable, and surprisingly quick testament to engineering independence.
 
 ---
-*Follow the progress from the first weld in 2007 to the latest tuning logs in 2026.*
+*Follow the **Timeline** to see the evolution from the first 2007 weld to the high-boost milestones of 2026 and beyond.*
