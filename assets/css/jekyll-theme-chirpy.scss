@@ -47,31 +47,23 @@
   to { transform: translate(-50%, -50%) rotate(0deg); }
 }
 
-/* --- 2. MOBILE TOPBAR: DOUBLE-DECKER SEARCH --- */
+/* --- 2. MOBILE TOPBAR: TOTAL SEARCH TAKEOVER --- */
 @media (max-width: 849px) {
-  /* The Container: Expands when searching */
-  #topbar-wrapper {
+  #topbar-wrapper, #topbar {
     height: 50px !important;
-    transition: height 0.2s ease-in-out !important;
+    background-color: var(--main-bg) !important;
+    display: block !important;
     position: fixed !important;
     top: 0 !important;
     left: 0 !important;
     width: 100% !important;
     z-index: 1050 !important;
-    background-color: var(--main-bg) !important;
     border-bottom: 1px solid var(--main-border-color) !important;
-    overflow: hidden !important;
-  }
-
-  /* Expand the bar to 100px when search is active */
-  html[searching] #topbar-wrapper,
-  body.searching-on #topbar-wrapper {
-    height: 100px !important;
   }
 
   /* Hamburger - Left */
   #sidebar-trigger {
-    position: absolute !important;
+    position: fixed !important;
     left: 15px !important;
     top: 0 !important;
     height: 50px !important;
@@ -80,11 +72,12 @@
     z-index: 1060 !important;
     text-decoration: none !important;
     border: none !important;
+    transition: opacity 0.1s ease !important;
   }
 
   /* Search Trigger - Right */
   #search-trigger {
-    position: absolute !important;
+    position: fixed !important;
     right: 15px !important;
     top: 0 !important;
     height: 50px !important;
@@ -93,13 +86,14 @@
     z-index: 1060 !important;
     text-decoration: none !important;
     border: none !important;
+    transition: opacity 0.1s ease !important;
   }
 
-  /* Logo - Dead Center Row 1 */
+  /* Logo - Center */
   #topbar-title {
-    position: absolute !important;
+    position: fixed !important;
     left: 50% !important;
-    top: 25px !important; 
+    top: 22px !important; 
     transform: translate(-50%, -50%) !important;
     width: 150px !important;
     height: 30px !important;
@@ -109,20 +103,40 @@
     text-indent: -9999px !important;
     display: block !important;
     z-index: 1055 !important;
+    transition: opacity 0.1s ease !important;
   }
 
-  /* The Search Row (Row 2) */
+  /* --- THE "HIDE EVERYTHING" SEARCH STATE --- */
+  /* When searching, make the buttons and logo disappear */
+  html[searching] #sidebar-trigger,
+  html[searching] #search-trigger,
+  html[searching] #topbar-title,
+  body.searching-on #sidebar-trigger,
+  body.searching-on #search-trigger,
+  body.searching-on #topbar-title {
+    opacity: 0 !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+  }
+
+  /* Style the Search Overlay to fill the void */
   #search-wrapper {
-    position: absolute !important;
-    top: 50px !important; /* Sits exactly below the first row */
+    position: fixed !important;
+    top: 0 !important;
     left: 0 !important;
     width: 100% !important;
     height: 50px !important;
     padding: 0 15px !important;
-    display: flex !important;
+    display: none; /* Controlled by Chirpy JS */
     align-items: center !important;
+    z-index: 1070 !important; /* Above the hidden elements */
     background: var(--main-bg) !important;
-    border-top: 1px solid var(--main-border-color) !important;
+  }
+
+  /* When Chirpy activates search, show the wrapper */
+  html[searching] #search-wrapper,
+  body.searching-on #search-wrapper {
+    display: flex !important;
   }
 
   #search-input {
@@ -130,15 +144,11 @@
     background: transparent !important;
     border: none !important;
     color: var(--text-color) !important;
+    font-size: 1rem !important;
   }
 
-  /* Push content further down so it doesn't get covered by the double bar */
+  /* Push content down for the sticky bar */
   #main-wrapper {
     padding-top: 60px !important;
-    transition: padding-top 0.2s ease !important;
-  }
-  
-  html[searching] #main-wrapper {
-    padding-top: 110px !important;
   }
 }
