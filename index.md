@@ -7,7 +7,7 @@ hide_title: true
 
 <style>
   /* Hide ONLY the navbar logo on mobile for this page */
-  @media (max-width: 849px) {
+ {
     #topbar-title {
       display: none !important;
     }
