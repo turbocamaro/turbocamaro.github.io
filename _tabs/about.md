@@ -5,8 +5,8 @@ icon: fas fa-info-circle
 permalink: /about/
 order: 1
 ---
-
-![First Photo In Canada](/assets/img/DSC02344.jpg)
+<div align="center">
+  <a href="/assets/img/posts/DSC02344.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="216" src="/assets/img/posts/DSC02344.jpg" width="320" /></a></div>
 
 ### The Genesis of Defiance
 In 2007, my objective was simple: find a vehicle that was affordable, fuel-efficient, and reliable. By any objective measure, I failed. After exhausting the usual digital classifieds, I found myself staring at an eBay listing for a $9,400 Navy Blue 1967 Camaro. It was equipped with a 250ci Inline-6 and a Turbo Hydramatic 350—a combination I initially dismissed as underpowered and unremarkable.
