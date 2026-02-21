@@ -1,8 +1,10 @@
----
+﻿---
+categories: ["Interior"]
+tags: [Transmission, Shifter, Conversion]
+
+
 title: "Floor Shift Conversion"
 date: 2016-01-27 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -37,3 +39,4 @@ Currently, Turbo Camaro still has a slot on the column for the shift lever. Cons
 
 ---
 *Turbo Camaro Build History*
+

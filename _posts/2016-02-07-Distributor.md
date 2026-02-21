@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Engine"]
+tags: [Ignition, Distributor, Timing]
+
 title: "Distributor"
 date: 2016-02-07 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -23,7 +24,7 @@ The distributor has seen some "advances" over the years. The stock distributor r
 
 An eBay HEI distributor with a 65000 volt coil was purchased for about $65US. Even though it's an eBay special it's a good piece and has been starting the car without issue since early 2014.
 
-The tower for the spark plug wire attached to cylinder #1 was referenced to a point on the engine for easy re-install. The stock distributor and coil were removed and the new HEI unit installed in its place. The fuel line needed to be massaged around the cap because it's bigger than the stock one. The spark plug wires were replaced as they wouldn't fit on the new cap. The original resisted coil wire was replaced with a 12 gauge 12V lead. Even though the new distributor was dropped into the same position as the stock one, the timing was checked and advanced slightly. If you need more detailed instructions on the swap, take a look at <a href="http://67-72chevytrucks.com/vboard/showpost.php?s=996a24a03866787121a005a22075cc86&p=1199796&postcount=2" target="_blank">this thread</a>.
+The tower for the spark plug wire attached to cylinder #1 was referenced to a point on the engine for easy re-install. The stock distributor and coil were removed and the new HEI unit installed in its place. The fuel line needed to be massaged around the cap because it's bigger than the stock one. The spark plug wires were replaced as they wouldn't fit on the new cap. The original resisted coil wire was replaced with a 12 gauge 12V lead. Even though the new distributor was dropped into the same position as the stock one, the timing was checked and advanced slightly. If you need more detailed instructions on the swap, take a look atÂ <a href="http://67-72chevytrucks.com/vboard/showpost.php?s=996a24a03866787121a005a22075cc86&p=1199796&postcount=2" target="_blank">this thread</a>.
 
 Overall, the upgrade was fairly straight forward and with all the items needed to complete the job, it took about an hour.
 
@@ -35,3 +36,4 @@ As of now, the module, weights, springs and vacuum canister sit lifeless in a zi
 
 ---
 *Turbo Camaro Build History*
+

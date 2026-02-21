@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Exterior"]
+tags: [Detailing, Paint, Engine Bay]
+
 title: "The Engine Bay"
 date: 2016-02-06 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -41,3 +42,4 @@ The outcome was excellent. The satin black VHT Chassis & Roll Bar paint went on 
 
 ---
 *Turbo Camaro Build History*
+

@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Interior"]
+tags: [Seats, Fabric, Interior]
+
 title: "Upholstery"
 date: 2016-01-27 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -42,7 +43,7 @@ Now spray them just like it says on the can, smooth light passes.Think of the fi
 <div align="center">
   <a href="/assets/img/posts/2012-05-01+12.39.48.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="239" src="/assets/img/posts/2012-05-01+12.39.48.jpg" width="320" /></a>
   <br/>
-  <em>Back portion of the same seats. </em>
+  <em>Back portion of the same seats.Â </em>
 </div>
 
 Late 2015, it was decided the stock seats didn't offer the cushion or support desired in a daily driver. It probably had something to do with the 48 year old foam and springs in the original seats. Even though it would be easy to find new parts, the cost to bring it all into Canada outweighed the amount to buy brand new modern seats. Days were spent researching seat options and the black Scat Procar Rally 1000 Smoothback bucket seats were selected. The installation and initial review of those seats was <a href="/posts/scat-procar-rally-1000-seats/" target="_blank">filmed and posted here</a>. 
@@ -51,3 +52,4 @@ Late 2015, it was decided the stock seats didn't offer the cushion or support de
 
 
 *Turbo Camaro Build History*
+

@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Mechanical"]
+tags: [Suspension, Shocks, Handling]
+
 title: "Rear Shock Swap"
 date: 2016-02-06 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <a href="/assets/img/posts/shockswap.jpg"  style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/shockswap.jpg" width="400" /></a>Before the days of Turbo Camaro, various upgrades and mods were done to restore some of the cars livelihood. The front springs were replaced and the shocks were swapped. Replacing shocks is very easy on these old cars. A shock and a couple bushings and your cruisin' in comfort. It'll actually take you longer to remove the wheel and jack up the car than it will to swap out the shock.
@@ -19,3 +20,4 @@ That being said, if you've never done it before or are interested in the differe
 
 ---
 *Turbo Camaro Build History*
+

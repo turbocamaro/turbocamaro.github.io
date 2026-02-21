@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Turbocharger"]
+tags: [Exhaust, Fabrication, Piping]
+
 title: "Exhaust / Piping"
 date: 2016-02-07 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -39,3 +40,4 @@ Unless you're replacing an existing install and know exactly what pieces you nee
 
 ---
 *Turbo Camaro Build History*
+

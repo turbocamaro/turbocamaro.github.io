@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Mechanical"]
+tags: [Steering, Power Steering, Hydro]
+
 title: "Power Steering Conversion"
 date: 2016-02-06 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <a href="/assets/img/posts/Power+Steering.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="145" src="/assets/img/posts/Power+Steering.jpg" width="200" /></a>
@@ -21,7 +22,7 @@ It was quite a decision to drop the manual steering for power. Manual offers exc
   <em>Gearbox removed, but not forgotten</em>
 </div>
 
-If you really dig into this topic it's easy to discover a variety of options for the swap. You can acquire an original power steering setup on forums or sites like eBay. You can use original parts but substitute the gearbox for the ever popular IROC Camaro model with a tighter  lock to lock and steering ratio. The third, and perhaps most tempting choice is to invest in a modern rack and pinion conversion kit. The rack will improve handling as it brings your ride into the realm of newer technology and drains your bank account at the same time. 
+If you really dig into this topic it's easy to discover a variety of options for the swap. You can acquire an original power steering setup on forums or sites like eBay. You can use original parts but substitute the gearbox for the ever popular IROC Camaro model with a tighter Â lock to lock and steering ratio. The third, and perhaps most tempting choice is to invest in a modern rack and pinion conversion kit. The rack will improve handling as it brings your ride into the realm of newer technology and drains your bank account at the same time.Â 
 
 <div align="center">
   <a href="/assets/img/posts/DSC05267.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="/assets/img/posts/DSC05267.jpg" width="200" /></a>
@@ -43,9 +44,10 @@ After some deliberation, the cheapest and easiest option was selected. The 67' C
   <em>-caption" style="font-size: 12.8px;">New power steering pump installed</em>
 </div>
 
-Even though a rack and pinion system would have been nice, it wasn't in the budget and their's something nice about giving a car a factory option it never had. Luckily the popularity of these vehicles isn't going down so modern technology is constantly being adapted for them. Perhaps an even better steering system will emerge and the budget will allow for an upgrade. 
+Even though a rack and pinion system would have been nice, it wasn't in the budget and their's something nice about giving a car a factory option it never had. Luckily the popularity of these vehicles isn't going down so modern technology is constantly being adapted for them. Perhaps an even better steering system will emerge and the budget will allow for an upgrade.Â 
 
 Unfortunately the swap from manual to power steering wasn't filmed. Several photos were obtained and will be posted here. If it makes you feel any better, you can click the images for a fancy full size slideshow mode.
 
 ---
 *Turbo Camaro Build History*
+

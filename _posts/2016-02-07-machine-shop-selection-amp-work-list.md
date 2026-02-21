@@ -1,8 +1,10 @@
----
+﻿---
+categories: ["Engine"]
+tags: [Machining, Block, Engine]
+
+
 title: "Machine Shop Selection & Work List"
 date: 2016-02-07 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -54,3 +56,5 @@ The best advice you can get is to not rush when choosing your machine shop. You 
 
 ---
 *Turbo Camaro Build History*
+
+

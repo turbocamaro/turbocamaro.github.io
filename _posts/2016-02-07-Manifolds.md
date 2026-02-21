@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Engine"]
+tags: [Intake, Exhaust, Manifolds]
+
 title: "Manifolds"
 date: 2016-02-07 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -61,3 +62,4 @@ More documentation on carburetor installation can be found <a href="/posts/carbu
 
 ---
 *Turbo Camaro Build History*
+

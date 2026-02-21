@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Exterior"]
+tags: [Lighting, HID, Exterior]
+
 title: "HID Conversion"
 date: 2016-02-06 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -33,7 +34,7 @@ Headlight conversion kits are available at local auto part stores, classic auto 
   <em>New notch cut on the left, original on the right</em>
 </div>
 
-Turbo Camaro received a set of 4300K H4 HID's. The kit included 7" round glass projection headlights, 35 watt Durante ballasts and the required hookups. Kits like these are fairly cheap ($50-100) and usually come with different component choices. The 7" round glass projection headlights are a perfect swap for the stock sealed beams. Since neither yellow or blue tone lights were desired, the super white  4300K was chosen. Be sure to research the ballast options as they are not created equal. Also verify the kit can project the required beams (Hi and/or Low only).  Turbo Camaro has been running the same Duratec ballasts since 2012 without issue (if/when they fail this page will be updated). 
+Turbo Camaro received a set of 4300K H4 HID's. The kit included 7" round glass projection headlights, 35 watt Durante ballasts and the required hookups. Kits like these are fairly cheap ($50-100) and usually come with different component choices. The 7" round glass projection headlights are a perfect swap for the stock sealed beams. Since neither yellow or blue tone lights were desired, the super white Â 4300K was chosen. Be sure to research the ballast options as they are not created equal. Also verify the kit can project the required beams (Hi and/or Low only). Â Turbo Camaro has been running the same Duratec ballasts since 2012 without issue (if/when they fail this page will be updated).Â 
 
 <div align="center">
   <a href="/assets/img/posts/IMG_20140404_151559.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="298" src="/assets/img/posts/IMG_20140404_151559.jpg" width="400" /></a>
@@ -47,3 +48,4 @@ The only advantage to sealed beams are price and availability. Even then, costs 
 
 ---
 *Turbo Camaro Build History*
+

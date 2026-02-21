@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Turbocharger"]
+tags: [BOV, Boost, Safety]
+
 title: "Blow Off Valve"
 date: 2016-02-07 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -25,7 +26,7 @@ After significant research and scavenging google for reviews and testimonials, t
 
 <a href="/assets/img/posts/bov+pipe.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/bov+pipe.jpg" width="320" /></a>
 
-Adapter pipe - 3" diameter
+Adapter pipe -Â 3" diameter
 
 50mm outlet - 6" long - T304 polished stainless steel
 
@@ -35,3 +36,4 @@ Updates will be added here once the final install and testing of this item has b
 
 ---
 *Turbo Camaro Build History*
+

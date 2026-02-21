@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Exterior"]
+tags: [Paint, Styling, Stripe]
+
 title: "Bumblebee Stripe"
 date: 2016-02-06 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -22,10 +23,10 @@ Whether you decide to do a simple stripe or a full mural, you have to choose bet
 </div>
 
 <ul>
-<li>Find source images of the design online and acquire the measurements. Use the measurements to mask the vehicle and paint the stripe yourself. This will only cost you materials and you get to make the stripe exactly the way you want. </li>
+<li>Find source images of the design online and acquire the measurements. Use the measurements to mask the vehicle and paint the stripe yourself. This will only cost you materials and you get to make the stripe exactly the way you want.Â </li>
 <li>Purchase a "factory correct" stencil kit and use it to mask your vehicle and paint the stripe yourself. This will help assure you maintain the stock stripe while not worrying about all the measurements.</li>
-<li>Purchase a decal kit from a locally or online and apply it to your vehicle via the instructions. This is the easiest DIY method and is also easily removable if you decide to change color or design. Keep in mind, classic cars didn't use decals to obtain stripes. If you want to keep it stock, paint it on. </li>
-<li>Take your ride to a paint shop and have them paint your stripe on. This will be the most expensive but if you have no confidence in your painting skills, this is the way to go. </li>
+<li>Purchase a decal kit from a locally or online and apply it to your vehicle via the instructions. This is the easiest DIY method and is also easily removable if you decide to change color or design. Keep in mind, classic cars didn't use decals to obtain stripes. If you want to keep it stock, paint it on.Â </li>
+<li>Take your ride to a paint shop and have them paint your stripe on. This will be the most expensive but if you have no confidence in your painting skills, this is the way to go.Â </li>
 </ul>
 
 <div align="center">
@@ -34,7 +35,7 @@ Whether you decide to do a simple stripe or a full mural, you have to choose bet
   <em>67' Camaro Bumblebee Stripe</em>
 </div>
 
-Turbo Camaro's bumblebee was done with method 1. Originally the stripe was going to be painted on during the last few coats of <a href="/posts/rolling-tremclad-paint/" target="_blank">rolled on black paint</a>, but the complexity was undesirable. Plus, integrating the stripe into the paint job would be harder to repair, and hard to modify in the future. It was decided to spray paint the stripe on a few weeks after the black paint had gassed. 
+Turbo Camaro's bumblebee was done with method 1. Originally the stripe was going to be painted on during the last few coats of <a href="/posts/rolling-tremclad-paint/" target="_blank">rolled on black paint</a>, but the complexity was undesirable. Plus, integrating the stripe into the paint job would be harder to repair, and hard to modify in the future. It was decided to spray paint the stripe on a few weeks after the black paint had gassed.Â 
 
 The grey stripe was painted on with Anthracite Grey Plasti-Dip. The grey is a subtle metallic and since it's Plasti-Dip, it's basically a spray on rubber that repels water and can be peeled off someday and repainted a new color. 
 
@@ -68,7 +69,7 @@ Once you have the stripe masked off, run your finger along the tape to ensure it
 
 If you remove the tape quickly but smoothly, the paint will maintain a crisp edge and dry exactly as you masked it. If you wait too long, the paint on the car and the tape will harden and when you lift the tape, it will cause the stripe edges to look jagged and unimpressive. If you aren't sure about the first medium coat and think a little more is needed, do a second medium coat and get to work on the tape. As you can imagine, it helps to keep the tape in long pieces rather than lots of short ones as it pulls of quicker and cleaner. Plasti-Dip is an excellent product for this application as it can be easily removed and dries quickly. That in itself is a big tip, it dries very quickly. It sprays on glossy but within just a few minutes you can see it drying. With Plasti-dip, you really need to get to work on that tape right away. Regular spray paint might not be as sensitive with dry times.
 
-Overall, applying or painting your own stripes is only as difficult as your design. If you've taken the time to paint your own car, you may as well do your own stripe. If you spent $6000 on a new paint job, maybe let them take care of the stripe too. 
+Overall, applying or painting your own stripes is only as difficult as your design. If you've taken the time to paint your own car, you may as well do your own stripe. If you spent $6000 on a new paint job, maybe let them take care of the stripe too.Â 
 
 <div align="center">
   <a href="/assets/img/posts/IMG_20140618_170630.jpg"  style="clear: right; display: inline !important; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="298" src="/assets/img/posts/IMG_20140618_170630.jpg" width="400" /></a>
@@ -78,3 +79,4 @@ Overall, applying or painting your own stripes is only as difficult as your desi
 
 ---
 *Turbo Camaro Build History*
+

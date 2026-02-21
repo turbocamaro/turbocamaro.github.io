@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Turbocharger"]
+tags: [Intake, Carb Hat, Boost]
+
 title: "Hat / Bonnet"
 date: 2016-02-07 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -19,7 +20,7 @@ tags: [blogger]
 
 Once it was decided to run a turbocharger, a list of components was made. Slowly but surly the list was reviewed and each item meticulously researched. All products have to be well made, performance capable and affordable. None of the parts used in Turbo Camaro are the best of the best, but they are likely the best bang for your buck.
 
-Take the carburetor hat (bonnet or plenum) for example. The purchased part is a Spectre 9849 single intake regular height hat. It is 3.5" tall, 9" long and has a 4" intake and it fits on any carburetor with a 5-1/8" inlet. It should fit nicely on the <a href="/posts/carburetor/" target="_blank">Holley 4776 600CFM DP with mechanical secondaries</a>. It's polished aluminium and quite hefty. The size is good but like any part mounting to the top of your engine, be sure you have enough clearance between it and the hood. Overall it feels like a high quality part but at $99US it's not cheap for what it is. Hopefully the profit made on these is paying off all the R&D staff as they probably cost very little to manufacture.
+Take the carburetor hat (bonnet or plenum) for example. The purchased part is a Spectre 9849 single intake regular height hat. It is 3.5" tall, 9" long and has a 4" intake and it fits on any carburetor with a 5-1/8" inlet. It should fit nicely on theÂ <a href="/posts/carburetor/" target="_blank">Holley 4776 600CFM DP with mechanical secondaries</a>. It's polished aluminium and quite hefty.Â The size is good but like any part mounting to the top of your engine, be sure you have enough clearance between it and the hood. Overall it feels like a high quality part but at $99US it's not cheap for what it is. Hopefully the profit made on these is paying off all the R&D staff as they probably cost very little to manufacture.
 
 <div align="center">
   <a href="/assets/img/posts/evpa-or-proevpa-or-pro05050018.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="187" src="/assets/img/posts/evpa-or-proevpa-or-pro05050018.JPG" width="320" /></a>
@@ -50,3 +51,4 @@ There isn't much more we can say about the Spectre Hat. We still feel it could b
 
 ---
 *Turbo Camaro Build History*
+

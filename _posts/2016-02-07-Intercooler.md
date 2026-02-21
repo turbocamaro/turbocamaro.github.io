@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Turbocharger"]
+tags: [Cooling, Intercooler, Boost]
+
 title: "Intercooler"
 date: 2016-02-07 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -17,7 +18,7 @@ tags: [blogger]
   <em>2.5" inlet & outlet</em>
 </div>
 
- A turbocharger is a very efficient way of creating massive power by recycling exhaust gasses and converting them to create pressurized air intake. The technology has become so popular, a lot of modern vehicles use them for increased power and overall fuel economy.
+Â A turbocharger is a very efficient way of creating massive power by recycling exhaust gasses and converting them to create pressurized air intake. The technology has become so popular, a lot of modern vehicles use them for increased power and overall fuel economy.
 
 The downside to turbocharging is the use of hot exhaust. This hot air is very, very hot and can cause excessive wear on the turbocharger and nearby parts. The same hot air is pressurized by the turbo and pushed into the vehicle. Engines would much rather have cold air than steaming hot air, so we need to drop intake temperatures between the turbo and the carburetor, but how?
 
@@ -37,3 +38,4 @@ An intercooler is a fairly cheap item that has a big job. If your planning to tu
 
 ---
 *Turbo Camaro Build History*
+

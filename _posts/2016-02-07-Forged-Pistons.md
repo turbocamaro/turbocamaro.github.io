@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Engine"]
+tags: [Internals, Pistons, Forged]
+
 title: "Forged Pistons"
 date: 2016-02-07 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -47,7 +48,8 @@ The installation procedure was filmed and posted to Youtube as part of the short
 
 
 
-If you have any questions or comments please feel free to contact us via one of our social media channels. 
+If you have any questions or comments please feel free to contact us via one of our social media channels.Â 
 
 ---
 *Turbo Camaro Build History*
+

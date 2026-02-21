@@ -1,11 +1,12 @@
----
+﻿---
+categories: ["Exterior"]
+tags: [Glass, Tint, Windows]
+
 title: "Window Tint"
 date: 2016-02-06 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
-Automobile glass is one of the most overlooked components in a vehicle build. Obviously the windows are for looking through, but they also make up a significant portion of the exterior of your vehicle. The 67' Camaro has more windows than any other camaro ever produced. It has a windshield, driver and passenger side quarter, front and rear windows as well as a back window. It's those extra front  quarter windows that help differentiate it from every other Camaro. 
+Automobile glass is one of the most overlooked components in a vehicle build. Obviously the windows are for looking through, but they also make up a significant portion of the exterior of your vehicle. The 67' Camaro has more windows than any other camaro ever produced. It has a windshield, driver and passenger side quarter, front and rear windows as well as a back window. It's those extra front Â quarter windows that help differentiate it from every other Camaro.Â 
 
 <div align="center">
   <a href="/assets/img/posts/index--element113.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="239" src="/assets/img/posts/index--element113.jpg" width="320" /></a>
@@ -39,3 +40,4 @@ Once paint and tinting was done, Eric's mobile glass out of Aldergrove, BC broug
 
 ---
 *Turbo Camaro Build History*
+

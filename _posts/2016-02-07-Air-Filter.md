@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Turbocharger"]
+tags: [Intake, Filter, Airflow]
+
 title: "Air Filter"
 date: 2016-02-07 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -22,7 +23,7 @@ Once you opt to run a turbocharger, a lot of the external components need to be 
 <div align="center">
   <a href="/assets/img/posts/20150905_154907.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/20150905_154907.jpg" width="177" /></a>
   <br/>
-  <em>Filter with 3 mounting rings</em>
+  <em>Filter with 3Â mounting rings</em>
 </div>
 
 The new air supply is in front of the turbocharger, so that's where the air filter needs to go. You can still purchase factory style enclosed air filters for use with turbochargers, but more cost effective open air filters are available and can be installed in almost any location or position. Turbo Camaro is using a black Spectre 8131 cone air filter. This filter includes 3 sets of mounting rings allowing use with a 3", 3.5" or 4" pipe or turbo inlet. The filter is approximately 6"x7" and washable for easy maintenance.
@@ -33,3 +34,4 @@ Final install documentation and images will be posted here upon completion.
 
 ---
 *Turbo Camaro Build History*
+

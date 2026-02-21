@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Turbocharger"]
+tags: [Wastegate, Boost Control]
+
 title: "Wastegate"
 date: 2016-02-07 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -14,7 +15,7 @@ tags: [blogger]
 <div align="center">
   <a href="/assets/img/posts/wastegate2.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/wastegate2.jpg" width="179" /></a>
   <br/>
-  <em>SPA Turbo "S" inlet flange</em>
+  <em>SPA TurboÂ "S" inlet flange</em>
 </div>
 
 As mentioned in the <a href="/posts/blow-off-valve/" target="_blank">blow off valve article</a>, it was important to find it, and a wastegate capable of competing with the big name brands, without paying big prices. A really nice Wyntonm BOV was purchased for a fraction of the big brand cost but it was doubtful a similar deal could be found on an external wastegate.
@@ -35,3 +36,4 @@ Updates will be added here once the final install and testing of this item has b
 
 ---
 *Turbo Camaro Build History*
+

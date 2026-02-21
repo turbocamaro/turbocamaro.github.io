@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Interior"]
+tags: [Lighting, Dash, Interior]
+
 title: "Dash Lighting"
 date: 2016-01-27 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -37,3 +38,4 @@ Turbo Camaro still has an old style dome, shift indicator and heater control lig
 <b></b>
 <b>---
 *Turbo Camaro Build History*</b>
+

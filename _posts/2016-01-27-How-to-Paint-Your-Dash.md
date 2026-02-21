@@ -1,8 +1,10 @@
----
+﻿---
+categories: ["Interior"]
+tags: [Paint, Dash, Restoration]
+
+
 title: "How to Paint Your Dash"
 date: 2016-01-27 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -54,3 +56,4 @@ Upon sourcing the decal, it was discovered to cost $10 with shipping. Yep, that'
 
 <b>---
 *Turbo Camaro Build History*</b>
+

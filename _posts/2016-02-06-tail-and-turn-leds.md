@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Exterior"]
+tags: [Lighting, LED, Safety]
+
 title: "Tail & Turn LEDs"
 date: 2016-02-06 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">

@@ -1,8 +1,10 @@
----
+﻿---
+categories: ["Interior"]
+tags: [Audio, Stereo]
+
+
 title: "RetroSound Custom Stereo"
 date: 2016-01-25 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 The ongoing theme of Turbo Camaro is to add modern components while keeping a classic look. This concept can become a challenge and really test build intentions. Stereo systems can be very important to passengers as they provide entertainment and can set the mood of a drive. That being said, stereo technology has changed since 1967 and a deck from that era wouldn't be acceptable in this car.
@@ -47,3 +49,5 @@ If you're looking for a classic stereo but don't need an original, this is a gre
 
 <b>---
 *Turbo Camaro Build History*</b>
+
+

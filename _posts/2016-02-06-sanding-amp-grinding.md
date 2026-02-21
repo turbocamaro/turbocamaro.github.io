@@ -1,8 +1,10 @@
----
+﻿---
+categories: ["Exterior"]
+tags: [Bodywork, Paint, Prep]
+
+
 title: "Sanding & Grinding"
 date: 2016-02-06 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -40,8 +42,8 @@ A box of 10 Poly Sand & Paint Remover discs were purchased online for $50. These
 It was time to get serious. Money was being spent on products that were not getting the job done. There was no turning back now as a large portion of the car was bare metal and exposed to air, which would eventually cause rust. So, a wire wheel and cup for the grinder were picked up for $20 and they finished the job in about 4 hours. These 4 hours (and some online research) led to some interesting discoveries about stripping paint with a grinder:
 
 <ul>
-<li>The grinder spins fast. any debris, even small paint chips, will fly far and fast. If they hit your skin it can hurt. Be sure to ware sleeves and don't even consider it without eye and breathing protection. </li>
-<li>As the wire wheel spins it gets hot and transfers that heat to the car. Spinning too long in one spot will get very hot and potentially cause warpage. Keep the wheel moving and make second and even third passes on areas requiring more attention.  </li>
+<li>The grinder spins fast. any debris, even small paint chips, will fly far and fast. If they hit your skin it can hurt. Be sure to ware sleeves and don't even consider it without eye and breathing protection.Â </li>
+<li>As the wire wheel spins it gets hot and transfers that heat to the car. Spinning too long in one spot will get very hot and potentially cause warpage. Keep the wheel moving and make second and even third passes on areas requiring more attention. Â </li>
 
 <div align="center">
   <a href="/assets/img/posts/DSC05747.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="300" src="/assets/img/posts/DSC05747.JPG" width="400" /></a>
@@ -56,3 +58,5 @@ Overall this wasn't a difficult process. The hardest part, as always, was the pr
 
 ---
 *Turbo Camaro Build History*
+
+

@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Mechanical"]
+tags: [Suspension, Rear End, Leaf Springs]
+
 title: "Leaf Spring Upgrade"
 date: 2016-02-06 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -21,7 +22,7 @@ In case you're lost, mono means one, and it refers to the number of leaf springs
   <em>3 leaf springs with U-Bolts instead of stock T-Bolts</em>
 </div>
 
-Turbo Camaro received the mono to multi converstion, but instead of buying a complete kit, all the parts were sourced individually to save a few bucks. The 3 leaf springs and HB-1000 bushings were purchased from <a href="http://www.sdtrucksprings.com/index.php?main_page=product_info&products_id=9589" target="_blank">sdtrucksprings.com</a>. The U-Bolts (1/2" gauge, 3.5" wide, 6" long) and nuts were purchased locally. You can order the U-Bolts from the above site or several other sites. Some of the conversion kits come with shackles as well, which could be a great idea to replace while you have the leafs off. Keep in mind, removing the shackles is almost impossible without dropping the gas tank, so it might be desirable to inspect the shackles before buying new ones and putting out the extra effort. The pads were reusable and because of the design of the spring, no spacers or extra parts are required.
+Turbo Camaro received the mono to multi converstion, but instead of buying a complete kit, all the parts were sourced individually to save a few bucks. The 3 leaf springs and HB-1000 bushingsÂ were purchased from <a href="http://www.sdtrucksprings.com/index.php?main_page=product_info&products_id=9589" target="_blank">sdtrucksprings.com</a>. The U-Bolts (1/2" gauge, 3.5" wide, 6" long) and nuts were purchased locally. You can order the U-Bolts from the above site or several other sites. Some of the conversion kits come with shackles as well, which could be a great idea to replace while you have the leafs off. Keep in mind, removing the shackles is almost impossible without dropping the gas tank, so it might be desirable to inspect the shackles before buying new ones and putting out the extra effort. The pads were reusable and because of the design of the spring, no spacers or extra parts are required.
 
 Overall, it's a relatively simple swap that doesn't take a lot of know how to complete.
 
@@ -37,3 +38,4 @@ The 3 leaf springs mentioned above raised Turbo Camaro approximately 1/2" and le
 
 ---
 *Turbo Camaro Build History*
+

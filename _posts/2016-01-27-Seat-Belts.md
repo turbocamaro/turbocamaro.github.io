@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Interior"]
+tags: [Safety, Seatbelts]
+
 title: "Seat Belts"
 date: 2016-01-27 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -29,10 +30,11 @@ On an entirley seperate venture, Turbo Camaro has an infrequent requirement to t
   <em>Universal child seat tethering anchor.</em>
 </div>
 
- look identical to the one in the picture, but the cheap 1" washer was swapped with 2" wide 1/4" thick fender washers. An additional fender washer was placed under the cardboard package tray, sandwiching the metal tray and ensuring the anchor is invincible. Little black rubber caps were put over the bolt head for style and to prevent a silver dot from reflecting off the inside of the back window. The anchors catch peoples eye all the time and it's surprising how infrequent this modification is done.
+Â look identical to the one in the picture, but the cheap 1" washer was swapped with 2" wide 1/4" thick fender washers. An additional fender washer was placed under the cardboard package tray, sandwiching the metal tray and ensuring the anchor is invincible. Little black rubber caps were put over the bolt head for style and to prevent a silver dot from reflecting off the inside of the back window. The anchors catch peoples eye all the time and it's surprising how infrequent this modification is done.
 
-<i>It is noted the images on this page are generic. New images will be obtained and published here as soon as possible. </i>
+<i>It is noted the images on this page are generic. New images will be obtained and published here as soon as possible.Â </i>
 
 <b></b>
 <b>---
 *Turbo Camaro Build History*</b>
+

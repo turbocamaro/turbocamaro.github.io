@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Interior"]
+tags: [Headliner, Interior]
+
 title: "Headliner"
 date: 2016-01-27 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -39,7 +40,8 @@ How hard could repairing a vinyl rip and some cloth loops be? Let's cut to the c
 
 The existing loops were literally ripped off. The seams in the liner itself were loose so they were re-sewn, by hand. Cloth was purchased locally and careful measurements were taken from an original loop and new ones were cut and hand sewn to the original seam locations. This alone probably took 4 hours. The rip in the front was approximately 3" long. The backside of the rip and the nearby area was coated in contact cement. A new piece of cloth was soaked in contact cement and, once tacky, was applied to the tear. This area was then pressed between a stack of magazines to ensure it tried flat and avoided ripples. The repair wasn't flawless but once sprayed didn't really show. The sun visor did a great job of hiding it too. The blue side of the liner layed face up on the garage floor and was sprayed with SEM vinyl prep and eventually two cans of black SEM vinyl coat. Since the headliner was original, it reinstalled perfectly as it already had holes for the hanger hooks, sun visor mounts and dome light. So, for about $30 in chemicals, $5 in cloth, a few cents worth of contact cement and about 5 hours of your time, you can complete restore an original headliner. The real question is, unless your obsessed with originality, why would you?
 
-Which is why Turbo Camaro already has a brand new headliner, still in the box, waiting for install once the weather improves. A headliner installation video is planned for 2016. 
+Which is why Turbo Camaro already has a brand new headliner, still in the box, waiting for install once the weather improves. A headliner installation video is planned for 2016.Â 
 
 ---
 *Turbo Camaro Build History*
+

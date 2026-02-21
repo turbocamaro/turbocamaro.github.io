@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Fuel & Tuning"]
+tags: [EFI, Holley Sniper, Tuning]
+
 title: "Holley Sniper EFI"
 date: 2017-10-23 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -17,7 +18,7 @@ Dozens of hours were spent researching available Electronic Fuel Injection (EFI)
 We sourced our Sniper Master Kit 
 from <a href="http://www.efisystempro.com/">www.efisystempro.com</a>
 
-So we went with the <a href="https://www.efisystempro.com/sniper/sniper-efi-black" target="_blank">Holley Sniper EFI Master Kit</a> from <a href="https://www.efisystempro.com/" target="_blank">EFI System Pro</a>. It won't seem like a big deal 5 years from now, but EFI System Pro actually had stock on the Sniper when nobody else did, and the price couldn't be beat. Their customer service helped me realize I'd need an extra EFI fuel return line and a <a href="https://www.efisystempro.com/can-usb-dongle-558-443" target="_blank">Can to USB dongle</a> cable for live tuning the fuel and boost tables. That being said, upon release, the Holley Sniper system didn't support a blow through turbocharger as the base software tables didn't include presets for boost. With the addition of the Holley Tuning Software, you can use the dongle cable to get the job done. Beyond that, the Sniper can run up to 650 horse power. Technically the built in injectors can handle a lot more, but internal restrictions apparently don't keep up well much beyond the 650 point.
+So we went with the <a href="https://www.efisystempro.com/sniper/sniper-efi-black" target="_blank">Holley Sniper EFI Master Kit</a> from <a href="https://www.efisystempro.com/" target="_blank">EFI System Pro</a>. It won't seem like a big deal 5 years from now, but EFI System Pro actually had stock on the Sniper when nobody else did, and the price couldn't be beat. Their customer service helped me realize I'd need an extra EFI fuel return line and a <a href="https://www.efisystempro.com/can-usb-dongle-558-443" target="_blank">Can to USB dongle</a>Â cable for live tuning the fuel and boost tables. That being said, upon release, the Holley Sniper system didn't support a blow through turbocharger as the base software tables didn't include presets for boost. With the addition of the Holley Tuning Software, you can use the dongle cable to get the job done. Beyond that, the Sniper can run up to 650 horse power. Technically the built in injectors can handle a lot more, but internal restrictions apparently don't keep up well much beyond the 650 point.
 
 
 
@@ -27,7 +28,7 @@ So we went with the <a href="https://www.efisystempro.com/sniper/sniper-efi-blac
 
 
 
-With the Sniper unboxed, it was time to do some comparisons against the trusty Holley 600CFM. The inline 6 has limited space on the passenger side of the intake as it sits almost up against the valve cover. You can see in the image below that, unfortunately, the Sniper system puts the linkage out an additional ½" or so.
+With the Sniper unboxed, it was time to do some comparisons against the trusty Holley 600CFM. The inline 6 has limited space on the passenger side of the intake as it sits almost up against the valve cover. You can see in the image below that, unfortunately, the Sniper system puts the linkage out an additionalÂ Â½" or so.
 
 <a href="/assets/img/posts/SniperCarbTop.jpg"  style="margin-left: 1em; margin-right: 1em;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="1136" data-original-width="1600" height="454" src="/assets/img/posts/SniperCarbTop.jpg" width="640" /></a>
 
@@ -47,13 +48,13 @@ A solid weekend later, the Holley Sniper EFI system and Master Kit was installed
 
 With the Holley Sniper EFI running smooth, we really want to set it up to control timing but not all options are equal in desirability and some simply aren't compatible with our Inline 6.
 
-<b>Option 1: <a href="https://www.efisystempro.com/index.php?route=product/search&search=holley%20dual%20sync&description=true" target="_blank">Holley Dual Sync Distributor</a> (DSD) with hall effect trigger</b> and a stand alone coil. This is easily the best route if you want a hassle free install that just works. Most forums and parts suppliers will suggest you go with a DSD as it's hall effect trigger is immune to common radio frequency interference that plagues its magnetic brethren. Unfortunately Holley has yet to craft a DSD for the Chevy 250.
+<b>Option 1:Â <a href="https://www.efisystempro.com/index.php?route=product/search&search=holley%20dual%20sync&description=true" target="_blank">Holley Dual Sync Distributor</a>Â (DSD) with hall effect trigger</b> and a stand alone coil. This is easily the best route if you want a hassle free install that just works. Most forums and parts suppliers will suggest you go with a DSD as it's hall effect trigger is immune to common radio frequency interference that plagues its magnetic brethren. Unfortunately Holley has yet to craft a DSD for the Chevy 250.
 
 <b>Option 2: MSD Distributor with magnetic trigger</b>, stand alone coil and <a href="https://www.efisystempro.com/msd-rotor-phasing-kit-84211" target="_blank">MSD Rotor Phasing Kit</a>. This option would probably get the job done, but considering the cost of all the parts required, and to end up with a magnetic pickup, it just doesn't seem like the best bang for buck. If you already had this distributor then obviously you should lock it out and give it a whirl, but I wouldn't want to buy this for a new build if a DSD was available.
 
 <b>Option 3: Large Cap GM HEI Distributor with magnetic trigger</b> and built in coil, manually phased. This is obviously the cheapest, but requires taking the road less traveled. By "less traveled" I mean someone's been on it a couple times and the footprints are faint at best. Very little information exists on the "best" way to setup a coil in large cap HEI distributor for timing control, but it has been done by at least a couple people and seems to work well for them. This would obviously be the cheapest method but requires some ingenuity.
 
-For more information about wiring the above ignition options I recommend checking out <a href="https://www.efisystempro.com/efi-pro-hangout/demystifying-holley-terminator-sniper-ignition-wiring" target="_blank">Demystifying Holley Terminator and Sniper Ignition Hookup</a> or referencing the official <a href="https://forums.holley.com/" target="_blank">Holley Forums</a>.
+For more information about wiring the above ignition options I recommend checking outÂ <a href="https://www.efisystempro.com/efi-pro-hangout/demystifying-holley-terminator-sniper-ignition-wiring" target="_blank">Demystifying Holley Terminator and Sniper Ignition Hookup</a>Â or referencing the official <a href="https://forums.holley.com/" target="_blank">Holley Forums</a>.
 
 For a complete video tutorial covering all aspects of electronic timing control with a GM HEI Distributor and the Holley Sniper EFI System take a look at our video:
 
@@ -67,31 +68,31 @@ For a complete video tutorial covering all aspects of electronic timing control 
 
 Here are the steps from the video recapped for easier reference:
 <ol>
-<li>Remove the distributor and confirm you are using a smiliar 4 pin module version. Ours was sourced off eBay 7 years ago. Here is a <a href="https://www.ebay.ca/itm/352082630332" target="_blank">similar distributor</a>, with the same part number from the same seller. 
+<li>Remove the distributor and confirm you are using a smiliar 4 pin module version. Ours was sourced off eBay 7 years ago. Here is a <a href="https://www.ebay.ca/itm/352082630332" target="_blank">similar distributor</a>, with the same part number from the same seller.Â 
 <a href="/assets/img/posts/GMHEITiming1.jpg_large.jpg"  style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="1600" data-original-width="1450" height="320" src="/assets/img/posts/GMHEITiming1.jpg_large.jpg" width="290" /></a>
 </li>
 <li>If so, lockout the mechanical advance. You can weld it, secure it with a screw or make/buy a distributor lockout plate</li>
 <li>Secure the vacuum advance rod or reluctor adjustment tab. For simplicity we used a <a href="https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.speedwaymotors.com%2FHEI-External-Timing-Adjustment-Knob%2C1689.html&event=video_description&v=L9xRJKmaPwA&redir_token=O8-e9_Ps2GkK9TzQxZ1dUAYJlBZ8MTUxNzc2Nzc5NkAxNTE3NjgxMzk2" target="_blank">Speedway HEI Manual adjustment knob</a>, which allowed for easy rotor phasing later on.</li>
-<li>Set your engine timing to your desired reference angle, 10° higher than the maximum timing you'd want your motor to see. If you want 36° at wide open throttle, make your reference angle between 46-60° BTDC on the compression stroke. <b>For the video and these instructions, your timing is set to 46°</b>.</li>
+<li>Set your engine timing to your desired reference angle, 10Â° higher than the maximum timing you'd want your motor to see. If you want 36Â° at wide open throttle, make your reference angle between 46-60Â° BTDC on the compression stroke. <b>For the video and these instructions, your timing is set to 46Â°</b>.</li>
 <li>Fully seat your distributor with the housing in the desired position and your rotor pointed toward the #1 Spark plug terminal on your distributor cap.</li>
 <li>Mark the edge of your distributor housing with the location of the brass contact of your #1 Spark Plug terminal.</li>
-<li>Turn the distributor housing to line up the closest reluctor magnet with the pickup. </li>
+<li>Turn the distributor housing to line up the closest reluctor magnet with the pickup.Â </li>
 <li>Secure the distributor.</li>
-<li>Use the vacuum advance knob or rod to adjust the reluctor to ensure the rotor is pointing near the most counter-clockwise point that you marked on the housing. This will ensure when your engine drops from <b>46°</b> to 36° it will be partially in front of the brass terminal.</li>
-<li>Once you're happy with the phasing, check it by moving to your engine timing to it's mid range. If you crank at 15° and go wide open at 36° then move your engine to 20°. At 20° your rotor should be close to perfectly centered in front of the brass terminal of your #1 spark plug.</li>
-<li>Hookup your magnetic pickup wires to the green/purple crank trigger wires of your Sniper EFI System. We used this <a href="https://www.speedwaymotors.com/MSD-8861-GM-HEI-Module-Bypass-Cable,64076.html" target="_blank">MSD HEI Module Bypass Cable</a> wich allowed us to use the connector on the Sniper harness and plug right into the magnetic pickup connector. </li>
+<li>Use the vacuum advance knob or rod to adjust the reluctor to ensure the rotor is pointing near the most counter-clockwise point that you marked on the housing. This will ensure when your engine drops from <b>46Â°</b> to 36Â° it will be partially in front of the brass terminal.</li>
+<li>Once you're happy with the phasing, check it by moving to your engine timing to it's mid range. If you crank at 15Â° and go wide open at 36Â° then move your engine to 20Â°. At 20Â° your rotor should be close to perfectly centered in front of the brass terminal of your #1 spark plug.</li>
+<li>Hookup your magnetic pickup wires to the green/purple crank trigger wires of your Sniper EFI System. We used this <a href="https://www.speedwaymotors.com/MSD-8861-GM-HEI-Module-Bypass-Cable,64076.html" target="_blank">MSD HEI Module Bypass Cable</a> wich allowed us to use the connector on the Sniper harness and plug right into the magnetic pickup connector.Â </li>
 <li>If you're using the Holley Coil Driver, hookup its grey wire to the Tach terminal on the distributor, or to where the module plugged in on terminal "C".</li>
-<li>The Holley Coil Driver requires a ground connection, white wire to the Sniper main harness and a pink accessory 12v power connection. We spliced the pink wire into the pink wire supplied to the main harness of the Sniper EFI system and it worked perfectly. </li>
+<li>The Holley Coil Driver requires a ground connection, white wire to the Sniper main harness and a pink accessory 12v power connection. We spliced the pink wire into the pink wire supplied to the main harness of the Sniper EFI system and it worked perfectly.Â </li>
 <li>Pull the fuel relay or prevent fuel delivery somehow.
 <a href="/assets/img/posts/ReluctorLineup.jpg_large.jpg"  style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="925" data-original-width="1600" height="231" src="/assets/img/posts/ReluctorLineup.jpg_large.jpg" width="400" /></a>
 </li>
 <li>Open your ECU config in the Holley Sniper EFI software. (via CAN/USB dongle or manually via SD Card)</li>
-<li>Under Engine Parameters, Set your Ignition Type to "Magnetic", Reference Angle to "<b>46°</b>", Minimum Signal Voltage to "0.65" and Filtering to "High". Take the opportunity to ensure the Base Timing Table is at least in the right ballpark for your engine. Save the config.</li>
+<li>Under Engine Parameters, Set your Ignition Type to "Magnetic", Reference Angle to "<b>46Â°</b>", Minimum Signal Voltage to "0.65" and Filtering to "High". Take the opportunity to ensure the Base Timing Table is at least in the right ballpark for your engine. Save the config.</li>
 <li>Upload the new/saved config file to your Sniper ECU.</li>
-<li>Set Static Timing Check to 15° and turn the key. With a timing light your engine should crank near 15°. If it cranks within a few degrees, make the small adjustment to your distributor housing to set it at 15°. Try cranking again to ensure it is now locked at 15° during the static timing check.</li>
+<li>Set Static Timing Check to 15Â° and turn the key. With a timing light your engine should crank near 15Â°. If it cranks within a few degrees, make the small adjustment to your distributor housing to set it at 15Â°. Try cranking again to ensure it is now locked at 15Â° during the static timing check.</li>
 <li>Re-install the fuel relay or activate your fuel system.</li>
-<li>Set the Static Timing Check to 15° again, and start the engine. With the engine running, ensure it sits at 15°. Again, if it's very close but could be better, make the small couple degree adjustment. </li>
-<li>Increase the engine RPM to verify the static timing holds. It won't, so in the Ignition Settings (handheld), try increasing the Inductive Delay to "0.100" and power cycle the engine. Re-enable the Static Timing check of 15° and increase the RPM again. Our vehicle's timing moved to approximately 16° at 3500RPM, which is an acceptable amount of movement. You may be able to fine tune the Inductive Delay to get it even better. </li>
+<li>Set the Static Timing Check to 15Â° again, and start the engine. With the engine running, ensure it sits at 15Â°. Again, if it's very close but could be better, make the small couple degree adjustment.Â </li>
+<li>Increase the engine RPM to verify the static timing holds. It won't, so in the Ignition Settings (handheld), try increasing the Inductive Delay to "0.100" and power cycle the engine. Re-enable the Static Timing check of 15Â° and increase the RPM again. Our vehicle's timing moved to approximately 16Â° at 3500RPM, which is an acceptable amount of movement. You may be able to fine tune the Inductive Delay to get it even better.Â </li>
 <li>Clear the static timing and take it for a drive, if you've been rapidly cranking and starting/stopping the engine, you may want to give it a good run to charge up the battery, at least that's the excuse I used to get out of the house ;)</li>
 </ol>
 
@@ -119,3 +120,4 @@ Interested in checking out the Turbo Camaro Sniper EFI configuration File? <a hr
 
 ---
 *Turbo Camaro Build History*
+

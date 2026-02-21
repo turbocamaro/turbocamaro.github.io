@@ -1,13 +1,14 @@
----
+﻿---
+categories: ["Engine"]
+tags: [Build, Internals, Rebuild]
+
 title: "Engine Rebuild"
 date: 2016-02-07 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
-Welcome to the biggest article on the site. Rather than writing a massive narrative on how to rebuild an engine, wait as the 30+ pictures and videos load and work your way down, reading the captions as you go. It sure beats a wall of text. If you don't care about the captions, you can click to zoom any image and then scroll through them all as a slideshow. 
+Welcome to the biggest article on the site. Rather than writing a massive narrative on how to rebuild an engine, wait as the 30+ pictures and videos load and work your way down, reading the captions as you go. It sure beats a wall of text. If you don't care about the captions, you can click to zoom any image and then scroll through them all as a slideshow.Â 
 
-Once it was decided the engine project was starting, the first step was to pull off all the "easy" parts such as the radiator, alternator, distributor, power steering pump, fan and any connected wiring. You might as well pull the engine before reaching for the fuel pump or starter. 
+Once it was decided the engine project was starting, the first step was to pull off all the "easy" parts such as the radiator, alternator, distributor, power steering pump, fan and any connected wiring. You might as well pull the engine before reaching for the fuel pump or starter.Â 
 
 An engine lift was rented from a local shop and the engine was removed in just under 45 minutes. From there you can mount it on a stand and start getting your hands dirty...
 
@@ -62,7 +63,7 @@ An engine lift was rented from a local shop and the engine was removed in just u
 <div align="center">
   <a href="/assets/img/posts/20151118_091847.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20151118_091847.jpg" width="640" /></a>
   <br/>
-  <em>Starter solenoid was rebuilt in 2015. </em>
+  <em>Starter solenoid was rebuilt in 2015.Â </em>
 </div>
 
 <div align="center">
@@ -197,24 +198,24 @@ when it comes time to put it back together
 Timing cover removed to expose the crank and cam gears. The
 stock cam gear is a fibre material. It will be replaced with a ComCams
 aluminium gear. Rotate the gear until the thrust plate bolts are visible through
-the 2 holes. Once you remove those bolts you will need to slide the cam out to
-proceed. It is easier to do this with the block upside down and the crankshaft 
+the 2 holes.Â Once you remove those bolts you will need to slide the cam out to
+proceed. It is easier to do this with the block upside down and theÂ crankshaftÂ 
 removed. Slide it out slowly to avoid doing damage to
- the thrust plate. 
+Â the thrust plate.Â 
 
 <a href="/assets/img/posts/"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="356" src="/assets/img/posts/" width="640" /></a>
 
-Connecting rods unbolted and pulled out of the top of the block with pistons. 
+Connecting rods unbolted and pulled out of the top of the block with pistons.Â 
 
-Be sure to cover the piston rod bolt threads before removing to prevent damage 
+Be sure to cover the piston rod bolt threads before removing toÂ prevent damageÂ 
 
 to cylinder walls. Spare hose or duct tape works well. Re-fasten the rod caps to
 
-the original rod. The stock rods are forged and will be reused. 
+the original rod. The stock rods are forged and will be reused.Â 
 
 <a href="/assets/img/posts/20151119_125433.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="356" src="/assets/img/posts/20151119_125433.jpg" width="640" /></a>
 
-If you have a wrist pin removal tool or small press you can remove the
+If you have a wristÂ pin removal tool or small press you can remove the
 
 old pistons, otherwise you can have the shop remove them for you
 
@@ -222,7 +223,7 @@ old pistons, otherwise you can have the shop remove them for you
 With the oil pump, connecting rods and pistons removed, you can unbolt and remove the
 crankshaft. Brace the stand as the bolts will be tight. Be sure to have a soft place to put
 the crank down, it's longer and heavier than it's V8 counterparts and you don't want to damage
-it. Loosely bolt the caps back in their original spots for transport to the machine shop. 
+it. Loosely bolt the caps back in their original spots for transport to the machine shop.Â 
 
 <a href="/assets/img/posts/20160206_154003.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="/assets/img/posts/20160206_154003.jpg" width="480" /></a>
 New Fel-Pro complete engine gasket set. All of these gaskets will
@@ -241,7 +242,7 @@ On March 18 2016, the parts were picked up from the Machine shop and brought hom
 
 <a href="/assets/img/posts/IMG_20160324_112737.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="480" src="/assets/img/posts/IMG_20160324_112737.jpg" width="640" /></a>
 
-Block had some surface rust but after some sanding, cleaning and masking it was ready for paint. (<a href="https://www.youtube.com/watch?v=LFl2QXqrkSQ" target="_blank">see video</a>) 
+Block had some surface rust but after some sanding, cleaning and masking it was ready for paint. (<a href="https://www.youtube.com/watch?v=LFl2QXqrkSQ" target="_blank">see video</a>)Â 
 
 <div align="center">
   <a href="/assets/img/posts/20160324_163837.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="480" src="/assets/img/posts/20160324_163837.jpg" width="640" /></a>
@@ -282,13 +283,13 @@ With most of the long block assembled, it was time to bring the engine home. An 
 <div align="center">
   <a href="/assets/img/posts/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="474" src="/assets/img/posts/" width="640" /></a>
   <br/>
-  <em>The motor was pulled by separating the flexplate from the torque converter. The Turbo 350 transmission had a shift kit installed last year so there was no need to pull it with the motor. </em>
+  <em>The motor was pulled by separating the flexplate from the torque converter. The Turbo 350 transmission had a shift kit installed last year so there was no need to pull it with the motor.Â </em>
 </div>
 
 <div align="center">
   <a href="/assets/img/posts/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="474" src="/assets/img/posts/" width="640" /></a>
   <br/>
-  <em>The motor mount bolts were shabby but a quick trip to the hardware store solved that. New spacers were created out of a piece of pipe. That pipe, the fuel pump and the carburetor are the only parts that didn't get painted. The bolts connecting the block to the transmission are difficult to get started but a ratcheting box end wrench makes short work of the limited space. </em>
+  <em>The motor mount bolts were shabby but a quick trip to the hardware store solved that. New spacers were created out of a piece of pipe. That pipe, the fuel pump and the carburetor are the only parts that didn't get painted. The bolts connecting the block to the transmission are difficult to get started but a ratcheting box end wrench makes short work of the limited space.Â </em>
 </div>
 
 <div align="center">
@@ -302,19 +303,19 @@ The intake manifold, an <a href="/posts/manifolds/" target="_blank">Offenhauser 
 <div align="center">
   <a href="/assets/img/posts/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="474" src="/assets/img/posts/" width="640" /></a>
   <br/>
-  <em>The manifolds are painted and torqued to the head. We had to wait almost a week for the 1/2" carb spacer and Trans-Dapt 2090 adapter plate. Both the spacer and adapter were required to mount the more modern Holley 4776 4 barrel carburetor. If your Offenhauser 5416 already has the plate, you'll just need the spacer for the throttle linkage to clear the intake flange. </em>
+  <em>The manifolds are painted and torqued to the head. We had to wait almost a week for the 1/2" carb spacer and Trans-Dapt 2090 adapter plate. Both the spacer and adapter were required to mount the more modern Holley 4776 4 barrel carburetor. If your Offenhauser 5416 already has the plate, you'll just need the spacer for the throttle linkage to clear the intake flange.Â </em>
 </div>
 
 <div align="center">
   <a href="/assets/img/posts/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="354" src="/assets/img/posts/" width="640" /></a>
   <br/>
-  <em>The final manifold setup was fairly simple but seemed to take forever to get right. Offenhauser 5416, gasket, Trans Dapt 2090 adapter, gasket, black 1/2" phenolic spacer, <a href="/posts/carburetor/" target="_blank">Holley 4776 carburetor</a>, ring gasket and finally a Spectre 9849 Plenum. With all this there is only about a 1/2" for hood clearance but it's enough to get a wing nut up there to hold it all together. </em>
+  <em>The final manifold setup was fairly simple but seemed to take forever to get right. Offenhauser 5416, gasket, Trans Dapt 2090 adapter, gasket, black 1/2" phenolic spacer, <a href="/posts/carburetor/" target="_blank">Holley 4776 carburetor</a>, ring gasket and finally a Spectre 9849 Plenum. With all this there is only about a 1/2" for hood clearance but it's enough to get a wing nut up there to hold it all together.Â </em>
 </div>
 
 <div align="center">
   <a href="/assets/img/posts/"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="354" src="/assets/img/posts/" width="640" /></a>
   <br/>
-  <em>The initial timing was set for TDC and the distributor loosely clamped down. Radiator reinstalled and all associated hoses and fittings secured. </em>
+  <em>The initial timing was set for TDC and the distributor loosely clamped down. Radiator reinstalled and all associated hoses and fittings secured.Â </em>
 </div>
 
 <a href="/assets/img/posts/Engine+Checklist.png"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="640" src="/assets/img/posts/Engine+Checklist.png" width="490" /></a>
@@ -345,3 +346,4 @@ To expand on the video, other than a small coolant and fuel leak, the reason the
 
 ---
 *Turbo Camaro Build History*
+

@@ -1,8 +1,10 @@
----
+﻿---
+categories: ["Fuel & Tuning"]
+tags: [Fuel, Carburetor, Tuning]
+
+
 title: "Carburetor Selection & Rebuilding"
 date: 2016-02-07 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -13,7 +15,7 @@ tags: [blogger]
 
 Before we go any further, lets consider the options. Turbo Camaro was obviously a factory carbureted vehicle, but it doesn't need to stay that way. Several companies have released fancy throttle body fuel injection systems that are apparently easier to tune and obtain solid performance gains. A carburetor sized part and a few wires and you just need to pull out your laptop to tune it. You can research for hours and hours but their are a few reasons to stick with carburetion:
 <ul>
-<li>It's about 10 times cheaper to locate and rebuild a carburetor than to purchase a new EFI system. </li>
+<li>It's about 10 times cheaper to locate and rebuild a carburetor than to purchase a new EFI system.Â </li>
 <li>With proper maintenance very little can go wrong; no wires or modules to fry.</li>
 <li>Slightly easier initial installation and doesn't require a computer to setup.</li>
 </ul>
@@ -35,7 +37,7 @@ In order to mount the Holley 4776 to the Offenhauser 5416, you'll need to ensure
 
 <a href="/assets/img/posts/"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="353" src="/assets/img/posts/" width="640" /></a>
 Notice the adapter and spacer below the carb. Also, 
-that throttle is still very close to the manifold. 
+that throttle is still very close to the manifold.Â 
 
 Once you have the adapter, you will need at least a 1/2" spacer before you mount the carburetor. The spacer is required because the Holley throttle linkage will hit the middle flange of the intake manifold if it isn't raised up. You could modify the linkage to miss the manifold but we used the linkage in that spot to hookup the throttle to the gas pedal. The spacer was $5 and has been known to increase fuel efficiency and power so don't cut up your Holley, get the spacer. Lastly, do not forget about hood clearance. You might be tempted to buy a bunch of spacers to increase flow but realize the sky is not the limit. We wanted to add a 1/2" spacer above the carb but the wing nut securing the plenum poked the underside of the hood. This isn't carburetor specific but is important when adding spacers above and below.
 
@@ -59,3 +61,5 @@ This is not a complete carburetor tutorial but gives you an idea the process Tur
 
 ---
 *Turbo Camaro Build History*
+
+

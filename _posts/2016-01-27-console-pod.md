@@ -1,8 +1,10 @@
----
+﻿---
+categories: ["Interior"]
+tags: [Gauges, Console, Custom]
+
+
 title: "Console Pod"
 date: 2016-01-27 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -15,7 +17,7 @@ Gauge technology sure has improved over the years. Vehicle manufactures have com
 
 The 67' Camaro had a simple 2 gauge cluster and if you had a center console, you might have been graced with a 3 gauge pod. The console pod was a good idea but not well executed as it looked aftermarket right out of the factory. 
 
-Turbo Camaro needed something new but not a far stretch from what the factory offered. It was decided a place for four 52mm gauges was needed. An aftermarket bolt on four gauge pod is available for the 68-69' Camaro, but the 67' wasn't invited to the party. Turbo Camaro couldn't stand it and decided to retrofit the the available pod to fit the 67's console. In the end, everything got cut up and turned out well. A near half hour documentary was filmed covering the planning, execution and outcome. 
+Turbo Camaro needed something new but not a far stretch from what the factory offered. It was decided a place for four 52mm gauges was needed. An aftermarket bolt on four gauge pod is available for the 68-69' Camaro, but the 67' wasn't invited to the party. Turbo Camaro couldn't stand it and decided to retrofit the the available pod to fit the 67's console. In the end, everything got cut up and turned out well. A near half hour documentary was filmed covering the planning, execution and outcome.Â 
 
 
 
@@ -35,3 +37,4 @@ Further updates will be posted here once the console is reinstalled and the gaug
 
 <b>---
 *Turbo Camaro Build History*</b>
+

@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Turbocharger"]
+tags: [Turbo, Boost, Induction]
+
 title: "Turbocharger"
 date: 2016-02-07 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">
@@ -26,7 +27,7 @@ The final name was CXRacing. They have the most positive reviews for a budget tu
   <em>Fittings, Gaskets & Manual</em>
 </div>
 
-After all that, a CXRacing T4 GT35 0.68 AR turbocharger kit was ordered off eBay for $280US. The turbochargers are designed and tested to handle up to 500HP, which is 100HP more than the top end goal for this vehicle. The kit came with the required gaskets and oil/water fittings. The size and specifications of the turbo were exactly what the build needed to ensure a quick spool while maintaining decent cruise speeds.
+After all that, aÂ CXRacing T4 GT35 0.68 AR turbocharger kit was ordered off eBay for $280US. The turbochargers are designed and tested to handle up to 500HP, which is 100HP more than the top end goal for this vehicle. The kit came with the required gaskets and oil/water fittings. The size and specifications of the turbo were exactly what the build needed to ensure a quick spool while maintaining decent cruise speeds.
 
 It's important to reiterate, Turbo Camaro is not sponsored by any brand. Any time a product brand is mentioned it's because they have been identified as having potential to manufacture a quality product. If any of the products used to build Turbo Camaro fail, nothing will be held back and these pages will be updated.
 
@@ -36,3 +37,4 @@ Lets face it, we still haven't gotten any indication of how it functions. Update
 
 ---
 *Turbo Camaro Build History*
+

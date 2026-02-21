@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Interior"]
+tags: [Security, Electrical, Locks]
+
 title: "Alarm System & Power Locks"
 date: 2017-10-23 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <div align="center">

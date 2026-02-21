@@ -1,8 +1,9 @@
----
+﻿---
+categories: ["Exterior"]
+tags: [Bodywork, Metal, Repair]
+
 title: "Quarter Panel Swap"
 date: 2016-02-06 12:00:00 +0000
-categories: [Build]
-tags: [blogger]
 ---
 
 <a href="/assets/img/posts/Photo0230.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="236" src="/assets/img/posts/Photo0230.jpg" width="320" /></a>
@@ -31,7 +32,7 @@ The first step to replacing the panel is removing the old one. Be sure you study
   <em>Old panel "cut away" before spot weld removal</em>
 </div>
 
-new and the old. In this case, the old panel is fastened with a large number of spot welds everywhere but the top of the sail panel. The spot welds can be drilled out but that causes "swiss cheesing" of your connecting panels. Instead of a standard drill bit, you best to use a Spot Weld Cutter. It's like a drill bit with a circular cutter around it. It allows you to cut around the spot weld just enough to free the panel, while leaving the underlying metal undamaged. 
+new and the old. In this case, the old panel is fastened with a large number of spot welds everywhere but the top of the sail panel. The spot welds can be drilled out but that causes "swiss cheesing" of your connecting panels. Instead of a standard drill bit, you best to use a Spot Weld Cutter. It's like a drill bit with a circular cutter around it. It allows you to cut around the spot weld just enough to free the panel, while leaving the underlying metal undamaged.Â 
 
 <a href="/assets/img/posts/DSC06125.JPG"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="236" src="/assets/img/posts/DSC06125.JPG" width="320" /></a>
 
@@ -57,3 +58,4 @@ Overall replacing body panels isn't difficult if you have the time and the tools
 
 ---
 *Turbo Camaro Build History*
+
