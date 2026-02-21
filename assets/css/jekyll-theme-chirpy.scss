@@ -25,7 +25,7 @@
 }
 
 .tc-base-logo {
-  width: 190px !important; 
+  width: 175px !important; 
   height: auto !important;
   z-index: 1;
   display: block !important;
@@ -47,59 +47,49 @@
   to { transform: translate(-50%, -50%) rotate(0deg); }
 }
 
-/* --- 2. MOBILE TOPBAR: DOUBLE-DECKER SEARCH --- */
+/* --- 2. MOBILE TOPBAR: "ON CLICK" CLEAR DECK --- */
 @media (max-width: 849px) {
-  /* The Container: Expands when searching */
-  #topbar-wrapper {
+  #topbar-wrapper, #topbar {
     height: 50px !important;
-    transition: height 0.2s ease-in-out !important;
+    background-color: var(--main-bg) !important;
+    display: block !important;
     position: fixed !important;
     top: 0 !important;
     left: 0 !important;
     width: 100% !important;
     z-index: 1050 !important;
-    background-color: var(--main-bg) !important;
     border-bottom: 1px solid var(--main-border-color) !important;
-    overflow: hidden !important;
   }
 
-  /* Expand the bar to 100px when search is active */
-  html[searching] #topbar-wrapper,
-  body.searching-on #topbar-wrapper {
-    height: 100px !important;
+  /* Anchor Buttons & Logo */
+  #sidebar-trigger, #search-trigger, #topbar-title {
+    transition: opacity 0.15s ease-in-out, visibility 0.15s !important;
   }
 
-  /* Hamburger - Left */
   #sidebar-trigger {
-    position: absolute !important;
+    position: fixed !important;
     left: 15px !important;
     top: 0 !important;
     height: 50px !important;
     display: flex !important;
     align-items: center !important;
     z-index: 1060 !important;
-    text-decoration: none !important;
-    border: none !important;
   }
 
-  /* Search Trigger - Right */
   #search-trigger {
-    position: absolute !important;
+    position: fixed !important;
     right: 15px !important;
     top: 0 !important;
     height: 50px !important;
     display: flex !important;
     align-items: center !important;
     z-index: 1060 !important;
-    text-decoration: none !important;
-    border: none !important;
   }
 
-  /* Logo - Dead Center Row 1 */
   #topbar-title {
-    position: absolute !important;
+    position: fixed !important;
     left: 50% !important;
-    top: 25px !important; 
+    top: 22px !important; 
     transform: translate(-50%, -50%) !important;
     width: 150px !important;
     height: 30px !important;
@@ -111,34 +101,55 @@
     z-index: 1055 !important;
   }
 
-  /* The Search Row (Row 2) */
+  /* --- THE "ON CLICK" HIDE LOGIC --- */
+  /* This targets the state Chirpy enters the moment the search icon is clicked */
+  html[searching] #sidebar-trigger,
+  html[searching] #search-trigger,
+  html[searching] #topbar-title,
+  body.searching-on #sidebar-trigger,
+  body.searching-on #search-trigger,
+  body.searching-on #topbar-title,
+  #search-input:focus ~ #topbar-title {
+    opacity: 0 !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+  }
+
+  /* Ensure the Search Overlay expands properly to fill the gap */
   #search-wrapper {
-    position: absolute !important;
-    top: 50px !important; /* Sits exactly below the first row */
+    position: fixed !important;
+    top: 0 !important;
     left: 0 !important;
     width: 100% !important;
     height: 50px !important;
-    padding: 0 15px !important;
+    padding: 0 10px !important;
+    z-index: 1070 !important;
+    background: var(--main-bg) !important;
+    display: none; /* JS toggles this */
+  }
+
+  html[searching] #search-wrapper,
+  body.searching-on #search-wrapper {
     display: flex !important;
     align-items: center !important;
-    background: var(--main-bg) !important;
-    border-top: 1px solid var(--main-border-color) !important;
   }
 
   #search-input {
     width: 100% !important;
-    background: transparent !important;
     border: none !important;
-    color: var(--text-color) !important;
+    background: transparent !important;
+    padding-left: 10px !important;
   }
 
-  /* Push content further down so it doesn't get covered by the double bar */
+  /* Push main content down */
   #main-wrapper {
     padding-top: 60px !important;
-    transition: padding-top 0.2s ease !important;
   }
-  
-  html[searching] #main-wrapper {
-    padding-top: 110px !important;
+
+  /* Fix blue underlines one more time */
+  #topbar-wrapper a, #sidebar-trigger, #search-trigger {
+    text-decoration: none !important;
+    border: none !important;
+    box-shadow: none !important;
   }
 }
