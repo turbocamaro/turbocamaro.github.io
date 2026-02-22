@@ -253,3 +253,8 @@ body[path*="/exterior/"] h1.dynamic-title::before   { content: "\f1b9"; }
 body[path*="/mechanical/"] h1.dynamic-title::before { content: "\f33e"; }
 body[path*="/turbo/"] h1.dynamic-title::before      { content: "\f72e"; }
 body[path*="/fuel/"] h1.dynamic-title::before       { content: "\f52f"; }
+
+/* Hide the Tags link in the sidebar, but keep the page active */
+#sidebar ul li:has(a[href*="/tags/"]) {
+  display: none !important;
+}
