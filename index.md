@@ -4,22 +4,22 @@ permalink: /
 hide_title: true
 ---
 <style>
-  /* 1. Kill the topbar title/logo on ALL devices for this page */
+  /* 1. Kill the topbar title/logo on ALL devices */
   #topbar-title {
     display: none !important;
   }
 
-  /* 2. Tighten the gap at the top of the content area */
+  /* 2. Pull the content area up to fill the gap */
   #main-wrapper {
-    padding-top: 1rem !important;
+    padding-top: 0 !important;
   }
 
-  .content {
-    margin-top: 0 !important;
+  /* 3. Negative margin to move the logo up specifically */
+  .home-logo-wrapper {
+    margin-top: -2.5rem !important; /* Adjust this number to move it up or down */
   }
 </style>
-
-<div class="d-flex justify-content-center w-100 mb-4">
+<div class="home-logo-wrapper d-flex justify-content-center w-100 mb-4">
   <img src="/assets/img/tc_logo_tp.png" 
        width="550" 
        height="372" 
