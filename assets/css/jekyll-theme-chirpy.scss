@@ -150,10 +150,26 @@
 }
 /* --- Custom Category Icons --- */
 
-/* 1. Hide the default folder icons on the categories page */
+/* --- Kill the Folders for Good --- */
+
+/* This targets the icon specifically within the category list */
 .categories i.fas.fa-folder-open, 
-.categories i.fas.fa-folder {
+.categories i.fas.fa-folder,
+.categories .far.fa-folder,
+.categories .far.fa-folder-open,
+.categories [class^="fa-folder"] {
   display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+  width: 0 !important;
+  margin: 0 !important;
+}
+
+/* Ensure our new icons have a little breathing room */
+.categories a::before {
+  display: inline-block;
+  width: 1.25em;
+  text-align: center;
 }
 
 /* 2. Insert custom icons based on the link text */
