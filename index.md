@@ -3,7 +3,6 @@ layout: page
 permalink: /
 hide_title: true
 ---
-
 <style>
   /* 1. Kill the entire topbar title/logo/text content on this page */
   @media (max-width: 849px) {
@@ -16,7 +15,6 @@ hide_title: true
       width: 0 !important;
     }
   }
-
   /* 2. Ensure the "Hero" div is truly centered and responsive */
   .hero-container {
     width: 100%;
@@ -26,7 +24,6 @@ hide_title: true
     flex-direction: column;
     margin-bottom: 20px;
   }
-
   .hero-image {
     width: 85% !important; /* 15% smaller */
     height: auto !important;
@@ -36,6 +33,7 @@ hide_title: true
   }
 </style>
 # Project: Turbo Camaro
+
 
 <div class="hero-container">
   <img src="{{ '/assets/img/YoutubeChArt-2.png' | relative_url }}" class="hero-image" alt="67 Camaro">
