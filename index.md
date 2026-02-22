@@ -35,10 +35,6 @@ hide_title: true
 # Project: Turbo Camaro
 <br>
 
-<div class="hero-container">
-  <img src="{{ '/assets/img/YoutubeChArt-2.png' | relative_url }}" class="hero-image" alt="67 Camaro">
-</div>
-
 Follow along and witness a transformation as this base model 1967 Chevrolet Camaro receives custom fabrication and modern styling all backed by a turbocharged alcohol injected highly modified 250 cubic inch inline 6 engine. No big sponsors or corporate bill folds, every upgrade is completed by a regular guy on a family conscious budget. Since 2007, this has been a work in progress, but 20+ years later, things are just getting interesting.
 
 
