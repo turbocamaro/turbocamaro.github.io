@@ -17,7 +17,9 @@ hide_title: true
   }
   @media {
     h1.dynamic-title~.content {
-        margin-top: 1.5rem; } }
+        margin-top: 1.5rem; 
+    } 
+  }
 </style>
 <div align="center">
   <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;" height="372" src="/assets/img/tc_logo_tp.png" width="550" />
