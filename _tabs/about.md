@@ -7,7 +7,7 @@ order: 1
 ---
 
 <div align="center">
-  <a href="/assets/img/FirstPhotoCan.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;" height="324" src="/assets/img/FirstPhotoCan.jpg" width="480" /></a>
+  <a href="/assets/img/FirstPhotoCan.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;" height="373" src="/assets/img/FirstPhotoCan.jpg" width="552" /></a>
 </div>
 
 ### The Origin Story
