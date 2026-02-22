@@ -14,8 +14,7 @@ order: 1
 In 2007, I set out to find a cheap, fuel-efficient daily driver. Instead, I found a $9,400 Navy Blue 1967 Camaro on eBay. It had a 250ci Inline-6 and a TH350 transmission—a combination I assumed would be underpowered and unsatisfying. I was right, but the timing was perfect: the Canadian dollar was strong, the body was solid, and the stage was set for a "rags-to-riches" story. It was like *Cinderella Man* or *Pretty Woman*, but without the boxing or the prostitution.
 
 <div align="center">
-  <a href="/assets/img/YoutubeChArt-2.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;" height="372" src="/assets/img/YoutubeChArt-2.png" width="550 /></a>
-
+  <a href="/assets/img/YoutubeChArt-2.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;" height="372" src="/assets/img/YoutubeChArt-2.png" width="550" /></a>
 </div>
 
 ### YouTube & The DIY Grind
