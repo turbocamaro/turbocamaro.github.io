@@ -234,11 +234,22 @@ h1.dynamic-title::before {
   font-size: 0.9em; /* Adjusts it to look natural next to the H1 text */
 }
 
-/* --- 3. Match Icons to Page Titles --- */
-/* This works by looking at the text content inside the header */
-[data-title*="Engine"] h1::before     { content: "\f085"; }
-[data-title*="Interior"] h1::before   { content: "\f4b8"; }
-[data-title*="Exterior"] h1::before   { content: "\f1b9"; }
-[data-title*="Mechanical"] h1::before { content: "\f33e"; }
-[data-title*="Turbo"] h1::before      { content: "\f72e"; }
-[data-title*="Fuel"] h1::before       { content: "\f52f"; }
+/* --- Fix the Archive Headers using URL Slugs --- */
+
+/* 1. Ensure the header has space for an icon */
+h1.dynamic-title::before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  margin-right: 15px;
+  color: #6c757d; /* Grey color */
+  font-size: 0.9em;
+}
+
+/* 2. Assign icons based on the URL path */
+/* If the URL contains 'engine', show cogs, etc. */
+body[path*="/engine/"] h1.dynamic-title::before     { content: "\f085"; }
+body[path*="/interior/"] h1.dynamic-title::before   { content: "\f4b8"; }
+body[path*="/exterior/"] h1.dynamic-title::before   { content: "\f1b9"; }
+body[path*="/mechanical/"] h1.dynamic-title::before { content: "\f33e"; }
+body[path*="/turbo/"] h1.dynamic-title::before      { content: "\f72e"; }
+body[path*="/fuel/"] h1.dynamic-title::before       { content: "\f52f"; }
