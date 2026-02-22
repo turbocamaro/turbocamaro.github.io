@@ -148,3 +148,18 @@
     padding-top: 60px !important;
   }
 }
+/* --- Custom Category Icons --- */
+
+/* 1. Hide the default folder icons on the categories page */
+.categories i.fas.fa-folder-open, 
+.categories i.fas.fa-folder {
+  display: none !important;
+}
+
+/* 2. Insert custom icons based on the link text */
+.categories a[href*="engine"]::before { content: "\f085"; font-family: "Font Awesome 5 Free"; font-weight: 900; margin-right: 10px; }
+.categories a[href*="interior"]::before { content: "\f4b8"; font-family: "Font Awesome 5 Free"; font-weight: 900; margin-right: 10px; }
+.categories a[href*="exterior"]::before { content: "\f1b9"; font-family: "Font Awesome 5 Free"; font-weight: 900; margin-right: 10px; }
+.categories a[href*="mechanical"]::before { content: "\f33e"; font-family: "Font Awesome 5 Free"; font-weight: 900; margin-right: 10px; }
+.categories a[href*="turbo"]::before { content: "\f72e"; font-family: "Font Awesome 5 Free"; font-weight: 900; margin-right: 10px; }
+.categories a[href*="fuel"]::before { content: "\f52f"; font-family: "Font Awesome 5 Free"; font-weight: 900; margin-right: 10px; }
