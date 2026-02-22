@@ -149,25 +149,30 @@
   }
 }
 /* --- Custom Category Icons --- */
-/* --- 1. KEEP THIS: Kill the default folders --- */
-.categories i.fas.fa-folder-open, 
-.categories i.fas.fa-folder,
-.categories [class^="fa-folder"] {
+/* --- Master Build Sheet: Big Icons, Big Text, No Folders --- */
+
+/* 1. Kill EVERY folder icon in the category list */
+.categories i, 
+.categories i.fas, 
+.categories i.far, 
+.categories .fa-folder, 
+.categories .fa-folder-open {
   display: none !important;
+  width: 0 !important;
+  margin: 0 !important;
 }
 
-/* --- 2. REPLACE THE REST WITH THIS: Big Text & Big Icons --- */
-
-/* Make the Category Text bigger */
+/* 2. Format the Category Links (Big & Clean) */
 .categories .card-body a {
   font-size: 1.4rem !important; 
   font-weight: 600;
-  display: flex;
+  display: flex !important;
   align-items: center;
   text-decoration: none !important;
+  padding: 10px 0;
 }
 
-/* Make the Icons 50% larger than the text */
+/* 3. Inject the New Icons (50% larger) */
 .categories a[href]::before {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
@@ -178,7 +183,7 @@
   color: var(--link-color);
 }
 
-/* Specific Icon Assignments */
+/* 4. The Icon Assignments */
 .categories a[href*="engine"]::before     { content: "\f085"; }
 .categories a[href*="interior"]::before   { content: "\f4b8"; }
 .categories a[href*="exterior"]::before   { content: "\f1b9"; }
