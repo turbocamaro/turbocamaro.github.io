@@ -13,6 +13,10 @@ order: 1
 ### The Origin Story
 In 2007, I set out to find a cheap, fuel-efficient daily driver. Instead, I found a $9,400 Navy Blue 1967 Camaro on eBay. It had a 250ci Inline-6 and a TH350 transmission—a combination I assumed would be underpowered and unsatisfying. I was right, but the timing was perfect: the Canadian dollar was strong, the body was solid, and the stage was set for a "rags-to-riches" story. It was like *Cinderella Man* or *Pretty Woman*, but without the boxing or the prostitution.
 
+<div class="hero-container">
+  <img src="{{ '/assets/img/YoutubeChArt-2.png' | relative_url }}" class="hero-image" alt="67 Camaro">
+</div>
+
 ### YouTube & The DIY Grind
 After driving it home, the tired suspension became the first priority. Being a family man on a budget, I skipped the high-end kits for period-correct V8 coils and Monroe shocks. I decided to film the swap, which became the first video for **Turbo Camaro**. What started as a way to document a transformation eventually became a newfound hobby in itself.
 
