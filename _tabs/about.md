@@ -22,12 +22,12 @@ I started filming everything from the headlights and bodywork to paint prep and 
 ### A Brand was Born
 Fast forward to 2013: the Camaro had spent a lot of time in storage where I tinkered with it and noted the cracked paint. Some family budgeting was done, but there was no way to afford the local price quotes of $20,000+ for paint and body work. Then I discovered the **Rolled On Forums**. The community provided detailed, proven methods of rolling regular metal rust paint on a vehicle and making it look as good as a spray job. My first thought was that there was no way it would look good, and it definitely wouldn't last.
 
-I read every page of every project and took notes. I gained a lot of confidence in the "$50 Rustoleum Paint Job" theory. Since the materials were only $200-$300 and the rest was just time and effort, the wife gave two thumbs up and it was time to get started.
+I read every page of every project and took notes. I gained a lot of confidence in the "$50 Rustoleum Paint Job" theory. Since the materials were actually $200-$300 and the rest was just time and effort, the wife gave two thumbs up and it was time to get started.
 
 <div align="center">
   <a href="/assets/img/FreshRolledPaint.jpg" style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;" height="480" src="/assets/img/FreshRolledPaint.jpg" width="640" /></a>
   <br/>
-  <em>The $50 Paint Job: Proof that sweat equity can beat a big check.</em>
+  <em>The $250 Paint Job: Proof that sweat equity can beat a big check.</em>
 </div>
 
 It was at this point Turbo Camaro was born. Sure, there was an interest in turbochargers, but the idea of doing everything "in house" and documenting it for everyone was a newfound hobby in itself. 
