@@ -184,12 +184,12 @@
 }
 
 /* 4. The Icon Assignments */
-.categories a[href*="engine"]::before     { content: "\f085"; }
-.categories a[href*="interior"]::before   { content: "\f4b8"; }
-.categories a[href*="exterior"]::before   { content: "\f1b9"; }
-.categories a[href*="mechanical"]::before { content: "\f33e"; }
-.categories a[href*="turbo"]::before      { content: "\f72e"; }
-.categories a[href*="fuel"]::before       { content: "\f52f"; }
+.categories a[href*="engine"]::before     { content: "\f085"; color: #6c757d !important; }
+.categories a[href*="interior"]::before   { content: "\f4b8"; color: #6c757d !important; }
+.categories a[href*="exterior"]::before   { content: "\f1b9"; color: #6c757d !important; }
+.categories a[href*="mechanical"]::before { content: "\f33e"; color: #6c757d !important; }
+.categories a[href*="turbo"]::before      { content: "\f72e"; color: #6c757d !important; }
+.categories a[href*="fuel"]::before       { content: "\f52f"; color: #6c757d !important; }
 
 /* --- Fix the Icons on Category Archive Pages --- */
 
@@ -217,3 +217,28 @@ h1.dynamic-title::before {
 [data-title*="Mechanical"] h1.dynamic-title::before { content: "\f33e"; }
 [data-title*="Turbo"] h1.dynamic-title::before      { content: "\f72e"; }
 [data-title*="Fuel"] h1.dynamic-title::before       { content: "\f52f"; }
+
+/* --- 1. Kill the folder icon in the Category Header --- */
+h1 i.fa-folder-open, 
+h1 i.fa-folder,
+.layout-category h1 i {
+  display: none !important;
+}
+
+/* --- 2. Setup the Header Icon (Grey & Large) --- */
+h1.dynamic-title::before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  margin-right: 15px;
+  color: #6c757d; /* This is the classic grey folder color */
+  font-size: 0.9em; /* Adjusts it to look natural next to the H1 text */
+}
+
+/* --- 3. Match Icons to Page Titles --- */
+/* This works by looking at the text content inside the header */
+[data-title*="Engine"] h1::before     { content: "\f085"; }
+[data-title*="Interior"] h1::before   { content: "\f4b8"; }
+[data-title*="Exterior"] h1::before   { content: "\f1b9"; }
+[data-title*="Mechanical"] h1::before { content: "\f33e"; }
+[data-title*="Turbo"] h1::before      { content: "\f72e"; }
+[data-title*="Fuel"] h1::before       { content: "\f52f"; }
