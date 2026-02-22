@@ -32,7 +32,9 @@ hide_title: true
     border-radius: 8px;
   }
 </style>
-assets/img/tc_logo_tp.png
+<div align="center">
+  <a href="/assets/img/tc_logo_tp.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;" height="373" src="/assets/img/tc_logo_tp.png" width="552" /></a>
+</div>
 <br>
 
 Follow along and witness a transformation as this base model 1967 Chevrolet Camaro receives custom fabrication and modern styling all backed by a turbocharged alcohol injected highly modified 250 cubic inch inline 6 engine. No big sponsors or corporate bill folds, every upgrade is completed by a regular guy on a family conscious budget. Since 2007, this has been a work in progress, but 20+ years later, things are just getting interesting.
