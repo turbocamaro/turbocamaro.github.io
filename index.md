@@ -33,7 +33,7 @@ hide_title: true
   }
 </style>
 # Project: Turbo Camaro
-</br>
+<br><br>
 
 <div class="hero-container">
   <img src="{{ '/assets/img/YoutubeChArt-2.png' | relative_url }}" class="hero-image" alt="67 Camaro">
