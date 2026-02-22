@@ -45,3 +45,16 @@ Follow along and witness a transformation as this base model 1967 Chevrolet Cama
 ## The Mission: To build a reliable, streetable, and surprisingly quick tribute to doing things the hard way.
 
 Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | relative_url }}).
+
+<div style="max-width: 540px; margin: 1.5rem auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+    <iframe 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+      src="https://youtu.be/b_vNRvV7slQ?si=8a0xsSDj3ufb72Ar" 
+      title="YouTube video player" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
