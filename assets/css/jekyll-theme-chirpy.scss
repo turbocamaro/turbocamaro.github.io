@@ -190,3 +190,30 @@
 .categories a[href*="mechanical"]::before { content: "\f33e"; }
 .categories a[href*="turbo"]::before      { content: "\f72e"; }
 .categories a[href*="fuel"]::before       { content: "\f52f"; }
+
+/* --- Fix the Icons on Category Archive Pages --- */
+
+/* 1. Hide the folder icon in the dynamic page title */
+h1.dynamic-title i.fas.fa-folder-open,
+#page-category i.fas.fa-folder-open {
+  display: none !important;
+}
+
+/* 2. Inject the correct icon into the title based on the category name */
+/* We use a slightly larger font size (2rem) to match the H1 header */
+h1.dynamic-title::before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  font-size: 1.1em;
+  margin-right: 15px;
+  color: var(--link-color);
+}
+
+/* 3. Logic to match the Title text to the correct Icon */
+/* This looks at the page title or the URL to determine the icon */
+[data-title*="Engine"] h1.dynamic-title::before     { content: "\f085"; }
+[data-title*="Interior"] h1.dynamic-title::before   { content: "\f4b8"; }
+[data-title*="Exterior"] h1.dynamic-title::before   { content: "\f1b9"; }
+[data-title*="Mechanical"] h1.dynamic-title::before { content: "\f33e"; }
+[data-title*="Turbo"] h1.dynamic-title::before      { content: "\f72e"; }
+[data-title*="Fuel"] h1.dynamic-title::before       { content: "\f52f"; }
