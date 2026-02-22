@@ -21,7 +21,7 @@ After driving it home, the tired suspension became the first priority. Being a f
 By 2013, the budget still couldn't support a $20,000 professional paint job. I refused to let the project stall, so I turned to the **Rolled On Forums**. I spent weeks researching the "$50 Rustoleum Paint Job" theory—applying rust paint with a foam roller. With $300 in materials and a massive amount of "sweat equity," I got to work.
 
 <div align="center">
-  <a href="/assets/img/FreshRolledPaint.jpg" style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 90%; height: auto;" height="480" src="/assets/img/FreshRolledPaint.jpg" width="640" /></a>
+  <a href="/assets/img/FreshRolledPaint.jpg" style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 90%; height: auto;" src="/assets/img/FreshRolledPaint.jpg" width="610" /></a>
   <br/>
   <em>Rolled on Paint: Proof that sweat equity can beat a big check.</em>
 </div>
