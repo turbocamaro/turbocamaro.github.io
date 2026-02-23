@@ -8,24 +8,25 @@
 {%- endif -%}
 ';
 
-/* --- 1. DESKTOP SIDEBAR: TURBO CAMARO BRANDING (SCALED & SPACED) --- */
-#sidebar #avatar.tc-brand-container {
-  position: relative !important;
-  display: flex !important;
-  justify-content: center !important;
-  align-items: center !important;
-  /* Scaled down 20% from 210px */
-  width: 168px !important; 
-  height: 112px !important; 
-  /* Top margin stays tight (0.75rem), Bottom margin increased by 25% (approx 1.5rem total) */
-  margin: 0.75rem auto 1.5rem auto !important;
-  background: transparent !important;
-  overflow: visible !important;
-  transform: translateX(-5%) !important;
-  border: none !important;
-  box-shadow: none !important;
-  outline: none !important;
-}
+/* --- Sidebar Logo Styling (Non-Clickable) --- */
+  #avatar {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    width: 90% !important;
+    height: auto !important;
+    margin: 1.5rem auto !important;
+    display: flex !important;
+    justify-content: center !important;
+    cursor: default !important; /* Shows a regular pointer, not a hand */
+  }
+
+  #avatar img {
+    width: 100% !important;
+    height: auto !important;
+    display: block !important;
+  }
 
 #sidebar .profile-wrapper {
   padding-top: 0.5rem !important;
