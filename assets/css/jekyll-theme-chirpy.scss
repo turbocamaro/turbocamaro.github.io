@@ -1,14 +1,12 @@
 ---
+---
 
-/* prettier-ignore */
-@use 'main
+@use 'main' 
 {%- if jekyll.environment == 'production' -%}
-  .bundle
+  as *;
 {%- endif -%}
-';
 
 /* --- 1. GLOBAL BRANDING: TURBO RED ICONS --- */
-/* Forces all mobile topbar and sidebar navigation icons to #d22e28 */
 #sidebar-trigger i, 
 #search-trigger i, 
 #search-cancel,
@@ -18,7 +16,6 @@
 }
 
 /* --- 2. SIDEBAR LOGO: CLEAN & WIDE --- */
-/* Removes the white circle/box and scales logo to 90% width */
 #avatar {
   background: transparent !important;
   border: none !important;
@@ -35,7 +32,7 @@
   width: 100% !important;
   height: auto !important;
   border-radius: 0 !important; 
-  transform: none !important; /* Kills any leftover animation tilts */
+  transform: none !important;
 }
 
 #sidebar .profile-wrapper {
@@ -80,7 +77,6 @@
 }
 
 /* --- 4. MASTER BUILD SHEET: CATEGORY ICONS --- */
-/* Kill folder icons */
 .categories i, .categories i.fas, .categories i.far, .categories .fa-folder {
   display: none !important;
 }
@@ -102,7 +98,6 @@
   text-align: center;
 }
 
-/* Icon Assignments */
 .categories a[href*="engine"]::before     { content: "\f085"; color: #6c757d !important; }
 .categories a[href*="interior"]::before   { content: "\f4b8"; color: #6c757d !important; }
 .categories a[href*="exterior"]::before   { content: "\f1b9"; color: #6c757d !important; }
@@ -126,7 +121,7 @@ body[path*="/mechanical/"] h1.dynamic-title::before { content: "\f33e"; }
 body[path*="/turbo/"] h1.dynamic-title::before      { content: "\f72e"; }
 body[path*="/fuel/"] h1.dynamic-title::before       { content: "\f52f"; }
 
-/* Hide Tags link in sidebar */
+/* Hide Tags link */
 #sidebar ul li:has(a[href*="/tags/"]) {
   display: none !important;
 }
