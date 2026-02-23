@@ -258,3 +258,10 @@ body[path*="/fuel/"] h1.dynamic-title::before       { content: "\f52f"; }
 #sidebar ul li:has(a[href*="/tags/"]) {
   display: none !important;
 }
+
+/* Custom Red Navigation Icons */
+#sidebar-trigger i, 
+#search-trigger i, 
+#search-cancel {
+  color: #d22e28 !important;
+}
