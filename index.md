@@ -19,22 +19,13 @@ hide_title: true
     margin-top: -2.5rem !important; /* Adjust this number to move it up or down */
   }
 </style>
-
 <div class="d-flex flex-column align-items-center w-100 mb-4" style="max-width: 540px; margin: 0 auto;">
-  
-  <div class="mb-3">
-    <img src="/assets/img/tc_logo_tp.png" 
-         width="200" 
-         style="border-radius: 50%; border: 3px solid #6c757d; padding: 5px;" 
-         alt="Turbo Camaro Avatar">
-  </div>
-
-  <div class="w-100">
-    <img src="/assets/img/tc_logo_tp.png" 
-         style="display: block; margin: 0 auto; max-width: 100%; height: auto;" 
-         alt="Turbo Camaro Main Logo">
-  </div>
-
+<div class="mb-3">
+<img id="launch-avatar" src="/assets/img/tc_logo_tp.png" width="200" style="border-radius: 50%; border: 3px solid #6c757d; padding: 5px; cursor: pointer;" alt="Turbo Camaro Avatar">
+</div>
+<div class="w-100">
+<img id="launch-track" src="/assets/img/tc_logo_tp.png" style="display: block; margin: 0 auto; max-width: 100%; height: auto; cursor: pointer;" alt="Turbo Camaro Main Logo">
+</div>
 </div>
 
 <div class="home-logo-wrapper d-flex justify-content-center w-100 mb-4">
