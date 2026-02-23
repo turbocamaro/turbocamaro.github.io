@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Ian
+  name: Turbo Camaro
   email: ian@turbocamaro.ca # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -242,3 +242,4 @@ sass:
     - _sass
     - vendor/bundle/ruby/3.3.0/gems/jekyll-theme-chirpy-7.4.1/_sass
     
+slugify: latin
