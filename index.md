@@ -8,13 +8,13 @@ hide_title: true
 #main-wrapper { padding-top: 0 !important; }
 @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
 .spinning-track { animation: spin 8s linear infinite; }
-.logo-container { position: relative; width: 250px; height: 250px; margin: 0 auto; }
+.logo-wrapper { position: relative; width: 250px; height: 250px; margin: 0 auto; }
 </style>
 
 <div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 250px; margin-top: -2.5rem; cursor: pointer;">
-<div class="logo-container">
-<img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 160px; z-index: 1;" alt="Logo">
-<img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" class="spinning-track" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2;" alt="Racetrack">
+<div class="logo-wrapper">
+<img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" width="160" height="108" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1; display: block;" alt="Logo">
+<img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" width="250" height="250" class="spinning-track" style="position: absolute; top: 0; left: 0; z-index: 2; display: block;" alt="Racetrack">
 </div>
 </div>
 
