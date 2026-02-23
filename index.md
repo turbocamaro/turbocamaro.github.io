@@ -3,27 +3,29 @@ layout: page
 permalink: /
 hide_title: true
 ---
+{% raw %}
 <style>
-#topbar-title { display: none !important; }
-#main-wrapper { padding-top: 0 !important; }
-@keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
-.spinning-track { animation: spin 8s linear infinite; }
-.logo-wrapper { position: relative; width: 250px; height: 250px; margin: 0 auto; display: block !important; }
+  #topbar-title { display: none !important; }
+  #main-wrapper { padding-top: 0 !important; }
+  @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+  .spinning-track { animation: spin 8s linear infinite; }
+  .logo-wrapper { position: relative; width: 250px; height: 250px; margin: 0 auto; display: block; }
 </style>
 
 <div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 250px; margin-top: -2.5rem; cursor: pointer;">
-<div class="logo-wrapper">
-<img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" class="no-lazy" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 160px !important; height: auto !important; z-index: 1; visibility: visible !important; opacity: 1 !important;" alt="Logo">
-<img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" class="spinning-track no-lazy" style="position: absolute; top: 0; left: 0; width: 250px !important; height: 250px !important; z-index: 2; visibility: visible !important; opacity: 1 !important;" alt="Racetrack">
+  <div class="logo-wrapper">
+    <img src="/assets/img/tc_logo_tp.png" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 160px; height: auto; z-index: 1;" alt="Logo">
+    <img src="/assets/img/Racetrack2.png" class="spinning-track" style="position: absolute; top: 0; left: 0; width: 250px; height: 250px; z-index: 2;" alt="Racetrack">
+  </div>
 </div>
-</div>
+{% endraw %}
 
 Follow along and witness a transformation as this base model 1967 Chevrolet Camaro receives custom fabrication and modern styling all backed by a turbocharged alcohol injected highly modified 250 cubic inch inline 6 engine. No big sponsors or corporate bill folds, every upgrade is completed by a regular guy on a family conscious budget. Since 2007, this has been a work in progress, but 20+ years later, things are just getting interesting.
 
 <div style="max-width: 560px; margin: 2rem auto;">
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/b_vNRvV7slQ" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/b_vNRvV7slQ" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 </div>
 
 Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | relative_url }}).
