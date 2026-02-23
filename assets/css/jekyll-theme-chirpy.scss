@@ -264,10 +264,27 @@ body[path*="/fuel/"] h1.dynamic-title::before       { content: "\f52f"; }
 #search-trigger i, 
 #search-cancel {
   color: #d22e28 !important;
-}
-#sidebar ul li.nav-item.active .nav-link {
+#sidebar .nav-link:hover {
     background-color: #d22e28 !important;
+    color: #fff !important; /* Forces the text/icon to white so it's readable against red */
 }
+
+/* Ensure the icons inside the link also turn white on hover */
+#sidebar .nav-link:hover i {
+    color: #fff !important;
+}
+
+/* Optional: If you ALSO want the 'Active' page to stay red */
+#sidebar .nav-item.active .nav-link {
+    background-color: #d22e28 !important;
+    color: #fff !important;
+}
+
+#sidebar .nav-item.active i {
+    color: #fff !important;
+}
+
+/* Make main site background color below */
 body {
     background: rgb(0 0 0);
 }
