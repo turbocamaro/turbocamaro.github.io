@@ -19,45 +19,13 @@ hide_title: true
     margin-top: -2.5rem !important; /* Adjust this number to move it up or down */
   }
 </style>
-<header class="profile-wrapper">
-<a href="/" id="avatar" class="tc-brand-container">
-<img src="/assets/img/tc_logo_tp.png" class="tc-base-logo" alt="Turbo Camaro Logo">
-<img src="/assets/img/Racetrack2.png" class="tc-rotating-overlay" alt="Rotating Racetrack">
-</a>
-</header>
-<style>
-/* This makes the racetrack actually rotate like it does in your sidebar */
-.tc-brand-container {
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 200px; /* Adjust size as needed */
-  height: 200px;
-  margin: 0 auto;
-}
-
-.tc-base-logo {
-  width: 70%;
-  z-index: 1;
-}
-
-.tc-rotating-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  animation: spin 10s linear infinite;
-  z-index: 2;
-}
-
-@keyframes spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-</style>
-<div class="d-flex flex-column align-
+<aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
+  <header class="profile-wrapper">
+    <a href="{{ '/' | relative_url }}" id="avatar" class="tc-brand-container">
+      <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" class="tc-base-logo" alt="Turbo Camaro Logo">
+      <img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" class="tc-rotating-overlay" alt="Rotating Racetrack">
+    </a>
+  </header>
 Follow along and witness a transformation as this base model 1967 Chevrolet Camaro receives custom fabrication and modern styling all backed by a turbocharged alcohol injected highly modified 250 cubic inch inline 6 engine. No big sponsors or corporate bill folds, every upgrade is completed by a regular guy on a family conscious budget. Since 2007, this has been a work in progress, but 20+ years later, things are just getting interesting.
 
 <div style="max-width: 560px; margin: 2rem auto;">
