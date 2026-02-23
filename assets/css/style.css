@@ -1,4 +1,9 @@
 /* Custom Red Navigation Icons for Turbo Camaro */
 #toc-bar button i, #topbar button i, #toc-popup .header button i {
-    color: #d22e28;
+    color:#d22e28 !important;
 }
+#toc-bar button i, #topbar button i, #toc-popup .header button i
+Specificity: (1,0,2)
+ {
+    color: #d22e28 !important;
+ }
