@@ -4,19 +4,17 @@ permalink: /
 hide_title: true
 ---
 <style>
-/* 1. Kill the topbar title/logo */
 #topbar-title { display: none !important; }
-/* 2. Pull content area up */
 #main-wrapper { padding-top: 0 !important; }
-/* 3. The Racetrack Animation */
 @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
 .spinning-track { animation: spin 8s linear infinite; }
+.logo-container { position: relative; width: 250px; height: 250px; margin: 0 auto; }
 </style>
 
 <div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 250px; margin-top: -2.5rem; cursor: pointer;">
-<div style="position: relative; width: 250px; height: 250px;">
-<img src="/assets/img/tc_logo_tp.png" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 160px; z-index: 1;" alt="Turbo Camaro Logo">
-<img src="/assets/img/Racetrack2.png" class="spinning-track" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2;" alt="Rotating Racetrack">
+<div class="logo-container">
+<img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 160px; z-index: 1;" alt="Logo">
+<img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" class="spinning-track" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2;" alt="Racetrack">
 </div>
 </div>
 
