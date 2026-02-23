@@ -1,11 +1,4 @@
 /* Custom Red Navigation Icons for Turbo Camaro */
-#sidebar-trigger i, 
-#search-trigger i, 
-#search-cancel {
-  color: #d22e28 !important;
-}
-
-/* Ensure the sidebar's internal icons (like the home/info icons) match if desired */
-.nav-item i {
-  color: #d22e28;
+#toc-bar button i, #topbar button i, #toc-popup .header button i {
+    color: #d22e28;
 }
