@@ -19,37 +19,13 @@ hide_title: true
     margin-top: -2.5rem !important; /* Adjust this number to move it up or down */
   }
 </style>
-<div class="d-flex justify-content-center w-100 mb-4" style="max-width: 540px; margin: 0 auto;">
-  <div id="sidebar-trigger" class="d-flex align-items-center">
-    <div id="avatar" class="rounded-circle">
-      <a href="/">
-        <img src="/assets/img/tc_logo_tp.png" alt="avatar" onerror="this.style.display='none'">
-      </a>
-    </div>
-  </div>
-</div>
+<header class="profile-wrapper">
+    <a href="{{ '/' | relative_url }}" id="avatar" class="tc-brand-container">
+      <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" class="tc-base-logo" alt="Turbo Camaro Logo">
+      <img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" class="tc-rotating-overlay" alt="Rotating Racetrack">
+    </a>
+  </header>
 
-<style>
-/* Ensure the homepage version matches the sidebar's circular animation */
-#avatar {
-  width: 150px; /* Adjust size to fit your homepage needs */
-  height: 150px;
-  overflow: hidden;
-  border: 2px solid var(--sidebar-border-color);
-  transition: all 0.5s ease-in-out;
-}
-
-#avatar img {
-  width: 100%;
-  height: auto;
-  transition: transform 0.5s ease;
-}
-
-/* If your theme uses a specific 'rotating' class for the racetrack, we apply it here */
-#avatar:hover img {
-  transform: scale(1.1);
-}
-</style>
 <div class="d-flex flex-column align-
 Follow along and witness a transformation as this base model 1967 Chevrolet Camaro receives custom fabrication and modern styling all backed by a turbocharged alcohol injected highly modified 250 cubic inch inline 6 engine. No big sponsors or corporate bill folds, every upgrade is completed by a regular guy on a family conscious budget. Since 2007, this has been a work in progress, but 20+ years later, things are just getting interesting.
 
