@@ -268,3 +268,6 @@ body[path*="/fuel/"] h1.dynamic-title::before       { content: "\f52f"; }
 #sidebar ul li.nav-item.active .nav-link {
     background-color: #d22e28 !important;
 }
+body {
+    background: rgb(0 0 0);
+}
