@@ -19,7 +19,6 @@ hide_title: true
     margin-top: -2.5rem !important; /* Adjust this number to move it up or down */
   }
 </style>
-<aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
   <header class="profile-wrapper">
     <a href="{{ '/' | relative_url }}" id="avatar" class="tc-brand-container">
       <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" class="tc-base-logo" alt="Turbo Camaro Logo">
