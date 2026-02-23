@@ -264,6 +264,8 @@ body[path*="/fuel/"] h1.dynamic-title::before       { content: "\f52f"; }
 #search-trigger i, 
 #search-cancel {
   color: #d22e28 !important;
+}
+
 #sidebar .nav-link:hover {
     background-color: #d22e28 !important;
     color: #fff !important; /* Forces the text/icon to white so it's readable against red */
