@@ -285,8 +285,3 @@ body[path*="/fuel/"] h1.dynamic-title::before       { content: "\f52f"; }
 #sidebar .nav-item.active i {
     color: #fff !important;
 }
-
-/* Make main site background color below */
-body {
-    background: rgb(0 0 0);
-}
