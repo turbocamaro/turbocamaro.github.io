@@ -1,69 +1,52 @@
 ﻿---
 categories: ["Engine"]
 tags: [Intake, Exhaust, Manifolds]
-
 title: "Manifolds"
 date: 2014-02-16 12:00:00 +0000
 ---
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="/assets/img/posts/IMG_20130825_120330.jpg" width="320" />
-  
-
-  *Chevy 292 exhaust manifold*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/IMG_20130825_120330.jpg" alt="Chevy 292 exhaust manifold" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Chevy 292 exhaust manifold</em></p>
 </div>
 
-The Chevy 250 inline 6 was designed as a solid workhorse motor, making them perfect for trucks and daily drivers. Unfortunately these motors weren't designed for power and most of the components need to be mortified for replaced to defy the power constraints.
+The Chevy 250 inline-6 was designed as a solid workhorse, making it perfect for trucks and daily drivers. Unfortunately, these motors weren't built for high performance, and most components need to be modified or replaced to defy those power constraints.
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="239" src="/assets/img/posts/IMG_20130825_120709.jpg" width="320" />
-  
-
-  *Despite the camera angle, the 292 has a 2.5" outlet*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/IMG_20130825_120709.jpg" alt="292 manifold outlet" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Despite the camera angle, the 292 has a 2.5" outlet</em></p>
 </div>
 
-The stock exhaust manifold has a 2" outlet and narrower passages. 2" is tight for larger turbos and decent exhaust air flow. Since Turbo Camaro is getting turbocharged and using 3" piping, the stock 2" manifold just isn't going to cut it. The exhaust manifold from a 292 has larger passages and the outlet is 2.5". Even though it's only 0.5" bigger, that's 25% more air flow and the larger passages bump it closer to 30-40%, which is a significant upgrade.
+The stock exhaust manifold has a 2" outlet and narrow passages—a major bottleneck for larger turbos. Since Turbo Camaro is using 3" piping, we upgraded to a **292 exhaust manifold**. The 292 version features larger internal passages and a 2.5" outlet. While 0.5" sounds small, it represents a 25% increase in diameter and roughly 30-40% better flow, which is a massive upgrade for a turbo setup.
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="239" src="/assets/img/posts/IMG_20140216_181031.jpg" width="320" />
-  
 
-  *Offenhauser 5416 Intake Maniold*
+
+Our 292 manifold was sourced from eBay (originally off a tractor) for about $100US. Because this is a factory-style manifold, it lacks a port for an external [wastegate](/posts/wastegate/){:target="_blank"}. While the SPA Turbo manifold comes pre-cast for a wastegate, it also costs over $400US. We will eventually modify this 292 manifold to accept the [SPA Turbo 25mm compact wastegate](/posts/wastegate/){:target="_blank"}.
+
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/IMG_20140216_181031.jpg" alt="Offenhauser 5416 Intake Manifold" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Offenhauser 5416 Intake Manifold</em></p>
 </div>
 
-Turbo Camaro received a 292 exhaust manifold that was originally on a tractor. The manifold was purchased off eBay for about $100US. Since this is a stock style manifold, it wasn't designed to run a turbo and doesn't have a port for a <a href="/posts/wastegate/" target="_blank">wastegate</a>. Some custom manifold like the SPA Turbo manifold have a built in wastegate outlet and the main outlet has a T3/T4 outlet instead of the 250/292's 3 bolt version. The 292 manifold will eventually be modified to accept the <a href="/posts/wastegate/" target="_blank">SPA Turbo 25mm compact wastegate</a>. Why didn't Turbo Camaro get the SPA Turbo manifold to match the wastegate? The SPA Turbo manifold costs over $400US that's why. Updates to follow.
+For the intake, the stock unit simply won't support a performance 4-barrel carb. We selected the **Offenhauser 5416**. It is a heated intake that mounts to the exhaust manifold like stock to prevent fuel puddling. This manifold is the perfect platform for the [Holley 4776 600cfm Double Pumper](/posts/carburetor/){:target="_blank"}.
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="239" src="/assets/img/posts/IMG_20140216_181904.jpg" width="320" />
-  
-
-  *Offenhauser 5416 outlets*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/IMG_20140216_181904.jpg" alt="Offenhauser 5416 outlets" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Offenhauser 5416 outlets</em></p>
 </div>
 
-As with the exhaust manifold, the stock intake manifold manifold is solid, but doesn't support an increase in power. Luckily their are several aftermarket intake manifolds that do.
+Because the Offenhauser intake and 292 exhaust were never intended to be used as a factory unit, they don't always mesh perfectly. We filmed a two-part video series covering the grinding, painting, and final fitment required to get these components sealed against the head.
 
-Their are two different types of manifolds for this engine, ones that use the heat from the exhaust manifold and the ones that don't. Some of the ones that don't use the exhaust use nothing, and others use warm engine water/coolant. Turbo Camaro needed a heated intake capable of running a <a href="https://www.blogger.com/blogger.g?blogID=853508697141433937#editor/target=post;postID=2016695468138079815;onPublishedMenu=allposts;onClosedMenu=allposts;postNum=1;src=link" target="_blank">Holley 4776 600cfm DP 4 barrel carb</a>. It was decided the Offenhauser 5416 was the intake of choice. The 5416 is a bolt on replacement for the stock manifold and even mounts to the exhaust manifold like stock.
-
-Since the Offenhauser and the 292 exhaust were never shipped as a unit, they don't always mesh well. In order to get the parts to fit against the head properly, they will liky require some modification. Instead of describing the required steps to get these two parts installed, a two part video series was filmed. The videos cover the modification, painting, final fitment and parts required to mount a Holley carburetor.
-
-
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe src="https://www.youtube.com/embed/9To658UdHcw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<div style="width: 90%; border-radius: 8px; overflow: hidden; position: relative; padding-bottom: 56.25%; height: 0; margin-left: auto !important; margin-right: auto !important;">
+<iframe src="https://www.youtube.com/embed/9To658UdHcw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
 </div>
 
-
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe src="https://www.youtube.com/embed/v0jY-F3NmQI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<div style="width: 90%; border-radius: 8px; overflow: hidden; position: relative; padding-bottom: 56.25%; height: 0; margin-left: auto !important; margin-right: auto !important;">
+<iframe src="https://www.youtube.com/embed/v0jY-F3NmQI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
 </div>
 
-
-
-More documentation on carburetor installation can be found <a href="/posts/carburetor/" target="_blank">here</a>. If you have any questions or comments about this setup please contact us via one of our social media channels.
-
----
-*Turbo Camaro Build History*
-
-
-
+More documentation on the carburetor installation can be found [here](/posts/carburetor/){:target="_blank"}.

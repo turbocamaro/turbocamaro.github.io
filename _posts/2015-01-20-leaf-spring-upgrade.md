@@ -1,46 +1,37 @@
 ﻿---
 categories: ["Mechanical"]
 tags: [Suspension, Rear End, Leaf Springs]
-
 title: "Leaf Spring Upgrade"
 date: 2015-01-20 12:00:00 +0000
 ---
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="/assets/img/posts/IMG_20150131_093326.jpg" width="320" />
-  
-
-  *Stock mono-leaf suspension*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/IMG_20150131_093326.jpg" alt="Stock mono-leaf suspension" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Stock mono-leaf suspension</em></p>
 </div>
 
-The mechanical weak spot on all 67' Camaro's is the factory mono-leaf springs. Turbo Camaro was even further guarenteed to have mono-leafs as it was ordered with an inline 6, and all first generation Camaro's with 6's received mono-leafs.
+The mechanical weak spot on all '67 Camaros is the factory mono-leaf springs. Turbo Camaro was even further guaranteed to have mono-leafs as it was ordered with an inline-6, and all first-generation Camaros with 6's received them.
 
-In case you're lost, mono means one, and it refers to the number of leaf springs in your rear axle suspension. Most of the 1968-69 year V8 Camaros received multi-leaf suspension consisting of 4 or even 5 leafs. Having additional leafs adds rear end firmness and longevity. The mono-leaf spring probably held up just fine initially, but after decades of hard starts they start to stay permenatly flexed and sag. If you wanted to upgrade your rear suspension you have plenty of options. You can take your existing mono's to a spring shop and they can heat treat and attempt to put the spring back in your springs. You can take the whole car to the same shop and have them install a 'helper' spring to assist the tired mono. Their are several mono to multi conversion kits available and of course, brand new complete rear suspension packages exist for those with financial stability.
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/LeafSprings.jpg" width="320" />
-  
 
-  *3 leaf springs with U-Bolts instead of stock T-Bolts*
+Mono refers to the single leaf spring in your rear axle suspension. Most 1968-69 V8 Camaros received multi-leaf suspension (4 or 5 leaves) for added firmness and longevity. After decades of use, mono-leaf springs stay permanently flexed and sag. To upgrade, you can heat-treat old springs or add a "helper" spring, but the best budget-friendly performance move is a mono-to-multi conversion.
+
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/LeafSprings.jpg" alt="3 leaf springs and U-Bolts" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>3 leaf springs with U-Bolts instead of stock T-Bolts</em></p>
 </div>
 
-Turbo Camaro received the mono to multi converstion, but instead of buying a complete kit, all the parts were sourced individually to save a few bucks. The 3 leaf springs and HB-1000 bushingsÂ were purchased from <a href="http://www.sdtrucksprings.com/index.php?main_page=product_info&products_id=9589" target="_blank">sdtrucksprings.com</a>. The U-Bolts (1/2" gauge, 3.5" wide, 6" long) and nuts were purchased locally. You can order the U-Bolts from the above site or several other sites. Some of the conversion kits come with shackles as well, which could be a great idea to replace while you have the leafs off. Keep in mind, removing the shackles is almost impossible without dropping the gas tank, so it might be desirable to inspect the shackles before buying new ones and putting out the extra effort. The pads were reusable and because of the design of the spring, no spacers or extra parts are required.
+Turbo Camaro received a 3-leaf conversion. To save money, parts were sourced individually: springs and HB-1000 bushings from [sdtrucksprings.com](http://www.sdtrucksprings.com/index.php?main_page=product_info&products_id=9589){:target="_blank"}, and heavy-duty U-Bolts (1/2" gauge, 3.5" wide, 6" long) locally. 
 
-Overall, it's a relatively simple swap that doesn't take a lot of know how to complete.
+**Pro Tip:** Inspect your shackles before you start. Replacing them usually requires dropping the gas tank, so don't commit to new ones unless you're ready for the extra work.
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/IMG_2327.jpg" width="320" />
-  
 
-  *3 leaf conversion with U-Bolts (borrowed image)*
+
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/IMG_2327.jpg" alt="3 leaf conversion installed" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>3 leaf conversion with U-Bolts (borrowed image)</em></p>
 </div>
 
-Be careful of brake lines as removing/installing the leaf involves moving the brake hub around, which could cause a line to break. If you respect the lines you won't have a problem. If a line does break, it was probably on its last leg anyway, so be greatful it broke now and not when your hammering the brakes on the highway. Once you get the old leafs off and on your scrap metal pile, install the new multi leafs in the same position as the monos. The U-Bolts go up and over the axles and back down through were the original T-Bolts were. You may need to drill the holes bigger for the U-Bolts to go through smoothly. Throughout the entire process, only finger tight all the bolts, that includes the front and rear mounting points and the U-Bolts. Once you have both sides done, wheels back on and the car back on the ground, give the car a few bounces and crawl back under the car and torque everything down. Tightening the bolts before the weight of the car is fully distributed can cause an uneven stance and significant driving issues.
+Be careful with your brake lines; moving the axle during the swap can easily snap a brittle line. Throughout the process, keep all bolts finger-tight. Only torque the mounting points and U-Bolts once the car is back on the ground with its full weight distributed. Tightening them while the car is on stands can cause an uneven stance and binding issues.
 
-The 3 leaf springs mentioned above raised Turbo Camaro approximately 1/2" and left the back end feeling stiffer than with the mono. These springs will be perfect for a performance daily driver. This is not the setup to use if you are looking for extra ride height or firmness for constant heavy accelerations like drag racing. You can search for 4-5 leaf springs for those applications but you'll likely need to purchase different brackets and spacers for proper installation.
-
----
-*Turbo Camaro Build History*
-
-
-
+The 3-leaf springs raised Turbo Camaro approximately 1/2" and significantly firmed up the rear end. This is a perfect setup for a performance daily driver. If you're building a dedicated drag car, you'll want to look at 4-5 leaf packs and specific traction bars.

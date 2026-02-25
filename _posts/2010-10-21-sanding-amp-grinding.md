@@ -1,68 +1,42 @@
 ﻿---
 categories: ["Exterior"]
 tags: [Bodywork, Paint, Prep]
-
-
 title: "Sanding & Grinding"
 date: 2010-10-21 12:00:00 +0000
 ---
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05528.JPG" width="320" />
-  
-
-  *The blue paint was unsalvageable*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/DSC05528.JPG" alt="Unsalvageable blue paint" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>The dark blue paint was too far gone to salvage</em></p>
 </div>
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05535.JPG" width="320" />
-  
+In 2007, the Turbo Camaro project truly began. The paint was shot, and after consulting the wife, the DIY restoration became a reality. With a total sanding and painting budget of just **$250**, the goal was to save money while gaining a massive learning experience. Maaco might laugh at that budget, but time was plentiful even if cash was short.
 
-  *Sanding with a drill*
+The first few hours involved stripping the car of its jewelry: trim, antenna, door handles, gas cap, bumpers, lights, and grill. We even pulled all the glass. Initial attempts with 60-grit paper proved that hand-sanding would take a lifetime. 
+
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/DSC05535.JPG" alt="Sanding with a drill" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Sanding with a drill - slow and ineffective</em></p>
 </div>
 
-It was at this point in 2007 where the Turbo Camaro project started to take shape. It was decided the dark blue paint was too far gone to fix and something major had to be done. It was obvious the car would need to be sanded down to at least original paint/primer but living in a townhouse wasn't the best setup for that job. After days and days of deliberation (and consulting the oracle/wife) the concept of sanding and painting the car as a do-it-yourself (DIY) project became a reality. The big reasons to DIY are to save money and obtain results equivalent to effort. The budget on the sanding AND painting was set at $250, even Maaco would laugh at that. Money was short, but time was plentiful, allowing a meticulous job to be done on the car, and a significant learning experience.
+We tried Sand & Rust Remover discs on a drill, but at $8 a piece, they were too fragile for a whole car. We eventually moved to a grinder with Poly discs, which handled about 40% of the car but struggled with the factory-original primer.
 
-A plan to strip the car to bare metal was made and executed with grace and skill... well, it was executed. The first few hours were spent removing trim, antenna, door handles, gas cap, bumpers, lights, grill, all the glass and masking the tires and interior areas. Initial attempts were made to sand the paint down with 60 grit paper. Close inspection confirmed the underlying paint couldn't be saved so there was no point worrying about how flat the paint was kept. Not to mention, sanding it by hand would take forever and use an enormous amount of sandpaper.
-
-A few Sand & Rust Remover discs were purchased for use on a drill, but they didn't last long and obviously weren't up to the challenge of stripping an entire car. Don't get me wrong, they would have worked eventually but it would probably take 15-20 of them, and at $8 a piece it would have blown the budget.
-
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05745.JPG" width="320" />
-  
-
-  *Dust from one sweep of the floor.*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/51gTcGBRw2L._SX300_.jpg" alt="Wire wheel for grinder" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>The solution: A heavy-duty wire wheel for the grinder</em></p>
 </div>
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="312" src="/assets/img/posts/51gTcGBRw2L._SX300_.jpg" style="cursor: move;" width="320" />
-  
+The "serious" phase involved a $20 wire wheel and cup for the grinder. It finished the job in 4 hours, but taught us three vital lessons about mechanical stripping:
 
-  *Wire wheel for a grinder*
+* **Safety is Non-Negotiable:** The grinder flings paint chips and wire bristles like shrapnel. Wear long sleeves, eye protection, and a respirator. Do not skip the mask—paint dust is toxic.
+* **Heat Management:** High-speed friction creates heat. Staying in one spot too long can warp the sheet metal. Keep the wheel moving and make multiple light passes.
+* **Contain the Chaos:** This process creates an incredible amount of dust. We filled two ice cream buckets with paint dust. Use plastic sheeting to isolate your workspace or prepare to spend days cleaning your garage.
+
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/DSC05747.JPG" alt="Bare metal Camaro" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Stripped to bare metal and ready for the next phase</em></p>
 </div>
 
-A box of 10 Poly Sand & Paint Remover discs were purchased online for $50. These discs went on the grinder instead and probably got 40% of the car stripped to mostly bare metal. Buying more of those wasn't in the budget and they weren't capable of stripping some of the factory original primer.
-
-It was time to get serious. Money was being spent on products that were not getting the job done. There was no turning back now as a large portion of the car was bare metal and exposed to air, which would eventually cause rust. So, a wire wheel and cup for the grinder were picked up for $20 and they finished the job in about 4 hours. These 4 hours (and some online research) led to some interesting discoveries about stripping paint with a grinder:
-
-<ul>
-<li>The grinder spins fast. any debris, even small paint chips, will fly far and fast. If they hit your skin it can hurt. Be sure to ware sleeves and don't even consider it without eye and breathing protection.Â </li>
-<li>As the wire wheel spins it gets hot and transfers that heat to the car. Spinning too long in one spot will get very hot and potentially cause warpage. Keep the wheel moving and make second and even third passes on areas requiring more attention. Â </li>
-
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="300" src="/assets/img/posts/DSC05747.JPG" width="400" />
-  
-
-  *Apply clear coat and call it done... no, not really.*
-</div>
-
-<li>This process makes a huge mess! All the paint and primer turns to dust, and coats every surface of the area you're in. Hang sheets/plastic up to control it, or prepare to shop vac everything when you're done. We're probably talking about a couple of ice cream buckets full of paint dust... so take it seriously.</li>
-</ul>
-
-Overall this wasn't a difficult process. The hardest part, as always, was the preparation. Removing all the trim and parts off the car, and keeping them sorted was critical. For example, removing the door handles and keeping it's screws and gaskets with it in a little zip-loc baggie. Keep the parts together and labeled as if you plan to do it all yourself it's going to take time and come this time next year, you might not remember which screw goes where. If you include removing parts, the total time from assembled to bare metal was approximately 8 hours.
-
----
-*Turbo Camaro Build History*
 
 
-
+The hardest part wasn't the grinding—it was the organization. Keeping every screw, gasket, and bracket in labeled zip-lock bags is what saved the project. If you're doing this solo, you won't remember where those door handle screws go a year from now. Total time from fully assembled to bare metal: **8 hours**.

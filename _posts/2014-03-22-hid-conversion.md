@@ -1,61 +1,38 @@
 ﻿---
 categories: ["Exterior"]
 tags: [Lighting, HID, Exterior]
-
 title: "HID Conversion"
 date: 2014-03-22 12:00:00 +0000
 ---
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="148" src="/assets/img/posts/IMG_20140322_153359.jpg" width="200" />
-  
-
-  *HID 7" round HID headlight kit*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/IMG_20140322_153359.jpg" alt="7 inch HID headlight kit" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>HID 7" round HID headlight kit</em></p>
 </div>
 
+Lighting is an excellent area to invest in. You can spend less than $100 and replace your interior and exterior bulbs with LEDs, and still have enough for a set of HID headlights. Trading old sealed beams for HIDs is a phenomenal upgrade—literally twice the beam brightness with less draw on the electrical system. 
 
-<div style="width: 90%; margin: 1.5rem auto; text-align: center;">
+Headlight conversion kits are available everywhere, but before you buy, decide if you want a brand new aftermarket set or a retrofit from an OEM vehicle. OEM ballasts are often higher quality than the budget kits found on eBay or Amazon.
 
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/IMG_20140322_162406.jpg" alt="Headlight bucket modification" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Headlight bucket - needed 3 new notches</em></p>
 </div>
 
-
-Duratec "Slim" HID Ballast
-
-Lights have always been an excellent item to spend money on. You can spend less than $100 and get all new Let's to replace the bulbs in both the interior and exterior, as well as a set of HID headlights.
-
-Let's face it, it's nice to take a load off the electrical system with Let's, but trading old seals beams for HID's is phenomenal. Literally twice the beam brightness with less draw on the system. Not to mention, with HID's you can pick the color tone and enclosure specifications.
-
-Headlight conversion kits are available at local auto part stores, classic auto shops and of course, online. Amazon and eBay are stocked with a mind numbing selection. Before you pick a source you need to decide if you want brand new, or if your going to fit a set from a compatible vehicle. A lot of the OEM parts are high quality than the cheaper new stuff, so it's not an easy choice. If you decide to get brand new you'll find kits for almost any vehicle.
-
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="/assets/img/posts/IMG_20140322_162406.jpg" width="320" />
-  
-
-  *Headlight bucket - needed 3 new notches*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/IMG_20140322_162430.jpg" alt="Bucket notches detail" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>New notch cut on the left, original on the right</em></p>
 </div>
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="/assets/img/posts/IMG_20140322_162430.jpg" width="320" />
-  
+Turbo Camaro received a set of **4300K H4 HIDs**. The kit included 7" round glass projection headlights and 35-watt Duratec ballasts. We chose 4300K for a "super white" look, avoiding the blue or yellow tones. Be sure to research your ballast options and verify that the kit supports both high and low beams. Turbo Camaro has been running these Duratec ballasts since 2012 without issue.
 
-  *New notch cut on the left, original on the right*
+
+
+The only snag was the 7" enclosure fitting into the stock Camaro headlight bucket. The factory bucket has three notches that correspond to three "lumps" on a standard sealed beam. The new HID housings had lumps in different spots. To keep the light correctly oriented (keeping the beam pattern level), we had to cut and press three new notches into the metal buckets. It’s an unexpected mod, but much better than shaving the lumps off the light and letting it rattle around in the housing.
+
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/IMG_20140404_151559.jpg" alt="HID headlights installed" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Freshly installed HID headlight kit</em></p>
 </div>
 
-Turbo Camaro received a set of 4300K H4 HID's. The kit included 7" round glass projection headlights, 35 watt Durante ballasts and the required hookups. Kits like these are fairly cheap ($50-100) and usually come with different component choices. The 7" round glass projection headlights are a perfect swap for the stock sealed beams. Since neither yellow or blue tone lights were desired, the super white Â 4300K was chosen. Be sure to research the ballast options as they are not created equal. Also verify the kit can project the required beams (Hi and/or Low only). Â Turbo Camaro has been running the same Duratec ballasts since 2012 without issue (if/when they fail this page will be updated).Â 
-
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="298" src="/assets/img/posts/IMG_20140404_151559.jpg" width="400" />
-  
-
-  *Freshly installed HID headlight kit*
-</div>
-
-The only issue with the conversion was the 7' enclosure included did not fit the Camaro headlight bucket without modification. The bucket has 3 notches and the back of a Sealed beam headlight has 3 lumps that fit into the corresponding notches when mounted. The new HID enclosure also had 3 lumps, but in very different spots. In order for the new headlight to fit, the 'top' label would need to be way off to the left or right, drastically affecting the beam alignment. Either the lights needed new lumps or the buckets needed new notches. It's much easier to remove material than to add, so new notches were sliced and pressed in. Not a tough mod, but unexpected. Consideration was given to shaving off the new enclosures lumps, but they're designed to fit into the bucket to keep them in the upright position. With the lumps gone the headlights would probably rattle around in circles, shining everywhere and eventually twisting the wires apart.
-
-The only advantage to sealed beams are price and availability. Even then, costs are marginally different and even if one of the HID's burnt out, visibility is the same as the stock sealed beams. Overall, if you ever drive sat night, the upgrade should be first on your list.
-
----
-*Turbo Camaro Build History*
-
-
-
+The only advantage to sealed beams is price and availability. However, the HID upgrade provides a night-and-day difference in visibility. If you ever drive at night, this should be at the top of your list.

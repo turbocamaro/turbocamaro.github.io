@@ -1,45 +1,36 @@
 ﻿---
 categories: ["Interior"]
 tags: [Safety, Seatbelts]
-
 title: "Seat Belts"
 date: 2011-01-27 12:00:00 +0000
 ---
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="216" src="/assets/img/posts/INT-360-2.jpg" width="320" />
-  
-
-  *67' Camaro stock retractable lap belts.*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/INT-360-2.jpg" alt="67 Camaro stock retractable lap belts" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Stock '67 Camaro retractable lap belts</em></p>
 </div>
 
-It doesn't matter if you drive a classic muscle car or a modern van, they all have seat belts. Turbo Camaro only has lap belts as shoulder belts weren't ordered. The original belts had been swapped with junk yard specials a couple decades ago. It was obvious "new" belts were needed but so many options exist it's tough to decide. A harness system could be a future proof idea, but a little excessive for daily driver use. Modern belts come with red tape as a lot of them are sold with matching shoulder straps and splitting the set can become a legality. Aftermarket muscle car inspired belts are sold in droves but will they hold up to the cool factor of original belts.
+Every vehicle needs seat belts, but classic muscle cars often leave you with tough choices regarding safety versus style. Turbo Camaro came equipped only with lap belts. The originals had been swapped for junk-yard specials decades ago, so a full refresh was mandatory. While a 4-point harness is a "future-proof" safety idea, it’s often too restrictive for a daily driver. 
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="207" src="/assets/img/posts/1800-CHROME-LIFT-LATCH-LAP-SEAT-BELT_BLACK_1000.jpg" width="320" />
-  
-
-  *Black belts with chrome "airplane" style buckles*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/1800-CHROME-LIFT-LATCH-LAP-SEAT-BELT_BLACK_1000.jpg" alt="Chrome airplane style buckles" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Black belts with chrome "airplane" style buckles</em></p>
 </div>
 
-It was decided a set of original, lap only retractable belts would be obtained for the front seats and stylish aftermarket for the bench. Aftermarket belt buckles are smaller, and in chrome look neater when tucked away in the back seat. A few people have asked why Turbo Camaro has two different style buckles and the simple answer is "because it looks great and Turbo Camaro likes to be unique." Three pairs of black seat belts with chrome "airplane" style buckles were installed in the back and a set of original year correct retractables for the front.
+We decided on a hybrid setup: year-correct retractable lap belts for the front seats and stylish aftermarket "airplane" lift-latch buckles for the rear bench. The chrome buckles are smaller and look much cleaner when tucked into the back seat. This mix gives the car a unique, custom look while ensuring every passenger has a functional restraint.
 
-On an entirley seperate venture, Turbo Camaro has an infrequent requirement to transport one or two children. The law in British Columbia, Canada is all child seats must be anchored to a rear mount tether, but only if the vehicle was originally equipped with them. It makes sense, but the fine print says your child is more likley to survive in a child seat that is anchored than not. The driver and passenger might not care about their lives while only wearing lap belts, but children don't have a choice and should be given the best chance of survival. Two universal child seat tethering anchors were installed through the rear window package tray and secured to the sturdiest looking area in the trunk. The anchors used
+### Child Safety Anchors
+Transporting children in a 1967 vehicle presents a serious safety hurdle. In British Columbia, child seats must be anchored to a rear mount tether. While the law is lighter on vintage cars not originally equipped with them, common sense says your children deserve the best chance of survival. 
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="232" src="/assets/img/posts/Safety-1st-Child-Restraint-Vehicle-Anchor-Kit-1.jpg" width="320" />
-  
 
-  *Universal child seat tethering anchor.*
+
+We installed two universal child seat tethering anchors through the rear window package tray. To ensure these are "invincible," we tossed the cheap 1" washers that came in the kit and replaced them with **2" wide, 1/4" thick fender washers**. 
+
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/Safety-1st-Child-Restraint-Vehicle-Anchor-Kit-1.jpg" alt="Universal child seat anchor" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Universal child seat tethering anchor kit</em></p>
 </div>
 
-Â look identical to the one in the picture, but the cheap 1" washer was swapped with 2" wide 1/4" thick fender washers. An additional fender washer was placed under the cardboard package tray, sandwiching the metal tray and ensuring the anchor is invincible. Little black rubber caps were put over the bolt head for style and to prevent a silver dot from reflecting off the inside of the back window. The anchors catch peoples eye all the time and it's surprising how infrequent this modification is done.
+The anchors are sandwiched through the metal tray and secured to the sturdiest area in the trunk. Little black rubber caps were added to the bolt heads to prevent reflections off the rear glass. It’s a simple modification that catches people's eyes and adds a much-needed layer of modern safety to a 50-year-old car.
 
-*It is noted the images on this page are generic. New images will be obtained and published here as soon as possible.Â *
-
-****
-**---
-*Turbo Camaro Build History***
-
-
-
+*Note: The images on this page are currently generic placeholders. Authentic photos of the Turbo Camaro installation will be published as soon as possible.*

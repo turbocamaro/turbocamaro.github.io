@@ -1,67 +1,45 @@
 ﻿---
 categories: ["Mechanical"]
 tags: [Steering, Power Steering, Hydro]
-
 title: "Power Steering Conversion"
 date: 2010-05-15 12:00:00 +0000
 ---
 
 
-<div style="width: 90%; margin: 1.5rem auto; text-align: center;">
 
+Deciding to drop the manual steering for power was a major turning point for the build. While manual offers excellent feedback at highway speeds, power steering is far more responsive for a daily driver, especially when navigating tight parking lots. Turbo Camaro deserved the upgrade to make it a more capable street machine.
+
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/DSC05267.jpg" alt="Factory manual steering gearbox" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>The original factory manual steering gearbox prior to removal</em></p>
 </div>
 
+There are several ways to tackle this swap:
+* **OEM Restoration:** Sourcing original power steering parts from a donor car or forum.
+* **IROC-Z Box Swap:** Using a later-model IROC Camaro gearbox for a tighter, more modern steering ratio.
+* **Rack and Pinion:** The high-end route that brings the car into the realm of modern handling, but at a massive cost to the budget.
 
-Complete inline 6 Power Steering Kit
+**Pro Tip:** If you want modern steering feel on a budget, look for the "secret menu" IROC-Z gearbox swap. While a factory '67 power box has a slow ratio (about 16:1), an 85-92 IROC-Z or Z28 box offers a fast 12.7:1 ratio. It bolts into the factory location with minor modifications to the rag joint and hose fittings, giving you sports-car steering for a fraction of the price of a rack and pinion.
 
-
-<div style="width: 90%; margin: 1.5rem auto; text-align: center;">
-
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/IMG_20140514_182929.jpg" alt="Gearbox removed" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Gearbox removed - the teardown phase</em></p>
 </div>
 
+We opted for a factory-restored complete kit for the Chevy 250, purchased for about $350US. It included a restored gearbox, pump, rag joint, and the specific inline-6 brackets. 
 
-Camaro's jacked for the conversion
-
-It was quite a decision to drop the manual steering for power. Manual offers excellent control at crusin' and highway speeds but power steering is very responsive overall, especially at parking lot speeds. Based on the intended daily driver purposes, Turbo Camaro deserved the swap to power steering.
-
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="200" src="/assets/img/posts/IMG_20140514_182929.jpg" width="150" />
-  
-
-  *Gearbox removed, but not forgotten*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/IMG_20140514_182941.jpg" alt="New power gearbox installed" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>The new power steering gearbox in its final home</em></p>
 </div>
 
-If you really dig into this topic it's easy to discover a variety of options for the swap. You can acquire an original power steering setup on forums or sites like eBay. You can use original parts but substitute the gearbox for the ever popular IROC Camaro model with a tighter Â lock to lock and steering ratio. The third, and perhaps most tempting choice is to invest in a modern rack and pinion conversion kit. The rack will improve handling as it brings your ride into the realm of newer technology and drains your bank account at the same time.Â 
-
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="/assets/img/posts/DSC05267.jpg" width="200" />
-  
-
-  *Factory manual steering gearbox*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/IMG_20140514_182947.jpg" alt="New power steering pump installed" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>New power steering pump and bracketry installed</em></p>
 </div>
 
-After some deliberation, the cheapest and easiest option was selected. The 67' Camaro factory restored complete power steering kit was purchased off eBay for $350US. The kit had to be for a Chevy 250 inline 6 as that is the desired power plant for this project. The kit included a restored gearbox, pump, rag joint and all original brackets. All the original components were removed and the new ones put in their place. The only part not included was a belt for the pump, but the seller couldn't have known the size required so it was forgivable.
-
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="200" src="/assets/img/posts/IMG_20140514_182941.jpg" width="150" />
-  
-
-  *New power gearbox installed*
-</div>
-
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="200" src="/assets/img/posts/IMG_20140514_182947.jpg" width="150" />
-  
-
-  *-caption" style="font-size: 12.8px;">New power steering pump installed*
-</div>
-
-Even though a rack and pinion system would have been nice, it wasn't in the budget and their's something nice about giving a car a factory option it never had. Luckily the popularity of these vehicles isn't going down so modern technology is constantly being adapted for them. Perhaps an even better steering system will emerge and the budget will allow for an upgrade.Â 
-
-Unfortunately the swap from manual to power steering wasn't filmed. Several photos were obtained and will be posted here. If it makes you feel any better, you can click the images for a fancy full size slideshow mode.
-
----
-*Turbo Camaro Build History*
+There is something satisfying about giving a car a factory option it never had. While a rack and pinion system would have been nice, this restored setup provides a night-and-day difference in drivability without breaking the bank. 
 
 
 
+If you're planning this swap, make sure you verify the bracket fitment for the inline-6; V8 brackets will not work. You'll also need to source a belt, as those are rarely included in these kits.
