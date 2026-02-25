@@ -1,51 +1,38 @@
 ﻿---
 categories: ["Turbocharger"]
 tags: [Exhaust, Fabrication, Piping]
-
 title: "Exhaust / Piping"
 date: 2016-06-12 12:00:00 +0000
 ---
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/CXRacing+Universal+3in+Polished+DIY+Aluminum+FMIC+Turbo+Intercooler+Piping+Kit.jpg" width="320" />
-  
-
-  *CX Racing 3x18" @ 2mm Piping kit - $99*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/CXRacing Universal 3in Polished DIY Aluminum FM.jpg" alt="CX Racing 3 inch Piping kit" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>CX Racing 3x18" @ 2mm Piping kit - $99</em></p>
 </div>
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="/assets/img/posts/20150727_182403.jpg" width="222" />
-  
-
-  *CXRacing kit as received*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/20150727_182403.jpg" alt="CXRacing kit as received" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>CXRacing kit as received</em></p>
 </div>
 
 In order to install a turbocharger, intercooler, carburetor hat, cold air filter, blow off valve and external wastegate, you need metal piping. Obviously a couple of the above parts could be directly mounted to a permanent fixture like the turbocharger or manifold, but you get the point.
 
-When purchasing metal piping you need to pay attention to the material, thickness (gauge), finish and diameter. If it's a piping kit you're looking at, review the contents as you may not need five 90 degree elbows or a bunch of straight pieces. Also notice the type of clamps and couplers. The pipes might be perfect but the kit provides low quality silicone couplers (note thickness and length) or flimsy clamps. It would be unfortunate to have to replace all the clamps at your local store because the ones provided snap off when tightening. Another important note, what size is your current exhaust? It would be a shame to buy nice wide 3" piping for your performance parts and then feed it all into a stock 2-1/4" exhaust. Sure it'll work but you might want to consider upgrading your exhaust to a full 2.5" or even 3" to keep the flow consistent. Increasing intake flow capacity will also increase exhaust capacity, consider "what goes in, must come out".
+When purchasing metal piping you need to pay attention to the material, thickness (gauge), finish and diameter. If it's a piping kit you're looking at, review the contents as you may not need five 90 degree elbows or a bunch of straight pieces. Also notice the type of clamps and couplers. The pipes might be perfect but the kit provides low quality silicone couplers (note thickness and length) or flimsy clamps. It would be unfortunate to have to replace all the clamps at your local store because the ones provided snap off when tightening. 
 
+Another important note: what size is your current exhaust? It would be a shame to buy nice wide 3" piping for your performance parts and then feed it all into a stock 2-1/4" exhaust. Sure it'll work, but you might want to consider upgrading your exhaust to a full 2.5" or even 3" to keep the flow consistent. Increasing intake flow capacity will also increase exhaust capacity; consider "what goes in, must come out."
 
-<div style="width: 90%; margin: 1.5rem auto; text-align: center;">
-
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<p style="text-align: center; width: 100%;"><strong>CORP 4" to 3" silicone reducer (hat to pipe) - $4</strong></p>
 </div>
 
-CORP 4" to 3" silicone reducer 
-(hat to pipe) - $4
+You can find an extensive selection of these kits on eBay. The best advice you can get is to find a reputable brand and look through their auctions as you'll probably see the same quality in all their parts. The kit purchased for Turbo Camaro was made by the same manufacturer as the turbocharger, [CXRacing](http://www.cxracing.com/){:target="_blank"}. 
 
-You can find an extensive selection of these kits on eBay. It would be almost impossible to discuss the potential contents of the varieties of kits available but rest assured, you can find one that fits your needs perfectly if you look hard enough. The best advice you can get is to find a reputable brand and look through their auctions as you'll probably see the same quality in all their parts. The kit purchased for Turbo Camaro was made by the same manufacturer as the turbocharger, <a href="http://www.cxracing.com/" target="_blank">CXRacing</a>. The kit contents are shown in an image here. The polished aluminum pipes are 3" in diameter, 2mm thick and 18" long. Extra silicone couplers/reducers will be required to install the <a href="/posts/intercooler/" target="_blank">intercooler</a> and <a href="/posts/hat-bonnet/" target="_blank">carburetor hat</a>. Consider buying extra clamps from the same source in case you use all the ones from your piping kit. Turbo Camaro will use this 3" kit and receive a new 3" exhaust system.
+The polished aluminum pipes are 3" in diameter, 2mm thick and 18" long. Extra silicone couplers/reducers will be required to install the [intercooler](/posts/intercooler/){:target="_blank"} and [carburetor hat](/posts/hat-bonnet/){:target="_blank"}. Consider buying extra clamps from the same source in case you use all the ones from your piping kit. Turbo Camaro will use this 3" kit and receive a new 3" exhaust system.
+
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<div style="width: 90%; border-radius: 8px; overflow: hidden; position: relative; padding-bottom: 56.25%; height: 0; margin-left: auto !important; margin-right: auto !important;">
+<iframe src="https://www.youtube.com/embed/KLE9NiiHUVY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+</div>
+</div>
 
 Unless you're replacing an existing install and know exactly what pieces you need, you'll never know precisely what to buy. However you can plan out the install to the best of your ability, and then make any modifications during final install.
-
-
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe src="https://www.youtube.com/embed/KLE9NiiHUVY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
-</div>
-
-
-
----
-*Turbo Camaro Build History*
-
-
-
