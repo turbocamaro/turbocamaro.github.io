@@ -23,6 +23,8 @@ The following is a list of things you can do to improve the Chevy 250 head for p
 * Increase valve size to 1.94/1.6 valves
 * Complete a full intake and exhaust port job
 
+[Image showing a cross-section of a Chevy inline-6 head with a lump kit installed in the intake port]
+
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/HeadWork.jpg" alt="Hi-Flow lump kit" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
 <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Hi-Flow lump kit for Chevy inline 6's</em></p>
@@ -48,7 +50,9 @@ When the lump kit was installed in Turbo Camaro, it was filmed and uploaded belo
 <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Valve stems pushed through a pizza box</em></p>
 </div>
 
-With the ports opened and the lumps installed, it's time to lap the valves. Combustion chamber efficiency and overall compression will be affected by how well the valves are lapped. The process is simply a way of grinding one surface against another to create a flush mating area.
+With the ports opened and the lumps installed, it's time to lap the valves. Combustion chamber efficiency and overall compression will be affected by how well the valves are lapped. 
+
+
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <div style="width: 90%; border-radius: 8px; overflow: hidden; position: relative; padding-bottom: 56.25%; height: 0; margin-left: auto !important; margin-right: auto !important;">

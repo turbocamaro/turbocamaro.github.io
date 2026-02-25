@@ -22,7 +22,8 @@ When purchasing metal piping you need to pay attention to the material, thicknes
 Another important note: what size is your current exhaust? It would be a shame to buy nice wide 3" piping for your performance parts and then feed it all into a stock 2-1/4" exhaust. Sure it'll work, but you might want to consider upgrading your exhaust to a full 2.5" or even 3" to keep the flow consistent. Increasing intake flow capacity will also increase exhaust capacity; consider "what goes in, must come out."
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
-<p style="text-align: center; width: 100%;"><strong>CORP 4" to 3" silicone reducer (hat to pipe) - $4</strong></p>
+<img src="/assets/img/posts/2.5 to 3 Straight Reducer Silicone Turbo Hose C.jpg" alt="CORP 4" to 3" silicone reducer (hat to pipe) - $4" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>CORP 4" to 3" silicone reducer (hat to pipe) - $4</em></p>
 </div>
 
 You can find an extensive selection of these kits on eBay. The best advice you can get is to find a reputable brand and look through their auctions as you'll probably see the same quality in all their parts. The kit purchased for Turbo Camaro was made by the same manufacturer as the turbocharger, [CXRacing](http://www.cxracing.com/){:target="_blank"}. 
