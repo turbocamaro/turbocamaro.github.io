@@ -63,12 +63,6 @@ With the ports opened and the lumps installed, it's time to lap the valves. Comb
 Since Turbo Camaro received a [performance camshaft](/posts/camshaft/){:target="_blank"}, new valve springs were also required. A set of [performance springs and retainers](http://www.12bolt.com/store/p12/Performance_Valve_spring%2F_retainer_kit.html){:target="_blank"} were picked up from 12bolt.com. The new springs handle up to .530 lift.
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
-<div style="width: 90%; border-radius: 8px; overflow: hidden; position: relative; padding-bottom: 56.25%; height: 0; margin-left: auto !important; margin-right: auto !important;">
-<iframe src="https://www.youtube.com/embed/8DKoLNMqb_k" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
-</div>
-</div>
-
-<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/20160413_202153.jpg" alt="Completed head" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
 <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Head ported, lumped and painted. Valve job complete.</em></p>
 </div>
