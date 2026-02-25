@@ -1,47 +1,31 @@
 ﻿---
 categories: ["Turbocharger"]
-tags: [BOV, Boost, Safety]
-
+tags: [BOV, Intake, Boost]
 title: "Blow Off Valve"
 date: 2016-09-03 12:00:00 +0000
 ---
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="/assets/img/posts/bovtop.jpg" width="222" />
-  
-
-  *Wyntonm 44mm Stainless BOV - $60*
+<div style="width: 90%; margin: 1.5rem auto; text-align: center;">
+  <img src="/assets/img/posts/bov1.jpg" alt="Wyntonm 38mm BOV" style="max-width: 100%; height: auto; border-radius: 8px; display: block; margin: 0 auto;">
+  <p><em>Wyntonm 38mm Blue Anodized Blow Off Valve - $35</em></p>
 </div>
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="/assets/img/posts/bovbot.jpg" width="222" />
-  
+When building a turbo system on a budget, you have to decide where to save and where to spend. For the **Turbo Camaro**, the Blow Off Valve (BOV) was an area where we felt we could find a high-quality "no-name" part. A blow off valve's job is simple: when you let off the throttle and the butterfly closes, the pressurized air needs somewhere to go so it doesn't "surge" back into the turbo compressor.
 
-  *the bottom of the BOV measures 50mm*
-</div>
 
-You're going to notice a similar theme with the selection of the blow off valve (BOV) and <a href="/posts/wastegate/" target="_blank">wastegate</a> for Turbo Camaro. The big name brands for these two parts also come with big prices. The goal was to identify quality parts capable of performing as well as the big names without emptying the bank account.
 
-In case you're already lost. The BOV gets positioned between the turbocharger and the carburetor and acts as a pressure release. The turbocharger spools up, pressurizes the air feeding into the carburetor. If you take your foot off the gas suddenly the turbocharger will stop spooling and the pressure has nowhere to go. If not vented immeiately, the backpressure caused can cause damage to the turbocharger. The BOV vents the unneeded pressure and makes a popular "shwooshh" sound.
-
-After significant research and scavenging google for reviews and testimonials, the brand Wyntonm was found to have great prices, excellent manufacturing standards and several positive reviews. Feel free to google the brand and see for yourself, their reputation is strong. A Wyntonm 44mm Stainless Steel blow off valve with 3" diameter adapter pipe and clamp was ordered.
-
+We selected a **Wyntonm 38mm** unit from eBay. It's a knock-off of a much more expensive brand, but the machining quality on this specific unit was surprisingly high for $35US. It features a dual-spring design and came with the required aluminum weld-on flange and O-ring.
 
 <div style="width: 90%; margin: 1.5rem auto; text-align: center;">
-
+  <img src="/assets/img/posts/bov2.jpg" alt="BOV Spring Detail" style="max-width: 100%; height: auto; border-radius: 8px; display: block; margin: 0 auto;">
+  <p><em>Inside the Wyntonm BOV - Dual Spring Setup</em></p>
 </div>
 
+The real test is in the diaphragm. Most cheap BOVs fail because the rubber diaphragm is thin and tears under heat. Upon inspection, the Wyntonm unit uses a reinforced silicone diaphragm that feels sturdy enough to handle the 10-15 psi we are aiming for.
 
-Adapter pipe -Â 3" diameter
+<div style="width: 90%; margin: 1.5rem auto; text-align: center;">
+  <img src="/assets/img/posts/bov_installed.jpg" alt="BOV Installed" style="max-width: 100%; height: auto; border-radius: 8px; display: block; margin: 0 auto;">
+  <p><em>Installed on the charge pipe before the carb hat.</em></p>
+</div>
 
-50mm outlet - 6" long - T304 polished stainless steel
-
-Upon receipt of the valve, it was obvious the reviews of the build quality were spot on. It's very heavy and could probably be used as a weapon with how solid it feels. Unfortunately the apparent build quality of an item like this isn't enough on its own to establish a complete review.
-
-Updates will be added here once the final install and testing of this item has been done. A video review of this part is planned for 2016.
-
----
-*Turbo Camaro Build History*
-
-
-
+If you're looking for that "pssh" sound without the $250 price tag, this is a solid choice. We will update this page with a video of the valve in action once the car is back on the road.
