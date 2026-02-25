@@ -6,7 +6,7 @@ date: 2016-09-03 12:00:00 +0000
 ---
 
 <div style="width: 90%; margin: 1.5rem auto; text-align: center;">
-  <img src="/assets/img/posts/CXRacing+T4+GT35+Turbo+Charger+Anti-Surge+500%252B+HP+0.68+AR+%252B+Oil+Fitting+Drain.jpg" alt="CX Racing Turbo" style="max-width: 100%; height: auto; border-radius: 8px;">
+  <img src="/assets/img/posts/CXRacing+T4+GT35+Turbo+Charger+Anti-Surge+500%252B+HP+0.68+AR+%252B+Oil+Fitting+Drain.jpg" alt="CX Racing Turbo" style="max-width: 100%; height: auto; border-radius: 8px; display: block; margin: 0 auto;">
   <p><em>CX Racing turbocharger (eBay photo)</em></p>
 </div>
 
@@ -21,13 +21,13 @@ The final name was **CXRacing**. They have the most positive reviews for a budge
 On a positive note, a lot of strong reviews were read with customers using CXRacing turbochargers in high-horsepower twin setups with no issues, and several had been using them for years. When reading reviews online you need to be objective, as it's considerably more likely for a mad customer to write a review than it is for a happy one.
 
 <div style="width: 90%; margin: 1.5rem auto; text-align: center;">
-  <img src="/assets/img/posts/20150727_181617.jpg" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 10px;">
-  <img src="/assets/img/posts/20150727_181623.jpg" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 10px;">
-  <img src="/assets/img/posts/20150727_181730.jpg" style="max-width: 100%; height: auto; border-radius: 8px;">
+  <img src="/assets/img/posts/20150727_181617.jpg" style="max-width: 100%; height: auto; border-radius: 8px; margin: 0 auto 10px auto; display: block;">
+  <img src="/assets/img/posts/20150727_181623.jpg" style="max-width: 100%; height: auto; border-radius: 8px; margin: 0 auto 10px auto; display: block;">
+  <img src="/assets/img/posts/20150727_181730.jpg" style="max-width: 100%; height: auto; border-radius: 8px; margin: 0 auto; display: block;">
 </div>
 
 <div style="width: 90%; margin: 1.5rem auto; text-align: center;">
-  <img src="/assets/img/posts/20150727_181822.jpg" alt="Fittings and Gaskets" style="max-width: 100%; height: auto; border-radius: 8px;">
+  <img src="/assets/img/posts/20150727_181822.jpg" alt="Fittings and Gaskets" style="max-width: 100%; height: auto; border-radius: 8px; display: block; margin: 0 auto;">
   <p><em>Fittings, Gaskets & Manual</em></p>
 </div>
 
