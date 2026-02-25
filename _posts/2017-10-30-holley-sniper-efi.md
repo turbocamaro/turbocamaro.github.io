@@ -7,10 +7,11 @@ date: 2017-10-30 12:00:00 +0000
 ---
 
 <div align="center">
-  <a href="/assets/img/posts/SniperEFI.png"  style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="900" data-original-width="1600" height="225" src="/assets/img/posts/SniperEFI.png" width="400" /></a>
-  <br/>
+  <a href="/assets/img/posts/SniperEFI.png"  style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="900" data-original-width="1600" height="225" src="/assets/img/posts/SniperEFI.png" width="400" /></a></div>
+
+
 The 1967 Camaro was born with a single barrel carburetor and inevitably rebuild with a <a href="/posts/carburetor/">Holley 600CFM Double Pumper with Mechanical Secondaries</a>. That carburetor actually worked pretty well, but not only was it difficult to keep in tune as a daily driver in different areas and rapidly changing weather conditions, it never really fit the build. Turbo Camaro has always been about custom upgrades and improvements over stock. While not saying a carburetor doesn't have it's place, it just isn't a modern choice for a car peeling away from stock.
-</div>
+
 
 Dozens of hours were spent researching available Electronic Fuel Injection (EFI) options. With most popular options starting at $999US you can get in the market easily but once you commit to a specific system or brand, you are stuck with it unless you intend to buy multiple systems. With FAST, Edelbrock, Holley and FiTech competing with each other, it opens the door for very similar products, making the choice that much more difficult. For a basic recount of the standings, FAST was early to the game but has since fallen short. Edelbrock also released a decent system but performance results were sub par. Holley had several high priced units with success but the lower priced Sniper unit was new and unproven. FiTech had one of the first budget priced quality units to perform well, but doesn't match the newer Holley Sniper features/specs. Most specifically the injector ratings, laptop software and AFR grid sizes. At the time of consideration, early reports indicated users had improved learning and performance with the Holley Sniper. One of the biggest considerations is the name brand. Normally we don't care much for brands, but when it's Holley vs. FiTech it's a big deal. Which brand has been in the game longer, and which one will still be there, supporting products in 10 years?
 
@@ -70,7 +71,7 @@ Here are the steps from the video recapped for easier reference:
 <ol>
 <li>Remove the distributor and confirm you are using a smiliar 4 pin module version. Ours was sourced off eBay 7 years ago. Here is a <a href="https://www.ebay.ca/itm/352082630332" target="_blank">similar distributor</a>, with the same part number from the same seller. 
   
-<a href="/assets/img/posts/GMHEITiming1.jpg_large.jpg"  style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="1600" data-original-width="1450" height="320" src="/assets/img/posts/GMHEITiming1.jpg_large.jpg" width="290" /></a>
+<a href="/assets/img/posts/GMHEITiming1.jpg_large.jpg" margin-bottom: 1em; margin-left: 1em;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="1600" data-original-width="1450" height="320" src="/assets/img/posts/GMHEITiming1.jpg_large.jpg" width="290" /></a>
 </li>
   
 <li>If so, lockout the mechanical advance. You can weld it, secure it with a screw or make/buy a distributor lockout plate</li>
