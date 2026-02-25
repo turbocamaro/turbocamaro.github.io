@@ -6,10 +6,10 @@ date: 2016-09-03 12:00:00 +0000
 ---
 
 <div style="width: 100% !important; display: flex !important; justify-content: center !important; margin: 1.5rem 0 !important;">
-  <div style="width: 90%; text-align: center;">
-    <img src="/assets/img/posts/CXRacing T4 GT35 Turbo Charger Anti-Surge 500+ HP 0.68 AR + Oil Fitting Drain.jpg" alt="CX Racing Turbo" style="max-width: 100%; height: auto; border-radius: 8px; display: block; margin: 0 auto;">
-    <p><em>CX Racing turbocharger (eBay photo)</em></p>
-  </div>
+<div style="width: 90%; text-align: center;">
+<img src="/assets/img/posts/CXRacing T4 GT35 Turbo Charger Anti-Surge 500+ HP 0.68 AR + Oil Fitting Drain.jpg" alt="CX Racing Turbo" style="max-width: 100%; height: auto; border-radius: 8px; display: block; margin: 0 auto;">
+<p><em>CX Racing turbocharger (eBay photo)</em></p>
+</div>
 </div>
 
 A lot of time and effort went into selecting a turbocharger. With branding like **Turbo Camaro**, it would be unfortunate to use a junk turbo and end up blowing it in the first 20 minutes. It was decided to avoid selecting a big name like Garrett or Turbonetics as they were too expensive and didn't fit in the big picture. Also, no scrap yard deals or cheap crap. It was decided to follow the same selection strategy as the [BOV](/posts/blow-off-valve/){:target="_blank"} and [wastegate](/posts/wastegate/){:target="_blank"}.
@@ -18,21 +18,19 @@ With so many horror stories and negative reviews of products purchased off eBay,
 
 The final name was **CXRacing**. They have the most positive reviews for a budget turbocharger brand, but they do have a few negative ones too. Since turbochargers are complex engine parts and require precise installation, it is expected to see some cases of negativity from the client. Most of the issues observed in negative reviews were related to condition upon receipt or issues caused by customers not inspecting their part prior to install. 
 
-
-
 On a positive note, a lot of strong reviews were read with customers using CXRacing turbochargers in high-horsepower twin setups with no issues, and several had been using them for years. When reading reviews online you need to be objective, as it's considerably more likely for a mad customer to write a review than it is for a happy one.
 
 <div style="width: 100% !important; display: flex !important; flex-direction: column !important; align-items: center !important; margin: 1.5rem 0 !important;">
-  <img src="/assets/img/posts/20150727_181617.jpg" style="max-width: 90%; height: auto; border-radius: 8px; margin-bottom: 10px;">
-  <img src="/assets/img/posts/20150727_181623.jpg" style="max-width: 90%; height: auto; border-radius: 8px; margin-bottom: 10px;">
-  <img src="/assets/img/posts/20150727_181730.jpg" style="max-width: 90%; height: auto; border-radius: 8px;">
+<img src="/assets/img/posts/20150727_181617.jpg" style="max-width: 90%; height: auto; border-radius: 8px; margin-bottom: 10px;">
+<img src="/assets/img/posts/20150727_181623.jpg" style="max-width: 90%; height: auto; border-radius: 8px; margin-bottom: 10px;">
+<img src="/assets/img/posts/20150727_181730.jpg" style="max-width: 90%; height: auto; border-radius: 8px;">
 </div>
 
 <div style="width: 100% !important; display: flex !important; justify-content: center !important; margin: 1.5rem 0 !important;">
-  <div style="width: 90%; text-align: center;">
-    <img src="/assets/img/posts/20150727_181822.jpg" alt="Fittings and Gaskets" style="max-width: 100%; height: auto; border-radius: 8px; display: block; margin: 0 auto;">
-    <p><em>Fittings, Gaskets & Manual</em></p>
-  </div>
+<div style="width: 90%; text-align: center;">
+<img src="/assets/img/posts/20150727_181822.jpg" alt="Fittings and Gaskets" style="max-width: 100%; height: auto; border-radius: 8px; display: block; margin: 0 auto;">
+<p><em>Fittings, Gaskets & Manual</em></p>
+</div>
 </div>
 
 After all that, a **CXRacing T4 GT35 0.68 AR** turbocharger kit was ordered off eBay for $280US. The turbochargers are designed and tested to handle up to 500HP, which is 100HP more than the top-end goal for this vehicle. The kit came with the required gaskets and oil/water fittings. The size and specifications of the turbo were exactly what the build needed to ensure a quick spool while maintaining decent cruise speeds.
