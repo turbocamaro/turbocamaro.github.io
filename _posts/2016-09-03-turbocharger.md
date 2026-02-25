@@ -6,7 +6,7 @@ date: 2016-09-03 12:00:00 +0000
 ---
 
 <div style="width: 90%; margin: 1.5rem auto !important; align-self: center !important; text-align: center;">
-  <img src="/assets/img/posts/CXRacing+T4+GT35+Turbo+Charger+Anti-Surge+500%252B+HP+0.68+AR+%252B+Oil+Fitting+Drain.jpg" alt="CX Racing Turbo" style="max-width: 100%; height: auto; border-radius: 8px; display: block; margin: 0 auto !important;">
+  <img src="/assets/img/posts/CXRacing T4 GT35 Turbo Charger Anti-Surge 500+ HP 0.68 AR + Oil Fitting Drain.jpg" alt="CX Racing Turbo" style="max-width: 100%; height: auto; border-radius: 8px; display: block; margin: 0 auto !important;">
   <p><em>CX Racing turbocharger (eBay photo)</em></p>
 </div>
 
