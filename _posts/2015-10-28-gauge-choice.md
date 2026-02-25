@@ -1,44 +1,32 @@
 ﻿---
 categories: ["Interior"]
 tags: [Gauges, Instrumentation]
-
-
 title: "Gauge Choice"
 date: 2015-10-28 12:00:00 +0000
 ---
 
-One of the best things about restoring, or building any vehicle is the choices you get to make. Some of them are very significant and others not so much. It's common for the important choices to cost the most money, such as picking a crate engine or rebuilding an old one. Every once in a while you have to make decisions that can literally effect the stability and longevity of the vehicle. Yes, we're at the point now. 
+One of the best things about restoring or building any vehicle is the choices you get to make. Some are significant, and others not so much. Every once in a while, you have to make decisions that can literally affect the stability and longevity of the vehicle. 
 
-Gauges are a critical component to a vehicle. Consider them to be the window to the inner workings of your ride. Gauges can tell you so much about your vehicle, probably more than you need to know. The hard part is picking the right ones. You have to consider brand, size, color, electric, mechanical, digital, analog and of course the actual function of the gauge. Obviously there's the common fuel gauges, speedometer, odometer and tachometer, but what about oil pressure, oil temperature, water temperature, vacuum, voltage, fuel pressure, exhaust gas temperature (EGT), boost and air/fuel ratio (AFR)? The trick is picking the ones you need to keep a good eye on your engine and it's inner workings. 
+Gauges are a critical component—consider them to be the window to the inner workings of your ride. The hard part is picking the right ones. You have to consider brand, size, color, electric vs. mechanical, and digital vs. analog. While you have the common fuel and speedo units, a turbo car needs to monitor boost, vacuum, and the most critical metric: Air/Fuel Ratio (AFR).
 
-Turbo Camaro is undergoing a transformation from a base model straight six to a turbocharged street demon. That's forced induction being fed by a <a href="/posts/carburetor/" target="_blank">Holley 4776 600cfm double pumper with mechanical secondaries</a>. For those who missed the point, it's carbureted, meaning no fuel injection or fancy learning computers to tune everything automatically. So, a turbo car needs a boost gauge, and a lot of boost gauges have a split meter, showing vacuum (- pressure) on the left and boost (+ pressure) on the right. That's two gauges in one, fantastic. 
+Turbo Camaro is undergoing a transformation to a turbocharged street demon. It’s carbureted, using a [Holley 4776 600cfm double pumper](/posts/carburetor/){:target="_blank"}, meaning no fancy computers to tune everything automatically. 
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/4gaugepod.JPG" width="320" />
-  
-
-  *Custom 4 gauge console pod for Turbo Camaro's gauges.*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/4gaugepod.JPG" alt="Custom 4 gauge console pod" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Custom 4 gauge console pod for Turbo Camaro's gauges.</em></p>
 </div>
 
-Tuning a carburetor for a naturally aspirated engine can be tricky enough, but adding a turbo exponentially increases the difficulty. The operator needs the real time AFR. A lot of modern cars have a stock AFR gauge but they're usually fed by a narrowband sensor, not the more desirable wideband. If your gauge only tells you basic info, like rich or lean, then you have a narrowband. A wideband will provide you with the exact AFR on a scale, possibly to one or two decimal places. That very specific detail is a necessity for tuning a turbo car yourself. Wideband AFR gauges can be had for less than $150 if you search around. 
+Tuning a carburetor for a naturally aspirated engine is tricky; adding a turbo exponentially increases the difficulty. You need real-time AFR. Most modern cars use a narrowband sensor (basic rich/lean info), but for tuning, you need a **Wideband**. A wideband provides the exact ratio on a scale, which is a necessity for tuning a turbo car yourself. 
 
-The Vacuum/Boost and AFR gauges are all you really need for tuning, but what about the overall health of your ride? If oil pressure drops suddenly you might notice it on the gauge and prevent catastrophic engine failure. If fuel pressure drops, a gauge could help diagnose a problem with your fuel pump or some kind of obstruction. Perhaps your alternator is roasting and you catch the charge voltage sinking on the voltmeter. Seeing a rise in water temperature could prevent a major meltdown. These are very real scenarios but you need to have the gauges to see them coming. 
+The Vacuum/Boost and AFR gauges are for tuning, but you also need to monitor health. Sudden oil pressure drops or charging system failures can be caught before they result in a catastrophic engine failure or a car that won't start.
 
-Turbo Camaro will keep its stock odometer, speedometer and fuel gauge but with the use of the <a href="/posts/console-pod/" target="_blank">custom four gauge console pod</a>, a 52mm AEM Wideband AFR, VDO Oil Pressure, VDO Vacuum/Boost and VDO Voltmeter gauge will be installed. A larger tachometer might be installed on the column at a later time.Â 
+Turbo Camaro will keep its stock odometer, speedometer, and fuel gauge. However, with the [custom four-gauge console pod](/posts/console-pod/){:target="_blank"}, we are installing a 52mm AEM Wideband AFR, VDO Oil Pressure, VDO Vacuum/Boost, and a VDO Voltmeter.
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  src="/assets/img/posts/gauges.jpg" />
-  
-
-  *Turbo Camaro's gauge selection - Oil Pressure, Vac/Boost, AFR and Voltmeter.*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/gauges.jpg" alt="Gauge selection" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Turbo Camaro's gauge selection - Oil Pressure, Vac/Boost, AFR and Voltmeter.</em></p>
 </div>
 
-Common questions include, why not a water temp gauge? Because the chances of noticing the high temperature before the system blows is fairly low. Oil pressure is more beneficial as you'll probably feel the pressure drop and then be able to confirm it on the gauge. Why do you care about volts so much? If the alternator isn't charging enough the car might not start on the next ride. What good are all the performance parts if the car won't start. Wouldn't you want a EGT gauge? It would be a nice one to add, but with the AFR in check, the exhaust gasses will be what they are and monitoring them has no real benefit. In this case, a EGT gauge would be a secondary to the AFR gauge. 
+Why this specific set? Oil pressure is vital because you can feel a drop and immediately confirm it. Volts matter because if the car won't start for the next ride, the performance parts are useless. An EGT gauge would be nice, but with the AFR in check, monitoring exhaust temp is a secondary benefit.
 
-Lastly, once you've selected the gauges, you have to pick a brand, color, and face style. Cheating out on gauges can work out well but consider what could happen if the gauge was in accurate or failed prematurely. Buying two cheap gauges is often the same price as buying one quality gauge. VDO is a great bang for your buck gauge. The AEM was the closest looking match the set of VDO's. If you pick a gauge like Prosport or Glowshift make sure you check recent reviews as you'll often be enticed by color choices and low prices but build quality may suffer. 
-
----
-*Turbo Camaro Build History*
-
-
-
+Cheap gauges can be enticing, but an inaccurate reading is worse than no reading at all. VDO is a great "bang for your buck" brand, and the AEM Wideband was the closest visual match to keep the set looking uniform. 

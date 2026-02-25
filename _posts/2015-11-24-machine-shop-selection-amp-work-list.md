@@ -1,64 +1,42 @@
 ﻿---
 categories: ["Engine"]
 tags: [Machining, Block, Engine]
-
-
 title: "Machine Shop Selection & Work List"
 date: 2015-11-24 12:00:00 +0000
 ---
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/thompson+machine.gif" width="400" />
-  
-
-  *Located in Nanaimo, BC - Canada*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/thompson machine.gif" alt="Thompson Machine Ltd" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Located in Nanaimo, BC - Canada</em></p>
 </div>
 
-Once it was decided to rebuild Turbo Camaro's Inline 6 a machine shop needed to be selected. Several calls were made and prices were quoted but eventually Thompson Machine Ltd. in Nanaimo, British Columbia was selected. The staff were friendly, knowledgeable and seemed willing to take as long as needed to explain and discuss the build. It also worked out well as their total cost quote was the cheapest. On a side note, one of the shops actually said "why would you want to rebuild a straight 6?!" in a heavy tone. It was quite clear their customer service was shit and they didn't want the job. Perhaps this seems picky, but if you're going to spend $1200US somewhere, you should make sure the workmanship is solid and the people deserve your business.
+Once it was decided to rebuild Turbo Camaro's Inline 6, a machine shop needed to be selected. Several calls were made, but eventually **Thompson Machine Ltd.** in Nanaimo, British Columbia was selected. The staff were friendly, knowledgeable, and willing to discuss the build. One other shop actually asked, "Why would you want to rebuild a straight 6?!" in a heavy tone—it was clear they didn't want the job. If you're going to spend $1200US, make sure the workmanship is solid and the people deserve your business.
 
-The list of services completed by Thompson Machine were as follows:
+The list of services completed by Thompson Machine included:
 
-<ul>
-<li>Clean & Qualify the block - no cracks found.</li>
-<li>Ultra-sound check of cylinders for wall thickness - thinnest casting was cylinder 6 at 0.134" which is well within spec for these blocks.</li>
-<li>Remove old pistons from connecting rods.</li>
-<li>Upgrade to ARP connecting rod bolts.</li>
-<li>Polish Crankshaft.</li>
-<li>Drill/tap Crankshaft nose for retainer bolt and balancer tool.</li>
-<li>Supply new Crankshaft bearings.</li>
-<li>Supply and install new Camshaft bearings.</li>
-<li>Heat press on new Compcams steel Camshaft gear.</li>
-<li>Deck the block head surface.</li>
-<li>Bore and hone cylinders for 0.070" over bore pistons.</li>
-<li>Balance rotating assembly.</li>
-</ul>
+* **Clean & Qualify:** No cracks found in the block.
+* **Ultrasound Check:** Cylinders checked for wall thickness; cylinder 6 was the thinnest at 0.134", well within spec.
+* **Rod Work:** Removed old pistons and upgraded to ARP connecting rod bolts.
+* **Crankshaft:** Polished and drilled/tapped the nose for a retainer bolt and balancer tool.
+* **Bearings:** Supplied new Crankshaft and Camshaft bearings.
+* **Timing Gear:** Heat-pressed on a new CompCams steel gear.
+* **Machining:** Decked the block head surface and bored/honed cylinders for 0.070" over-bore pistons.
+* **Balancing:** Full rotating assembly balanced.
 
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/EngineUltrasound.png" width="248" />
-  
-
-  *Ultrasound results (click to enlarge)*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/EngineUltrasound.png" alt="Ultrasound results" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Ultrasound results</em></p>
 </div>
 
-Some of these services were requested due to the new pistons, bolt changes and intended power increase. A few of them could be done at home, but the time and effort required is much higher than if the shop does it with the proper tool, in less time, for a minimal fee.
+Some of these services were mandatory due to the custom forged pistons and intended power increase. While you can technically heat-press a gear at home using a freezer and an oven, having the shop do it properly while they have the assembly ensures it's done right without the risk of a kitchen-table disaster.
 
-Initially, the connecting rod bolts were going to stay stock, but with the investment in the internals those bolts seemed like the weakest link. The stock cast Crankshaft is known to handle up to 600HP, the new forged pistons should also handle well over 600HP and the forged connecting rods are fairly robust even though they're stock. With the lighter pistons the rods should be fine to 500-600HP too. But those bolts... you just never know. With ARP bolts installed the rotating assembly is bulletproof, at least for a pro street car.
+Initially, the rod bolts were going to stay stock, but with the investment in the internals, they were the weakest link. The stock cast Crankshaft and forged rods are robust, but with custom pistons and boost, ARP bolts make the bottom end "bulletproof" for a pro street application.
 
-The stock Camshaft gear is a fiber material and is a weak spot in the rotating assembly. Fiber gears work fine in a low power stock inline 6, but shouldn't be used in performance applications. A CompCams steel timing gear set was purchased to replace the existing gears. The shop will heat-press on the new Cam & Crankshaft gear but this is a process you could do at home by putting them in a freezer overnight and then heating the gear in the oven for a few minutes. The microscopically slimmer Camshaft snout will easily accept the microscopically enlarged gear. As it was mentioned, this process is easy but it just makes sense to have the shop do it properly in just a few minutes.
-
-<div align="center">
-  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="/assets/img/posts/20160206_153838.jpg" width="320" />
-  
-
-  *Compcams inline 6 steel timing gear set*
+<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
+<img src="/assets/img/posts/20160206_153838.jpg" alt="CompCams timing gears" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>CompCams inline 6 steel timing gear set</em></p>
 </div>
 
-Balacing the rotating assembly is not a mandatory rebuild service. If the engine was being rebuilt with original or NOS parts, the weight and size of each part would be almost exactly the same (within a few grams) and the Crankshafts counterweights would do just fine keeping the parts balanced. Since Turbo Camaro has custom forged pistons, a more aggressive Camshaft, steel timing gear and ARP rod bolts, the weight is significantly different and not having it balanced could result in heavy vibration when running. This vibration can cause excessive wear and premature part failure. It would be the type of vibration you could feel throughout the whole car. Even though this service is worth $100-200, it is well worth it in the end.
+Balancing the rotating assembly is not a mandatory rebuild service for stock engines, but for Turbo Camaro it was essential. With custom forged pistons, an aggressive cam, and steel gears, the weight distribution is significantly different from stock. Skipping the balance would result in heavy vibrations that cause premature part failure. Even at $100–$200, it’s cheap insurance for the longevity of the motor.
 
-The best advice you can get is to not rush when choosing your machine shop. You can research rebuild services and engine builds all you want but in the end, a good machine shop will give you all the information you need to get your project done the way you want it. If they shop doesn't seem helpful or knowledgeable about your specific goals, you might want to look elsewhere. Just keep in mind, a friendly and genuinely interested shop can be hard to come by. Lastly, if you've never worked in a closed office/shop before, the guys there love fresh coffee and donuts. It's these sort of gestures that get people invested in your project.
-
----
-*Turbo Camaro Build History*
-
-
-
+Don't rush when choosing a shop. A friendly, genuinely interested machinist is hard to find, but worth the effort. And a little tip: a box of fresh donuts for the guys in the back goes a long way toward getting them invested in your project.
