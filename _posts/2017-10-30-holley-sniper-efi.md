@@ -1,4 +1,4 @@
----
+﻿---
 categories: ["Fuel & Tuning"]
 tags: [EFI, Holley Sniper, Tuning]
 title: "Holley Sniper EFI"
@@ -19,7 +19,9 @@ We sourced our Sniper Master Kit from [EFISystemPro.com](http://www.efisystempro
   <iframe src="https://www.youtube.com/embed/9nSIgjn9NZQ?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
 </div>
 
-With the Sniper unboxed, it was time to do some comparisons against the trusty Holley 600CFM. The inline 6 has limited space on the passenger side of the intake as it sits almost up against the valve cover. You can see in the image below that, unfortunately, the Sniper system puts the linkage out an additional ½" or so.
+
+
+With the Sniper unboxed, it was time to do some comparisons against the trusty Holley 600CFM. The inline 6 has limited space on the passenger side of the intake as it sits almost up against the valve cover. You can see in the image below that, unfortunately, the Sniper system puts the linkage out an additional Â½" or so.
 
 ![Sniper vs Carb Top View](/assets/img/posts/SniperCarbTop.jpg){: .no-lightbox style="display: block; margin: 0 auto; max-width: 100%; border-radius: 8px;"}
 
@@ -32,6 +34,8 @@ A solid weekend later, the Holley Sniper EFI system and Master Kit was installed
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px;">
   <iframe src="https://www.youtube.com/embed/cRLbxH4TMik?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
 </div>
+
+
 
 With the Holley Sniper EFI running smooth, we really want to set it up to control timing but not all options are equal in desirability and some simply aren't compatible with our Inline 6.
 
@@ -49,6 +53,8 @@ For a complete video tutorial covering all aspects of electronic timing control 
   <iframe src="https://www.youtube.com/embed/L9xRJKmaPwA?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
 </div>
 
+
+
 ### Installation Steps Recap:
 
 1. Remove the distributor and confirm you are using a smiliar 4 pin module version. Ours was sourced off eBay 7 years ago. Here is a [similar distributor](https://www.ebay.ca/itm/352082630332){:target="_blank"}.
@@ -57,13 +63,13 @@ For a complete video tutorial covering all aspects of electronic timing control 
 
 2. If so, **lockout the mechanical advance**. You can weld it, secure it with a screw or make/buy a distributor lockout plate.
 3. Secure the vacuum advance rod or reluctor adjustment tab. For simplicity we used a [Speedway HEI Manual adjustment knob](https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.speedwaymotors.com%2FHEI-External-Timing-Adjustment-Knob%2C1689.html&event=video_description&v=L9xRJKmaPwA&redir_token=O8-e9_Ps2GkK9TzQxZ1dUAYJlBZ8MTUxNzc2Nzc5NkAxNTE3NjgxMzk2){:target="_blank"}, which allowed for easy rotor phasing later on.
-4. Set your engine timing to your desired reference angle, 10° higher than the maximum timing you'd want your motor to see. If you want 36° at wide open throttle, make your reference angle between 46-60° BTDC on the compression stroke. **For the video and these instructions, your timing is set to 46°**.
+4. Set your engine timing to your desired reference angle, 10Â° higher than the maximum timing you'd want your motor to see. If you want 36Â° at wide open throttle, make your reference angle between 46-60Â° BTDC on the compression stroke. **For the video and these instructions, your timing is set to 46Â°**.
 5. Fully seat your distributor with the housing in the desired position and your rotor pointed toward the #1 Spark plug terminal on your distributor cap.
 6. Mark the edge of your distributor housing with the location of the brass contact of your #1 Spark Plug terminal.
 7. Turn the distributor housing to line up the closest reluctor magnet with the pickup.
 8. Secure the distributor.
-9. Use the vacuum advance knob or rod to adjust the reluctor to ensure the rotor is pointing near the most counter-clockwise point that you marked on the housing. This will ensure when your engine drops from **46°** to 36° it will be partially in front of the brass terminal.
-10. Once you're happy with the phasing, check it by moving to your engine timing to it's mid range. If you crank at 15° and go wide open at 36° then move your engine to 20°. At 20° your rotor should be close to perfectly centered in front of the brass terminal of your #1 spark plug.
+9. Use the vacuum advance knob or rod to adjust the reluctor to ensure the rotor is pointing near the most counter-clockwise point that you marked on the housing. This will ensure when your engine drops from **46Â°** to 36Â° it will be partially in front of the brass terminal.
+10. Once you're happy with the phasing, check it by moving to your engine timing to it's mid range. If you crank at 15Â° and go wide open at 36Â° then move your engine to 20Â°. At 20Â° your rotor should be close to perfectly centered in front of the brass terminal of your #1 spark plug.
 11. Hookup your magnetic pickup wires to the green/purple crank trigger wires of your Sniper EFI System. We used this [MSD HEI Module Bypass Cable](https://www.speedwaymotors.com/MSD-8861-GM-HEI-Module-Bypass-Cable,64076.html){:target="_blank"} wich allowed us to use the connector on the Sniper harness and plug right into the magnetic pickup connector.
 12. If you're using the Holley Coil Driver, hookup its grey wire to the Tach terminal on the distributor, or to where the module plugged in on terminal "C".
 13. The Holley Coil Driver requires a ground connection, white wire to the Sniper main harness and a pink accessory 12v power connection. We spliced the pink wire into the pink wire supplied to the main harness of the Sniper EFI system and it worked perfectly.
@@ -72,12 +78,12 @@ For a complete video tutorial covering all aspects of electronic timing control 
     ![Reluctor Lineup](/assets/img/posts/ReluctorLineup.jpg_large.jpg){: .no-lightbox style="display: block; margin: 10px auto; max-width: 100%; border-radius: 8px;"}
 
 15. Open your ECU config in the Holley Sniper EFI software (via CAN/USB dongle or manually via SD Card).
-16. Under Engine Parameters, Set your Ignition Type to "Magnetic", Reference Angle to "**46°**", Minimum Signal Voltage to "0.65" and Filtering to "High". Take the opportunity to ensure the Base Timing Table is at least in the right ballpark for your engine. Save the config.
+16. Under Engine Parameters, Set your Ignition Type to "Magnetic", Reference Angle to "**46Â°**", Minimum Signal Voltage to "0.65" and Filtering to "High". Take the opportunity to ensure the Base Timing Table is at least in the right ballpark for your engine. Save the config.
 17. Upload the new/saved config file to your Sniper ECU.
-18. Set Static Timing Check to 15° and turn the key. With a timing light your engine should crank near 15°. If it cranks within a few degrees, make the small adjustment to your distributor housing to set it at 15°. Try cranking again to ensure it is now locked at 15° during the static timing check.
+18. Set Static Timing Check to 15Â° and turn the key. With a timing light your engine should crank near 15Â°. If it cranks within a few degrees, make the small adjustment to your distributor housing to set it at 15Â°. Try cranking again to ensure it is now locked at 15Â° during the static timing check.
 19. Re-install the fuel relay or activate your fuel system.
-20. Set the Static Timing Check to 15° again, and start the engine. With the engine running, ensure it sits at 15°. Again, if it's very close but could be better, make the small couple degree adjustment.
-21. Increase the engine RPM to verify the static timing holds. It won't, so in the Ignition Settings (handheld), try increasing the Inductive Delay to "0.100" and power cycle the engine. Re-enable the Static Timing check of 15° and increase the RPM again. Our vehicle's timing moved to approximately 16° at 3500RPM, which is an acceptable amount of movement. You may be able to fine tune the Inductive Delay to get it even better.
+20. Set the Static Timing Check to 15Â° again, and start the engine. With the engine running, ensure it sits at 15Â°. Again, if it's very close but could be better, make the small couple degree adjustment.
+21. Increase the engine RPM to verify the static timing holds. It won't, so in the Ignition Settings (handheld), try increasing the Inductive Delay to "0.100" and power cycle the engine. Re-enable the Static Timing check of 15Â° and increase the RPM again. Our vehicle's timing moved to approximately 16Â° at 3500RPM, which is an acceptable amount of movement. You may be able to fine tune the Inductive Delay to get it even better.
 22. Clear the static timing and take it for a drive. If you've been rapidly cranking and starting/stopping the engine, you may want to give it a good run to charge up the battery.
 
 Obviously these instructions, and the video couldn't cover every little aspect of this procedure but being confident in the installation, we'd be happy to help however we can. **Turbo Camaro** is running better than ever and I'm happy to say we can probably make it even better. We still have to tune the boost and fuel tables for maximum performance...
@@ -86,10 +92,15 @@ Obviously these instructions, and the video couldn't cover every little aspect o
   <iframe src="https://www.youtube.com/embed/ou_0ax39b1M?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
 </div>
 
+
+
 And now that we're actually setup properly to run boost on our Sniper, we can really begin to drive it and let the system learn the engine. Just to throw another twist on things, I really wanted to install a **progressive link** on the Sniper. I was a big fan of the *Mechanical Secondaries* feel of our old Holley 600, so a new linkage for the Sniper would give use the best of both fuel systems. For just a few bucks, the car seems to be more efficient and has a much smoother pedal feel. Take a look below.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px;">
   <iframe src="https://www.youtube.com/embed/YFDibprdfW4?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
 </div>
 
+
+
 Interested in checking out the Turbo Camaro Sniper EFI configuration File? [Download it here](http://www.mediafire.com/file/owck90pd0nzr1wg/TC-JUL2018-5.sniper/file){:target="_blank"}
+

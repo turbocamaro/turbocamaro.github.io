@@ -8,9 +8,10 @@ date: 2016-01-29 12:00:00 +0000
 ---
 
 <div align="center">
-  <a href="/assets/img/posts/20160128_090835.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="298" src="/assets/img/posts/20160128_090835.jpg" width="400" /></a>
-  <br/>
-  <em>Custom fit 67' Camaro console 4 gauge pod</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="298" src="/assets/img/posts/20160128_090835.jpg" width="400" />
+  
+
+  *Custom fit 67' Camaro console 4 gauge pod*
 </div>
 
 Gauge technology sure has improved over the years. Vehicle manufactures have come up with clever ways of mounting gauges these days too. Not that there's anything wrong with simple dash clusters or aftermarket pods, but theirs something to be said about smooth built in gauges. 
@@ -28,13 +29,15 @@ Turbo Camaro needed something new but not a far stretch from what the factory of
 
 
 <div align="center">
-  <a href="/assets/img/posts/20160502_232423.png"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20160502_232423.png" width="640" /></a>
-  <br/>
-  <em>Custom 4 gauge pod with AFR, Voltage, Oil Pressure and Vacuum/Boost Gauges installed</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20160502_232423.png" width="640" />
+  
+
+  *Custom 4 gauge pod with AFR, Voltage, Oil Pressure and Vacuum/Boost Gauges installed*
 </div>
 
 Further updates will be posted here once the console is reinstalled and the gauges are functioning.
 
-<b>---
-*Turbo Camaro Build History*</b>
+**---
+*Turbo Camaro Build History***
+
 

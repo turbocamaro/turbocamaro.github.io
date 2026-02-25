@@ -16,7 +16,8 @@ Turbo Camaro received <a href="/posts/upholstery/" target="_blank">upholstery wo
 
 
 
-<b>---
-*Turbo Camaro Build History*</b>
+**---
+*Turbo Camaro Build History***
+
 
 

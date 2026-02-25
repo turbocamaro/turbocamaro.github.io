@@ -1,4 +1,4 @@
----
+﻿---
 categories: ["Interior"]
 tags: [Security, Electrical, Locks]
 title: "Alarm System & Power Locks"
@@ -31,4 +31,7 @@ Once you have the door actuators in and wires through the looms, you can get you
   <iframe src="https://www.youtube.com/embed/rIO5WpIBdQA?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
 </div>
 
+
+
 Overall the parts used for the Power Lock Upgrade and Alarm System are fantastic and the install went smoothly. The keyless entry feature is worth it whether you enable the alarm or not.
+

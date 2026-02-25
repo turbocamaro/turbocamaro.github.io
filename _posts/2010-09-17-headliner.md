@@ -7,15 +7,17 @@ date: 2010-09-17 12:00:00 +0000
 ---
 
 <div align="center">
-  <a href="/assets/img/posts/headliner.JPG"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/headliner.JPG" width="320" /></a>
-  <br/>
-  <em>Original Marina Blue headliner from a 67' Camaro</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/headliner.JPG" width="320" />
+  
+
+  *Original Marina Blue headliner from a 67' Camaro*
 </div>
 
 <div align="center">
-  <a href="/assets/img/posts/DSC05704.JPG"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05704.JPG" width="320" /></a>
-  <br/>
-  <em>Headliner spray dyed black with SEM Vinyl Spray</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05704.JPG" width="320" />
+  
+
+  *Headliner spray dyed black with SEM Vinyl Spray*
 </div>
 
 Originally the goal of Turbo Camaro was to simply build a daily driver that looked decent using most, if not all the original parts. This mentality brought on a series of repairs and "fixes" that have since needed more attention. 
@@ -25,15 +27,17 @@ One of those "fixes" was the headliner. The headliner is a large sheet of vinyl 
 The original headliner was marina blue and saggy. It had a small tear near the windshield too. The plan was to remove the headliner, spray dye it with black SEM vinyl coat and reinstall it. Unfortunately that plan was foiled almost immediately. Upon removal of the liner, it was apparent the cloth loops had been disintegrating for years and wouldn't be reusable. Simply looking at them the wrong way caused them to rip. It was obvious the existing headliner would need extensive repairs, or a new one would need to be ordered and Turbo Camaro would be liner-less for 6-8 weeks. 
 
 <div align="center">
-  <a href="/assets/img/posts/DSC05722.JPG"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05722.JPG" width="320" /></a>
-  <br/>
-  <em>The headliner fabric loops were toast</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05722.JPG" width="320" />
+  
+
+  *The headliner fabric loops were toast*
 </div>
 
 <div align="center">
-  <a href="/assets/img/posts/DSC05708.JPG"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05708.JPG" width="320" /></a>
-  <br/>
-  <em>Headliner removed - Note the roof rails</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05708.JPG" width="320" />
+  
+
+  *Headliner removed - Note the roof rails*
 </div>
 
 How hard could repairing a vinyl rip and some cloth loops be? Let's cut to the chase, a new liner in the color of your choice is worth $60, if you spend more than an hour or two at the most on it, it's not worth it. However, let's focus on what actually happened. 
@@ -44,4 +48,5 @@ Which is why Turbo Camaro already has a brand new headliner, still in the box, w
 
 ---
 *Turbo Camaro Build History*
+
 

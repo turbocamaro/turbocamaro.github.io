@@ -1,4 +1,4 @@
----
+﻿---
 categories: ["Interior"]
 tags: [Audio, Stereo]
 title: "RetroSound Custom Stereo"
@@ -19,11 +19,15 @@ Further exploration revealed a stereo manufacturer, **RetroSound**. They have de
   <iframe src="https://www.youtube.com/embed/l239DOgz-20?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
 </div>
 
+
+
 Despite the almost overwhelming number of pieces in the box, the install was completed in a few hours and the results were fantastic...
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px;">
   <iframe src="https://www.youtube.com/embed/iVHbTbbIQjQ?feature=player_embedded" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
 </div>
+
+
 
 Several requests were made to make a concise review of the stereo. Many reviews already exist on YouTube but none to date of this specific model installed in a 67' Camaro. Take a look at the review below:
 
@@ -31,4 +35,7 @@ Several requests were made to make a concise review of the stereo. Many reviews 
   <iframe src="https://www.youtube.com/embed/s3R1rF65wV4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
 </div>
 
+
+
 If you're looking for a classic stereo but don't need an original, this is a great option. If you have any questions about it or need help with the install, send us an email or message on any of the social media outlets.
+

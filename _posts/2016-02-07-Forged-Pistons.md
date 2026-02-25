@@ -7,15 +7,17 @@ date: 2016-02-07 12:00:00 +0000
 ---
 
 <div align="center">
-  <a href="/assets/img/posts/20151118_102331.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/20151118_102331.jpg" width="180" /></a>
-  <br/>
-  <em>Chevy 250 block and pistons</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/20151118_102331.jpg" width="180" />
+  
+
+  *Chevy 250 block and pistons*
 </div>
 
 <div align="center">
-  <a href="/assets/img/posts/20151119_105253.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="223" src="/assets/img/posts/20151119_105253.jpg" width="400" /></a>
-  <br/>
-  <em>Just above dead center observe "60" on the piston face</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="223" src="/assets/img/posts/20151119_105253.jpg" width="400" />
+  
+
+  *Just above dead center observe "60" on the piston face*
 </div>
 
 Rebuilding a motor is no easy task. A lot of components need to be stripped, cleaned and put back together with very strict tolerences. The most important part of the engine rebuild is the pistons. That title is earned due to the replacement cost and need for precision. The crank and camshaft are close seconds but the cost to replace those parts just isn't near that of custom pistons.
@@ -23,15 +25,17 @@ Rebuilding a motor is no easy task. A lot of components need to be stripped, cle
 Speaking of costs, a turbocharged motor more or less requires forged pistons (cha-ching). Since it's 2016 and these Inline 6's maintain a solid reputation, custom forged pistons exist, but at a premium. A set of custom forged pistons from Ross Racing cost approximately $700US. That's not saying they are the most expensive pistons ever made, but going into an under powered, and mostly undesired Inline 6 makes them seem pricey. You might be able to find similar pistons cheaper through some sort of Groupon or perhaps a different manufacturer, but Ross has been around a long time and makes a solid product.
 
 <div align="center">
-  <a href="/assets/img/posts/20150905_155319.jpg"  style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150905_155319.jpg" width="320" /></a>
-  <br/>
-  <em>Ross pistons well packaged with all components</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150905_155319.jpg" width="320" />
+  
+
+  *Ross pistons well packaged with all components*
 </div>
 
 <div align="center">
-  <a href="/assets/img/posts/pistons.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/pistons.jpg" width="320" /></a>
-  <br/>
-  <em>Ross Racing forged piston 0.070" over bore with 12CC dish</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/pistons.jpg" width="320" />
+  
+
+  *Ross Racing forged piston 0.070" over bore with 12CC dish*
 </div>
 
 Before we get too far ahead, lets back up and consider the scenario a little further. Turbo Camaro's pistons read "60" on the face. So the block went down to the local machine shop. The shop could have said you need at least 0.065" over sized pistons or, your cylinder walls are too thin so you'll need sleeves. Sleeves are basically just tubes inserted into your cylinder to increase the wall thickness, but at $60US each they are a serious investment. If the walls are too thin and you can't justify the sleeves, you're off to look for a better block, or a different motor all together. In this case, the machine shop said the cylinder walls were plenty thick but would require 0.070" over bore pistons. The advantage to 0.070" over bore pistons is if the block ever goes, the pistons will probably work in any salvageable 250 block as it's not likely many of them went more than .060" over bore. Yep, you look for any positives when you spend big money on engine parts.
@@ -52,4 +56,5 @@ If you have any questions or comments please feel free to contact us via one of 
 
 ---
 *Turbo Camaro Build History*
+
 

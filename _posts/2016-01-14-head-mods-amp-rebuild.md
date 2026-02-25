@@ -8,15 +8,17 @@ date: 2016-01-14 12:00:00 +0000
 ---
 
 <div align="center">
-  <a href="/assets/img/posts/20151118_100248.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="177" src="/assets/img/posts/20151118_100248.jpg" width="320" /></a>
-  <br/>
-  <em>Turbo Camaro's head and valve train pre-rebuild</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="177" src="/assets/img/posts/20151118_100248.jpg" width="320" />
+  
+
+  *Turbo Camaro's head and valve train pre-rebuild*
 </div>
 
 <div align="center">
-  <a href="/assets/img/posts/20160206_154818.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="/assets/img/posts/20160206_154818.jpg" width="320" /></a>
-  <br/>
-  <em>Semi-dismantled Chevy 250 head</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="/assets/img/posts/20160206_154818.jpg" width="320" />
+  
+
+  *Semi-dismantled Chevy 250 head*
 </div>
 
 As mentioned all over the internet, if you had to focus you attention on one part of the Chevy inline 6 to gain power, it would be the cylinder head. The head was cast for stability and economy and requires significant modification and upgrades to get decent performance gains. The following is a list of things you can do to improve the Chevy 250 head for power:
@@ -27,9 +29,10 @@ As mentioned all over the internet, if you had to focus you attention on one par
 <li>Complete a full intake and exhaust port job
 
 <div align="center">
-  <a href="/assets/img/posts/HeadWork.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="120" src="/assets/img/posts/HeadWork.jpg" width="200" /></a>
-  <br/>
-  <em>Hi-Flow lump kit for Chevy inline 6's</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="120" src="/assets/img/posts/HeadWork.jpg" width="200" />
+  
+
+  *Hi-Flow lump kit for Chevy inline 6's*
 </div>
 
 </li>
@@ -48,15 +51,17 @@ When the lump kit was installed in Turbo Camaro, it was filmed and uploaded belo
 
 
 <div align="center">
-  <a href="/assets/img/posts/20160206_154742.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="/assets/img/posts/20160206_154742.jpg" width="200" /></a>
-  <br/>
-  <em>Valves are waiting to be cleaned and lapped</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="/assets/img/posts/20160206_154742.jpg" width="200" />
+  
+
+  *Valves are waiting to be cleaned and lapped*
 </div>
 
 <div align="center">
-  <a href="/assets/img/posts/20160206_154716.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="/assets/img/posts/20160206_154716.jpg" width="200" /></a>
-  <br/>
-  <em>Valve stems pushed through a pizza box</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="/assets/img/posts/20160206_154716.jpg" width="200" />
+  
+
+  *Valve stems pushed through a pizza box*
 </div>
 
 With the ports opened and the lumps installed, it's time to lap the original valves. Even though extra power can be gained through an increase in valve size, it wasn't in the budget for the initial rebuild. New valves or not, the process of cleaning the head and valves, and lapping them is extremely important. Combustion chamber efficiency and overall compression will be effected by how well the valves are lapped. The process of lapping the valves is simply a way of grinding one surface against another in order to create a flush mating area.
@@ -84,17 +89,19 @@ When you replace or reinstall springs you need to consider some key specs. The a
 
 
 <div align="center">
-  <a href="/assets/img/posts/20160413_202153.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="295" src="/assets/img/posts/20160413_202153.jpg" width="400" /></a>
-  <br/>
-  <em>Head ported, lumped and painted. Valve job complete and springs/rockers installed with valve cover.</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="295" src="/assets/img/posts/20160413_202153.jpg" width="400" />
+  
+
+  *Head ported, lumped and painted. Valve job complete and springs/rockers installed with valve cover.*
 </div>
 
 In the Summer of 2017, the cylinder head was pulled and properly machined. While it was off, it was ported and larger 1.84' intake and 1.6" valves, seats and inserts were installed. A noticeable power increase was obtained from this as the valves allow more airflow and flow in the inline engines is always in demand. The valve guides were also cut to allow for positive valve seals to be used instead of the stock o-rings. The performance springs and original rockers/studs were used for the upgrade.
 
 <div align="center">
-  <a href="/assets/img/posts/20170410_150136.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="900" data-original-width="1600" height="225" src="/assets/img/posts/20170410_150136.jpg" width="400" /></a>
-  <br/>
-  <em>Freshly installed over-sized valves</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="900" data-original-width="1600" height="225" src="/assets/img/posts/20170410_150136.jpg" width="400" />
+  
+
+  *Freshly installed over-sized valves*
 </div>
 
 
@@ -107,5 +114,6 @@ In the Summer of 2017, the cylinder head was pulled and properly machined. While
 
 ---
 *Turbo Camaro Build History*
+
 
 

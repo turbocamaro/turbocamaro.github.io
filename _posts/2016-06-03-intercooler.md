@@ -7,15 +7,17 @@ date: 2016-06-03 12:00:00 +0000
 ---
 
 <div align="center">
-  <a href="/assets/img/posts/20150727_182830.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="177" src="/assets/img/posts/20150727_182830.jpg" width="320" /></a>
-  <br/>
-  <em>FantasyMotorSports 28x9x2.5" front mount intercooler</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="177" src="/assets/img/posts/20150727_182830.jpg" width="320" />
+  
+
+  *FantasyMotorSports 28x9x2.5" front mount intercooler*
 </div>
 
 <div align="center">
-  <a href="/assets/img/posts/20150727_182908.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/20150727_182908.jpg" width="180" /></a>
-  <br/>
-  <em>2.5" inlet & outlet</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/20150727_182908.jpg" width="180" />
+  
+
+  *2.5" inlet & outlet*
 </div>
 
 Â A turbocharger is a very efficient way of creating massive power by recycling exhaust gasses and converting them to create pressurized air intake. The technology has become so popular, a lot of modern vehicles use them for increased power and overall fuel economy.
@@ -38,4 +40,5 @@ An intercooler is a fairly cheap item that has a big job. If your planning to tu
 
 ---
 *Turbo Camaro Build History*
+
 

@@ -7,26 +7,29 @@ date: 2015-12-03 12:00:00 +0000
 ---
 
 <div align="center">
-  <a href="/assets/img/posts/20151118_120538.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="222" src="/assets/img/posts/20151118_120538.jpg" width="400" /></a>
-  <br/>
-  <em>Stock crank and connecting rods - taken during disassembly</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="222" src="/assets/img/posts/20151118_120538.jpg" width="400" />
+  
+
+  *Stock crank and connecting rods - taken during disassembly*
 </div>
 
 <div align="center">
-  <a href="/assets/img/posts/cranknose.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/cranknose.jpg" width="320" /></a>
-  <br/>
-  <em>Stock hole in end of 250 crank - needs some threading</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/cranknose.jpg" width="320" />
+  
+
+  *Stock hole in end of 250 crank - needs some threading*
 </div>
 
 The Chevy 250 is a very robust motor, built for durability and economy. Luckily that durability transferred to most of the internal components. The crankshaft was cast, but manufactured with the same characteristics as the higher power V8 engines. The cast crankshaft and forged connecting rods have been known to handle 500-600HP without issue. Obviously their are probably some people who have managed to break one or the other at 450HP but their are also some others who have made it to 700HP+, so lets stick with averages.
 
 <div align="center">
-  <a href="/assets/img/posts/corvair_080427a.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/corvair_080427a.jpg" width="211" /></a>
-  <br/>
-  <em>Drilling & tapping the crank nose</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/corvair_080427a.jpg" width="211" />
+  
+
+  *Drilling & tapping the crank nose*
 </div>
 
-<a href="/assets/img/posts/20151119_125427.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="220" src="/assets/img/posts/20151119_125427.jpg" width="400" /></a>
+<img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="220" src="/assets/img/posts/20151119_125427.jpg" width="400" />
 
 Stock connecting rods with cast pistons - taken during disassembly
 
@@ -52,3 +55,4 @@ If you have any questions or comments please feel free to contact us via one of 
 
 ---
 *Turbo Camaro Build History*
+

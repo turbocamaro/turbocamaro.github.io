@@ -7,9 +7,10 @@ date: 2016-09-03 12:00:00 +0000
 ---
 
 <div align="center">
-  <a href="/assets/img/posts/CXRacing+T4+GT35+Turbo+Charger+Anti-Surge+500%252B+HP+0.68+AR+%252B+Oil+Fitting+Drain.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="200" src="/assets/img/posts/CXRacing+T4+GT35+Turbo+Charger+Anti-Surge+500%252B+HP+0.68+AR+%252B+Oil+Fitting+Drain.jpg" width="200" /></a>
-  <br/>
-  <em>CX Racing turbocharger (eBay photo)</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="200" src="/assets/img/posts/CXRacing+T4+GT35+Turbo+Charger+Anti-Surge+500%252B+HP+0.68+AR+%252B+Oil+Fitting+Drain.jpg" width="200" />
+  
+
+  *CX Racing turbocharger (eBay photo)*
 </div>
 
 A lot of time and effort went into selecting a turbocharger. With branding like "Turbo Camaro" it woul be unfortunate to use a junk turbo and end up blowing it in the first 20 minutes. It was decided to avoid selecting a big name like Garret or Turbonetics as they were too expensive and didn't fit in the big picture. Also, no scrap yard deals or cheap crap. It was decided to follow the same selection strategy as the <a href="/posts/blow-off-valve/" target="_blank">BOV</a> and <a href="/posts/wastegate/" target="_blank">wastegate</a>.
@@ -19,12 +20,13 @@ With so many horror stories and negative reviews of products purchased off eBay,
 The final name was CXRacing. They have the most positive reviews for a budget turbocharger brand, but they do have a few negative ones too. Since turbochargers are complex engine parts and require precise installation it is expected to see some cases of negativity from the client. Most of the issues observed in negative reviews were related to condition upon receipt or issues caused by customers not inspecting their part prior to install. On a positive note, a lot of strong reviews were read with customers using CXRacing turbochargers for in high horsepower twin setups with no issues and several had been using them for years without issue. When reading reviews online you need to be objective as it's considerably more likely for a mad customer to write a review than it is for a happy one.
 
 <center>
-<a href="/assets/img/posts/20150727_181600.jpg"  style="text-align: center;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150727_181600.jpg" width="320" /></a><a href="/assets/img/posts/20150727_181617.jpg"  style="text-align: center;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150727_181617.jpg" width="320" /></a><a href="/assets/img/posts/20150727_181623.jpg"  style="text-align: center;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150727_181623.jpg" width="320" /></a><a href="/assets/img/posts/20150727_181730.jpg"  style="text-align: center;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150727_181730.jpg" width="320" /></a></center>
+<img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150727_181600.jpg" width="320" /><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150727_181617.jpg" width="320" /><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150727_181623.jpg" width="320" /><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150727_181730.jpg" width="320" /></center>
 
 <div align="center">
-  <a href="/assets/img/posts/20150727_181822.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/20150727_181822.jpg" width="179" /></a>
-  <br/>
-  <em>Fittings, Gaskets & Manual</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/20150727_181822.jpg" width="179" />
+  
+
+  *Fittings, Gaskets & Manual*
 </div>
 
 After all that, aÂ CXRacing T4 GT35 0.68 AR turbocharger kit was ordered off eBay for $280US. The turbochargers are designed and tested to handle up to 500HP, which is 100HP more than the top end goal for this vehicle. The kit came with the required gaskets and oil/water fittings. The size and specifications of the turbo were exactly what the build needed to ensure a quick spool while maintaining decent cruise speeds.
@@ -37,4 +39,5 @@ Lets face it, we still haven't gotten any indication of how it functions. Update
 
 ---
 *Turbo Camaro Build History*
+
 

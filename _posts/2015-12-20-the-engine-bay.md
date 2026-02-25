@@ -7,15 +7,17 @@ date: 2015-12-20 12:00:00 +0000
 ---
 
 <div align="center">
-  <a href="/assets/img/posts/20151220_120829.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="/assets/img/posts/20151220_120829.jpg" width="320" /></a>
-  <br/>
-  <em>Turbo Camaro's engine bay is disgusting</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="/assets/img/posts/20151220_120829.jpg" width="320" />
+  
+
+  *Turbo Camaro's engine bay is disgusting*
 </div>
 
 <div align="center">
-  <a href="/assets/img/posts/20151220_120853.jpg"  style="margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="/assets/img/posts/20151220_120853.jpg" style="cursor: move;" width="320" /></a>
-  <br/>
-  <em>Check out that thick sludge on the frame</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="/assets/img/posts/20151220_120853.jpg" style="cursor: move;" width="320" />
+  
+
+  *Check out that thick sludge on the frame*
 </div>
 
 The engine bay of a car is a very underrated area of any vehicle. The bay holds your prized engine and its components while getting splashed with oil, coolant and sometimes fuel. If you ever get a chance to give this area a little attention, do it as the opportunity doesn't come often.
@@ -33,13 +35,15 @@ The bay was caked with Super Clean degreaser and left to marinate. Once the nast
 
 
 <div align="center">
-  <a href="/assets/img/posts/20160316_151807.jpg"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="300" src="/assets/img/posts/20160316_151807.jpg" width="400" /></a>
-  <br/>
-  <em>A little Satin Black VHT paint and it looks great</em>
+  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="300" src="/assets/img/posts/20160316_151807.jpg" width="400" />
+  
+
+  *A little Satin Black VHT paint and it looks great*
 </div>
 
 The outcome was excellent. The satin black VHT Chassis & Roll Bar paint went on smooth and provided great coverage in only 2 coats. As mentioned in the video, the results could always be better but considering only $25 was spent on the materials and about 4 hours worth of work, it couldn't be better. Now it's time to put an engine in there.
 
 ---
 *Turbo Camaro Build History*
+
 
