@@ -5,7 +5,11 @@ title: "Hood Locks"
 date: 2017-09-17 12:00:00 +0000
 ---
 
-![67 Camaro Hood Lock](/assets/img/posts/20170914_150026.jpg){: .no-lightbox style="display: block; margin: 0 auto; max-width: 100%; border-radius: 8px;"}
+
+<div style="width: 90%; margin: 1.5rem auto; text-align: center;">
+
+</div>
+{: .no-lightbox style="display: block; margin: 0 auto; max-width: 100%; border-radius: 8px;"}
 
 Once you have a $5000+ dollar investment under your hood you might want to start thinking of a way to keep it safe. Unfortunately the 67' Camaro came with an insecure hood latch assembly. Anyone could literally lift the latch above the grille and open the hood to expose the engine. Once there it wouldn't take much to steal from or sabotage the engine.
 

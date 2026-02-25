@@ -7,14 +7,14 @@ date: 2016-03-13 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="297" src="/assets/img/posts/20160313_112546.jpg" width="400" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="297" src="/assets/img/posts/20160313_112546.jpg" width="400" />
   
 
   *Turbo Camaro's valve cover - breather & PCV Valve installed*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="/assets/img/posts/20160206_153707.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="/assets/img/posts/20160206_153707.jpg" width="320" />
   
 
   *Rear of both breathers packaging (click to enlarge)*
@@ -25,7 +25,7 @@ The stock inline 6 has a oil fill cap and a breather at the front of the valve c
 As the site title says, a turbocharger is in play and that changes a lot. The circular carburetor air cleaner system is replaced with a <a href="/posts/air-filter/" target="_blank">Spectre cone air filter</a> in front of the turbocharger. While running hoses to the new filter is possible, it's not going to happen. Instead, the configuration of the breather and PCV valve get changed and things move forward.Â 
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/20160313_112610.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/20160313_112610.jpg" width="320" />
   
 
   *Spectre chrome PCV valve installed*
@@ -34,7 +34,7 @@ As the site title says, a turbocharger is in play and that changes a lot. The ci
 The front side hole for the breather hose is closed with a 1-1/8" oil resistant rubber plug. The oil filler cap is replaced with a Spectre 4273 twist in chrome breather. The rear PCV valve is still in effect, but replaced with a Spectre 4290 PCV valve breather. Note the twist-in breather fit the stock valve cover hole perfectly but the provided PCV valve grommet was too big to fit the stock 1" hole. The PCV valve snout is only 3/4" so a new 1" O.D. with 3/4" I.D. oil resistant rubber grommet was used to fit the stock hole. The PCV valve can work as is, but a hose should be run downward to a filtered air source, or at least to open air. Keep in mind this choice might not be as simple as a personal preference. Depending on the environmental laws in your area, you may not be allowed to vent crankcase gasses into atmosphere. Also note, some classic/antique vehicles have exceptions within the laws due to the technology and methods at the time of manufacturing.Â 
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/20160313_112645.jpg" style="cursor: move;" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/20160313_112645.jpg" style="cursor: move;" width="320" />
   
 
   *Spectre chrome oil breather cap installed*
@@ -48,5 +48,6 @@ As much as we liked the look and function of these breathers, they have since be
 
 ---
 *Turbo Camaro Build History*
+
 
 

@@ -5,11 +5,19 @@ title: "Oil Catch Can"
 date: 2017-10-23 12:00:00 +0000
 ---
 
-![Oil Catch Can Setup](/assets/img/posts/20161119_143625.jpg){: .no-lightbox style="display: block; margin: 0 auto; max-width: 100%; border-radius: 8px;"}
+
+<div style="width: 90%; margin: 1.5rem auto; text-align: center;">
+
+</div>
+{: .no-lightbox style="display: block; margin: 0 auto; max-width: 100%; border-radius: 8px;"}
 
 *Early on after the original rebuild, it was decided an oil catch can would be a good way to help keep the engine air intake clean while ensuring the engine wasn't wasting excess oil. We already had a [Spectre PCV and Valve Cover Breather](/posts/breathers/){:target="_blank"}, but with the introduction of the [CXRacing Turbocharger](/posts/turbocharger/){:target="_blank"}, we knew they should go. Some time was spent reviewing the benefits of expensive cans versus cheap ones. The cheaper ones are typically hollow and don't contain any material inside to collect the oil mist.*
 
-![D1 Spec Catch Can Details](/assets/img/posts/vlcsnap-2016-11-19-21h10m29s109.png){: .no-lightbox style="display: block; margin: 0 auto; max-width: 100%; border-radius: 8px;"}
+
+<div style="width: 90%; margin: 1.5rem auto; text-align: center;">
+
+</div>
+{: .no-lightbox style="display: block; margin: 0 auto; max-width: 100%; border-radius: 8px;"}
 
 Surprisingly, there's quite a debate over whether oil catch cans are actually worth the money. It was decided that they aren't worth as much money as what the big brand companies are charging, but the benefits of the can are undeniable. So, a nice looking black aluminum oil catch can, branded "D1 Spec" was selected on Ebay. Great time was taken to locate one that looked solid, but could also be dismantled if required. The ability to see how much oil it had collected was also important. As expected, the can was completely hollow and probably wouldn't collect the oil unless it flowed in liquid form, which would obviously be a serious problem.
 
@@ -24,4 +32,5 @@ We hit up a local supermarket and found Stainless Steel dish scrubbing wire mesh
 
 
 With several months of use, a very faint film of oil could be seen on the stainless steel mesh inside the can. It seems like the functionality of the can is effective and we expect the engine is operating efficiently enough that the intake air in this engine is just fairly clean. If anything changes, an update will be posted here.
+
 

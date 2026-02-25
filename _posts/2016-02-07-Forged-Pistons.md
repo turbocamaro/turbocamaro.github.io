@@ -7,14 +7,14 @@ date: 2016-02-07 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/20151118_102331.jpg" width="180" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/20151118_102331.jpg" width="180" />
   
 
   *Chevy 250 block and pistons*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="223" src="/assets/img/posts/20151119_105253.jpg" width="400" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="223" src="/assets/img/posts/20151119_105253.jpg" width="400" />
   
 
   *Just above dead center observe "60" on the piston face*
@@ -25,14 +25,14 @@ Rebuilding a motor is no easy task. A lot of components need to be stripped, cle
 Speaking of costs, a turbocharged motor more or less requires forged pistons (cha-ching). Since it's 2016 and these Inline 6's maintain a solid reputation, custom forged pistons exist, but at a premium. A set of custom forged pistons from Ross Racing cost approximately $700US. That's not saying they are the most expensive pistons ever made, but going into an under powered, and mostly undesired Inline 6 makes them seem pricey. You might be able to find similar pistons cheaper through some sort of Groupon or perhaps a different manufacturer, but Ross has been around a long time and makes a solid product.
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150905_155319.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150905_155319.jpg" width="320" />
   
 
   *Ross pistons well packaged with all components*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/pistons.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/pistons.jpg" width="320" />
   
 
   *Ross Racing forged piston 0.070" over bore with 12CC dish*
@@ -56,5 +56,6 @@ If you have any questions or comments please feel free to contact us via one of 
 
 ---
 *Turbo Camaro Build History*
+
 
 

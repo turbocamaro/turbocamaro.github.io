@@ -7,7 +7,7 @@ date: 2015-03-13 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="200" src="/assets/img/posts/194+13+5050+SMD+LED+Crystal+Aqua+Ice+Blue+Car+Light+Lamp+Bulb+DC+12V.jpg" width="200" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="200" src="/assets/img/posts/194+13+5050+SMD+LED+Crystal+Aqua+Ice+Blue+Car+Light+Lamp+Bulb+DC+12V.jpg" width="200" />
   
 
   *13 SMD LED's - 194 Connector - Crystal Aqua Ice Blue*
@@ -16,7 +16,7 @@ date: 2015-03-13 12:00:00 +0000
 The problem with lighting on classic cars was the technology available at the time. The Light Emitting Diode (LED) has since flourished and become wildly available for almost any application. You can literally get an LED with any connector and color you want. It's fairly easy to pick what color you want your dash to be, but the hard choice is where to get them from.
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/IMG_20150313_194509.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/IMG_20150313_194509.jpg" width="320" />
   
 
   *Aqua Ice Blue lights on the Stock 67' Camaro Cluster*
@@ -40,5 +40,6 @@ Turbo Camaro still has an old style dome, shift indicator and heater control lig
 ****
 **---
 *Turbo Camaro Build History***
+
 
 

@@ -8,7 +8,7 @@ date: 2015-11-24 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/thompson+machine.gif" width="400" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/thompson+machine.gif" width="400" />
   
 
   *Located in Nanaimo, BC - Canada*
@@ -34,7 +34,7 @@ The list of services completed by Thompson Machine were as follows:
 </ul>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/EngineUltrasound.png" width="248" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/EngineUltrasound.png" width="248" />
   
 
   *Ultrasound results (click to enlarge)*
@@ -47,7 +47,7 @@ Initially, the connecting rod bolts were going to stay stock, but with the inves
 The stock Camshaft gear is a fiber material and is a weak spot in the rotating assembly. Fiber gears work fine in a low power stock inline 6, but shouldn't be used in performance applications. A CompCams steel timing gear set was purchased to replace the existing gears. The shop will heat-press on the new Cam & Crankshaft gear but this is a process you could do at home by putting them in a freezer overnight and then heating the gear in the oven for a few minutes. The microscopically slimmer Camshaft snout will easily accept the microscopically enlarged gear. As it was mentioned, this process is easy but it just makes sense to have the shop do it properly in just a few minutes.
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="/assets/img/posts/20160206_153838.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="/assets/img/posts/20160206_153838.jpg" width="320" />
   
 
   *Compcams inline 6 steel timing gear set*

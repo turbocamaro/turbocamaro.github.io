@@ -7,14 +7,14 @@ date: 2016-09-03 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/wastegate1.jpg" width="179" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/wastegate1.jpg" width="179" />
   
 
   *SPA Turbo 35mm Wastegate - $65*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/wastegate2.jpg" width="179" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/wastegate2.jpg" width="179" />
   
 
   *SPA TurboÂ "S" inlet flange*
@@ -27,7 +27,7 @@ The wastegate is mounted between between the exhaust ports on the cylinder head 
 After literally days of researching, the brand SPA Turbo was identified as a solid company that does their own R&D and manufacturing in Brazil. Brazil is well known by those in the inline forums as Brazil has an active inline 6 drag racing community. A SPA Turbo compact 35mm stainless steel wastegate was purchased off eBay for $65US.
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/wastegate3.jpg" width="400" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/wastegate3.jpg" width="400" />
   
 
   *Boost control built into the top of the wastegate*
@@ -39,5 +39,6 @@ Updates will be added here once the final install and testing of this item has b
 
 ---
 *Turbo Camaro Build History*
+
 
 

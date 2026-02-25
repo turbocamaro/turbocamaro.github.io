@@ -7,14 +7,14 @@ date: 2016-06-03 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="177" src="/assets/img/posts/20150727_182830.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="177" src="/assets/img/posts/20150727_182830.jpg" width="320" />
   
 
   *FantasyMotorSports 28x9x2.5" front mount intercooler*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/20150727_182908.jpg" width="180" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/20150727_182908.jpg" width="180" />
   
 
   *2.5" inlet & outlet*
@@ -40,5 +40,6 @@ An intercooler is a fairly cheap item that has a big job. If your planning to tu
 
 ---
 *Turbo Camaro Build History*
+
 
 

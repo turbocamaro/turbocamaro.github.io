@@ -7,14 +7,14 @@ date: 2015-09-05 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="293" src="/assets/img/posts/DSC05266.jpg" width="400" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="293" src="/assets/img/posts/DSC05266.jpg" width="400" />
   
 
   *Turbo Camaro's stock Chevy 250 engine back in February 2010*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/filter.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/filter.jpg" width="320" />
   
 
   *Spectre 8131 3" cone air filter - $26US*
@@ -23,7 +23,7 @@ date: 2015-09-05 12:00:00 +0000
 Once you opt to run a turbocharger, a lot of the external components need to be modified or replaced with compatible parts. Like most vehicles of the era, the stock air cleaner was a ring shape and fit inside a circular dish enclosure (see image). The stock enclosure was actually well designed as it was low profile and managed to acquire air from over a foot away due to the long snout. However, this style air cleaner won't work as it is replaced with the <a href="/posts/hat-bonnet/" target="_blank">carburetor hat</a> and air is drawn in from a different location.
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/20150905_154907.jpg" width="177" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/20150905_154907.jpg" width="177" />
   
 
   *Filter with 3Â mounting rings*
@@ -37,5 +37,6 @@ Final install documentation and images will be posted here upon completion.
 
 ---
 *Turbo Camaro Build History*
+
 
 

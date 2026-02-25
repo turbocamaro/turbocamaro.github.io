@@ -5,7 +5,11 @@ title: "Alarm System & Power Locks"
 date: 2017-10-17 12:00:00 +0000
 ---
 
-![Pyle PWD701 Alarm System & Wiring Diagram](/assets/img/posts/20170928_100034.jpg){: .no-lightbox style="display: block; margin: 0 auto; max-width: 100%; border-radius: 8px;"}
+
+<div style="width: 90%; margin: 1.5rem auto; text-align: center;">
+
+</div>
+{: .no-lightbox style="display: block; margin: 0 auto; max-width: 100%; border-radius: 8px;"}
 
 *Pyle PWD701 Alarm System & Wiring Diagram*
 
@@ -13,13 +17,21 @@ With security on the rise after installing the [hood locks](/posts/hood-locks/),
 
 The alarm install consisted of two parts: a manual to power lock upgrade for the keyless entry and the actual alarm module wiring. Sodial "heavy duty" power door lock actuator kits were installed in the doors and a Pyle PWD701 Alarm System under the dash. The whole package, with relays, was about $45US. Overall a very fair price for a sense of security. Even without the security, having a fob to lock and unlock your doors is a nice modernization in itself.
 
-![Two 5-pin relays for locks](/assets/img/posts/20170924_170143.jpg){: .no-lightbox style="display: block; margin: 0 auto; max-width: 100%; border-radius: 8px;"}
+
+<div style="width: 90%; margin: 1.5rem auto; text-align: center;">
+
+</div>
+{: .no-lightbox style="display: block; margin: 0 auto; max-width: 100%; border-radius: 8px;"}
 
 *2 five pin relays joined and wired for locks*
 
 The trick to installing the actuators is to ensure the full up/down motion is unobstructed. You have to make sure you have a fairly straight shot from the actuator to either the door lock rod, or a mounting point on the lock assembly. If you watch the video below, you'll get a good look at how our actuator rods were mounted to the lock rods. Once you have one installed you just need to run the two wires to the passenger compartment.
 
-![Keep It Clean Stainless Loom](/assets/img/posts/20170924_155451.jpg){: .no-lightbox style="display: block; margin: 0 auto; max-width: 100%; border-radius: 8px;"}
+
+<div style="width: 90%; margin: 1.5rem auto; text-align: center;">
+
+</div>
+{: .no-lightbox style="display: block; margin: 0 auto; max-width: 100%; border-radius: 8px;"}
 
 *Keep It Clean Stainless Loom*
 
@@ -34,4 +46,5 @@ Once you have the door actuators in and wires through the looms, you can get you
 
 
 Overall the parts used for the Power Lock Upgrade and Alarm System are fantastic and the install went smoothly. The keyless entry feature is worth it whether you enable the alarm or not.
+
 

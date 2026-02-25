@@ -8,14 +8,14 @@ date: 2016-01-14 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="177" src="/assets/img/posts/20151118_100248.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="177" src="/assets/img/posts/20151118_100248.jpg" width="320" />
   
 
   *Turbo Camaro's head and valve train pre-rebuild*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="/assets/img/posts/20160206_154818.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="/assets/img/posts/20160206_154818.jpg" width="320" />
   
 
   *Semi-dismantled Chevy 250 head*
@@ -29,7 +29,7 @@ As mentioned all over the internet, if you had to focus you attention on one par
 <li>Complete a full intake and exhaust port job
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="120" src="/assets/img/posts/HeadWork.jpg" width="200" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="120" src="/assets/img/posts/HeadWork.jpg" width="200" />
   
 
   *Hi-Flow lump kit for Chevy inline 6's*
@@ -51,14 +51,14 @@ When the lump kit was installed in Turbo Camaro, it was filmed and uploaded belo
 
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="/assets/img/posts/20160206_154742.jpg" width="200" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="/assets/img/posts/20160206_154742.jpg" width="200" />
   
 
   *Valves are waiting to be cleaned and lapped*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="/assets/img/posts/20160206_154716.jpg" width="200" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="149" src="/assets/img/posts/20160206_154716.jpg" width="200" />
   
 
   *Valve stems pushed through a pizza box*
@@ -89,7 +89,7 @@ When you replace or reinstall springs you need to consider some key specs. The a
 
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="295" src="/assets/img/posts/20160413_202153.jpg" width="400" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="295" src="/assets/img/posts/20160413_202153.jpg" width="400" />
   
 
   *Head ported, lumped and painted. Valve job complete and springs/rockers installed with valve cover.*
@@ -98,7 +98,7 @@ When you replace or reinstall springs you need to consider some key specs. The a
 In the Summer of 2017, the cylinder head was pulled and properly machined. While it was off, it was ported and larger 1.84' intake and 1.6" valves, seats and inserts were installed. A noticeable power increase was obtained from this as the valves allow more airflow and flow in the inline engines is always in demand. The valve guides were also cut to allow for positive valve seals to be used instead of the stock o-rings. The performance springs and original rockers/studs were used for the upgrade.
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="900" data-original-width="1600" height="225" src="/assets/img/posts/20170410_150136.jpg" width="400" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="900" data-original-width="1600" height="225" src="/assets/img/posts/20170410_150136.jpg" width="400" />
   
 
   *Freshly installed over-sized valves*

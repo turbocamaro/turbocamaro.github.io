@@ -7,7 +7,7 @@ date: 2015-01-20 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="/assets/img/posts/IMG_20150131_093326.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="238" src="/assets/img/posts/IMG_20150131_093326.jpg" width="320" />
   
 
   *Stock mono-leaf suspension*
@@ -18,7 +18,7 @@ The mechanical weak spot on all 67' Camaro's is the factory mono-leaf springs. T
 In case you're lost, mono means one, and it refers to the number of leaf springs in your rear axle suspension. Most of the 1968-69 year V8 Camaros received multi-leaf suspension consisting of 4 or even 5 leafs. Having additional leafs adds rear end firmness and longevity. The mono-leaf spring probably held up just fine initially, but after decades of hard starts they start to stay permenatly flexed and sag. If you wanted to upgrade your rear suspension you have plenty of options. You can take your existing mono's to a spring shop and they can heat treat and attempt to put the spring back in your springs. You can take the whole car to the same shop and have them install a 'helper' spring to assist the tired mono. Their are several mono to multi conversion kits available and of course, brand new complete rear suspension packages exist for those with financial stability.
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/LeafSprings.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/LeafSprings.jpg" width="320" />
   
 
   *3 leaf springs with U-Bolts instead of stock T-Bolts*
@@ -29,7 +29,7 @@ Turbo Camaro received the mono to multi converstion, but instead of buying a com
 Overall, it's a relatively simple swap that doesn't take a lot of know how to complete.
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/IMG_2327.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/IMG_2327.jpg" width="320" />
   
 
   *3 leaf conversion with U-Bolts (borrowed image)*
@@ -41,5 +41,6 @@ The 3 leaf springs mentioned above raised Turbo Camaro approximately 1/2" and le
 
 ---
 *Turbo Camaro Build History*
+
 
 

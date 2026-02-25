@@ -7,14 +7,14 @@ date: 2016-09-03 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="/assets/img/posts/bovtop.jpg" width="222" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="/assets/img/posts/bovtop.jpg" width="222" />
   
 
   *Wyntonm 44mm Stainless BOV - $60*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="/assets/img/posts/bovbot.jpg" width="222" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="/assets/img/posts/bovbot.jpg" width="222" />
   
 
   *the bottom of the BOV measures 50mm*
@@ -26,7 +26,11 @@ In case you're already lost. The BOV gets positioned between the turbocharger an
 
 After significant research and scavenging google for reviews and testimonials, the brand Wyntonm was found to have great prices, excellent manufacturing standards and several positive reviews. Feel free to google the brand and see for yourself, their reputation is strong. A Wyntonm 44mm Stainless Steel blow off valve with 3" diameter adapter pipe and clamp was ordered.
 
-<img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/bov+pipe.jpg" width="320" />
+
+<div style="width: 90%; margin: 1.5rem auto; text-align: center;">
+
+</div>
+
 
 Adapter pipe -Â 3" diameter
 
@@ -38,5 +42,6 @@ Updates will be added here once the final install and testing of this item has b
 
 ---
 *Turbo Camaro Build History*
+
 
 

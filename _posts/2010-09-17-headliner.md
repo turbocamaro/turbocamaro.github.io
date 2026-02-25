@@ -7,14 +7,14 @@ date: 2010-09-17 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/headliner.JPG" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/headliner.JPG" width="320" />
   
 
   *Original Marina Blue headliner from a 67' Camaro*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05704.JPG" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05704.JPG" width="320" />
   
 
   *Headliner spray dyed black with SEM Vinyl Spray*
@@ -27,14 +27,14 @@ One of those "fixes" was the headliner. The headliner is a large sheet of vinyl 
 The original headliner was marina blue and saggy. It had a small tear near the windshield too. The plan was to remove the headliner, spray dye it with black SEM vinyl coat and reinstall it. Unfortunately that plan was foiled almost immediately. Upon removal of the liner, it was apparent the cloth loops had been disintegrating for years and wouldn't be reusable. Simply looking at them the wrong way caused them to rip. It was obvious the existing headliner would need extensive repairs, or a new one would need to be ordered and Turbo Camaro would be liner-less for 6-8 weeks. 
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05722.JPG" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05722.JPG" width="320" />
   
 
   *The headliner fabric loops were toast*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05708.JPG" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05708.JPG" width="320" />
   
 
   *Headliner removed - Note the roof rails*
@@ -48,5 +48,6 @@ Which is why Turbo Camaro already has a brand new headliner, still in the box, w
 
 ---
 *Turbo Camaro Build History*
+
 
 

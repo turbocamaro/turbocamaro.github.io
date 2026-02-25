@@ -8,7 +8,7 @@ date: 2014-03-14 12:00:00 +0000
 ---
 
 <div align="center">
-  <a href="https://www.blogger.com/blogger.g?blogID=853508697141433937"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto; text-align: right;"><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="236" src="/assets/img/posts/IMG_20140311_134622.jpg" width="320" /></a>
+  <a href="https://www.blogger.com/blogger.g?blogID=853508697141433937"  style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto; text-align: right;"><img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="236" src="/assets/img/posts/IMG_20140311_134622.jpg" width="320" /></a>
   
 
   *Make the hole location and rivet points.*
@@ -19,14 +19,14 @@ Approximately 40% of 67' Camaro's were manufactured with a column shift. It's ve
 In order to convert a column shift to floor shifter and make it look stock, you need to acquire a bunch of parts. If you're one of the 3% of 67' Camaro's with a front bench seat, you'd need to tear it our and put in bucket seats to make room for the floor console. However, if your car is a front bench, and standard transmission, consider holding off as only hundreds of them were made and are some of the rarest Camaro's around. Either way, get yourself a complete console, mounting bracket, shifter and linkage. Ensure your shifter comes with the reinforcement bezel and a rubber boot.
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="232" src="/assets/img/posts/IMG_20140312_133127.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="232" src="/assets/img/posts/IMG_20140312_133127.jpg" width="320" />
   
 
   *Cut the hoe and drill out the holes according to rivet size.*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="/assets/img/posts/IMG_20140312_140613.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="/assets/img/posts/IMG_20140312_140613.jpg" width="320" />
   
 
   *Mount the shifter with lock washers and Loctite.*
@@ -42,5 +42,6 @@ Currently, Turbo Camaro still has a slot on the column for the shift lever. Cons
 
 ---
 *Turbo Camaro Build History*
+
 
 

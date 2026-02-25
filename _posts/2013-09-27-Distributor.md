@@ -7,7 +7,7 @@ date: 2013-09-27 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="239" src="/assets/img/posts/DSC05276.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="239" src="/assets/img/posts/DSC05276.jpg" width="320" />
   
 
   *Stock points distributor prior to removal*
@@ -18,7 +18,7 @@ Turbo Camaro's Chevy 250 inline 6 was manufactured in 1968 (nope, not a numbers 
 The distributor has seen some "advances" over the years. The stock distributor ran a points system and in it's day, worked very well. In 1974 GM introduced the High Energy Ignition (HEI) distributor. The HEI distributor does exactly the same thing as the stock distributor but the separate coil is in the distributor cap and a control module with magnetic pickup replace the points. The HEI is a more reliable and more powerful distributor that requires less maintenance. Sure, the points distributor was smaller and technically factory "right" for this motor, but it's too much of a loss over the HEI gains.
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/hei.jpg" width="400" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/hei.jpg" width="400" />
   
 
   *HEI Distributor with 65K coil in cap purchased off eBay*
@@ -30,7 +30,11 @@ The tower for the spark plug wire attached to cylinder #1 was referenced to a po
 
 Overall, the upgrade was fairly straight forward and with all the items needed to complete the job, it took about an hour.
 
-<img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  data-original-height="1600" data-original-width="1450" height="320" src="/assets/img/posts/GMHEITiming1.jpg_large.jpg" width="290" />In January 2018, this eBay sourced GM HEI distributor was locked out, gutted and rewired for electronic timing control with our <a href="/posts/holley-sniper-efi/" target="_blank">Holley Sniper EFI System</a>. Despite popular belief, you don't need to purchase an expensive brand name distributor for electronic timing control if you're willing to take the time to make your HEI work. This was a great distributor for this project as it has a 65K coil, 4 pin module and easy to set multi point magnetic reluctor. It was working great as an HEI distributor and now it allows the car to run significantly better.
+
+<div style="width: 90%; margin: 1.5rem auto; text-align: center;">
+
+</div>
+In January 2018, this eBay sourced GM HEI distributor was locked out, gutted and rewired for electronic timing control with our <a href="/posts/holley-sniper-efi/" target="_blank">Holley Sniper EFI System</a>. Despite popular belief, you don't need to purchase an expensive brand name distributor for electronic timing control if you're willing to take the time to make your HEI work. This was a great distributor for this project as it has a 65K coil, 4 pin module and easy to set multi point magnetic reluctor. It was working great as an HEI distributor and now it allows the car to run significantly better.
 
 The upgrade to electronic timing control requires an Electronic Control Unit (ECU), like a Holley Sniper EFI System. Since the distributor is being modified and gutted in order to provide a new ability to the Sniper System, all relevant information to this procedure has been documented on the <a href="/posts/holley-sniper-efi/" target="_blank">Holley Sniper EFI System</a> page.
 
@@ -38,5 +42,6 @@ As of now, the module, weights, springs and vacuum canister sit lifeless in a zi
 
 ---
 *Turbo Camaro Build History*
+
 
 

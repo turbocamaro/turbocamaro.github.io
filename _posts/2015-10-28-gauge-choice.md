@@ -14,7 +14,7 @@ Gauges are a critical component to a vehicle. Consider them to be the window to 
 Turbo Camaro is undergoing a transformation from a base model straight six to a turbocharged street demon. That's forced induction being fed by a <a href="/posts/carburetor/" target="_blank">Holley 4776 600cfm double pumper with mechanical secondaries</a>. For those who missed the point, it's carbureted, meaning no fuel injection or fancy learning computers to tune everything automatically. So, a turbo car needs a boost gauge, and a lot of boost gauges have a split meter, showing vacuum (- pressure) on the left and boost (+ pressure) on the right. That's two gauges in one, fantastic. 
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/4gaugepod.JPG" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/4gaugepod.JPG" width="320" />
   
 
   *Custom 4 gauge console pod for Turbo Camaro's gauges.*
@@ -27,7 +27,7 @@ The Vacuum/Boost and AFR gauges are all you really need for tuning, but what abo
 Turbo Camaro will keep its stock odometer, speedometer and fuel gauge but with the use of the <a href="/posts/console-pod/" target="_blank">custom four gauge console pod</a>, a 52mm AEM Wideband AFR, VDO Oil Pressure, VDO Vacuum/Boost and VDO Voltmeter gauge will be installed. A larger tachometer might be installed on the column at a later time.Â 
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  src="/assets/img/posts/gauges.jpg" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  src="/assets/img/posts/gauges.jpg" />
   
 
   *Turbo Camaro's gauge selection - Oil Pressure, Vac/Boost, AFR and Voltmeter.*
@@ -39,5 +39,6 @@ Lastly, once you've selected the gauges, you have to pick a brand, color, and fa
 
 ---
 *Turbo Camaro Build History*
+
 
 

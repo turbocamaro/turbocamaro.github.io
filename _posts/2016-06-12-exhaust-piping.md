@@ -7,14 +7,14 @@ date: 2016-06-12 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/CXRacing+Universal+3in+Polished+DIY+Aluminum+FMIC+Turbo+Intercooler+Piping+Kit.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/CXRacing+Universal+3in+Polished+DIY+Aluminum+FMIC+Turbo+Intercooler+Piping+Kit.jpg" width="320" />
   
 
   *CX Racing 3x18" @ 2mm Piping kit - $99*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="/assets/img/posts/20150727_182403.jpg" width="222" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="400" src="/assets/img/posts/20150727_182403.jpg" width="222" />
   
 
   *CXRacing kit as received*
@@ -24,7 +24,11 @@ In order to install a turbocharger, intercooler, carburetor hat, cold air filter
 
 When purchasing metal piping you need to pay attention to the material, thickness (gauge), finish and diameter. If it's a piping kit you're looking at, review the contents as you may not need five 90 degree elbows or a bunch of straight pieces. Also notice the type of clamps and couplers. The pipes might be perfect but the kit provides low quality silicone couplers (note thickness and length) or flimsy clamps. It would be unfortunate to have to replace all the clamps at your local store because the ones provided snap off when tightening. Another important note, what size is your current exhaust? It would be a shame to buy nice wide 3" piping for your performance parts and then feed it all into a stock 2-1/4" exhaust. Sure it'll work but you might want to consider upgrading your exhaust to a full 2.5" or even 3" to keep the flow consistent. Increasing intake flow capacity will also increase exhaust capacity, consider "what goes in, must come out".
 
-<img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="200" src="/assets/img/posts/2.5+to+3+Straight+Reducer+Silicone+Turbo+Hose+Coupler.jpg" width="200" />
+
+<div style="width: 90%; margin: 1.5rem auto; text-align: center;">
+
+</div>
+
 CORP 4" to 3" silicone reducer 
 (hat to pipe) - $4
 
@@ -42,5 +46,6 @@ Unless you're replacing an existing install and know exactly what pieces you nee
 
 ---
 *Turbo Camaro Build History*
+
 
 

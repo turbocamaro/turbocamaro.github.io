@@ -7,7 +7,7 @@ date: 2016-09-03 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="200" src="/assets/img/posts/CXRacing+T4+GT35+Turbo+Charger+Anti-Surge+500%252B+HP+0.68+AR+%252B+Oil+Fitting+Drain.jpg" width="200" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="200" src="/assets/img/posts/CXRacing+T4+GT35+Turbo+Charger+Anti-Surge+500%252B+HP+0.68+AR+%252B+Oil+Fitting+Drain.jpg" width="200" />
   
 
   *CX Racing turbocharger (eBay photo)*
@@ -20,10 +20,14 @@ With so many horror stories and negative reviews of products purchased off eBay,
 The final name was CXRacing. They have the most positive reviews for a budget turbocharger brand, but they do have a few negative ones too. Since turbochargers are complex engine parts and require precise installation it is expected to see some cases of negativity from the client. Most of the issues observed in negative reviews were related to condition upon receipt or issues caused by customers not inspecting their part prior to install. On a positive note, a lot of strong reviews were read with customers using CXRacing turbochargers for in high horsepower twin setups with no issues and several had been using them for years without issue. When reading reviews online you need to be objective as it's considerably more likely for a mad customer to write a review than it is for a happy one.
 
 <center>
-<img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150727_181600.jpg" width="320" /><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150727_181617.jpg" width="320" /><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150727_181623.jpg" width="320" /><img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150727_181730.jpg" width="320" /></center>
+
+<div style="width: 90%; margin: 1.5rem auto; text-align: center;">
+
+</div>
+<img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150727_181617.jpg" width="320" /><img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150727_181623.jpg" width="320" /><img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="180" src="/assets/img/posts/20150727_181730.jpg" width="320" /></center>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/20150727_181822.jpg" width="179" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="320" src="/assets/img/posts/20150727_181822.jpg" width="179" />
   
 
   *Fittings, Gaskets & Manual*
@@ -39,5 +43,6 @@ Lets face it, we still haven't gotten any indication of how it functions. Update
 
 ---
 *Turbo Camaro Build History*
+
 
 

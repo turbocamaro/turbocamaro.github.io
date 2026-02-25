@@ -7,14 +7,14 @@ date: 2016-06-16 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="259" src="/assets/img/posts/trg-350-1-2_w.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="259" src="/assets/img/posts/trg-350-1-2_w.jpg" width="320" />
   
 
   *Transgo 350-1&2 Shift Kit*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="222" src="/assets/img/posts/t350_18.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="222" src="/assets/img/posts/t350_18.jpg" width="320" />
   
 
   *Turbo 350 valve body and internals (borrowed image)*
@@ -25,14 +25,14 @@ Turbo Camaro was received with, and still has a Turbo Hydra-matic 350 (TH350 or 
 The automatic Turbo 350 is perfect for a daily driver (comparing to the original Powerglide at least), so rather than replacement, a shift kit is in order. A shift kit tightens the overlap between automatic shifts and because of this, provides a harder shift and helps to cut down on transmission wear. When moving to a performance application, such as a super or turbocharger, a shift kit is almost mandatory to prevent excessive wear on your transmission.Â 
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="230" src="/assets/img/posts/350_valvebody2.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="230" src="/assets/img/posts/350_valvebody2.jpg" width="320" />
   
 
   *Turbo 350 valve body diagram*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="179" src="/assets/img/posts/vlcsnap-2016-02-06-09h55m55s902.png" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="179" src="/assets/img/posts/vlcsnap-2016-02-06-09h55m55s902.png" width="320" />
   
 
   *Transmission pan removed on Turbo Camaro*
@@ -44,5 +44,6 @@ The Transgo Shift Kit install wasn't filmed as their is a publicly available man
 
 ---
 *Turbo Camaro Build History*
+
 
 

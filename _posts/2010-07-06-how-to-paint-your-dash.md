@@ -8,14 +8,14 @@ date: 2010-07-06 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="/assets/img/posts/DSC05493.JPG" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="/assets/img/posts/DSC05493.JPG" width="320" />
   
 
   *A stripped down Marina Blue Dash.*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="239" src="/assets/img/posts/DSC05495.JPG" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="239" src="/assets/img/posts/DSC05495.JPG" width="320" />
   
 
   *It's not Tuxedo Black but it's close enough.*
@@ -30,14 +30,14 @@ Once you've dismantled it all, you need to prepare the area for dust. Use plasti
 To achieve great results, you'll want to sand the dash. Sanding will insure a smooth finish. If your dash is in perfect condition then you can get away with less sanding as you won't have scratches and chips to smooth out. That being said, if your dash is in "perfect" condition, why the hell are you going to all this trouble? A thorough application of 150 grit and then 220 grit was applied to the entire dash prior to cleaning with a wax and grease remover. If you don't have anything fancy, light bursts of Windex works. Be sure all sanding dust and cleaner residue is gone prior to painting.
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="/assets/img/posts/DSC05446.JPG" style="margin-left: auto; margin-right: auto;" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="/assets/img/posts/DSC05446.JPG" style="margin-left: auto; margin-right: auto;" width="320" />
   
 
   *Sticker is just a faded brown stain now.*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="232" src="/assets/img/posts/DSC05448.JPG" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="232" src="/assets/img/posts/DSC05448.JPG" width="320" />
   
 
   *Sticker placed but not applied. You get the idea.*
@@ -48,7 +48,7 @@ It is now time to retreive your chosen paint. Dozens of companies have come up w
 Since dash surfaces are mostly vertical, don't ignore the instructions on the can, spray multiple light coats. If you get eager and spray heavy you will cause runs and it'll look like crap, thus causing more work and touch ups.
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="200" src="/assets/img/posts/TirePresVector1.jpg" width="200" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="200" src="/assets/img/posts/TirePresVector1.jpg" width="200" />
   
 
   *Exact copy of factory decal - Printer friendly.*
@@ -61,5 +61,6 @@ Upon sourcing the decal, it was discovered to cost $10 with shipping. Yep, that'
 
 **---
 *Turbo Camaro Build History***
+
 
 

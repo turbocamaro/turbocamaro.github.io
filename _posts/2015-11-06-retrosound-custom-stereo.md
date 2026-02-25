@@ -7,7 +7,11 @@ date: 2015-11-06 12:00:00 +0000
 
 The ongoing theme of **Turbo Camaro** is to add modern components while keeping a classic look. This concept can become a challenge and really test build intentions. Stereo systems can be very important to passengers as they provide entertainment and can set the mood of a drive. That being said, stereo technology has changed since 1967 and a deck from that era wouldn't be acceptable in this car.
 
-![RetroSound Stereo](/assets/img/posts/retrosound.jpg){: .no-lightbox style="display: block; margin: 0 auto; max-width: 100%; border-radius: 8px;"}
+
+<div style="width: 90%; margin: 1.5rem auto; text-align: center;">
+
+</div>
+{: .no-lightbox style="display: block; margin: 0 auto; max-width: 100%; border-radius: 8px;"}
 
 *A RetroSound Stereo Unit*
 
@@ -38,4 +42,5 @@ Several requests were made to make a concise review of the stereo. Many reviews 
 
 
 If you're looking for a classic stereo but don't need an original, this is a great option. If you have any questions about it or need help with the install, send us an email or message on any of the social media outlets.
+
 

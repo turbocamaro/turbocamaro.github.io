@@ -8,14 +8,14 @@ date: 2010-10-21 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05528.JPG" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05528.JPG" width="320" />
   
 
   *The blue paint was unsalvageable*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05535.JPG" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05535.JPG" width="320" />
   
 
   *Sanding with a drill*
@@ -28,14 +28,14 @@ A plan to strip the car to bare metal was made and executed with grace and skill
 A few Sand & Rust Remover discs were purchased for use on a drill, but they didn't last long and obviously weren't up to the challenge of stripping an entire car. Don't get me wrong, they would have worked eventually but it would probably take 15-20 of them, and at $8 a piece it would have blown the budget.
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05745.JPG" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="240" src="/assets/img/posts/DSC05745.JPG" width="320" />
   
 
   *Dust from one sweep of the floor.*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="312" src="/assets/img/posts/51gTcGBRw2L._SX300_.jpg" style="cursor: move;" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="312" src="/assets/img/posts/51gTcGBRw2L._SX300_.jpg" style="cursor: move;" width="320" />
   
 
   *Wire wheel for a grinder*
@@ -50,7 +50,7 @@ It was time to get serious. Money was being spent on products that were not gett
 <li>As the wire wheel spins it gets hot and transfers that heat to the car. Spinning too long in one spot will get very hot and potentially cause warpage. Keep the wheel moving and make second and even third passes on areas requiring more attention. Â </li>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="300" src="/assets/img/posts/DSC05747.JPG" width="400" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="300" src="/assets/img/posts/DSC05747.JPG" width="400" />
   
 
   *Apply clear coat and call it done... no, not really.*

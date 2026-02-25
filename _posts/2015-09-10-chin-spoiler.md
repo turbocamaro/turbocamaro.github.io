@@ -6,7 +6,11 @@ title: "Chin Spoiler"
 date: 2015-09-10 12:00:00 +0000
 ---
 
-<img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="192" src="/assets/img/posts/chin.jpg" width="320" />
+
+<div style="width: 90%; margin: 1.5rem auto; text-align: center;">
+
+</div>
+
 
 Spoilers are a popular way of adding aerodynamic attitude to a vehicle. The first generation Camaro was blessed with the option to have not one, but two spoilers. Most people are familiar with the trunk lid spoiler which, on it's own, isn't much to look at but definitely gives the car a much sportier look. Same goes for the lower valance front "chin" spoiler. It gives the front end the appearance of a lower stance, and it forms a more aggressive shape.Â 
 
@@ -22,5 +26,6 @@ Turbo Camaro was destined to have a chin spoiler, regardless of what factory opt
 
 ---
 *Turbo Camaro Build History*
+
 
 

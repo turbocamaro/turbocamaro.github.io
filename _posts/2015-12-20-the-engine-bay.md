@@ -7,14 +7,14 @@ date: 2015-12-20 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="/assets/img/posts/20151220_120829.jpg" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="/assets/img/posts/20151220_120829.jpg" width="320" />
   
 
   *Turbo Camaro's engine bay is disgusting*
 </div>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="/assets/img/posts/20151220_120853.jpg" style="cursor: move;" width="320" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="235" src="/assets/img/posts/20151220_120853.jpg" style="cursor: move;" width="320" />
   
 
   *Check out that thick sludge on the frame*
@@ -35,7 +35,7 @@ The bay was caked with Super Clean degreaser and left to marinate. Once the nast
 
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="300" src="/assets/img/posts/20160316_151807.jpg" width="400" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="300" src="/assets/img/posts/20160316_151807.jpg" width="400" />
   
 
   *A little Satin Black VHT paint and it looks great*
@@ -45,5 +45,6 @@ The outcome was excellent. The satin black VHT Chassis & Roll Bar paint went on 
 
 ---
 *Turbo Camaro Build History*
+
 
 

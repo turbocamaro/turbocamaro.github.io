@@ -8,7 +8,7 @@ date: 2016-01-29 12:00:00 +0000
 ---
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="298" src="/assets/img/posts/20160128_090835.jpg" width="400" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="298" src="/assets/img/posts/20160128_090835.jpg" width="400" />
   
 
   *Custom fit 67' Camaro console 4 gauge pod*
@@ -29,7 +29,7 @@ Turbo Camaro needed something new but not a far stretch from what the factory of
 
 
 <div align="center">
-  <img style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20160502_232423.png" width="640" />
+  <img style="max-width: 100%; height: auto; border-radius: 8px;" style="display: block; margin: 0 auto; max-width: 100%; height: auto;"  height="360" src="/assets/img/posts/20160502_232423.png" width="640" />
   
 
   *Custom 4 gauge pod with AFR, Voltage, Oil Pressure and Vacuum/Boost Gauges installed*
@@ -39,5 +39,6 @@ Further updates will be posted here once the console is reinstalled and the gaug
 
 **---
 *Turbo Camaro Build History***
+
 
 
