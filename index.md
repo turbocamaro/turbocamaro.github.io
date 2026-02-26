@@ -13,8 +13,8 @@ hide_title: true
 
 <div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; margin-top: -0.4rem; cursor: pointer;" markdown="0">
 <div style="position: relative; width: 320px; height: 320px;">
-<img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 205px; height: auto; z-index: 1; opacity: 1 !important; visibility: visible !important;" alt="Logo">
-<img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" class="spinning-track" style="position: absolute; top: 0; left: 0; width: 320px; height: 320px; z-index: 2; opacity: 1 !important; visibility: visible !important; object-fit: contain;" alt="Racetrack">
+<img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" class="no-zoom" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 205px; height: auto; z-index: 1; opacity: 1 !important; visibility: visible !important;" alt="Logo">
+<img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" class="no-zoom" class="spinning-track" style="position: absolute; top: 0; left: 0; width: 320px; height: 320px; z-index: 2; opacity: 1 !important; visibility: visible !important; object-fit: contain;" alt="Racetrack">
 </div>
 </div>
 
