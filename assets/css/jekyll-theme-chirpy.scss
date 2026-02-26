@@ -55,6 +55,11 @@
   animation: tc-spin-ccw 3.15s infinite linear !important; 
 }
 
+  .sidebar-nav-item {
+    font-size: 1.1rem;
+    margin-bottom: 10px !important;
+  }
+
 @keyframes tc-spin-ccw {
   from { transform: translate(-50%, -50%) rotate(360deg); }
   to { transform: translate(-50%, -50%) rotate(0deg); }
