@@ -1,7 +1,7 @@
 ---
 categories: ["Mechanical"]
 tags: [Brakes, Wilwood, Safety]
-title: "Wilwood Front Disc Brake Conversion"
+title: "Wilwood Disc Brake Conversion"
 date: 2018-07-26 12:00:00 +0000
 ---
 
