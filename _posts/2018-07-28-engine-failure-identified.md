@@ -6,7 +6,7 @@ date: 2018-07-28 12:00:00 +0000
 ---
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
-<img src="\assets\img\posts\enginefail_180705/IMG_20190528_155337.jpg" alt="Damaged valve stem seals" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<img src="/assets/img/posts/enginefail_180705/IMG_20190528_155337.jpg" alt="Damaged valve stem seals" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
   <p style="text-align: center; width: 100%; margin-top: 5px;"><em>A pile of shredded valve stem seals. This was just the beginning.</em></p>
 </div>
 
@@ -15,7 +15,7 @@ Ever since the initial break in of the engine redone by Thompson Machine, I noti
 I kept driving for a few more months, swapping seals regularly, before I eventually decided to pull the plug and stop driving it altogether. When I finally tore the block apart, the hard truth came out. The shop clearly ignored the camshaft specs, leading to the seal failure, but that wasn't even the worst part.
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
-  <img src="\assets\img\posts\enginefail_180705/IMG_20230205_132050.jpg" alt="Piston side damage" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+  <img src="/assets/img/posts/enginefail_180705/IMG_20230205_132050.jpg" alt="Piston side damage" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
   <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Scoring on the side of the Ross Racing Pistons.</em></p>
 </div>
 
