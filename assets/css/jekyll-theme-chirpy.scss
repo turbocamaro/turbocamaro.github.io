@@ -55,10 +55,25 @@
   animation: tc-spin-ccw 3.15s infinite linear !important; 
 }
 
-  .sidebar-nav-item {
-    font-size: 1.1rem;
-    margin-bottom: 10px !important;
-  }
+  ./* Target links specifically inside the sidebar navigation */
+#sidebar .nav .nav-item .nav-link {
+  font-size: 1.15rem;      /* Makes the font roughly 15-20% larger */
+  padding-top: 0.6rem;    /* Adds space above the text */
+  padding-bottom: 0.6rem; /* Adds space below the text */
+  display: flex;
+  align-items: center;    /* Keeps the icons aligned with the text */
+}
+
+/* Adds a bit of extra margin to the list item for more gap */
+#sidebar .nav-item {
+  margin-bottom: 0.25rem; 
+}
+
+/* Adjusts the icon size slightly to match the new text size */
+#sidebar .nav-link i {
+  font-size: 1.1rem;
+  margin-right: 0.5rem;   /* Ensures the icon doesn't hug the text */
+}
 
 @keyframes tc-spin-ccw {
   from { transform: translate(-50%, -50%) rotate(360deg); }
