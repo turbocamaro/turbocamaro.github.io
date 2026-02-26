@@ -8,10 +8,12 @@
 {%- endif -%}
 ';
 
-/* Hide the post license section at the bottom of articles */
-.post-copyright, 
-.post-license-display, 
-#post-extend-wrapper .license-wrapper {
+/* The 'Nuclear' hide for post licenses */
+.post-tail-wrapper .post-copyright,
+.post-tail-wrapper .license-wrapper,
+footer .license-wrapper,
+.post-content + hr + .d-flex, /* Targets the license if it follows a divider */
+blockquote.prompt-info { /* Sometimes used as a fallback for license info */
     display: none !important;
 }
 
