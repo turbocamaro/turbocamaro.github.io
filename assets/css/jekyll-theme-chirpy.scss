@@ -8,6 +8,10 @@
 {%- endif -%}
 ';
 
+.no-zoom {
+  pointer-events: none; /* Disables all hover/click interactions */
+}
+
 /* --- Sidebar Logo Styling (Non-Clickable) --- */
   #avatar {
     background: transparent !important;
