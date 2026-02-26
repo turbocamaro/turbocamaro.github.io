@@ -6,7 +6,7 @@ date: 2018-07-28 12:00:00 +0000
 ---
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
-  <img src="/assets/img/posts/enginefail_180705/IMG_20190528_153337.jpg" alt="Damaged valve stem seals" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<img src="/assets/img/posts/enginefail_180705/IMG_20190528_153337.jpg" alt="Damaged valve stem seals" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
   <p style="text-align: center; width: 100%; margin-top: 5px;"><em>A pile of shredded valve stem seals. This was just the beginning.</em></p>
 </div>
 
