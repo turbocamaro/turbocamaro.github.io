@@ -26,4 +26,4 @@ The wrong oil rings were used on the Ross Racing Pistons. This mistake destroyed
   <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Evidence of oil entering the combustion chamber on the piston top.</em></p>
 </div>
 
-It was clear that this first engine rebuild was a total failure. The shop’s negligence put the entire build at a standstill. When you pay a professional to follow specific tolerances for high end parts, you expect them to actually read the spec sheet. Instead, I ended up with a pile of scrap metal and a hard lesson on who not to trust with my machining. 
+It was clear that this first engine rebuild was a total failure. The shop’s negligence put the entire build at a standstill. When you pay a professional to follow specific tolerances for high end parts, you expect them to actually read the spec sheet. Instead, I ended up with a pile of scrap metal and a hard lesson on who not to trust with my machining.
