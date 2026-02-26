@@ -8,6 +8,13 @@
 {%- endif -%}
 ';
 
+/* Hide the post license section at the bottom of articles */
+.post-copyright, 
+.post-license-display, 
+#post-extend-wrapper .license-wrapper {
+    display: none !important;
+}
+
 .no-zoom {
   pointer-events: none; /* Disables all hover/click interactions */
 }
