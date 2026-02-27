@@ -1,7 +1,7 @@
 ---
 categories: ["Engine"]
 tags: [Camshaft, 12bolt, Engine Build, Inline 6]
-title: "Destiny Unfulfilled: The New Turbo 292 Camshaft"
+title: "Camshaft - CompCams Turbo 292"
 date: 2022-11-14 12:00:00 +0000
 ---
 

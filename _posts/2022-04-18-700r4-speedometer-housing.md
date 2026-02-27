@@ -1,7 +1,7 @@
 ---
 categories: ["Mechanical"]
 tags: [Transmission, 700R4, Speedometer]
-title: 700R4 - Cable Speedometer"
+title: "700R4 - Cable Speedometer"
 date: 2022-04-18 12:00:00 +0000
 ---
 
