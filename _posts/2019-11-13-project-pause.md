@@ -1,8 +1,8 @@
 ---
-categories: ["The Story"]
+categories: ["Exterior"]
 tags: [Hiatus, Preservation, Storage]
-title: "Turbo Camaro Covered in Storage"
-date: 2020-11-13 12:00:00 +0000
+title: "Turbo Camaro Project Pause"
+date: 2019-11-13 12:00:00 +0000
 ---
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">

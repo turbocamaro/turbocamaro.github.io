@@ -1,7 +1,7 @@
 ---
-categories: ["Electrical"]
+categories: ["Mechanical"]
 tags: [Battery, Maintenance, Costco]
-title: "Replacing the 10-Year-Old DieHard"
+title: "Diehard Battery Replacement"
 date: 2018-10-25 12:00:00 +0000
 ---
 
