@@ -1,7 +1,7 @@
 ---
 categories: ["Mechanical"]
 tags: [Transmission, 700R4, Torque Converter, B&M]
-title: "700r4: B&M Tork Master 2000"
+title: "700R4: B&M Tork Master 2000"
 date: 2023-02-12 12:00:00 +0000
 ---
 
@@ -10,7 +10,7 @@ date: 2023-02-12 12:00:00 +0000
   <p style="text-align: center; width: 100%; margin-top: 5px;"><em>The B&M 70420 Tork Master 2000—the final link for the 700R4 swap.</em></p>
 </div>
 
-With the [1992 700R4](/posts/700r4-aquired/) ready and the [newly rebuilt 250 Inline 6](/posts/commitment-to-the-six-the-second-engine-rebuild/) back home, I needed a torque converter to marry the two together. I went with the B&M 70420 Tork Master 2000. 
+With the [1992 700R4](/posts/700r4-aquired/) ready and the [newly rebuilt 250 Inline 6](/posts/engine-rebuild2/) back home, I needed a torque converter to marry the two together. I went with the B&M 70420 Tork Master 2000. 
 
 A torque converter is essentially a fluid coupling that allows the engine to spin somewhat independently of the transmission. For this build, the Tork Master 2000 is ideal because it offers a stall speed of 1900–2100 RPM. This is slightly higher than a stock converter, meaning the engine can rev a little higher into its torque curve before the car starts moving. For a turbocharged Inline 6, this helps the turbo begin to spool just a bit earlier when pulling away from a light, but it stays tight enough to keep the "daily driver" manners intact.
 

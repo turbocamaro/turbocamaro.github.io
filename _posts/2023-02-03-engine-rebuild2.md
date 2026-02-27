@@ -7,10 +7,10 @@ date: 2023-02-03 12:00:00 +0000
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
   <img src="/assets/img/posts/engineredo2_230203/IMG_20220314_094937.jpg" alt="Failed engine removal" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
-  <p style="text-align: center; width: 100%; margin-top: 5px;"><em>March 14, 2022: Pulling the first, failed iteration of the Turbo 250 out of the car. A frustrating day, but the start of doing it right.</em></p>
+  <p style="text-align: center; width: 100%; margin-top: 5px;"><em>March 14, 2022: Pulling the first, failed version of the Turbo 250 out of the car. A frustrating day, but the start of doing it right.</em></p>
 </div>
 
-After the previous Thompson Machine disaster, I spent a lot of time weighing the pros and cons of this approach. The easy move is to cut my losses and drop in a dependable, potent V8 crate engine. It would be cheaper, faster, and infinitely more supported. But that’s not what Turbo Camaro is about. We’re building this the hard way to be different and to create a real custom project that fulfills its original, unique destiny.
+After the previous Thompson Machine disaster, I spent a lot of time weighing the pros and cons of our original engine approach. The easy move is to cut my losses and drop in a dependable, potent V8 crate engine. It would be cheaper, faster, and infinitely more supported. But that’s not what Turbo Camaro is about. We’re building this the hard way to be different and to create a real custom project that fulfills its original, unique destiny.
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
   <img src="/assets/img/posts/engineredo2_230203/IMG_20220314_112351.jpg" alt="Island D Automotive Machine" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
