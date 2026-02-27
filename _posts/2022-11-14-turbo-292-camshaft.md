@@ -6,7 +6,7 @@ date: 2022-11-14 12:00:00 +0000
 ---
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
-  <img src="/assets/img/posts/camshaft_221114/IMG_20221114_100518.jpg" alt="New Turbo 292 Camshaft" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+  <img src="/assets/img/posts/camshaft_221114/IMG_20221114_100518.jpg" alt="New Turbo 292 Camshaft" style="max-width: 45%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
   <p style="text-align: center; width: 100%; margin-top: 5px;"><em>The new "Turbo 292" camshaft sourced through 12bolt.com.</em></p>
 </div>
 
@@ -16,9 +16,6 @@ With the lobes on the previous custom grind wiped out from a poorly configured t
 
 > **Pro-Tip from 12bolt:** The Chevy 250 can use a 250 or 292 cam. You'll have to use an electric fuel pump if a 292 cam is used in a 250. However, a 292 must use a 292 cam to clear the rods.
 
-<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
-  <img src="/assets/img/posts/camshaft_221114/IMG_20221114_100529.jpg" alt="Camshaft lobes" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
-</div>
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
   <img src="/assets/img/posts/camshaft_221114/turbocamcard2022.jpg" alt="Comp Cams Turbo 292 Cam Card" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
