@@ -27,8 +27,3 @@ Before installation, I filled the converter with fluid as suggested. Dry starts 
 </div>
 
 The most critical part of this install is making sure the converter is fully seated on the 700R4 splines. If it’s not all the way in, you’ll destroy the transmission pump the second you bolt the bellhousing to the engine. I made sure it was seated deep before buttoning everything up to the 250's flexplate.
-
-<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
-  <img src="/assets/img/posts/bmconverter_230212/IMG_20230217_163016.jpg" alt="Bolted to flexplate" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
-  <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Bolted up and ready for the first test drive.</em></p>
-</div>
