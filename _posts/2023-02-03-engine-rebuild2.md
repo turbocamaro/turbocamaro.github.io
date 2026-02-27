@@ -20,10 +20,10 @@ For the complete dismantling and rebuild, I turned to a Nanaimo, BC favorite: [I
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
   <img src="/assets/img/posts/engineredo2_230203/IMG_20230203_130114.jpg" alt="Engine block in bubble wrap" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
-  <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Ready for transport. Island D was armed with all the specs, new pistons, the custom cam, and a stack of gaskets needed to do the job right.</em></p>
+  <p style="text-align: center; width: 100%; margin-top: 5px;">
 </div>
 
-They were provided with the complete, damaged engine (wrecked pistons, worn cam, and all), along with the new custom [Comp Cams Turbo 292 Cam](/posts/destiny-unfulfilled-the-new-turbo-292-camshaft/) and [Ross Racing Pistons](/posts/ross-racing-pistons-delivery/) sourced from Tom Lowe at 12bolt.com. Along with a full seal kit, Spa Turbo exhaust manifold, high-performance turbo head and manifold gaskets, a stack of specs, and an earful of backstory, they had everything needed to build this Inline 6 like it deserved to be built in the first place.
+They were provided with the complete, damaged engine (wrecked pistons, worn cam, and all), along with the new custom [Comp Cams Turbo 292 Cam](/posts/turbo-292-camshaft/) and Ross Racing Pistons sourced from Tom Lowe at 12bolt.com. Along with a full seal kit, Spa Turbo exhaust manifold, high-performance turbo head and manifold gaskets, a stack of specs, and an earful of backstory, they had everything needed to build this Inline 6 like it deserved to be built in the first place.
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
   <img src="/assets/img/posts/engineredo2_230203/IMG_20230203_130119.jpg" alt="Fresh Chevy Orange engine paint" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
@@ -41,4 +41,4 @@ Just two weeks later, the engine was picked up in bubble wrap and brought home. 
   <p style="text-align: center; width: 100%; margin-top: 5px;"><em>The Turbo 250 Inline 6, built right, is finally back where it belongs.</em></p>
 </div>
 
-Looking back at the photo, it wwas a great day but that engine bay should have been cleaned first, yikes!
+Looking back at the photo, it was a great day but that engine bay should have been cleaned first, yikes!

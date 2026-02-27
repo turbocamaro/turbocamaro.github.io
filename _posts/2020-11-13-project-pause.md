@@ -1,7 +1,7 @@
 ---
 categories: ["The Story"]
 tags: [Hiatus, Preservation, Storage]
-title: "Project Preservation"
+title: "Turbo Camaro Covered in Storage"
 date: 2020-11-13 12:00:00 +0000
 ---
 
