@@ -1,7 +1,7 @@
 ﻿---
 categories: ["Exterior"]
 tags: [Glass, Tint, Windows]
-title: "Window Tint"
+title: "5% Window Tint"
 date: 2014-02-28 12:00:00 +0000
 ---
 

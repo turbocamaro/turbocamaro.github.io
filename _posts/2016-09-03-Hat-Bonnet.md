@@ -1,7 +1,7 @@
 ﻿---
 categories: ["Turbocharger"]
 tags: [Intake, Carb Hat, Boost]
-title: "Hat / Bonnet"
+title: "Spectre Hat / Bonnet"
 date: 2016-09-03 12:00:00 +0000
 ---
 

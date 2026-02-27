@@ -1,7 +1,7 @@
 ﻿---
 categories: ["Exterior"]
 tags: [Paint, Styling, Stripe]
-title: "Bumblebee Stripe"
+title: "Plasti-Dip Bumblebee Stripe"
 date: 2014-05-23 12:00:00 +0000
 ---
 

@@ -1,7 +1,7 @@
 ﻿---
 categories: ["Mechanical"]
 tags: [Suspension, Shocks, Handling]
-title: "Rear Shock Swap"
+title: "Monroe Shock Swap"
 date: 2007-11-09 12:00:00 +0000
 ---
 

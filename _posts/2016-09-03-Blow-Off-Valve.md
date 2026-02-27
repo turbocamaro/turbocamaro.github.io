@@ -1,13 +1,13 @@
 ﻿---
 categories: ["Turbocharger"]
 tags: [BOV, Intake, Boost]
-title: "Blow Off Valve"
+title: "Wyntomn 38mm Blow Off Valve"
 date: 2016-09-03 12:00:00 +0000
 ---
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/bovtop.jpg" alt="Wyntonm 38mm Blue Anodized Blow Off Valve" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
-<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Wyntonm 38mm Blue Anodized Blow Off Valve - $35</em></p>
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Wyntonm 38mm Anodized Blow Off Valve - $35</em></p>
 </div>
 
 When building a turbo system on a budget, you have to decide where to save and where to spend. For the **Turbo Camaro**, the Blow Off Valve (BOV) was an area where we felt we could find a high-quality "no-name" part. A blow off valve's job is simple: when you let off the throttle and the butterfly closes, the pressurized air needs somewhere to go so it doesn't "surge" back into the turbo compressor.

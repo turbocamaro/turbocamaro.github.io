@@ -1,7 +1,7 @@
 ﻿---
 categories: ["Turbocharger"]
 tags: [Wastegate, Boost Control]
-title: "Wastegate"
+title: "SPA Turbo 35mm Wastegate"
 date: 2016-09-03 12:00:00 +0000
 ---
 

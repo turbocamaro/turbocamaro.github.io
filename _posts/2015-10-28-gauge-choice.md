@@ -1,7 +1,7 @@
 ﻿---
 categories: ["Interior"]
 tags: [Gauges, Instrumentation]
-title: "Gauge Choice"
+title: "So Many Gauge Choices"
 date: 2015-10-28 12:00:00 +0000
 ---
 

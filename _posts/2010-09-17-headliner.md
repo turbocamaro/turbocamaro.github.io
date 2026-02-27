@@ -1,7 +1,7 @@
 ﻿---
 categories: ["Interior"]
 tags: [Headliner, Interior]
-title: "Headliner"
+title: "Restored Headliner"
 date: 2010-09-17 12:00:00 +0000
 ---
 
@@ -11,7 +11,6 @@ date: 2010-09-17 12:00:00 +0000
 </div>
 
 Originally, the goal for Turbo Camaro was to build a daily driver using as many original parts as possible. This "keep it original" mentality led to a series of repairs that eventually needed to be redone properly. One of those "fixes" was the headliner.
-
 
 
 The headliner is a large sheet of vinyl held against the roof by metal rods (bows) that slide through cloth loops (listings) sewn to the backside of the material. Our original Marina Blue liner was saggy and had a small tear near the windshield. The initial plan: remove it, spray it black with **SEM Vinyl Coat**, and reinstall it.

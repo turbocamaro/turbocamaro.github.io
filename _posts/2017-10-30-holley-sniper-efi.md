@@ -1,7 +1,7 @@
 ﻿---
 categories: ["Fuel & Tuning"]
 tags: [EFI, Holley Sniper, Tuning]
-title: "Holley Sniper EFI"
+title: "Holley Sniper EFI Master Kit"
 date: 2017-10-30 12:00:00 +0000
 ---
 

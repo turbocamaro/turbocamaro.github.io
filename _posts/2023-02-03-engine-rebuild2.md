@@ -1,7 +1,7 @@
 ---
 categories: ["Engine"]
 tags: [Engine Build, Inline 6, Turbo, Island D Automotive]
-title: "Engine Rebuild #2: Commitment to the Six"
+title: "Engine Rebuild #2: The Six is Back"
 date: 2023-02-03 12:00:00 +0000
 ---
 

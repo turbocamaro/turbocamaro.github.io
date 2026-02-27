@@ -1,7 +1,7 @@
 ﻿---
 categories: ["Mechanical"]
 tags: [Transmission, Shift Kit, Performance]
-title: "Shift Kit Install"
+title: "TH350 - Transgo Shift Kit"
 date: 2016-06-16 12:00:00 +0000
 ---
 

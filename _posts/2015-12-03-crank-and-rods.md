@@ -1,7 +1,7 @@
 ﻿---
 categories: ["Engine"]
 tags: [Bottom End, Crank, Rods]
-title: "Crank & Rods"
+title: "Drilled Crank & ARP'd Rods"
 date: 2015-12-03 12:00:00 +0000
 ---
 
@@ -17,14 +17,12 @@ date: 2015-12-03 12:00:00 +0000
 
 The Chevy 250 is a very robust motor, built for durability and economy. Luckily that durability transferred to most of the internal components. The cast crankshaft and forged connecting rods have been known to handle 500-600HP without issue. There are probably some people who have managed to break one or the other at 450HP, but there are also others who have made it to 700HP+, so let's stick with averages.
 
-[Image showing a comparison between stock rod bolts and heavy-duty ARP rod bolts]
-
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/corvair_080427a.jpg" alt="Drilling and tapping crank" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
 <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Drilling & tapping the crank nose</em></p>
 </div>
 
-Turbo Camaro is expecting to initially dyno near 350HP and a similar amount of torque. The stock crankshaft will be used but not until after polishing, balancing, and the nose is drilled/tapped. The [machine shop](/posts/machine-shop-work/){:target="_blank"} will use a 25/64 drill bit and a 7/16 x 20 tap. This process allows the use of a balancer puller/install tool and a retaining bolt after assembly.
+Turbo Camaro is expecting to initially dyno near 350HP and a similar amount of torque. The stock crankshaft will be used but not until after polishing, balancing, and the nose is drilled/tapped. The [machine shop](/posts/machine-shop-selection-amp-work-list/) will use a 25/64 drill bit and a 7/16 x 20 tap. This process allows the use of a balancer puller/install tool and a retaining bolt after assembly.
 
 The machine shop confirmed the stock forged rods were mint and were needed to balance the rotating assembly. The weak link with the stock rods are the bolts holding them to the crank. For this build, ARP rod bolts will be used to make the rods near bulletproof.
 

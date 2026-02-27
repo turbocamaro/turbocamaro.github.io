@@ -1,7 +1,7 @@
 ﻿---
 categories: ["Exterior"]
 tags: [Lighting, HID, Exterior]
-title: "HID Conversion"
+title: "HID Headlight Conversion"
 date: 2014-03-22 12:00:00 +0000
 ---
 
