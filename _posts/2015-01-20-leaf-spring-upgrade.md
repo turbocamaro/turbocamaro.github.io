@@ -1,7 +1,7 @@
 ﻿---
 categories: ["Mechanical"]
 tags: [Suspension, Rear End, Leaf Springs]
-title: "Leaf Spring Upgrade"
+title: "Multi-Leaf Spring Upgrade"
 date: 2015-01-20 12:00:00 +0000
 ---
 

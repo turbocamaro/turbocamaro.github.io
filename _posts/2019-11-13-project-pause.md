@@ -1,7 +1,7 @@
 ---
 categories: ["Exterior"]
 tags: [Hiatus, Preservation, Storage]
-title: "Turbo Camaro -Paused-"
+title: "Turbo Camaro: -Paused-"
 date: 2019-11-13 12:00:00 +0000
 ---
 

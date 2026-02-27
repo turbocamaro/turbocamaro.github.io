@@ -7,7 +7,7 @@ date: 2023-02-17 12:00:00 +0000
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
   <img src="/assets/img/posts/700r4installed_230212/IMG_20230212_154803.jpg" alt="700R4 and B&M Converter" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
-  <p style="text-align: center; width: 100%; margin-top: 5px;"><em>The 700R4 fitted with the [B&M Tork Master 2000](/posts/the-handshake-installing-the-bm-tork-master-2000/).</em></p>
+  <p style="text-align: center; width: 100%; margin-top: 5px;"><em>The 700R4 fitted with the [B&M Tork Master 2000](/posts/bm-torque-converter/).</em></p>
 </div>
 
 After pulling the [old TH350](/posts/th350-for-sale/), the first hurdle of the 700R4 swap was the physical length. The 700R4 case is longer, meaning the original crossmember position needed adjustment. I had to slide the crossmember back several inches on the frame rails to align with the new mount location at the tail of the 700R4. 
