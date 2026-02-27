@@ -1,7 +1,7 @@
 ---
 categories: ["Mechanical"]
 tags: [Transmission, 700R4, Torque Converter, B&M]
-title: "The Handshake: Installing the B&M Tork Master 2000"
+title: "700r4: B&M Tork Master 2000"
 date: 2023-02-12 12:00:00 +0000
 ---
 
