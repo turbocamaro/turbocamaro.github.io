@@ -36,4 +36,4 @@ Accuracy is the biggest headache with these swaps. I checked the stamp on our Ha
   <p style="text-align: center; width: 100%; margin-top: 5px;"><em>The new manual cable housing kit including the required seals and clip.</em></p>
 </div>
 
-I spent about $120 for the housing, the gear, and some fresh seals from [Classic Transmission Solutions](https://www.classictransmissionsolutions.com/). The parts showed up a week later and the swap was straightforward. That's one of the few prerequisites to swap from the old TH350 to the 700R4.
+I spent about $120 for the housing, the gear, and some fresh seals from [Classic Transmission Solutions](https://www.classictransmissionsolutions.com/). The parts showed up a week later and the swap was straightforward. That's one of the prerequisites done to swap from the TH350 to our newish 700R4.
