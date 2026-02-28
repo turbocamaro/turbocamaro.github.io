@@ -1,7 +1,7 @@
 ---
 categories: ["Cooling"]
 tags: [Fabrication, Fiberglass, Cooling, DIY]
-title: "Custom Fiberglass Fan Shroud"
+title: "Custom Airflow: DIY Fiberglass Fan Shroud"
 date: 2025-07-26 12:00:00 +0000
 ---
 
@@ -22,10 +22,10 @@ The [Flex-a-lite fan](/posts/flexfan/) I installed a few years ago helped, but I
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/fanshroud_250726/Screenshot 2026-02-28 002447.png" alt="Cloth stretched over mold" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
-<p style="text-align: center; width: 100%; margin-top: 5px;"><em>The base fabric stretched tight. Unfortunately, the fabric used here was a bit thin and caused some waves in the final product.</em></p>
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>The base fabric stretched tight. This defines the final surface of the shroud. Unfortunately, the fabric used here was a bit thin and caused some waves in the final product.</em></p>
 </div>
 
-4. **Apply a Release Layer:** Wrap the cloth in plastic to prevent the resin from bonding to the wood.
+4. **Apply a Release Layer:** Wrap the cloth in plastic to prevent the resin from bonding to the wood. {:start="4"}
    * **Pro-Tip:** I used duct tape, but the heat from the fiberglass resin caused the tape glue to fail and wrinkle. Use a light poly plastic or a dedicated mold release agent for a smoother internal finish.
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
@@ -33,21 +33,21 @@ The [Flex-a-lite fan](/posts/flexfan/) I installed a few years ago helped, but I
 <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Duct tape was used here, which inevitably failed and caused wrinkling under the fiberglass. Tape is not recommended. Note the Bondo kits on display as well.</em></p>
 </div>
 
-5. **Lay the Fiberglass:** Apply the fiberglass resin and cloth. I used almost two full Bondo Fiberglass Repair Kits to achieve a strong 4-5 layer thickness.
+5. **Lay the Fiberglass:** Apply the fiberglass resin and cloth. I used almost two full Bondo Fiberglass Repair Kits to achieve a strong 4-5 layer thickness. {:start="5"}
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/fanshroud_250726/20250719_145326.jpg" alt="Fiberglassing the mold" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
 <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Applying the layers. The resin generates significant heat as it cures.</em></p>
 </div>
 
-6. **Dismantle the Mold:** Once the resin is fully cured, carefully remove the wood framing. You may need to cut or pry the wood segments apart to get them out of the center opening.
+6. **Dismantle the Mold:** Once the resin is fully cured, carefully remove the wood framing. You may need to cut or pry the wood segments apart to get them out of the center opening. {:start="6"}
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/fanshroud_250726/20250725_125717.jpg" alt="Shroud after mold removal" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
 <p style="text-align: center; width: 100%; margin-top: 5px;"><em>The raw shell after pulling the internal wood structure. Notice the fitment of the fan in the cutout.</em></p>
 </div>
 
-7. **Trim to Fit:** Re-measure your fitment and cut away excess fiberglass strands. Cut the fan opening to allow roughly 1/2" to 5/8" of clearance around the blades.
+7. **Trim to Fit:** Re-measure your fitment and cut away excess fiberglass strands. Cut the fan opening to allow roughly 1/2" to 5/8" of clearance around the blades. {:start="7"}
    * **Ideal Placement:** Aim for the shroud to sit with the fan blades sitting exactly halfway in and halfway out of the shroud opening for maximum draw.
 8. **Sand the Surface:** Sand the finished product just like you would wood, starting with a coarse grit and moving to finer grits to remove imperfections.
 9. **Paint for Finish:** While not strictly required for function, painting the shroud adds a custom, professional look to the engine bay.
