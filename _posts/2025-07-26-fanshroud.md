@@ -1,7 +1,7 @@
 ---
 categories: ["Cooling"]
 tags: [Fabrication, Fiberglass, Cooling, DIY]
-title: "Custom Airflow: DIY Fiberglass Fan Shroud"
+title: "Custom Fiberglass Fan Shroud"
 date: 2025-07-26 12:00:00 +0000
 ---
 
@@ -22,7 +22,7 @@ The [Flex-a-lite fan](/posts/flexfan/) I installed a few years ago helped, but I
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/fanshroud_250726/Screenshot 2026-02-28 002447.png" alt="Cloth stretched over mold" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
-<p style="text-align: center; width: 100%; margin-top: 5px;"><em>The base fabric stretched tight. This defines the final surface of the shroud. Unfortunately the fabric used here was a bit thin and caused some waves in the final product.</em></p>
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>The base fabric stretched tight. Unfortunately, the fabric used here was a bit thin and caused some waves in the final product.</em></p>
 </div>
 
 4. **Apply a Release Layer:** Wrap the cloth in plastic to prevent the resin from bonding to the wood.
@@ -30,7 +30,7 @@ The [Flex-a-lite fan](/posts/flexfan/) I installed a few years ago helped, but I
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/fanshroud_250726/Screenshot 2026-02-28 002755.png" alt="Resin and matting prep" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
-<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Instead of plastic, duct tape was used here, which inevitably failed and caused wrinkling under the fiberglasss. It looked worse than it was, but tape is not recommended. Note the Bondo kits on display as well.</em></p>
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Duct tape was used here, which inevitably failed and caused wrinkling under the fiberglass. Tape is not recommended. Note the Bondo kits on display as well.</em></p>
 </div>
 
 5. **Lay the Fiberglass:** Apply the fiberglass resin and cloth. I used almost two full Bondo Fiberglass Repair Kits to achieve a strong 4-5 layer thickness.
@@ -66,4 +66,4 @@ The difference in cooling at idle was significant. Before the shroud, the temps 
 <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Installed and functional. No more sweating at stoplights.</em></p>
 </div>
 
-We may want to upgrade the radiator in the future, as some weeping has been detected on the driver side edge. It'll do for now as we push forward with the build. 
+We may want to upgrade the radiator in the future, as some weeping has been detected on the driver side edge. It'll do for now as we push forward with the build.
