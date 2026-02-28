@@ -38,5 +38,3 @@ Let's break this down: EV's dyno sheets show an average overall power increase o
 </div>
 
 The Spectre hat worked perfectly for the original build setup but upon installation of the turbocharger, the decision was made to have the pressurized piping cross over the valve cover. A riser was required to raise the Spectre hat up enough to clear the cover, but even then the downward angle of the hat opening hit the cover. Approximately 1.5" of the hat was cut off to allow it to cross over. With a silicone 4-3" reducer, the hat functions the same and now has the clearance we need.
-
-If you have any questions, please feel free to contact us at [turbochargedcamaro@gmail.com](mailto:turbochargedcamaro@gmail.com).
