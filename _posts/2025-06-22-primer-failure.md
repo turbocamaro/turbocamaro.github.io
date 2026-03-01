@@ -1,7 +1,7 @@
 ---
-categories: ["Body"]
+categories: ["Exterior"]
 tags: [Restoration, Painting, Fabrication, DIY, Primer]
-title: "The Hard Truth: Chemical Incompatibility and Primer Failure"
+title: "Epoxy Primer Incompatibility & Failure"
 date: 2025-06-22 12:00:00 +0000
 ---
 

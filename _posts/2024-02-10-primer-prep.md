@@ -1,7 +1,7 @@
 ---
-categories: ["Body"]
+categories: ["Exterior"]
 tags: [Paint, Restoration, Bodywork, DIY]
-title: "The Tremclad Reckoning: Prepping for Primer"
+title: "Tremclad Reckoning: Prepping Again!"
 date: 2024-02-10 12:00:00 +0000
 ---
 

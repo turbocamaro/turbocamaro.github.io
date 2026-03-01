@@ -1,5 +1,5 @@
 ---
-categories: ["Cooling"]
+categories: ["Mechanical"]
 tags: [Fabrication, Fiberglass, Cooling, DIY]
 title: "Custom Fiberglass Fan Shroud"
 date: 2025-07-26 12:00:00 +0000
