@@ -70,14 +70,15 @@ blockquote.prompt-info {
     z-index: 2;
     display: block !important;
     
-    /* Use Transition instead of Animation to prevent the "glitch" */
-    /* This handles the "deceleration" feel */
-    transition: transform 8s linear; 
+    /* We use a CSS variable for the speed so it changes instantly without resetting the 'loop' */
+    --spin-speed: 8s; 
+    animation: tc-spin-ccw var(--spin-speed) infinite linear;
 }
 
-/* When launching, we shorten the transition time to make it snap-accelerate */
+/* When launching, we just update the variable. 
+   The browser keeps the current rotation progress but changes the 'tempo'. */
 .is-launching {
-    transition: transform 0.6s ease-in-out !important;
+    --spin-speed: 0.6s !important;
 }
 
 @keyframes tc-spin-ccw {

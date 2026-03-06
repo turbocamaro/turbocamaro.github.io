@@ -3,6 +3,14 @@ layout: page
 permalink: /
 hide_title: true
 ---
+<STYLE>
+/* --- Landing Page Logo Kill --- */
+/* This hides the topbar logo ONLY on the home page */
+#topbar-title {
+    display: none !important;
+    opacity: 0 !important;
+}
+</STYLE>
 
 <div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; cursor: pointer; z-index: 100;" markdown="0">
   <div style="position: relative; width: 320px; height: 320px; pointer-events: none;">
@@ -31,41 +39,22 @@ Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | 
 
 <script>
   (function() {
-    const track = document.getElementById('racetrack');
-    let currentRotation = 0;
-
-    // Function to keep the "Idle" rotation going
-    function idleSpin() {
-      if (!track.classList.contains('is-launching')) {
-        currentRotation -= 360; // Keep spinning counter-clockwise
-        track.style.transform = `rotate(${currentRotation}deg)`;
-      }
-    }
-
-    // Start the idle spin immediately
-    let idleInterval = setInterval(idleSpin, 8000);
-    idleSpin(); // Run once at start
-
+    // We attach the listener to the window so it's robust
     window.addEventListener('click', function(event) {
       const container = event.target.closest('#launch-container');
-      
-      if (container && !track.classList.contains('is-launching')) {
-        // 1. Stop the idle timer
-        clearInterval(idleInterval);
-        
-        // 2. Add the fast transition class
-        track.classList.add('is-launching');
-        
-        // 3. Add 3 full rotations (1080 degrees) to current position
-        currentRotation -= 1080; 
-        track.style.transform = `rotate(${currentRotation}deg)`;
+      const track = document.getElementById('racetrack');
 
-        // 4. After the "Launch" (0.6s), go back to idle
-        setTimeout(() => {
-          track.classList.remove('is-launching');
-          // Restart the idle loop from the new position
-          idleInterval = setInterval(idleSpin, 8000);
-        }, 600); // Matches the 0.6s CSS transition
+      if (container && track) {
+        if (!track.classList.contains('is-launching')) {
+          // 1. Hit the gas
+          track.classList.add('is-launching');
+          
+          // 2. Stay at full throttle for 1.2 seconds (roughly 2 laps at 0.6s)
+          setTimeout(() => {
+            // 3. Let off the gas
+            track.classList.remove('is-launching');
+          }, 1200);
+        }
       }
     });
   })();
