@@ -4,8 +4,8 @@ permalink: /
 hide_title: true
 ---
 
-<div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; cursor: pointer; z-index: 10;" markdown="0">
-  <div style="position: relative; width: 320px; height: 320px;">
+<div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; cursor: pointer; z-index: 9999; -webkit-tap-highlight-color: transparent;" markdown="0">
+  <div style="position: relative; width: 320px; height: 320px; pointer-events: none;">
     <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" 
          class="no-zoom tc-base-logo" 
          style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;" 
@@ -20,24 +20,37 @@ hide_title: true
 </div>
 
 <script>
-  // Wait for DOM to load to ensure IDs are findable
-  document.addEventListener("DOMContentLoaded", function() {
-    const container = document.getElementById('launch-container');
-    const track = document.getElementById('racetrack');
+  // This ensures the script runs even if the page loads partially
+  (function() {
+    function initLaunch() {
+      const container = document.getElementById('launch-container');
+      const track = document.getElementById('racetrack');
 
-    if (container && track) {
-      container.addEventListener('click', function(e) {
-        e.preventDefault();
-        if (!track.classList.contains('is-launching')) {
-          track.classList.add('is-launching');
-          setTimeout(() => {
-            track.classList.remove('is-launching');
-          }, 1500);
-        }
-      });
+      if (container && track) {
+        // Add listener to the container so the whole 320x320 area is clickable
+        container.addEventListener('click', function(e) {
+          if (!track.classList.contains('is-launching')) {
+            track.classList.add('is-launching');
+            
+            // 1.5 seconds of high-speed rotation
+            setTimeout(() => {
+              track.classList.remove('is-launching');
+            }, 1500);
+          }
+        });
+      }
     }
-  });
+
+    // Run on initial load
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initLaunch);
+    } else {
+      initLaunch();
+    }
+  })();
 </script>
+
+
 
 Follow along and witness a transformation as this base model 1967 Chevrolet Camaro receives custom fabrication and modern styling all backed by a turbocharged alcohol injected highly modified 250 cubic inch inline 6 engine. No big sponsors or corporate bill folds, every upgrade is completed by a regular guy on a family conscious budget. Since 2007, this has been a work in progress, but 20+ years later, things are just getting interesting.
 
