@@ -11,7 +11,7 @@ The [Flex-a-lite fan](/posts/flexfan/) I installed a few years ago helped, but I
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/fanshroud_250726/Screenshot 2026-02-28 002318.png" alt="Wood mold frame" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
-<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Step 1: Building the internal wood structure to define the shape and depth.</em></p>
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>Building the internal wood structure to define the shape and depth.</em></p>
 </div>
 
 ### The Build Process

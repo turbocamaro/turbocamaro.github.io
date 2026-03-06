@@ -22,7 +22,7 @@ I eventually sourced a specialized manifold from SPA Turbo. Based in Brazil, SPA
 The design is convenient because the [CX Racing Turbocharger](/posts/turbocharger/) and a matching [SPA Turbo Wastegate](/posts/wastegate/) could technically bolt right on. However, in the cramped engine bay of a '67 Camaro, the shock tower and engine mounts are completely in the way. While a large truck might have the clearance for a direct mount, this car required a more creative solution.
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
-<img src="/assets/img/posts/turbouppipe_230610/IMG_20230610_135416.jpg" alt="Uppipe detail" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<img src="/assets/img/posts/turbouppipe_230610/IMG_20230610_135416.jpg" alt="Uppipe detail" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
 </div>
 
 The manifold was pre-painted black, and a custom up-pipe was crafted to relocate the turbo to a mid-bay position. This provides a much cleaner look and allows for a more central location for the hot side components. The trade-off is that the downpipe will now need to be custom fitted, but the short runipes and familiar orientation should make that a straightforward task.

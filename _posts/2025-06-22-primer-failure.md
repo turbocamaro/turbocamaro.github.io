@@ -12,8 +12,7 @@ After months of meticulous sanding and experimenting with spray-can epoxy primer
 <p style="text-align: center; width: 100%; margin-top: 5px;"><em>The equipment was top-tier, but the chemistry was against me.</em></p>
 </div>
 
-> **Pro-Tip: The Fuji Mini-Mite 4 Platinum**
-> This unit is a beast for high-viscosity coatings. Its 4-stage turbine provides enough pressure to atomize thick epoxy primers without excessive thinning. It proved that it could produce a professional-grade finish—the mechanical application was nearly perfect before the chemical reaction took over. If you are spraying heavy primers or enamels in a home shop, a 4-stage system like this is the benchmark for avoiding "orange peel" caused by under-atomization.
+* **Pro-Tip:** The Fuji Mini-Mite 4 Platinum** This unit is a beast for high-viscosity coatings. Its 4-stage turbine provides enough pressure to atomize thick epoxy primers without excessive thinning. It proved that it could produce a professional-grade finish—the mechanical application was nearly perfect before the chemical reaction took over. If you are spraying heavy primers or enamels in a home shop, a 4-stage system like this is the benchmark for avoiding "orange peel" caused by under-atomization.
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/2025-06-22-primer-failure/Screenshot_20260228_104200_VLC.jpg" alt="Booth ventilation" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
