@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: home
 permalink: /
 hide_title: true
 ---
 
-<div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; cursor: pointer; z-index: 9999; -webkit-tap-highlight-color: transparent;" markdown="0">
+<div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; cursor: pointer; z-index: 100;" markdown="0">
   <div style="position: relative; width: 320px; height: 320px; pointer-events: none;">
     <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" 
          class="no-zoom tc-base-logo" 
@@ -19,45 +19,34 @@ hide_title: true
   </div>
 </div>
 
-<script>
-  // This ensures the script runs even if the page loads partially
-  (function() {
-    function initLaunch() {
-      const container = document.getElementById('launch-container');
-      const track = document.getElementById('racetrack');
-
-      if (container && track) {
-        // Add listener to the container so the whole 320x320 area is clickable
-        container.addEventListener('click', function(e) {
-          if (!track.classList.contains('is-launching')) {
-            track.classList.add('is-launching');
-            
-            // 1.5 seconds of high-speed rotation
-            setTimeout(() => {
-              track.classList.remove('is-launching');
-            }, 1500);
-          }
-        });
-      }
-    }
-
-    // Run on initial load
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', initLaunch);
-    } else {
-      initLaunch();
-    }
-  })();
-</script>
-
-
-
 Follow along and witness a transformation as this base model 1967 Chevrolet Camaro receives custom fabrication and modern styling all backed by a turbocharged alcohol injected highly modified 250 cubic inch inline 6 engine. No big sponsors or corporate bill folds, every upgrade is completed by a regular guy on a family conscious budget. Since 2007, this has been a work in progress, but 20+ years later, things are just getting interesting.
 
-<div style="max-width: 540px; margin: 2rem auto;" markdown="0">
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/b_vNRvV7slQ" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<div id="video-wrapper" style="max-width: 540px; margin: 2rem auto;" markdown="0">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/b_vNRvV7slQ" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 </div>
 
 Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | relative_url }}).
+
+<script>
+  (function() {
+    const launchHandler = function(event) {
+      const container = event.target.closest('#launch-container');
+      const track = document.getElementById('racetrack');
+
+      // Only fire if we clicked the container and NOT the video wrapper
+      if (container && track && !event.target.closest('#video-wrapper')) {
+        if (!track.classList.contains('is-launching')) {
+          track.classList.add('is-launching');
+          setTimeout(() => {
+            track.classList.remove('is-launching');
+          }, 1500);
+        }
+      }
+    };
+
+    // Attach to the main window to bypass layout restrictions
+    window.addEventListener('click', launchHandler);
+  })();
+</script>
