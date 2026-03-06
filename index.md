@@ -9,9 +9,16 @@ hide_title: true
 /* Reversed the rotation to counter-clockwise */
 @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(-360deg); } }
 .spinning-track { animation: spin 6s linear infinite; }
+
+/* Mobile-only shift for logo and racetrack overlay */
+@media (max-width: 768px) {
+ #launch-container { margin-top: 2.0rem; 
+ }
+}
+
 </style>
 
-<div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; margin-top: -0.4rem; cursor: pointer;" markdown="0">
+<div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; cursor: pointer;" markdown="0">
 <div style="position: relative; width: 320px; height: 320px;">
 <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" class="no-zoom" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 205px; height: auto; z-index: 1; opacity: 1 !important; visibility: visible !important;" alt="Logo">
 <img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" class="no-zoom" class="spinning-track" style="position: absolute; top: 0; left: 0; width: 320px; height: 320px; z-index: 2; opacity: 1 !important; visibility: visible !important; object-fit: contain;" alt="Racetrack">
