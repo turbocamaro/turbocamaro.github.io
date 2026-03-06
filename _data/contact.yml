@@ -16,8 +16,3 @@
   icon: "fas fa-envelope"
   url: "mailto:ian@turbocamaro.ca"
   noblank: true
-
-- type: rss
-  icon: "fas fa-rss"
-  url: "/feed.xml"
-  noblank: true
