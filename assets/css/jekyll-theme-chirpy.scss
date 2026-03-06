@@ -72,13 +72,13 @@ blockquote.prompt-info { /* Sometimes used as a fallback for license info */
 @media (max-width: 768px) {
   .tc-base-logo {
     /* Pushes the logo down 20px */
-    transform: translateY(20px) !important;
+    transform: translateY(50px) !important;
   }
 
   .tc-rotating-overlay {
     /* Keeps the 50% center alignment BUT adds a 20px downward shift */
     /* Note: We must keep the translate(-50%, -50%) if you are using it to center */
-    top: calc(50% + 20px) !important;
+    top: calc(50% + 50px) !important;
   }
 }
 
