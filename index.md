@@ -31,19 +31,42 @@ Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | 
 
 <script>
   (function() {
-    const launchHandler = function(event) {
-      const container = event.target.closest('#launch-container');
-      const track = document.getElementById('racetrack');
+    const track = document.getElementById('racetrack');
+    let currentRotation = 0;
 
-      if (container && track) {
-        if (!track.classList.contains('is-launching')) {
-          track.classList.add('is-launching');
-          setTimeout(() => {
-            track.classList.remove('is-launching');
-          }, 1500);
-        }
+    // Function to keep the "Idle" rotation going
+    function idleSpin() {
+      if (!track.classList.contains('is-launching')) {
+        currentRotation -= 360; // Keep spinning counter-clockwise
+        track.style.transform = `rotate(${currentRotation}deg)`;
       }
-    };
-    window.addEventListener('click', launchHandler);
+    }
+
+    // Start the idle spin immediately
+    let idleInterval = setInterval(idleSpin, 8000);
+    idleSpin(); // Run once at start
+
+    window.addEventListener('click', function(event) {
+      const container = event.target.closest('#launch-container');
+      
+      if (container && !track.classList.contains('is-launching')) {
+        // 1. Stop the idle timer
+        clearInterval(idleInterval);
+        
+        // 2. Add the fast transition class
+        track.classList.add('is-launching');
+        
+        // 3. Add 3 full rotations (1080 degrees) to current position
+        currentRotation -= 1080; 
+        track.style.transform = `rotate(${currentRotation}deg)`;
+
+        // 4. After the "Launch" (0.6s), go back to idle
+        setTimeout(() => {
+          track.classList.remove('is-launching');
+          // Restart the idle loop from the new position
+          idleInterval = setInterval(idleSpin, 8000);
+        }, 600); // Matches the 0.6s CSS transition
+      }
+    });
   })();
 </script>

@@ -69,13 +69,15 @@ blockquote.prompt-info {
     max-width: none !important;
     z-index: 2;
     display: block !important;
-    animation: tc-spin-ccw 8s infinite linear; 
-    transition: animation-duration 0.6s ease-in;
+    
+    /* Use Transition instead of Animation to prevent the "glitch" */
+    /* This handles the "deceleration" feel */
+    transition: transform 8s linear; 
 }
 
+/* When launching, we shorten the transition time to make it snap-accelerate */
 .is-launching {
-    animation-duration: 0.7s !important; 
-    transition: animation-duration 0.3s ease-out;
+    transition: transform 0.6s ease-in-out !important;
 }
 
 @keyframes tc-spin-ccw {
