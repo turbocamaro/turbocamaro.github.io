@@ -74,8 +74,8 @@ blockquote.prompt-info {
 }
 
 .is-launching {
-    animation-duration: 0.4s !important; 
-    transition: animation-duration 0.2s ease-out;
+    animation-duration: 0.6s !important; 
+    transition: animation-duration 0.3s ease-out;
 }
 
 @keyframes tc-spin-ccw {
@@ -133,10 +133,28 @@ blockquote.prompt-info {
         transition: all 0.1s ease !important;
     }
     
-    /* Ensure home page logo stays dead on mobile too */
-    body[path="/"] #topbar-title {
+/* --- Landing Page Logo Kill --- */
+/* If the launch container exists, hide the topbar title */
+#main-wrapper:has(#launch-container) ~ #topbar-wrapper #topbar-title,
+#topbar-wrapper:has(~ #main-wrapper #launch-container) #topbar-title {
+    display: none !important;
+}
+
+/* Fallback: Standard path-based hide */
+body[path="/"] #topbar-title,
+body[path=""] #topbar-title {
+    display: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+}
+
+/* Specific Mobile Overwrite */
+@media (max-width: 849px) {
+    body[path="/"] #topbar-title,
+    #main-wrapper:has(#launch-container) ~ #topbar-wrapper #topbar-title {
         display: none !important;
     }
+}
 
     #main-wrapper {
         padding-top: 60px !important;
