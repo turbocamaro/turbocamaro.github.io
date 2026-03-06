@@ -74,7 +74,7 @@ blockquote.prompt-info {
 }
 
 .is-launching {
-    animation-duration: 0.6s !important; 
+    animation-duration: 0.7s !important; 
     transition: animation-duration 0.3s ease-out;
 }
 
@@ -158,6 +158,23 @@ body[path=""] #topbar-title {
 
     #main-wrapper {
         padding-top: 60px !important;
+    }
+}
+
+/* Remove the empty title gap at the top of pages */
+#main-wrapper .container {
+    padding-top: 1rem !important; /* Reduces the standard 3rem-4rem gap */
+}
+
+/* Specifically pull the launch container up */
+#launch-container {
+    margin-top: -30px !important; /* Pulls it up further to fix the 50px gap */
+}
+
+/* Mobile-specific gap adjustment */
+@media (max-width: 849px) {
+    #launch-container {
+        margin-top: -10px !important; /* Less aggressive pull on mobile */
     }
 }
 
