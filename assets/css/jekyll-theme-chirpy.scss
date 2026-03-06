@@ -53,11 +53,14 @@ blockquote.prompt-info {
 }
 
 /* --- Main Page Logo & Racetrack --- */
-.tc-base-logo {
-    width: 205px !important; 
-    height: auto !important;
-    z-index: 1;
-    display: block !important;
+#launch-container {
+    pointer-events: auto !important; /* Ensures the container can be clicked */
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.tc-base-logo, .tc-rotating-overlay {
+    pointer-events: none !important; /* Prevents images from "eating" the click */
 }
 
 .tc-rotating-overlay {
@@ -70,15 +73,14 @@ blockquote.prompt-info {
     z-index: 2;
     display: block !important;
     
-    /* We use a CSS variable for the speed so it changes instantly without resetting the 'loop' */
-    --spin-speed: 8s; 
-    animation: tc-spin-ccw var(--spin-speed) infinite linear;
+    /* Using a very specific animation to prevent glitches */
+    animation: tc-spin-ccw 8s infinite linear; 
 }
 
-/* When launching, we just update the variable. 
-   The browser keeps the current rotation progress but changes the 'tempo'. */
+/* Acceleration class */
 .is-launching {
-    --spin-speed: 0.6s !important;
+    /* Adjust to 0.6s or 0.7s for your 3/4 speed preference */
+    animation-duration: 0.6s !important; 
 }
 
 @keyframes tc-spin-ccw {

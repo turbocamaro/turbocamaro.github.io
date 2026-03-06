@@ -12,7 +12,7 @@ hide_title: true
 }
 </STYLE>
 
-<div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; cursor: pointer; z-index: 100;" markdown="0">
+<div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; cursor: pointer; z-index: 999; margin-top: -30px;" markdown="0">
   <div style="position: relative; width: 320px; height: 320px; pointer-events: none;">
     <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" 
          class="no-zoom tc-base-logo" 
@@ -39,21 +39,19 @@ Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | 
 
 <script>
   (function() {
-    // We attach the listener to the window so it's robust
-    window.addEventListener('click', function(event) {
-      const container = event.target.closest('#launch-container');
+    // Attach listener to window so it can't be "blocked" by other divs
+    window.addEventListener('mousedown', function(e) {
+      const container = document.getElementById('launch-container');
       const track = document.getElementById('racetrack');
-
-      if (container && track) {
-        if (!track.classList.contains('is-launching')) {
-          // 1. Hit the gas
+      
+      // Check if the click happened inside the container area
+      if (container && container.contains(e.target) || e.target === container) {
+        if (track && !track.classList.contains('is-launching')) {
           track.classList.add('is-launching');
           
-          // 2. Stay at full throttle for 1.2 seconds (roughly 2 laps at 0.6s)
           setTimeout(() => {
-            // 3. Let off the gas
             track.classList.remove('is-launching');
-          }, 1200);
+          }, 1500);
         }
       }
     });
