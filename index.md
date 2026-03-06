@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 permalink: /
 hide_title: true
 ---
@@ -35,8 +35,7 @@ Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | 
       const container = event.target.closest('#launch-container');
       const track = document.getElementById('racetrack');
 
-      // Only fire if we clicked the container and NOT the video wrapper
-      if (container && track && !event.target.closest('#video-wrapper')) {
+      if (container && track) {
         if (!track.classList.contains('is-launching')) {
           track.classList.add('is-launching');
           setTimeout(() => {
@@ -45,8 +44,6 @@ Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | 
         }
       }
     };
-
-    // Attach to the main window to bypass layout restrictions
     window.addEventListener('click', launchHandler);
   })();
 </script>
