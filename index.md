@@ -12,8 +12,8 @@ hide_title: true
 }
 </STYLE>
 
-<div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; cursor: pointer; z-index: 999; margin-top: -30px;" markdown="0">
-  <div style="position: relative; width: 320px; height: 320px; pointer-events: none;">
+<div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; cursor: pointer; z-index: 999;" markdown="0">
+  <div style="position: relative; width: 320px; height: 320px;">
     <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" 
          class="no-zoom tc-base-logo" 
          style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;" 
@@ -39,21 +39,22 @@ Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | 
 
 <script>
   (function() {
-    // Attach listener to window so it can't be "blocked" by other divs
-    window.addEventListener('mousedown', function(e) {
+    // We use a robust listener that works on mobile and desktop
+    const handler = function(e) {
       const container = document.getElementById('launch-container');
       const track = document.getElementById('racetrack');
       
-      // Check if the click happened inside the container area
-      if (container && container.contains(e.target) || e.target === container) {
+      if (container && (e.target === container || container.contains(e.target))) {
         if (track && !track.classList.contains('is-launching')) {
           track.classList.add('is-launching');
-          
           setTimeout(() => {
             track.classList.remove('is-launching');
           }, 1500);
         }
       }
-    });
+    };
+
+    window.addEventListener('mousedown', handler);
+    window.addEventListener('touchstart', handler);
   })();
 </script>
