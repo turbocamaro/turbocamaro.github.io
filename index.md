@@ -3,48 +3,38 @@ layout: page
 permalink: /
 hide_title: true
 ---
-<style>
-#topbar-title { display: none !important; }
-#main-wrapper { padding-top: 0 !important; }
-/* Reversed the rotation to counter-clockwise */
-@keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(-360deg); } }
-.spinning-track { animation: spin 6s linear infinite; }
 
-/* Mobile-only shift for logo and racetrack overlay */
-@media (max-width: 768px) {
- #launch-container { margin-top: 2.0rem; 
- }
-}
-
-</style>
-
-<div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; cursor: pointer;" markdown="0">
+<div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; cursor: pointer; z-index: 10;" markdown="0">
   <div style="position: relative; width: 320px; height: 320px;">
     <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" 
-         class="no-zoom" 
-         style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 205px; height: auto; z-index: 1; opacity: 1 !important; visibility: visible !important;" 
+         class="no-zoom tc-base-logo" 
+         style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;" 
          alt="Logo">
+    
     <img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" 
          id="racetrack"
          class="no-zoom tc-rotating-overlay" 
-         style="position: absolute; top: 0; left: 0; width: 320px; height: 320px; z-index: 2; opacity: 1 !important; visibility: visible !important; object-fit: contain;" 
+         style="position: absolute; top: 0; left: 0; z-index: 2; object-fit: contain;" 
          alt="Racetrack">
   </div>
 </div>
 
 <script>
-  const container = document.getElementById('launch-container');
-  const track = document.getElementById('racetrack');
+  // Wait for DOM to load to ensure IDs are findable
+  document.addEventListener("DOMContentLoaded", function() {
+    const container = document.getElementById('launch-container');
+    const track = document.getElementById('racetrack');
 
-  container.addEventListener('click', function() {
-    // Prevent overlapping clicks if already launching
-    if (!track.classList.contains('is-launching')) {
-      track.classList.add('is-launching');
-      
-      // Rotate fast for ~1.5 seconds (roughly 3 fast laps)
-      setTimeout(() => {
-        track.classList.remove('is-launching');
-      }, 1500);
+    if (container && track) {
+      container.addEventListener('click', function(e) {
+        e.preventDefault();
+        if (!track.classList.contains('is-launching')) {
+          track.classList.add('is-launching');
+          setTimeout(() => {
+            track.classList.remove('is-launching');
+          }, 1500);
+        }
+      });
     }
   });
 </script>
