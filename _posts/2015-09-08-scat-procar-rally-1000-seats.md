@@ -5,7 +5,7 @@ title: "Scat Procar Rally 1000 Seats"
 date: 2015-09-08 12:00:00 +0000
 ---
 
-Turbo Camaro received [upholstery work](/posts/upholstery/){:target="_blank"} early on, but it was determined the stock bucket seats weren't going to cut it for a performance build. New seats were sought out and a set of black **Scat Procar Rally 1000 Smoothback** seats were purchased. 
+Turbo Camaro received [upholstery work](/posts/upholstery/) early on, but it was determined the stock bucket seats weren't going to cut it for a performance build. New seats were sought out and a set of black **Scat Procar Rally 1000 Smoothback** seats were purchased. 
 
 
 

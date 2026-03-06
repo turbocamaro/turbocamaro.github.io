@@ -38,5 +38,4 @@ The "serious" phase involved a $20 wire wheel and cup for the grinder. It finish
 </div>
 
 
-
 The hardest part wasn't the grinding—it was the organization. Keeping every screw, gasket, and bracket in labeled zip-lock bags is what saved the project. If you're doing this solo, you won't remember where those door handle screws go a year from now.

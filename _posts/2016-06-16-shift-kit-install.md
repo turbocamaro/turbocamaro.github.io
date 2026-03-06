@@ -31,6 +31,6 @@ The automatic Turbo 350 is perfect for a daily driver (comparing to the original
 
 Once you've decided to install a shift kit, you'll need to pick one out. In this case, a **Transgo 350-1&2** kit was purchased. It comes with everything required (except new transmission fluid and basic hand tools) to complete the installation. The instructions were somewhat cryptic, but with the help of the [manufacturer's video](https://www.youtube.com/watch?v=I-11GPIsSn0){:target="_blank"} it's not a difficult job. 
 
-The hardest part will be deciding which springs to install, as you can choose between Street/Pro Street and Strip. The **Strip** setup was selected for Turbo Camaro, as a turbocharger significantly increases acceleration and load on the transmission. Everything is color-coded and impossible to confuse.
+The hardest part will be deciding which springs to install, as you can choose between Street/Pro Street and Strip. The **Pro Street** setup was selected for Turbo Camaro, as a turbocharger significantly increases acceleration and load on the transmission. Everything is color-coded and impossible to confuse.
 
 Don't let the alien-ish appearance fool you; getting to and removing the valve body of a transmission isn't very difficult. There are a few small pieces, but if you take your time and follow the instructions, it only takes a couple of hours and you end up with an instant performance upgrade.

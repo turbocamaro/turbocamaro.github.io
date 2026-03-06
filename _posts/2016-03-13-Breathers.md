@@ -19,7 +19,7 @@ The stock inline 6 has an oil fill cap and a breather at the front of the valve 
 
 
 
-As the site title says, a turbocharger is in play and that changes everything. The circular carburetor air cleaner is replaced with a [Spectre cone air filter](/posts/air-filter/){:target="_blank"} in front of the turbocharger. While running hoses to the new filter is possible, it's not the direction we took for this phase.
+As the site title says, a turbocharger is in play and that changes everything. The circular carburetor air cleaner is replaced with a [Spectre cone air filter](/posts/air-filter/) in front of the turbocharger. While running hoses to the new filter is possible, it's not the direction we took for this phase.
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/20160313_112610.jpg" alt="Spectre chrome PCV valve" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
@@ -37,4 +37,4 @@ Note: the twist-in breather fit the stock valve cover hole perfectly, but the pr
 
 One other thing to consider: these breathers are about 2.5" tall. Be sure to account for hood clearance, as it's possible your hood may not close with these installed on a high-sitting valve cover.
 
-As much as we liked the look, these have since been removed. The front was reverted to the original oil cap and the rear PCV was replaced by an [Oil Catch Can assembly](/posts/oil-catch-can/){:target="_blank"} to better comply with emissions and assist in troubleshooting.
+As much as we liked the look, these have since been removed. The front was reverted to the original oil cap and the rear PCV was replaced by an [Oil Catch Can assembly](/posts/oil-catch-can/) to better comply with emissions and assist in troubleshooting.

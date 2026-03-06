@@ -12,11 +12,6 @@ date: 2017-10-17 12:00:00 +0000
 
 With security on the rise after installing the [hood locks](/posts/hood-locks/), it was time to take it to the next level. An alarm system would help to deter thieves from entering the passenger compartment and trunk. The weak point of any alarm is its power supply or siren; with hood locks engaged, it would require significant effort to reach the battery or snip the wires. 
 
-
-
-[Image of a car alarm system wiring diagram]
-
-
 The alarm install consisted of two parts: a manual to power lock upgrade and the actual alarm module wiring. Sodial "heavy duty" power door lock actuator kits were installed in the doors and a Pyle PWD701 Alarm System under the dash.
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">

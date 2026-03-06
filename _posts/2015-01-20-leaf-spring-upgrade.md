@@ -21,9 +21,9 @@ Mono refers to the single leaf spring in your rear axle suspension. Most 1968-69
 <p style="text-align: center; width: 100%; margin-top: 5px;"><em>3 leaf springs with U-Bolts instead of stock T-Bolts</em></p>
 </div>
 
-Turbo Camaro received a 3-leaf conversion. To save money, parts were sourced individually: springs and HB-1000 bushings from [sdtrucksprings.com](http://www.sdtrucksprings.com/index.php?main_page=product_info&products_id=9589){:target="_blank"}, and heavy-duty U-Bolts (1/2" gauge, 3.5" wide, 6" long) locally. 
+Turbo Camaro received a 3-leaf conversion. To save money, parts were sourced individually: springs and HB-1000 bushings from [sdtrucksprings.com](http://www.sdtrucksprings.com/index.php?main_page=product_info&products_id=9589), and heavy-duty U-Bolts (1/2" gauge, 3.5" wide, 6" long) locally. 
 
-**Pro Tip:** Inspect your shackles before you start. Replacing them usually requires dropping the gas tank, so don't commit to new ones unless you're ready for the extra work.
+* **Pro-Tip:**Inspect your shackles before you start. Replacing them usually requires dropping the gas tank, so don't commit to new ones unless you're ready for the extra work.
 
 
 

@@ -14,7 +14,7 @@ After the great engine failure of 2018, I spent years deciding whether to procee
 
 With the lobes on the previous custom grind wiped out from a poorly configured top end, I needed a replacement. In the peak of the Covid era, finding parts was a nightmare, so I turned to Tom Lowe at [12bolt.com](http://www.12bolt.com/). Tom had a "Turbo 292" camshaft in stock that was compatible with my 250 and perfect for a turbocharged daily driver wanting to run on pump gas.
 
-> **Pro-Tip from 12bolt:** The Chevy 250 can use a 250 or 292 cam. You'll have to use an electric fuel pump if a 292 cam is used in a 250. However, a 292 must use a 292 cam to clear the rods.
+* **Pro-Tip from 12bolt.com** The Chevy 250 can use a 250 or 292 cam. You'll have to use an electric fuel pump if a 292 cam is used in a 250. However, a 292 must use a 292 cam to clear the rods.
 
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">

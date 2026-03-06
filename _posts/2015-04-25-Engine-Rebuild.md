@@ -72,7 +72,7 @@ The project began by pulling the "easy" components: radiator, alternator, distri
 <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Pistons show "60" stamp—this block was already .060" oversized</em></p>
 </div>
 
-After complete dismantling, the parts went to the [machine shop](/posts/machine-shop-work/){:target="_blank"}. They confirmed that we could go even larger, so we ordered custom [forged pistons](/posts/forged-pistons/){:target="_blank"} at 0.070" over. While waiting for the shop, we cleaned and painted all ancillary parts—mounts, pumps, and [manifolds](/posts/manifolds/){:target="_blank"}—using VHT Metallic Black Pearl.
+After complete dismantling, the parts went to the [machine shop](/posts/machine-shop-work/){:target="_blank"}. They confirmed that we could go even larger, so we ordered custom [forged pistons](/posts/forged-pistons/) at 0.070" over. While waiting for the shop, we cleaned and painted all ancillary parts—mounts, pumps, and [manifolds](/posts/manifolds/) using VHT Metallic Black Pearl.
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/20160324_163837.jpg" alt="Painted block" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
@@ -93,7 +93,7 @@ The assembly video below covers the installation of the bearings, crankshaft, ro
 </div>
 </div>
 
-We used a **Fel-Pro 1025 Performance head gasket** to mate the [modified cylinder head](/posts/head-mods-rebuild/){:target="_blank"} to the block. This gasket has a reputation for handling high-boost turbo applications. Once the long block was assembled, it was time for transplant.
+We used a **Fel-Pro 1025 Performance head gasket** to mate the [modified cylinder head](/posts/head-mods-rebuild/) to the block. This gasket has a reputation for handling high-boost turbo applications. Once the long block was assembled, it was time for transplant.
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/20160416_160718.jpg" alt="Fresh 250 ready for transplant" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">

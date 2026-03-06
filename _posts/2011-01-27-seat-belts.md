@@ -32,5 +32,3 @@ We installed two universal child seat tethering anchors through the rear window 
 </div>
 
 The anchors are sandwiched through the metal tray and secured to the sturdiest area in the trunk. Little black rubber caps were added to the bolt heads to prevent reflections off the rear glass. It’s a simple modification that catches people's eyes and adds a much-needed layer of modern safety to a 50-year-old car.
-
-*Note: The images on this page are currently generic placeholders. Authentic photos of the Turbo Camaro installation will be published as soon as possible.*

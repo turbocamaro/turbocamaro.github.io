@@ -33,7 +33,7 @@ The 12v wiring you see here manages the **Torque Converter Lockup**. Because thi
 
 This setup creates a hands-free highway cruise. I haven't added a manual toggle switch to the dash yet, but I may if I find the engine lugs too much when the lockup hits during lower speed 4th gear cruising.
 
-> **Pro-Tip:** The 700R4 does **not** use a vacuum modulator like the TH350. Instead, it uses a **TV (Throttle Valve) Cable**. This cable controls line pressure based on throttle position. If you don't adjust this perfectly, you will burn up the clutches in the transmission in less than five miles. It is the most critical adjustment in the entire swap.
+* **Pro-Tip:** The 700R4 does **not** use a vacuum modulator like the TH350. Instead, it uses a **TV (Throttle Valve) Cable**. This cable controls line pressure based on throttle position. If you don't adjust this perfectly, you will burn up the clutches in the transmission in less than five miles. It is the most critical adjustment in the entire swap.
 
 This swap brings a huge performance benefit to the Turbo 250 setup. The 700R4 has a much lower first gear (3.06:1) compared to the TH350 (2.52:1). This gives the Inline 6 a significant mechanical advantage off the line, helping the car get moving and building boost much faster. By the time you hit second gear, you're already in the meat of the power band.
 

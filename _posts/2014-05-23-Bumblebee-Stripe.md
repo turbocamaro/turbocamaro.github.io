@@ -26,7 +26,7 @@ Whether you decide to do a simple stripe or a full mural, you have to choose bet
 <p style="text-align: center; width: 100%; margin-top: 5px;"><em>'67 Camaro Bumblebee Stripe - Measurement Sketch 1</em></p>
 </div>
 
-Turbo Camaro's bumblebee was done with method 1. Originally, the stripe was going to be integrated into the [rolled-on black paint](/posts/rolling-tremclad-paint/){:target="_blank"}, but that would make future repairs or color changes a nightmare. We opted to spray it on after the black paint had gassed out.
+Turbo Camaro's bumblebee was done with method 1. Originally, the stripe was going to be integrated into the [rolled-on black paint](/posts/rolling-tremclad-paint/), but that would make future repairs or color changes a nightmare. We opted to spray it on after the black paint had gassed out.
 
 The stripe was painted with **Anthracite Grey Plasti-Dip**. It’s a subtle metallic rubberized coating that repels water and can be peeled off if we ever change our minds.
 

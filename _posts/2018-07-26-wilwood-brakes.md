@@ -23,7 +23,7 @@ When it comes to braking upgrades, the front wheels are where you get the most "
 
 The performance gains of a quality kit like Wilwood are immediate. You get a significantly firmer pedal feel and, more importantly, a car that stops in a straight line every single time. This specific kit was a smooth install because it came with its own lines and fittings. 
 
-**Pro-Tip:** Before you click "buy," double check your kit number for compatibility with your specific spindles and wheel size. Most Wilwood kits require at least 15-inch wheels to clear the calipers. Additionally, when it comes time to bleed the lines, start at the wheel farthest from the master cylinder (rear passenger) and work your way in. If you aren't 100% confident in your ability to upgrade the brakes or bleed a brake system properly, seek a professional.
+* **Pro-Tip:** Before you click "buy," double check your kit number for compatibility with your specific spindles and wheel size. Most Wilwood kits require at least 15-inch wheels to clear the calipers. Additionally, when it comes time to bleed the lines, start at the wheel farthest from the master cylinder (rear passenger) and work your way in. If you aren't 100% confident in your ability to upgrade the brakes or bleed a brake system properly, seek a professional.
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
   <img src="/assets/img/posts/wilwoodbrakes_180726/20180726_140705.jpg" alt="Caliper Clearance" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">

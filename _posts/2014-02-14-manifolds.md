@@ -21,14 +21,14 @@ The stock exhaust manifold has a 2" outlet and narrow passages—a major bottlen
 
 
 
-Our 292 manifold was sourced from eBay (originally off a tractor) for about $100US. Because this is a factory-style manifold, it lacks a port for an external [wastegate](/posts/wastegate/){:target="_blank"}. While the SPA Turbo manifold comes pre-cast for a wastegate, it also costs over $400US. We will eventually modify this 292 manifold to accept the [SPA Turbo 25mm compact wastegate](/posts/wastegate/){:target="_blank"}.
+Our 292 manifold was sourced from eBay (originally off a tractor) for about $100US. Because this is a factory-style manifold, it lacks a port for an external [wastegate](/posts/wastegate/). While the SPA Turbo manifold comes pre-cast for a wastegate, it also costs over $400US. We will eventually modify this 292 manifold to accept the [SPA Turbo 25mm compact wastegate](/posts/wastegate/).
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/IMG_20140216_181031.jpg" alt="Offenhauser 5416 Intake Manifold" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
 <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Offenhauser 5416 Intake Manifold</em></p>
 </div>
 
-For the intake, the stock unit simply won't support a performance 4-barrel carb. We selected the **Offenhauser 5416**. It is a heated intake that mounts to the exhaust manifold like stock to prevent fuel puddling. This manifold is the perfect platform for the [Holley 4776 600cfm Double Pumper](/posts/carburetor/){:target="_blank"}.
+For the intake, the stock unit simply won't support a performance 4-barrel carb. We selected the **Offenhauser 5416**. It is a heated intake that mounts to the exhaust manifold like stock to prevent fuel puddling. This manifold is the perfect platform for the [Holley 4776 600cfm Double Pumper](/posts/carburetor/).
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/IMG_20140216_181904.jpg" alt="Offenhauser 5416 outlets" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
@@ -49,4 +49,4 @@ Because the Offenhauser intake and 292 exhaust were never intended to be used as
 </div>
 </div>
 
-More documentation on the carburetor installation can be found [here](/posts/carburetor/){:target="_blank"}.
+More documentation on the carburetor installation can be found [here](/posts/carburetor/).

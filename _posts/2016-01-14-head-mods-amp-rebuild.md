@@ -60,7 +60,7 @@ With the ports opened and the lumps installed, it's time to lap the valves. Comb
 </div>
 </div>
 
-Since Turbo Camaro received a [performance camshaft](/posts/camshaft/){:target="_blank"}, new valve springs were also required. A set of [performance springs and retainers](http://www.12bolt.com/store/p12/Performance_Valve_spring%2F_retainer_kit.html){:target="_blank"} were picked up from 12bolt.com. The new springs handle up to .530 lift.
+Since Turbo Camaro received a [performance camshaft](/posts/camshaft/), new valve springs were also required. A set of [performance springs and retainers](http://www.12bolt.com/store/p12/Performance_Valve_spring%2F_retainer_kit.html) were picked up from 12bolt.com. The new springs handle up to .530 lift.
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/20160413_202153.jpg" alt="Completed head" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">

@@ -12,8 +12,6 @@ Automobile glass is one of the most overlooked components in a build. Beyond vis
 <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Thanks Eric for installing my rear glass and windshield</em></p>
 </div>
 
-[Image showing the light transmission levels of various window tint percentages]
-
 Tint is a great way to make a fresh paint job pop. During the painting process, all of Turbo Camaro’s glass was removed. The rear glass was cleaned with mineral spirits and a razor blade, then dropped off at **Eclipse Solar Imaging** in Abbotsford, BC. We went with a **5% black tint** (limo tint), meaning only 5% of light passes through. British Columbia laws prohibit tint on the driver and passenger front windows, so they remain stock.
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">

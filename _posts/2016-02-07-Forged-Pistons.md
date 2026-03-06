@@ -33,7 +33,7 @@ Speaking of costs, a turbocharged motor more or less requires forged pistons. Si
 
 Before we get too far ahead, let's back up. Turbo Camaro's old pistons read "60" on the face. The machine shop determined that the cylinder walls were plenty thick but would require a 0.070" over-bore. The advantage to 0.070" over-bore pistons is that if the block ever goes, these pistons will likely work in any salvageable 250 block, as it's rare for them to have been bored past .060" already. 
 
-The required pistons were ordered through [Tom Lowe at 12bolt.com](http://www.12bolt.com/){:target="_blank"}. The bore and desired 9:1 compression ratio were specified, and approximately 4 weeks later, the pistons arrived. The kit included new rings, wrist pins, spirolock clips, and all required documentation. 
+The required pistons were ordered through [Tom Lowe at 12bolt.com](http://www.12bolt.com/). The bore and desired 9:1 compression ratio were specified, and approximately 4 weeks later, the pistons arrived. The kit included new rings, wrist pins, spirolock clips, and all required documentation. 
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <div style="width: 90%; border-radius: 8px; overflow: hidden; position: relative; padding-bottom: 56.25%; height: 0; margin-left: auto !important; margin-right: auto !important;">

@@ -10,7 +10,7 @@ date: 2016-09-03 12:00:00 +0000
 <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Wyntonm 38mm Anodized Blow Off Valve - $35</em></p>
 </div>
 
-When building a turbo system on a budget, you have to decide where to save and where to spend. For the **Turbo Camaro**, the Blow Off Valve (BOV) was an area where we felt we could find a high-quality "no-name" part. A blow off valve's job is simple: when you let off the throttle and the butterfly closes, the pressurized air needs somewhere to go so it doesn't "surge" back into the turbo compressor.
+When building a turbo system on a budget, you have to decide where to save and where to spend. For Turbo Camaro, the Blow Off Valve (BOV) was an area where we felt we could find a high-quality "no-name" part. A blow off valve's job is simple: when you let off the throttle and the butterfly closes, the pressurized air needs somewhere to go so it doesn't "surge" back into the turbo compressor.
 
 We selected a **Wyntonm 38mm** unit from eBay. It's a knock-off of a much more expensive brand, but the machining quality on this specific unit was surprisingly high for $35US. It features a dual-spring design and came with the required aluminum weld-on flange and O-ring.
 

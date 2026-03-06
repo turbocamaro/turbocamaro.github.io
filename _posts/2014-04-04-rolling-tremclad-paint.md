@@ -10,9 +10,9 @@ date: 2014-04-04 12:00:00 +0000
 <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Spray guns are costly - this isn't</em></p>
 </div>
 
-Deciding to paint your ride is full of difficult decisions and can be very costly. If you've already read the [sanding article](/posts/sanding-grinding/){:target="_blank"}, you know Turbo Camaro was taken to bare metal. This guide follows the exact steps used to prime and paint this car.
+Deciding to paint your ride is full of difficult decisions and can be very costly. If you've already read the [sanding article](/posts/sanding-grinding/), you know Turbo Camaro was taken to bare metal. This guide follows the exact steps used to prime and paint this car.
 
-Once you have bare metal, clean it thoroughly with denatured alcohol (DA). If you feel any bumps or flakes of missed paint, sand them now; you'll see them a mile away under the primer. Use a tack cloth right before every layer to ensure no lint or dust ruins the finish.
+Once you have bare metal, clean it thoroughly with denatured alcohol. If you feel any bumps or flakes of missed paint, sand them now; you'll see them a mile away under the primer. Use a tack cloth right before every layer to ensure no lint or dust ruins the finish.
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/DSC05544.JPG" alt="Tremclad gloss black" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
