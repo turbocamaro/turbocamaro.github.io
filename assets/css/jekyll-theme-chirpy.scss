@@ -68,6 +68,19 @@ blockquote.prompt-info { /* Sometimes used as a fallback for license info */
   animation: tc-spin-ccw 3.15s infinite linear !important; 
 }
 
+/* Mobile-only adjustment for the logo and racetrack */
+@media (max-width: 768px) {
+  .tc-base-logo {
+    margin-top: 20px !important;
+  }
+
+  .tc-rotating-overlay {
+    /* Since this is absolute, we adjust the 'top' percentage 
+       to shift it down while maintaining the center anchor */
+    top: calc(50% + 20px) !important;
+  }
+}
+
   /* Target links specifically inside the sidebar navigation */
 #sidebar .nav .nav-item .nav-link {
   font-size: 1.15rem;      /* Makes the font roughly 15-20% larger */
