@@ -12,17 +12,17 @@
 .post-tail-wrapper .post-copyright,
 .post-tail-wrapper .license-wrapper,
 footer .license-wrapper,
-.post-content + hr + .d-flex, /* Targets the license if it follows a divider */
-blockquote.prompt-info { /* Sometimes used as a fallback for license info */
+.post-content + hr + .d-flex, 
+blockquote.prompt-info {
     display: none !important;
 }
 
 .no-zoom {
-  pointer-events: none; /* Disables all hover/click interactions */
+    pointer-events: none;
 }
 
 /* --- Sidebar Logo Styling (Non-Clickable) --- */
-  #avatar {
+#avatar {
     background: transparent !important;
     border: none !important;
     box-shadow: none !important;
@@ -32,208 +32,183 @@ blockquote.prompt-info { /* Sometimes used as a fallback for license info */
     margin: 1.5rem auto !important;
     display: flex !important;
     justify-content: center !important;
-    cursor: default !important; /* Shows a regular pointer, not a hand */
-  }
+    cursor: default !important;
+}
 
-  #avatar img {
+#avatar img {
     width: 80% !important;
     height: auto !important;
     display: block !important;
-  }
+}
 
 #sidebar .profile-wrapper {
-  padding-top: 0.5rem !important;
-  padding-bottom: 0 !important;
-  padding-right: 0 !important;
-  padding-left: 0 !important;
+    padding: 0.5rem 0 0 0 !important;
 }
 
 .tc-base-logo {
-  /* Scaled down 20% from 175px */
-  width: 140px !important; 
-  height: auto !important;
-  z-index: 1;
-  display: block !important;
+    width: 140px !important; 
+    height: auto !important;
+    z-index: 1;
+    display: block !important;
 }
 
+/* --- Racetrack Animation Logic --- */
 .tc-rotating-overlay {
-  position: absolute !important;
-  top: 50% !important;
-  left: 50% !important;
-  /* Scaled down 20% from 260px */
-  width: 208px !important; 
-  max-width: none !important;
-  z-index: 2;
-  display: block !important;
-  animation: tc-spin-ccw 3.15s infinite linear !important; 
+    position: absolute !important;
+    top: 50% !important;
+    left: 50% !important;
+    width: 208px !important; 
+    max-width: none !important;
+    z-index: 2;
+    display: block !important;
+    /* Normal Idle Speed */
+    animation: tc-spin-ccw 8s infinite linear; 
+    transition: animation-duration 0.6s ease-in; /* Spool up effect */
 }
 
-/* Mobile-only shift for logo and racetrack overlay */
-@media (max-width: 768px) {
-  .tc-base-logo {
-    /* Pushes the logo down 20px */
-    transform: translateY(50px) !important;
-  }
-
-  .tc-rotating-overlay {
-    /* Keeps the 50% center alignment BUT adds a 20px downward shift */
-    /* Note: We must keep the translate(-50%, -50%) if you are using it to center */
-    top: calc(50% + 50px) !important;
-  }
+/* The 'Accelerated' State */
+.is-launching {
+    animation-duration: 0.4s !important; /* Fast Speed */
+    transition: animation-duration 0.2s ease-out; /* Snap acceleration */
 }
 
-  /* Target links specifically inside the sidebar navigation */
+/* Target links specifically inside the sidebar navigation */
 #sidebar .nav .nav-item .nav-link {
-  font-size: 1.15rem;      /* Makes the font roughly 15-20% larger */
-  padding-top: 0.6rem;    /* Adds space above the text */
-  padding-bottom: 0.6rem; /* Adds space below the text */
-  display: flex;
-  align-items: center;    /* Keeps the icons aligned with the text */
+    font-size: 1.15rem;
+    padding: 0.6rem 0;
+    display: flex;
+    align-items: center;
 }
 
-/* Adds a bit of extra margin to the list item for more gap */
 #sidebar .nav-item {
-  margin-bottom: 0.25rem; 
+    margin-bottom: 0.25rem; 
 }
 
-/* Adjusts the icon size slightly to match the new text size */
 #sidebar .nav-link i {
-  font-size: 1.1rem;
-  margin-right: 0.5rem;   /* Ensures the icon doesn't hug the text */
+    font-size: 1.1rem;
+    margin-right: 0.5rem;
 }
 
 @keyframes tc-spin-ccw {
-  from { transform: translate(-50%, -50%) rotate(360deg); }
-  to { transform: translate(-50%, -50%) rotate(0deg); }
+    from { transform: translate(-50%, -50%) rotate(360deg); }
+    to { transform: translate(-50%, -50%) rotate(0deg); }
 }
 
-/* --- 2. MOBILE TOPBAR: STABLE SEARCH ROW (REMAINS UNCHANGED) --- */
+/* --- 2. MOBILE TOPBAR: STABLE SEARCH ROW --- */
 @media (max-width: 849px) {
-  #topbar-wrapper, #topbar {
-    height: 50px !important;
-    background-color: var(--main-bg) !important;
-    display: flex !important;
-    align-items: center !important;
-    position: fixed !important;
-    top: 0 !important;
-    left: 0 !important;
-    width: 100% !important;
-    z-index: 1050 !important;
-    border-bottom: 1px solid var(--main-border-color) !important;
-  }
+    #topbar-wrapper, #topbar {
+        height: 50px !important;
+        background-color: var(--main-bg) !important;
+        display: flex !important;
+        align-items: center !important;
+        position: fixed !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        z-index: 1050 !important;
+        border-bottom: 1px solid var(--main-border-color) !important;
+    }
 
-  #sidebar-trigger {
-    position: absolute !important;
-    left: 15px !important;
-    z-index: 1060 !important;
-    transition: all 0.1s ease !important;
-    text-decoration: none !important;
-    border: none !important;
-  }
+    #sidebar-trigger, #search-trigger {
+        position: absolute !important;
+        z-index: 1060 !important;
+        transition: all 0.1s ease !important;
+        text-decoration: none !important;
+        border: none !important;
+    }
 
-  #search-trigger {
-    position: absolute !important;
-    right: 15px !important;
-    z-index: 1060 !important;
-    transition: all 0.1s ease !important;
-    text-decoration: none !important;
-    border: none !important;
-  }
+    #sidebar-trigger { left: 15px !important; }
+    #search-trigger { right: 15px !important; }
 
-  #topbar-title {
-    position: absolute !important;
-    left: 50% !important;
-    top: 22px !important; 
-    transform: translate(-50%, -50%) !important;
-    width: 150px !important;
-    height: 30px !important;
-    background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
-    background-size: contain !important;
-    color: transparent !important;
-    text-indent: -9999px !important;
-    z-index: 1055 !important;
-    transition: all 0.1s ease !important;
-  }
+    #topbar-title {
+        position: absolute !important;
+        left: 50% !important;
+        top: 22px !important; 
+        transform: translate(-50%, -50%) !important;
+        width: 150px !important;
+        height: 30px !important;
+        background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
+        background-size: contain !important;
+        color: transparent !important;
+        text-indent: -9999px !important;
+        z-index: 1055 !important;
+        transition: all 0.1s ease !important;
+    }
 
-  html[searching] #sidebar-trigger,
-  html[searching] #search-trigger,
-  html[searching] #topbar-title,
-  body.searching-on #sidebar-trigger,
-  body.searching-on #search-trigger,
-  body.searching-on #topbar-title {
-    opacity: 0 !important;
-    visibility: hidden !important;
-    width: 0 !important;
-    margin: 0 !important;
-    padding: 0 !important;
-    pointer-events: none !important;
-  }
+    html[searching] #sidebar-trigger,
+    html[searching] #search-trigger,
+    html[searching] #topbar-title,
+    body.searching-on #sidebar-trigger,
+    body.searching-on #search-trigger,
+    body.searching-on #topbar-title {
+        opacity: 0 !important;
+        visibility: hidden !important;
+        width: 0 !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        pointer-events: none !important;
+    }
 
-  #search-wrapper {
-    display: none; 
-    width: 100% !important;
-    height: 50px !important;
-    padding: 0 10px !important;
-    background: var(--main-bg) !important;
-    z-index: 1070 !important;
-    flex-direction: row !important;
-    align-items: center !important;
-    justify-content: space-between !important;
-  }
+    #search-wrapper {
+        display: none; 
+        width: 100% !important;
+        height: 50px !important;
+        padding: 0 10px !important;
+        background: var(--main-bg) !important;
+        z-index: 1070 !important;
+        flex-direction: row !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+    }
 
-  html[searching] #search-wrapper,
-  body.searching-on #search-wrapper {
-    display: flex !important;
-  }
+    html[searching] #search-wrapper,
+    body.searching-on #search-wrapper {
+        display: flex !important;
+    }
 
-  #search-input {
-    flex: 1 !important;
-    min-width: 0 !important;
-    background: transparent !important;
-    border: none !important;
-    margin-right: 5px !important;
-  }
+    #search-input {
+        flex: 1 !important;
+        min-width: 0 !important;
+        background: transparent !important;
+        border: none !important;
+        margin-right: 5px !important;
+    }
 
-  #main-wrapper {
-    padding-top: 60px !important;
-  }
+    #main-wrapper {
+        padding-top: 60px !important;
+    }
 }
-/* --- Custom Category Icons --- */
-/* --- Master Build Sheet: Big Icons, Big Text, No Folders --- */
 
-/* 1. Kill EVERY folder icon in the category list */
+/* --- Category Icons & Styling --- */
 .categories i, 
 .categories i.fas, 
 .categories i.far, 
 .categories .fa-folder, 
 .categories .fa-folder-open {
-  display: none !important;
-  width: 0 !important;
-  margin: 0 !important;
+    display: none !important;
+    width: 0 !important;
+    margin: 0 !important;
 }
 
-/* 2. Format the Category Links (Big & Clean) */
 .categories .card-body a {
-  font-size: 1.4rem !important; 
-  font-weight: 600;
-  display: flex !important;
-  align-items: center;
-  text-decoration: none !important;
-  padding: 10px 0;
+    font-size: 1.4rem !important; 
+    font-weight: 600;
+    display: flex !important;
+    align-items: center;
+    text-decoration: none !important;
+    padding: 10px 0;
 }
 
-/* 3. Inject the New Icons (50% larger) */
 .categories a[href]::before {
-  font-family: "Font Awesome 5 Free";
-  font-weight: 900;
-  font-size: 1.5em; 
-  margin-right: 15px;
-  width: 1.5em;
-  text-align: center;
-  color: var(--link-color);
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-size: 1.5em; 
+    margin-right: 15px;
+    width: 1.5em;
+    text-align: center;
+    color: var(--link-color);
 }
 
-/* 4. The Icon Assignments */
 .categories a[href*="engine"]::before     { content: "\f085"; color: #6c757d !important; }
 .categories a[href*="interior"]::before   { content: "\f4b8"; color: #6c757d !important; }
 .categories a[href*="exterior"]::before   { content: "\f1b9"; color: #6c757d !important; }
@@ -241,62 +216,22 @@ blockquote.prompt-info { /* Sometimes used as a fallback for license info */
 .categories a[href*="turbo"]::before      { content: "\f72e"; color: #6c757d !important; }
 .categories a[href*="fuel"]::before       { content: "\f52f"; color: #6c757d !important; }
 
-/* --- Fix the Icons on Category Archive Pages --- */
-
-/* 1. Hide the folder icon in the dynamic page title */
 h1.dynamic-title i.fas.fa-folder-open,
-#page-category i.fas.fa-folder-open {
-  display: none !important;
-}
-
-/* 2. Inject the correct icon into the title based on the category name */
-/* We use a slightly larger font size (2rem) to match the H1 header */
-h1.dynamic-title::before {
-  font-family: "Font Awesome 5 Free";
-  font-weight: 900;
-  font-size: 1.1em;
-  margin-right: 15px;
-  color: var(--link-color);
-}
-
-/* 3. Logic to match the Title text to the correct Icon */
-/* This looks at the page title or the URL to determine the icon */
-[data-title*="Engine"] h1.dynamic-title::before     { content: "\f085"; }
-[data-title*="Interior"] h1.dynamic-title::before   { content: "\f4b8"; }
-[data-title*="Exterior"] h1.dynamic-title::before   { content: "\f1b9"; }
-[data-title*="Mechanical"] h1.dynamic-title::before { content: "\f33e"; }
-[data-title*="Turbo"] h1.dynamic-title::before      { content: "\f72e"; }
-[data-title*="Fuel"] h1.dynamic-title::before       { content: "\f52f"; }
-
-/* --- 1. Kill the folder icon in the Category Header --- */
+#page-category i.fas.fa-folder-open,
 h1 i.fa-folder-open, 
 h1 i.fa-folder,
 .layout-category h1 i {
-  display: none !important;
+    display: none !important;
 }
 
-/* --- 2. Setup the Header Icon (Grey & Large) --- */
 h1.dynamic-title::before {
-  font-family: "Font Awesome 5 Free";
-  font-weight: 900;
-  margin-right: 15px;
-  color: #6c757d; /* This is the classic grey folder color */
-  font-size: 0.9em; /* Adjusts it to look natural next to the H1 text */
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    margin-right: 15px;
+    color: #6c757d; 
+    font-size: 0.9em;
 }
 
-/* --- Fix the Archive Headers using URL Slugs --- */
-
-/* 1. Ensure the header has space for an icon */
-h1.dynamic-title::before {
-  font-family: "Font Awesome 5 Free";
-  font-weight: 900;
-  margin-right: 15px;
-  color: #6c757d; /* Grey color */
-  font-size: 0.9em;
-}
-
-/* 2. Assign icons based on the URL path */
-/* If the URL contains 'engine', show cogs, etc. */
 body[path*="/engine/"] h1.dynamic-title::before     { content: "\f085"; }
 body[path*="/interior/"] h1.dynamic-title::before   { content: "\f4b8"; }
 body[path*="/exterior/"] h1.dynamic-title::before   { content: "\f1b9"; }
@@ -304,34 +239,23 @@ body[path*="/mechanical/"] h1.dynamic-title::before { content: "\f33e"; }
 body[path*="/turbo/"] h1.dynamic-title::before      { content: "\f72e"; }
 body[path*="/fuel/"] h1.dynamic-title::before       { content: "\f52f"; }
 
-/* Hide the Tags link in the sidebar, but keep the page active */
 #sidebar ul li:has(a[href*="/tags/"]) {
-  display: none !important;
+    display: none !important;
 }
 
-/* Custom Red Navigation Icons */
 #sidebar-trigger i, 
 #search-trigger i, 
 #search-cancel {
-  color: #d22e28 !important;
+    color: #d22e28 !important;
 }
 
-#sidebar .nav-link:hover {
-    background-color: #d22e28 !important;
-    color: #fff !important; /* Forces the text/icon to white so it's readable against red */
-}
-
-/* Ensure the icons inside the link also turn white on hover */
-#sidebar .nav-link:hover i {
-    color: #fff !important;
-}
-
-/* Optional: If you ALSO want the 'Active' page to stay red */
+#sidebar .nav-link:hover,
 #sidebar .nav-item.active .nav-link {
     background-color: #d22e28 !important;
     color: #fff !important;
 }
 
+#sidebar .nav-link:hover i,
 #sidebar .nav-item.active i {
     color: #fff !important;
 }
