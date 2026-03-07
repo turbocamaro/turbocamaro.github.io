@@ -39,17 +39,20 @@ Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | 
 
 <script>
   (function() {
-    // We use a robust listener that works on mobile and desktop
     const handler = function(e) {
       const container = document.getElementById('launch-container');
       const track = document.getElementById('racetrack');
       
       if (container && (e.target === container || container.contains(e.target))) {
         if (track && !track.classList.contains('is-launching')) {
+          // 1. Hammer the gas (Accelerates over 0.3s due to SCSS transition)
           track.classList.add('is-launching');
+          
+          // 2. Keep the pedal down for 1.2 seconds
           setTimeout(() => {
+            // 3. Let off the gas (Decelerates smoothly back to 8s over 0.8s)
             track.classList.remove('is-launching');
-          }, 1500);
+          }, 1200);
         }
       }
     };

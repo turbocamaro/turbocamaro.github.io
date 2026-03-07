@@ -52,29 +52,12 @@ blockquote.prompt-info {
     padding: 0.5rem 0 0 0 !important;
 }
 
-/* --- Main Page Logo & Racetrack: Corrected Large Sizes --- */
-
-#launch-container {
-    pointer-events: auto !important;
-    user-select: none;
-    -webkit-tap-highlight-color: transparent;
-    margin-top: -30px !important; /* Fixes that 50px top gap */
-}
-
-.tc-base-logo {
-    /* Your preferred large logo size */
-    width: 205px !important; 
-    height: auto !important;
-    z-index: 1;
-    display: block !important;
-    pointer-events: none !important;
-}
+/* --- Main Page Logo & Racetrack: Performance Tuning --- */
 
 .tc-rotating-overlay {
     position: absolute !important;
     top: 0 !important;
     left: 0 !important;
-    /* Your preferred large racetrack size */
     width: 320px !important; 
     height: 320px !important;
     max-width: none !important;
@@ -82,13 +65,24 @@ blockquote.prompt-info {
     display: block !important;
     pointer-events: none !important;
     
-    /* Animation Logic */
-    animation: tc-spin-ccw 8s infinite linear; 
+    /* Base Animation: Idle at 8s */
+    animation: tc-spin-ccw 8s infinite linear;
+    
+    /* This allows the SPEED and the FEEL to transition smoothly */
+    transition: animation-duration 0.8s ease-in-out, 
+                animation-timing-function 0.8s ease-in-out;
 }
 
+/* The 'Accelerated' State: The Burnout */
 .is-launching {
-    /* Your 3/4 speed preference */
-    animation-duration: 0.6s !important; 
+    /* Spool up to 0.6s speed */
+    animation-duration: 0.6s !important;
+    
+    /* Use a 'Cubic Bezier' to simulate a hard launch/acceleration curve */
+    animation-timing-function: cubic-bezier(0.45, 0.05, 0.55, 0.95) !important;
+    
+    /* Snap the speed change faster than the return to idle */
+    transition: animation-duration 0.3s ease-in; 
 }
 
 @keyframes tc-spin-ccw {
