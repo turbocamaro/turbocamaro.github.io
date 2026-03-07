@@ -18,16 +18,8 @@ hide_title: true
      onclick="launchBurnout()"
      markdown="0">
   <div style="position: relative; width: 320px; height: 320px; pointer-events: none;">
-    <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" 
-         class="no-zoom tc-base-logo" 
-         style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;" 
-         alt="Logo">
-    
-    <img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" 
-         id="racetrack"
-         class="no-zoom tc-rotating-overlay" 
-         style="position: absolute; top: 0; left: 0; z-index: 2; object-fit: contain;" 
-         alt="Racetrack">
+    <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" class="no-zoom tc-base-logo" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;" alt="Logo">
+    <img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" id="racetrack" class="no-zoom tc-rotating-overlay" style="position: absolute; top: 0; left: 0; z-index: 2; object-fit: contain;" alt="Racetrack">
   </div>
 </div>
 
@@ -40,17 +32,3 @@ hide_title: true
 </div>
 
 Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | relative_url }}).
-
-<script>
-  function launchBurnout() {
-    const track = document.getElementById('racetrack');
-    if (track && !track.classList.contains('is-launching')) {
-      track.classList.add('is-launching');
-      
-      // Hold the "Burnout" for 1.5 seconds
-      setTimeout(() => {
-        track.classList.remove('is-launching');
-      }, 1500);
-    }
-  }
-</script>

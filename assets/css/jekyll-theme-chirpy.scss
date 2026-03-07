@@ -69,7 +69,8 @@ blockquote.prompt-info {
     animation: tc-spin-ccw 8s infinite linear;
     
 /* The Flywheel Effect: Smoothly slow down over 1.2 seconds */
-    transition: animation-duration 1.2s ease-in-out;
+    /* The "Deceleration" timing - 1.2 seconds to go from fast back to slow */
+    transition: animation-duration 1.2s ease-in-out !important;
 }
 
 /* The 'Accelerated' State: The Burnout */
@@ -77,11 +78,8 @@ blockquote.prompt-info {
     /* Spool up to 0.6s speed */
     animation-duration: 0.6s !important;
     
-    /* Use a 'Cubic Bezier' to simulate a hard launch/acceleration curve */
-    animation-timing-function: cubic-bezier(0.45, 0.05, 0.55, 0.95) !important;
-    
     /* Snap the speed change faster than the return to idle */
-    transition: animation-duration 0.3s ease-in !important;
+    transition: animation-duration 0.2s ease-in !important;
 }
 
 @keyframes tc-spin-ccw {
