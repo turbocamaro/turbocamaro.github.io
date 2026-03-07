@@ -5,23 +5,56 @@ hide_title: true
 ---
 
 <style>
+  /* 1. Hide the topbar logo */
   #topbar-title { display: none !important; }
-  /* Ensure the container is the thing capturing clicks */
-  #launch-container { cursor: pointer; }
+
+  /* 2. Setup the Racetrack and Logo as CSS Backgrounds to avoid theme auto-linking */
+  .tc-container {
+    position: relative;
+    width: 320px;
+    height: 320px;
+    margin: 0 auto;
+    cursor: pointer;
+    z-index: 1000;
+  }
+
+  .tc-base-logo-bg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 205px;
+    height: 205px;
+    transform: translate(-50%, -50%);
+    background: url("{{ '/assets/img/tc_logo_tp.png' | relative_url }}") no-repeat center;
+    background-size: contain;
+    z-index: 1;
+  }
+
+  .tc-racetrack-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 320px;
+    height: 320px;
+    background: url("{{ '/assets/img/Racetrack2.png' | relative_url }}") no-repeat center;
+    background-size: contain;
+    z-index: 2;
+    /* Use the class from your SCSS for the idle spin */
+    animation: tc-spin-ccw 8s infinite linear;
+    transition: animation-duration 1.2s ease-in-out;
+  }
+
+  /* Faster spin when class is added */
+  .is-launching {
+    animation-duration: 0.6s !important;
+    transition: animation-duration 0.3s ease-in !important;
+  }
 </style>
 
-<div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; z-index: 999; margin-top: -30px;" markdown="0">
-  <div style="position: relative; width: 320px; height: 320px; pointer-events: none;">
-    <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" 
-         class="no-zoom tc-base-logo npo" 
-         style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;" 
-         alt="Logo">
-    
-    <img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" 
-         id="racetrack" 
-         class="no-zoom tc-rotating-overlay npo" 
-         style="position: absolute; top: 0; left: 0; z-index: 2; object-fit: contain;" 
-         alt="Racetrack">
+<div id="launch-wrapper" class="d-flex justify-content-center w-100" style="margin-top: -30px;" markdown="0">
+  <div class="tc-container" id="launch-container">
+    <div class="tc-base-logo-bg"></div>
+    <div class="tc-racetrack-bg" id="racetrack"></div>
   </div>
 </div>
 
@@ -39,24 +72,24 @@ Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | 
 
 <script type="text/javascript">
   (function() {
-    const initLaunch = () => {
-      const track = document.getElementById('racetrack');
+    const init = () => {
       const container = document.getElementById('launch-container');
-      
+      const track = document.getElementById('racetrack');
       if (container && track && !container.dataset.hooked) {
         container.dataset.hooked = "true";
-        // Use 'click' but stop it from bubbling up to any other theme links
-        container.addEventListener('click', function(e) {
+        
+        const launch = (e) => {
           e.preventDefault();
-          e.stopPropagation();
           if (!track.classList.contains('is-launching')) {
             track.classList.add('is-launching');
             setTimeout(() => { track.classList.remove('is-launching'); }, 1500);
           }
-        });
+        };
+
+        container.addEventListener('click', launch);
+        container.addEventListener('touchstart', launch, {passive: true});
       }
     };
-    // Run frequently to catch PWA navigation changes
-    setInterval(initLaunch, 1000);
+    setInterval(init, 500);
   })();
 </script>
