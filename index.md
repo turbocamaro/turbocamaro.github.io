@@ -3,27 +3,33 @@ layout: page
 permalink: /
 hide_title: true
 ---
-<STYLE>
-/* --- Landing Page Logo Kill --- */
-/* This hides the topbar logo ONLY on the home page */
-#topbar-title {
+
+<style>
+  /* Hide the topbar logo specifically on this page */
+  #topbar-title {
     display: none !important;
     opacity: 0 !important;
-}
-</STYLE>
+  }
+</style>
 
-<div id="launch-container" 
-     class="d-flex justify-content-center w-100" 
-     style="position: relative; height: 320px; cursor: pointer; z-index: 1000; margin-top: -30px;" 
-     onclick="launchBurnout()"
-     markdown="0">
+<div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; cursor: pointer; z-index: 999; margin-top: -30px;" markdown="0">
   <div style="position: relative; width: 320px; height: 320px; pointer-events: none;">
-    <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" class="no-zoom tc-base-logo" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;" alt="Logo">
-    <img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" id="racetrack" class="no-zoom tc-rotating-overlay" style="position: absolute; top: 0; left: 0; z-index: 2; object-fit: contain;" alt="Racetrack">
+    <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" 
+         class="no-zoom tc-base-logo" 
+         style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;" 
+         alt="Logo">
+    
+    <img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" 
+         id="racetrack" 
+         class="no-zoom tc-rotating-overlay" 
+         style="position: absolute; top: 0; left: 0; z-index: 2; object-fit: contain;" 
+         alt="Racetrack">
   </div>
 </div>
 
-<br>Follow along and witness a transformation as this base model 1967 Chevrolet Camaro receives custom fabrication and modern styling all backed by a turbocharged alcohol injected highly modified 250 cubic inch inline 6 engine. No big sponsors or corporate bill folds, every upgrade is completed by a regular guy on a family conscious budget. Since 2007, this has been a work in progress, but 20+ years later, things are just getting interesting.
+<br>
+
+Follow along and witness a transformation as this base model 1967 Chevrolet Camaro receives custom fabrication and modern styling all backed by a turbocharged alcohol injected highly modified 250 cubic inch inline 6 engine. No big sponsors or corporate bill folds, every upgrade is completed by a regular guy on a family conscious budget. Since 2007, this has been a work in progress, but 20+ years later, things are just getting interesting.
 
 <div id="video-wrapper" style="max-width: 540px; margin: 2rem auto;" markdown="0">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
@@ -32,3 +38,38 @@ hide_title: true
 </div>
 
 Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | relative_url }}).
+
+{% capture custom_js %}
+<script>
+  (function() {
+    console.log("TurboCamaro Launch System: Online");
+
+    const initLaunch = () => {
+      const track = document.getElementById('racetrack');
+      const container = document.getElementById('launch-container');
+
+      if (container && track) {
+        container.addEventListener('click', function() {
+          if (!track.classList.contains('is-launching')) {
+            console.log("Burnout initiated...");
+            track.classList.add('is-launching');
+            setTimeout(() => {
+              track.classList.remove('is-launching');
+              console.log("Returning to idle.");
+            }, 1500);
+          }
+        });
+      }
+    };
+
+    // Handle initial load and Chirpy's dynamic page transitions
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initLaunch);
+    } else {
+      initLaunch();
+    }
+  })();
+</script>
+{% endcapture %}
+
+{{ custom_js }}

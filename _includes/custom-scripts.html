@@ -1,22 +1,27 @@
 <script>
-  function launchBurnout() {
+/* TurboCamaro Launch Logic - Force Injection */
+(function() {
+  const initLaunch = () => {
     const track = document.getElementById('racetrack');
-    if (track && !track.classList.contains('is-launching')) {
-      track.classList.add('is-launching');
-      
-      // Keep at high speed for 1.5 seconds
-      setTimeout(() => {
-        track.classList.remove('is-launching');
-      }, 1500);
-    }
-  }
-
-  // Fallback: If the 'onclick' attribute is stripped from the HTML, 
-  // this will manually attach the listener once the page loads.
-  document.addEventListener('DOMContentLoaded', function() {
     const container = document.getElementById('launch-container');
-    if (container) {
-      container.addEventListener('click', launchBurnout);
+
+    if (container && track) {
+      container.addEventListener('click', function() {
+        if (!track.classList.contains('is-launching')) {
+          track.classList.add('is-launching');
+          setTimeout(() => {
+            track.classList.remove('is-launching');
+          }, 1500);
+        }
+      });
     }
-  });
+  };
+
+  // Run on initial load and handle Chirpy's PWA page transitions
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initLaunch);
+  } else {
+    initLaunch();
+  }
+})();
 </script>
