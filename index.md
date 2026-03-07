@@ -2,50 +2,16 @@
 layout: page
 permalink: /
 hide_title: true
-description: >
-  <script>
-    (function() {
-      // The "Heartbeat" ensures the script attaches even if the page loads dynamically
-      const attachLogic = () => {
-        const container = document.getElementById('launch-container');
-        const track = document.getElementById('racetrack');
-        if (container && track && !container.dataset.hooked) {
-          container.dataset.hooked = "true";
-          container.style.cursor = 'pointer';
-          container.onclick = function() {
-            if (!track.classList.contains('is-launching')) {
-              track.classList.add('is-launching');
-              setTimeout(() => track.classList.remove('is-launching'), 1500);
-            }
-          };
-        }
-      };
-      setInterval(attachLogic, 500);
-    })();
-  </script>
 ---
 
 <style>
-  /* Nuclear hide for the topbar logo only on this page */
-  #topbar-title {
-    display: none !important;
-    opacity: 0 !important;
-    visibility: hidden !important;
-  }
+  #topbar-title { display: none !important; }
 </style>
 
 <div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; z-index: 999; margin-top: -30px;" markdown="0">
   <div style="position: relative; width: 320px; height: 320px; pointer-events: none;">
-    <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" 
-         class="no-zoom tc-base-logo" 
-         style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;" 
-         alt="Logo">
-    
-    <img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" 
-         id="racetrack" 
-         class="no-zoom tc-rotating-overlay" 
-         style="position: absolute; top: 0; left: 0; z-index: 2; object-fit: contain;" 
-         alt="Racetrack">
+    <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" class="no-zoom tc-base-logo" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;" alt="Logo">
+    <img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" id="racetrack" class="no-zoom tc-rotating-overlay" style="position: absolute; top: 0; left: 0; z-index: 2; object-fit: contain;" alt="Racetrack">
   </div>
 </div>
 
@@ -55,8 +21,29 @@ Follow along and witness a transformation as this base model 1967 Chevrolet Cama
 
 <div id="video-wrapper" style="max-width: 540px; margin: 2rem auto;" markdown="0">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
-    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/b_vNRvV7slQ" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/b_vNRvV7slQ" title="YouTube video player" allowfullscreen></iframe>
   </div>
 </div>
 
 Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | relative_url }}).
+
+<script type="text/javascript">
+  /* THE RELIABLE METHOD: Global Window Watcher */
+  window.addEventListener('load', function() {
+    const container = document.getElementById('launch-container');
+    const track = document.getElementById('racetrack');
+    
+    if (container && track) {
+      container.style.cursor = 'pointer';
+      // Use 'mousedown' as it is less likely to be blocked than 'click'
+      window.addEventListener('mousedown', function(e) {
+        if (e.target.closest('#launch-container')) {
+          if (!track.classList.contains('is-launching')) {
+            track.classList.add('is-launching');
+            setTimeout(() => { track.classList.remove('is-launching'); }, 1500);
+          }
+        }
+      });
+    }
+  });
+</script>
