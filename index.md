@@ -38,16 +38,11 @@ hide_title: true
     background-size: contain;
     z-index: 2;
     animation: tc-spin-ccw 8s infinite linear;
-    
-    /* THE COAST DOWN: Smoothly return to 8s idle speed over 1.5 seconds */
-    transition: animation-duration 1.5s ease-out;
+    transition: animation-duration 1.0s ease-out;
   }
 
   .is-launching {
-    /* Peak speed: 4 seconds per rotation */
     animation-duration: 4s !important;
-    
-    /* THE SPOOL UP: Build boost over 5 seconds */
     transition: animation-duration 5.0s ease-in !important;
   }
 
@@ -57,7 +52,7 @@ hide_title: true
   }
 </style>
 
-<audio id="turbo-audio" src="{{ '/assets/wav/logospool.wav' | relative_url }}" preload="auto"></audio>
+<audio id="turbo-audio" src="{{ '/assets/audio/turbo_spool.mp3' | relative_url }}" preload="auto"></audio>
 
 <div id="launch-wrapper" class="d-flex justify-content-center w-100" style="margin-top: -30px;" markdown="0">
   <div class="tc-container" id="launch-container">
@@ -91,29 +86,28 @@ Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | 
         const launch = (e) => {
           e.preventDefault();
           if (!track.classList.contains('is-launching')) {
-            // 1. Hammer the Gas
+            // 1. Visual Spool Up
             track.classList.add('is-launching');
             
-            // 2. Play Audio (WAV file)
+            // 2. Audio Spool Up
             audio.currentTime = 0;
             audio.volume = 1.0;
-            audio.play().catch(err => console.log("Audio blocked by browser policy. Click once on page first."));
+            audio.play().catch(err => console.log("Audio blocked: interact with page first."));
             
-            // 3. The Timing Loop (Total duration: 7.5 seconds)
+            // 3. The Blow-off/Cool down (matches your 5s spool + 1s peak)
             setTimeout(() => {
-              // Let off the gas
               track.classList.remove('is-launching');
               
-              // Fade out the audio over the final 1.5 seconds
-              let fadeInterval = setInterval(() => {
-                if (audio.volume > 0.05) {
-                  audio.volume -= 0.05;
+              // Fade out audio over the 1s deceleration
+              let fadeout = setInterval(() => {
+                if (audio.volume > 0.1) {
+                  audio.volume -= 0.1;
                 } else {
                   audio.pause();
-                  clearInterval(fadeInterval);
+                  clearInterval(fadeout);
                 }
               }, 100);
-            }, 6500); // 6.5s of "pedal down" time
+            }, 6000);
           }
         };
 
