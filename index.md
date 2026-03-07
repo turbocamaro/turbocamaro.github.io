@@ -5,20 +5,18 @@ hide_title: true
 ---
 
 <style>
-  /* 1. Hide the topbar logo */
   #topbar-title { display: none !important; }
 
-  /* 2. Setup the Container */
+  /* The Container is the ONLY thing that should be clickable */
   .tc-container {
     position: relative;
     width: 320px;
     height: 320px;
     margin: 0 auto;
-    cursor: pointer;
+    cursor: pointer !important;
     z-index: 1000;
   }
 
-  /* 3. The Central Logo (Static) */
   .tc-base-logo-bg {
     position: absolute;
     top: 50%;
@@ -29,9 +27,9 @@ hide_title: true
     background: url("{{ '/assets/img/tc_logo_tp.png' | relative_url }}") no-repeat center;
     background-size: contain;
     z-index: 1;
+    pointer-events: none; /* Let the click pass through to the container */
   }
 
-  /* 4. The Racetrack (Rotating) */
   .tc-racetrack-bg {
     position: absolute;
     top: 0;
@@ -41,24 +39,19 @@ hide_title: true
     background: url("{{ '/assets/img/Racetrack2.png' | relative_url }}") no-repeat center;
     background-size: contain;
     z-index: 2;
+    pointer-events: none; /* Let the click pass through to the container */
     
-    /* DEFINING THE SPIN HERE since it was removed from SCSS */
-    animation: tc-spin-ccw 8s infinite linear;
-    
-    /* Smooth return to idle */
+    /* NEW ANIMATION NAME to bypass any cached SCSS */
+    animation: tc-turbo-spin 8s infinite linear;
     transition: animation-duration 1.5s ease-out;
   }
 
-  /* 5. THE LAUNCH STATE */
   .is-launching {
-    /* Peak speed: 4 seconds (Double speed) */
     animation-duration: 4s !important;
-    /* 5 second spool-up build */
     transition: animation-duration 5.0s ease-in !important;
   }
 
-  /* THE KEYFRAMES: The 'engine' of the rotation */
-  @keyframes tc-spin-ccw {
+  @keyframes tc-turbo-spin {
     from { transform: rotate(360deg); }
     to { transform: rotate(0deg); }
   }
@@ -87,49 +80,47 @@ Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | 
 
 <script type="text/javascript">
   (function() {
-    const init = () => {
-      const container = document.getElementById('launch-container');
+    // The "Engine" for the click event
+    const runTurbo = () => {
       const track = document.getElementById('racetrack');
       const audio = document.getElementById('turbo-audio');
       
-      if (container && track && !container.dataset.hooked) {
-        container.dataset.hooked = "true";
+      if (track && !track.classList.contains('is-launching')) {
+        track.classList.add('is-launching');
         
-        container.addEventListener('click', function(e) {
-          // Prevent standard link/image behavior
-          e.preventDefault();
+        if (audio) {
+          audio.currentTime = 0;
+          audio.volume = 1.0;
+          audio.play().catch(e => console.warn("Audio blocked. Interact with page first."));
+        }
 
-          if (!track.classList.contains('is-launching')) {
-            track.classList.add('is-launching');
-            
-            // Audio Playback
-            if (audio) {
-              audio.currentTime = 0;
-              audio.volume = 1.0;
-              audio.play().catch(err => console.log("Audio play failed:", err));
-            }
-            
-            // Timing: 5s spool + 1.5s peak hold = 6.5s total before release
-            setTimeout(() => {
-              track.classList.remove('is-launching');
-              
-              // Fade audio over 1.5s
-              if (audio) {
-                let fade = setInterval(() => {
-                  if (audio.volume > 0.1) {
-                    audio.volume -= 0.1;
-                  } else {
-                    audio.pause();
-                    clearInterval(fade);
-                  }
-                }, 150);
+        // 6.5s Duration (5s spool + 1.5s hold)
+        setTimeout(() => {
+          track.classList.remove('is-launching');
+          if (audio) {
+            let fadeOut = setInterval(() => {
+              if (audio.volume > 0.1) {
+                audio.volume -= 0.1;
+              } else {
+                audio.pause();
+                clearInterval(fadeOut);
               }
-            }, 6500);
+            }, 150);
           }
-        });
+        }, 6500);
       }
     };
-    // Check every half second to ensure the listener is attached
+
+    // Attachment Logic
+    const init = () => {
+      const container = document.getElementById('launch-container');
+      if (container && !container.dataset.hooked) {
+        container.dataset.hooked = "true";
+        // Directly assigning the function to ensure it's not blocked by other listeners
+        container.onclick = runTurbo;
+      }
+    };
+
     setInterval(init, 500);
   })();
 </script>
