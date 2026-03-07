@@ -1,602 +1,152 @@
 ---
 ---
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
 
-/*
- * TurboCamaro.ca — Custom Theme Override
- * File: assets/css/jekyll-theme-chirpy.scss
- *
- * Drop this file into your repo at: assets/css/jekyll-theme-chirpy.scss
- * It overrides Chirpy's default CSS variables for both light and dark modes.
- *
- * Palette:
- *   --tc-red:        #e63946   (turbo red accent)
- *   --tc-red-dark:   #b02030   (deep red for hover/borders)
- *   --tc-red-glow:   rgba(230,57,70,0.18)  (red ambient glow)
- *   --tc-black:      #0d0d0d   (near-black background)
- *   --tc-steel:      #1a1a1c   (sidebar / card background)
- *   --tc-gunmetal:   #232325   (elevated surface)
- *   --tc-grey-mid:   #3a3a3e   (borders, dividers)
- *   --tc-grey-light: #9a9a9f   (muted text)
- *   --tc-white:      #e8e8ea   (primary text)
- *
- * Fonts:
- *   Display / Sidebar title : 'Oswald' (Google Fonts CDN)
- *   Body text               : 'Barlow' (Google Fonts CDN)
- *   Fallbacks               : system condensed sans
- */
-
-/* ─── Google Fonts ────────────────────────────────────────────────────────── */
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Barlow:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
-
-/* ─── Global custom properties ───────────────────────────────────────────── */
-:root {
-  --tc-red:        #e63946;
-  --tc-red-dark:   #b02030;
-  --tc-red-glow:   rgba(230, 57, 70, 0.15);
-  --tc-black:      #0d0d0d;
-  --tc-steel:      #1a1a1c;
-  --tc-gunmetal:   #232325;
-  --tc-grey-mid:   #3a3a3e;
-  --tc-grey-light: #9a9a9f;
-  --tc-white:      #e8e8ea;
-
-  /* Font overrides */
-  --content-font-family:  'Barlow', 'Segoe UI', sans-serif;
-  --heading-font-family:  'Oswald', 'Arial Narrow', sans-serif;
+/* --- 1. Theme Toggle Centering --- */
+#mode-toggle {
+  display: flex !important;
+  align-items: center;    /* Vertical centering */
+  justify-content: center; /* Horizontal centering */
+  padding: 0 !important;   /* Remove any lopsided padding */
+  line-height: 1 !important;
 }
 
-/* ══════════════════════════════════════════════════════════════════════════ */
-/*  DARK MODE  (default — full send industrial)                               */
-/* ══════════════════════════════════════════════════════════════════════════ */
-html {
-  @media (prefers-color-scheme: dark) {
-    &:not([data-mode]),
-    &[data-mode='dark'] {
-
-      /* Backgrounds */
-      --main-bg:            var(--tc-black);
-      --sidebar-bg:         var(--tc-steel);
-      --card-bg:            var(--tc-gunmetal);
-      --topbar-bg:          rgba(13, 13, 13, 0.92);
-
-      /* Borders */
-      --main-border-color:  var(--tc-grey-mid);
-      --sidebar-border-color: #2a1418;
-      --card-border-color:  var(--tc-grey-mid);
-
-      /* Text */
-      --text-color:                var(--tc-white);
-      --heading-color:             #ffffff;
-      --text-muted-color:          var(--tc-grey-light);
-      --text-muted-highlight-color: #c0c0c4;
-      --label-color:               var(--tc-grey-light);
-
-      /* Sidebar text */
-      --site-title-color:          var(--tc-red);
-      --site-subtitle-color:       var(--tc-grey-light);
-      --sidebar-muted-color:       #686870;
-      --sidebar-active-color:      var(--tc-red);
-      --sidebar-hover-bg:          rgba(230, 57, 70, 0.10);
-
-      /* Links */
-      --link-color:            var(--tc-red);
-      --link-underline-color:  var(--tc-red-dark);
-      --link-hover-color:      #ff5a66;
-
-      /* Accent / interactive */
-      --checkbox-checked-color: var(--tc-red);
-      --btn-active-color:       var(--tc-red);
-      --btn-border-color:       var(--tc-grey-mid);
-
-      /* Buttons */
-      --button-bg:                     var(--tc-gunmetal);
-      --button-border-color:           var(--tc-grey-mid);
-      --button-backtotop-color:        var(--tc-red);
-      --button-backtotop-border-color: var(--tc-red-dark);
-
-      /* Code blocks */
-      --code-bg:           #181818;
-      --code-color:        #e8c8ca;
-      --code-header-bg:    #1f1618;
-      --code-header-color: var(--tc-grey-light);
-      --inline-code-bg:    rgba(230, 57, 70, 0.12);
-
-      /* Blockquotes */
-      --blockquote-border-color: var(--tc-red-dark);
-      --blockquote-text-color:   var(--tc-grey-light);
-
-      /* Tags */
-      --tag-bg:          rgba(230, 57, 70, 0.14);
-      --tag-border:      var(--tc-red-dark);
-      --tag-color:       var(--tc-red);
-      --tag-hover-bg:    var(--tc-red);
-      --tag-hover-color: #ffffff;
-
-      /* Mask / overlay */
-      --mask-bg: rgba(13, 13, 13, 0.85);
-
-      /* Timeline (Archives page) */
-      --timeline-color:      var(--tc-red);
-      --timeline-node-bg:    var(--tc-red);
-    }
-
-    /* Light mode when user explicitly toggles it */
-    &[data-mode='light'] {
-      --main-bg:            #f5f5f5;
-      --sidebar-bg:         #1a1a1c;
-      --site-title-color:   var(--tc-red);
-      --sidebar-active-color: var(--tc-red);
-      --sidebar-muted-color: #9a9a9f;
-      --sidebar-border-color: #2a1418;
-      --link-color:         var(--tc-red-dark);
-      --link-underline-color: #cc8080;
-      --btn-active-color:   var(--tc-red);
-      --checkbox-checked-color: var(--tc-red);
-      --button-backtotop-color: var(--tc-red);
-      --tag-color:          var(--tc-red-dark);
-      --blockquote-border-color: var(--tc-red);
-    }
-  }
-
-  @media (prefers-color-scheme: light) {
-    &:not([data-mode]),
-    &[data-mode='light'] {
-      --main-bg:            #f5f5f5;
-      --sidebar-bg:         #1a1a1c;
-      --site-title-color:   var(--tc-red);
-      --sidebar-active-color: var(--tc-red);
-      --sidebar-muted-color: #9a9a9f;
-      --sidebar-border-color: #2a1418;
-      --link-color:         var(--tc-red-dark);
-      --link-underline-color: #cc8080;
-      --btn-active-color:   var(--tc-red);
-      --checkbox-checked-color: var(--tc-red);
-      --button-backtotop-color: var(--tc-red);
-      --tag-color:          var(--tc-red-dark);
-      --blockquote-border-color: var(--tc-red);
-    }
-
-    /* Dark mode when user explicitly toggles it in a light-preferring browser */
-    &[data-mode='dark'] {
-      --main-bg:            var(--tc-black);
-      --sidebar-bg:         var(--tc-steel);
-      --card-bg:            var(--tc-gunmetal);
-      --main-border-color:  var(--tc-grey-mid);
-      --sidebar-border-color: #2a1418;
-      --text-color:         var(--tc-white);
-      --heading-color:      #ffffff;
-      --text-muted-color:   var(--tc-grey-light);
-      --label-color:        var(--tc-grey-light);
-      --site-title-color:   var(--tc-red);
-      --sidebar-active-color: var(--tc-red);
-      --sidebar-muted-color: #686870;
-      --sidebar-hover-bg:   rgba(230, 57, 70, 0.10);
-      --link-color:         var(--tc-red);
-      --link-underline-color: var(--tc-red-dark);
-      --btn-active-color:   var(--tc-red);
-      --checkbox-checked-color: var(--tc-red);
-      --button-bg:          var(--tc-gunmetal);
-      --button-border-color: var(--tc-grey-mid);
-      --button-backtotop-color: var(--tc-red);
-      --button-backtotop-border-color: var(--tc-red-dark);
-      --code-bg:            #181818;
-      --inline-code-bg:     rgba(230, 57, 70, 0.12);
-      --blockquote-border-color: var(--tc-red-dark);
-      --tag-bg:             rgba(230, 57, 70, 0.14);
-      --tag-border:         var(--tc-red-dark);
-      --tag-color:          var(--tc-red);
-    }
-  }
-}
-
-/* ══════════════════════════════════════════════════════════════════════════ */
-/*  TYPOGRAPHY                                                                */
-/* ══════════════════════════════════════════════════════════════════════════ */
-
-body {
-  font-family: var(--content-font-family);
-  font-weight: 400;
-  letter-spacing: 0.01em;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: var(--heading-font-family);
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  font-weight: 600;
-}
-
-/* ══════════════════════════════════════════════════════════════════════════ */
-/*  SIDEBAR — Dark steel panel with red accents                              */
-/* ══════════════════════════════════════════════════════════════════════════ */
-
-#sidebar {
-  background: var(--tc-steel) !important;
-  border-right: 1px solid #2a1418;
-
-  /* Subtle red top-border edge like a boost gauge line */
-  &::before {
-    content: '';
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 3px;
-    background: linear-gradient(90deg, var(--tc-red-dark), var(--tc-red), var(--tc-red-dark));
-  }
-}
-
-/* Site title — big, Oswald, red */
-#sidebar .site-title a {
-  font-family: 'Oswald', sans-serif !important;
-  font-weight: 700;
-  font-size: 1.5rem !important;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--tc-red) !important;
-  text-shadow: 0 0 18px var(--tc-red-glow);
-  transition: color 0.2s, text-shadow 0.2s;
-
-  &:hover {
-    color: #ff5a66 !important;
-    text-shadow: 0 0 28px rgba(230, 57, 70, 0.4);
-  }
-}
-
-/* Subtitle */
-#sidebar .site-subtitle {
-  font-family: 'Barlow', sans-serif !important;
-  font-size: 0.75rem;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--tc-grey-light) !important;
-  font-weight: 300;
-}
-
-/* Avatar — square crop like a build sheet stamp */
-#sidebar #avatar {
-  border-radius: 4px !important;
-  box-shadow: 0 0 0 2px var(--tc-red-dark), 0 0 20px var(--tc-red-glow);
-
-  img {
-    border-radius: 4px !important;
-  }
-}
-
-/* Nav links */
-#sidebar nav a, #sidebar ul li a {
-  font-family: 'Oswald', sans-serif !important;
-  letter-spacing: 0.06em;
-  font-weight: 400;
+#mode-toggle i {
+  margin: 0 !important;    /* Remove any "nudge" margins */
   font-size: 0.9rem;
-  text-transform: uppercase;
-  transition: color 0.15s, background 0.15s;
-
-  &:hover, &.active {
-    color: var(--tc-red) !important;
-    background: rgba(230, 57, 70, 0.08);
-    border-radius: 4px;
-  }
 }
 
-/* Active nav indicator — red left bar */
-#sidebar ul li.active a,
-#sidebar nav li.active a {
-  color: var(--tc-red) !important;
-  border-left: 3px solid var(--tc-red);
-  padding-left: calc(1rem - 3px);
+/* --- 2. Landing Page Logo Kill --- */
+/* Hides topbar logo on the home page across all devices */
+body[path="/"] #topbar-title,
+body[path=""] #topbar-title,
+#main-wrapper:has(#launch-container) ~ #topbar-wrapper #topbar-title {
+    display: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
 }
 
-/* ══════════════════════════════════════════════════════════════════════════ */
-/*  TOPBAR                                                                    */
-/* ══════════════════════════════════════════════════════════════════════════ */
-
-#topbar {
-  background: rgba(13, 13, 13, 0.90) !important;
-  backdrop-filter: blur(8px);
-  border-bottom: 1px solid #2a1418;
-  box-shadow: 0 2px 12px rgba(0,0,0,0.6);
+/* --- 3. Sidebar & Avatar Styling --- */
+#avatar {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    width: 70% !important;
+    height: auto !important;
+    margin: 1.5rem auto !important;
+    display: flex !important;
+    justify-content: center !important;
 }
 
-#topbar-title {
-  font-family: 'Oswald', sans-serif !important;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--tc-red) !important;
+#avatar img {
+    width: 80% !important;
+    height: auto !important;
+    display: block !important;
 }
 
-/* Breadcrumb divider red */
-#topbar #breadcrumb span.separator { color: var(--tc-red); }
+#sidebar .profile-wrapper { padding: 0.5rem 0 0 0 !important; }
 
-/* ══════════════════════════════════════════════════════════════════════════ */
-/*  POST LIST — Home page cards                                               */
-/* ══════════════════════════════════════════════════════════════════════════ */
-
-#post-list .card {
-  background: var(--tc-gunmetal) !important;
-  border: 1px solid var(--tc-grey-mid) !important;
-  border-radius: 6px;
-  transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
-
-  &:hover {
-    border-color: var(--tc-red-dark) !important;
-    box-shadow: 0 4px 24px rgba(230, 57, 70, 0.15);
-    transform: translateY(-2px);
-  }
+#sidebar .nav .nav-item .nav-link {
+    font-size: 1.15rem;
+    padding: 0.6rem 0;
+    display: flex;
+    align-items: center;
 }
 
-#post-list .card-title a {
-  font-family: 'Oswald', sans-serif !important;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-  font-size: 1.15rem;
-  color: var(--tc-white) !important;
+#sidebar .nav-item { margin-bottom: 0.25rem; }
+#sidebar .nav-link i { font-size: 1.1rem; margin-right: 0.5rem; }
 
-  &:hover { color: var(--tc-red) !important; }
-}
+/* Hide Tags from sidebar */
+#sidebar ul li:has(a[href*="/tags/"]) { display: none !important; }
 
-#post-list .card-body .post-meta {
-  font-size: 0.78rem;
-  letter-spacing: 0.05em;
-  color: var(--tc-grey-light) !important;
-}
-
-/* "Recently Updated" section heading */
-.home-panel h2, #recently-updated h2 {
-  font-family: 'Oswald', sans-serif !important;
-  font-size: 0.8rem;
-  letter-spacing: 0.15em;
-  text-transform: uppercase;
-  color: var(--tc-grey-light) !important;
-  border-bottom: 1px solid var(--tc-grey-mid);
-  padding-bottom: 0.4rem;
-}
-
-/* ══════════════════════════════════════════════════════════════════════════ */
-/*  TIMELINE (Archives page)                                                  */
-/* ══════════════════════════════════════════════════════════════════════════ */
-
-/* Year headings — bold red with divider line */
-#archives .year {
-  font-family: 'Oswald', sans-serif !important;
-  font-weight: 700;
-  font-size: 1.6rem;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: var(--tc-red) !important;
-  border-bottom: 2px solid var(--tc-red-dark);
-  padding-bottom: 0.25rem;
-  margin-top: 2.5rem;
-  margin-bottom: 1.2rem;
-  text-shadow: 0 0 16px var(--tc-red-glow);
-}
-
-/* Timeline spine line — red */
-#archives ul.list-unstyled li,
-#archives .timeline-list li {
-  border-left: 2px solid var(--tc-grey-mid);
-  padding-left: 1.2rem;
-  position: relative;
-  transition: border-color 0.2s;
-
-  &:hover {
-    border-left-color: var(--tc-red);
-  }
-
-  /* Node dot */
-  &::before {
-    content: '';
-    position: absolute;
-    left: -5px;
-    top: 0.55rem;
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background: var(--tc-grey-mid);
-    transition: background 0.2s, box-shadow 0.2s;
-  }
-
-  &:hover::before {
-    background: var(--tc-red);
-    box-shadow: 0 0 8px var(--tc-red-glow);
-  }
-}
-
-/* Timeline post date stamps */
-#archives .date {
-  font-family: 'Oswald', sans-serif !important;
-  font-weight: 400;
-  letter-spacing: 0.08em;
-  color: var(--tc-grey-light) !important;
-  font-size: 0.78rem;
-}
-
-/* Timeline post title links */
-#archives a {
-  font-family: 'Barlow', sans-serif !important;
-  font-weight: 500;
-  color: var(--tc-white) !important;
-  transition: color 0.15s;
-
-  &:hover { color: var(--tc-red) !important; }
-}
-
-/* ══════════════════════════════════════════════════════════════════════════ */
-/*  TAGS                                                                      */
-/* ══════════════════════════════════════════════════════════════════════════ */
-
-.tag, .post-tag, #tags-cloud a, #page-tag ul li a {
-  background: rgba(230, 57, 70, 0.10) !important;
-  border: 1px solid var(--tc-red-dark) !important;
-  color: var(--tc-red) !important;
-  border-radius: 3px;
-  font-family: 'Oswald', sans-serif !important;
-  font-size: 0.78rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  padding: 0.15rem 0.5rem;
-  transition: background 0.15s, color 0.15s, box-shadow 0.15s;
-
-  &:hover {
-    background: var(--tc-red) !important;
+/* Sidebar Colors */
+#sidebar-trigger i, #search-trigger i { color: #d22e28 !important; }
+#sidebar .nav-link:hover, #sidebar .nav-item.active .nav-link {
+    background-color: #d22e28 !important;
     color: #fff !important;
-    box-shadow: 0 0 10px var(--tc-red-glow);
-    border-color: var(--tc-red) !important;
-  }
 }
 
-/* ══════════════════════════════════════════════════════════════════════════ */
-/*  INLINE CODE & CODE BLOCKS                                                 */
-/* ══════════════════════════════════════════════════════════════════════════ */
+/* --- 4. Content & Layout Gaps --- */
+#main-wrapper .container { padding-top: 1rem !important; }
+#launch-container { margin-top: -30px !important; }
+.no-zoom { pointer-events: none !important; }
 
-code:not([class]) {
-  background: rgba(230, 57, 70, 0.12) !important;
-  color: #f08090 !important;
-  border: 1px solid rgba(230, 57, 70, 0.2);
-  border-radius: 3px;
-  font-size: 0.88em;
+/* Hide License Info */
+.post-tail-wrapper .post-copyright,
+.post-tail-wrapper .license-wrapper,
+footer .license-wrapper,
+.post-content + hr + .d-flex, 
+blockquote.prompt-info {
+    display: none !important;
 }
 
-div[class^="language-"] {
-  border: 1px solid var(--tc-grey-mid);
-  border-radius: 6px;
-  box-shadow: 0 2px 16px rgba(0,0,0,0.4);
-
-  .code-header {
-    background: #1a1214 !important;
-    border-bottom: 1px solid var(--tc-red-dark) !important;
-    font-family: 'Oswald', sans-serif !important;
-    font-size: 0.75rem;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    color: var(--tc-grey-light) !important;
-  }
-
-  pre { background: #141214 !important; }
-}
-
-/* ══════════════════════════════════════════════════════════════════════════ */
-/*  BLOCKQUOTES — like a spec sheet notation                                  */
-/* ══════════════════════════════════════════════════════════════════════════ */
-
-blockquote {
-  border-left: 4px solid var(--tc-red) !important;
-  background: rgba(230, 57, 70, 0.05);
-  border-radius: 0 4px 4px 0;
-  padding: 0.75rem 1.25rem;
-  font-style: italic;
-  color: var(--tc-grey-light) !important;
-}
-
-/* ══════════════════════════════════════════════════════════════════════════ */
-/*  POST CONTENT HEADINGS                                                     */
-/* ══════════════════════════════════════════════════════════════════════════ */
-
-.content h2 {
-  border-bottom: 2px solid var(--tc-red-dark);
-  padding-bottom: 0.3rem;
-}
-
-.content h3 {
-  border-left: 3px solid var(--tc-red);
-  padding-left: 0.75rem;
-}
-
-/* ══════════════════════════════════════════════════════════════════════════ */
-/*  LINKS                                                                     */
-/* ══════════════════════════════════════════════════════════════════════════ */
-
-.content a {
-  color: var(--tc-red) !important;
-  text-underline-offset: 3px;
-  transition: color 0.15s;
-
-  &:hover {
-    color: #ff5a66 !important;
-  }
-}
-
-/* ══════════════════════════════════════════════════════════════════════════ */
-/*  BACK-TO-TOP BUTTON                                                        */
-/* ══════════════════════════════════════════════════════════════════════════ */
-
-#back-to-top {
-  background: var(--tc-red) !important;
-  border-color: var(--tc-red-dark) !important;
-  box-shadow: 0 0 14px var(--tc-red-glow);
-  transition: background 0.2s, box-shadow 0.2s;
-
-  &:hover {
-    background: #ff5a66 !important;
-    box-shadow: 0 0 22px rgba(230, 57, 70, 0.35);
-  }
-}
-
-/* ══════════════════════════════════════════════════════════════════════════ */
-/*  SEARCH                                                                    */
-/* ══════════════════════════════════════════════════════════════════════════ */
-
-#search input {
-  background: var(--tc-gunmetal) !important;
-  border-color: var(--tc-grey-mid) !important;
-  color: var(--tc-white) !important;
-
-  &:focus {
-    border-color: var(--tc-red) !important;
-    box-shadow: 0 0 0 2px var(--tc-red-glow) !important;
-  }
-}
-
-/* ══════════════════════════════════════════════════════════════════════════ */
-/*  TABLE OF CONTENTS                                                         */
-/* ══════════════════════════════════════════════════════════════════════════ */
-
-#toc-wrapper {
-  border-left: 2px solid var(--tc-grey-mid);
-
-  a {
-    color: var(--tc-grey-light) !important;
-    font-size: 0.85rem;
-    transition: color 0.15s;
-    font-family: 'Barlow', sans-serif !important;
-
-    &:hover, &.active {
-      color: var(--tc-red) !important;
+/* --- 5. MOBILE TOPBAR (Strictly Contained) --- */
+@media (max-width: 849px) {
+    #topbar-wrapper, #topbar {
+        height: 50px !important;
+        background-color: var(--main-bg) !important;
+        display: flex !important;
+        align-items: center !important;
+        position: fixed !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        z-index: 1050 !important;
+        border-bottom: 1px solid var(--main-border-color) !important;
     }
-  }
 
-  .active {
-    border-left: 2px solid var(--tc-red);
-    margin-left: -2px;
-    padding-left: 0.5rem;
-  }
+    #sidebar-trigger { left: 15px !important; }
+    #search-trigger { right: 15px !important; }
+
+    #topbar-title {
+        position: absolute !important;
+        left: 50% !important;
+        top: 22px !important; 
+        transform: translate(-50%, -50%) !important;
+        width: 150px !important;
+        height: 30px !important;
+        background: url('/assets/img/tc_logo_tp.png') no-repeat center !important;
+        background-size: contain !important;
+        color: transparent !important;
+        text-indent: -9999px !important;
+        z-index: 1055 !important;
+    }
+
+    #main-wrapper { padding-top: 60px !important; }
+    #launch-container { margin-top: -10px !important; }
 }
 
-/* ══════════════════════════════════════════════════════════════════════════ */
-/*  FOOTER                                                                    */
-/* ══════════════════════════════════════════════════════════════════════════ */
+/* --- 6. Category Icons --- */
+.categories i, .categories .fa-folder { display: none !important; }
+.categories .card-body a { font-size: 1.4rem !important; font-weight: 600; display: flex !important; padding: 10px 0; }
 
-footer {
-  border-top: 1px solid var(--tc-grey-mid);
-  font-size: 0.78rem;
-  letter-spacing: 0.05em;
-  color: var(--tc-grey-light) !important;
-  font-family: 'Barlow', sans-serif !important;
+.categories a[href]::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-size: 1.5em; 
+    margin-right: 15px;
+    width: 1.5em;
+    text-align: center;
 }
 
-/* ══════════════════════════════════════════════════════════════════════════ */
-/*  SUBTLE NOISE TEXTURE on dark backgrounds                                  */
-/*  Gives the "workshop" industrial feel — only in dark mode                 */
-/* ══════════════════════════════════════════════════════════════════════════ */
+.categories a[href*="engine"]::before     { content: "\f085"; color: #6c757d !important; }
+.categories a[href*="interior"]::before   { content: "\f4b8"; color: #6c757d !important; }
+.categories a[href*="exterior"]::before   { content: "\f1b9"; color: #6c757d !important; }
+.categories a[href*="mechanical"]::before { content: "\f33e"; color: #6c757d !important; }
+.categories a[href*="turbo"]::before      { content: "\f72e"; color: #6c757d !important; }
+.categories a[href*="fuel"]::before       { content: "\f52f"; color: #6c757d !important; }
 
-@media (prefers-color-scheme: dark) {
-  html:not([data-mode='light']) body {
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23noise)' opacity='0.025'/%3E%3C/svg%3E");
-  }
-}
-
-html[data-mode='dark'] body {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23noise)' opacity='0.025'/%3E%3C/svg%3E");
-}
+/* Dynamic Titles */
+h1.dynamic-title::before { font-family: "Font Awesome 5 Free"; font-weight: 900; margin-right: 15px; color: #6c757d; font-size: 0.9em; }
+body[path*="/engine/"] h1.dynamic-title::before     { content: "\f085"; }
+body[path*="/interior/"] h1.dynamic-title::before   { content: "\f4b8"; }
+body[path*="/exterior/"] h1.dynamic-title::before   { content: "\f1b9"; }
+body[path*="/mechanical/"] h1.dynamic-title::before { content: "\f33e"; }
+body[path*="/turbo/"] h1.dynamic-title::before      { content: "\f72e"; }
+body[path*="/fuel/"] h1.dynamic-title::before       { content: "\f52f"; }
