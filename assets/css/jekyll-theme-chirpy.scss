@@ -1,20 +1,5 @@
 ---
 ---
-
-/* Force the theme toggle icon to center perfectly */
-#mode-toggle {
-  display: flex !important;
-  align-items: center;    /* Vertical centering */
-  justify-content: center; /* Horizontal centering */
-  padding: 0 !important;   /* Remove any lopsided padding */
-  line-height: 1 !important;
-}
-
-#mode-toggle i {
-  margin: 0 !important;    /* Remove any "nudge" margins on the icon itself */
-  font-size: 0.9rem;       /* Ensure it matches the scale of your social icons */
-}
-
 /* prettier-ignore */
 @use 'main
 {%- if jekyll.environment == 'production' -%}
@@ -36,6 +21,20 @@ footer .license-wrapper,
 .post-content + hr + .d-flex, 
 blockquote.prompt-info {
     display: none !important;
+}
+
+/* Force the theme toggle icon to center perfectly */
+#mode-toggle {
+  display: flex !important;
+  align-items: center;    /* Vertical centering */
+  justify-content: center; /* Horizontal centering */
+  padding: 0 !important;   /* Remove any lopsided padding */
+  line-height: 1 !important;
+}
+
+#mode-toggle i {
+  margin: 0 !important;    /* Remove any "nudge" margins on the icon itself */
+  font-size: 0.9rem;       /* Ensure it matches the scale of your social icons */
 }
 
 .no-zoom {
