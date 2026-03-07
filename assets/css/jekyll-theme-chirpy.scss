@@ -75,11 +75,14 @@ blockquote.prompt-info {
 
 /* The 'Accelerated' State: The Burnout */
 .is-launching {
-    /* Spool up to 0.6s speed */
+    /* The target speed */
     animation-duration: 0.6s !important;
     
-    /* Snap the speed change faster than the return to idle */
-    transition: animation-duration 0.2s ease-in !important;
+    /* Keep this linear too! */
+    animation-timing-function: linear !important; 
+    
+    /* This handles the SMOOTH ACCELERATION (The Spool-up) */
+    transition: animation-duration 0.3s ease-in !important;
 }
 
 @keyframes tc-spin-ccw {
