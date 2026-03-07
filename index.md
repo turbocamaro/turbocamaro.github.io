@@ -41,7 +41,6 @@ hide_title: true
     background-size: contain; 
     z-index: 2; 
     pointer-events: none; 
-    /* will-change ensures the browser optimizes for both rotation and blur filters */
     will-change: transform, filter; 
   }
 </style>
@@ -68,86 +67,75 @@ Follow along and witness a transformation as this base model 1967 Chevrolet Cama
 Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | relative_url }}).
 
 <script type="text/javascript">
-  (function() {
-    /* --- TUNER SETTINGS --- */
-    const IDLE_SPEED = 0.75;    // Degrees per frame (Cruise)
-    const PEAK_SPEED = 20.0;    // Degrees per frame (Top End)
-    const ACCEL_DURATION = 5300; // Your exact 5.3s timing
+(function() {
+  const IDLE_SPEED = 0.75;    
+  const PEAK_SPEED = 20.0;    
+  const ACCEL_DURATION = 5300; 
+  const ACCEL_SMOOTHNESS = 0.0035; 
+  const BRAKE_SMOOTHNESS = 0.05;  
+  const BLUR_MULTIPLIER = 0.15; 
+
+  let rotation = 0;
+  let currentSpeed = IDLE_SPEED; 
+  let targetSpeed = IDLE_SPEED;
+  let isLaunching = false;
+
+  const animate = () => {
+    const track = document.getElementById('racetrack');
+    const lerpFactor = isLaunching ? ACCEL_SMOOTHNESS : BRAKE_SMOOTHNESS; 
     
-    // Physics Tuning: Lower = heavier feel
-    const ACCEL_SMOOTHNESS = 0.0035; 
-    const BRAKE_SMOOTHNESS = 0.05;  
+    currentSpeed += (targetSpeed - currentSpeed) * lerpFactor;
+    rotation -= currentSpeed;
 
-    // Blur Intensity: Controls the "streakiness" at top speed
-    const BLUR_MULTIPLIER = 0.15; 
-    /* ---------------------- */
-
-    let rotation = 0;
-    let currentSpeed = IDLE_SPEED; 
-    let targetSpeed = IDLE_SPEED;
-    let isLaunching = false;
-
-    // The Animation Loop
-    const animate = () => {
-      const track = document.getElementById('racetrack');
-      const lerpFactor = isLaunching ? ACCEL_SMOOTHNESS : BRAKE_SMOOTHNESS; 
-      
-      currentSpeed += (targetSpeed - currentSpeed) * lerpFactor;
-      rotation -= currentSpeed;
-
-      if (track) { 
-        // 1. Update Rotation
-        track.style.transform = `rotate(${rotation}deg)`; 
-        
-        // 2. Update Blur (Calculates how much blur to add based on speed above idle)
-        const blurAmount = Math.max(0, (currentSpeed - IDLE_SPEED) * BLUR_MULTIPLIER);
-        track.style.filter = `blur(${blurAmount}px)`;
-      }
-      requestAnimationFrame(animate);
-    };
-
-    const runTurbo = (e) => {
-      if (e) e.preventDefault();
-      const audio = document.getElementById('turbo-audio');
-      
-      if (!isLaunching) {
-        isLaunching = true;
-        targetSpeed = PEAK_SPEED;
-
-        if (audio) {
-          audio.currentTime = 0;
-          audio.volume = 1.0;
-          audio.play().catch(err => console.log("Audio waiting for user click."));
-          
-          setTimeout(() => {
-            isLaunching = false;
-            targetSpeed = IDLE_SPEED; 
-
-            // Smooth audio fade out over 1 second
-            let fadeOut = setInterval(() => {
-              if (audio.volume > 0.1) {
-                audio.volume -= 0.1;
-              } else {
-                audio.pause();
-                clearInterval(fadeOut);
-              }
-            }, 100);
-          }, ACCEL_DURATION); 
-        }
-      }
-    };
-
-    // Re-hook listener to handle Chirpy's page transitions
-    setInterval(() => {
-      const container = document.getElementById('launch-container');
-      if (container && !container.dataset.hooked) {
-        container.dataset.hooked = "true";
-        container.onclick = runTurbo;
-        container.ontouchstart = runTurbo;
-      }
-    }, 500);
-
-    // Initial Kick-off
+    if (track) { 
+      track.style.transform = "rotate(" + rotation + "deg)"; 
+      const blurAmount = Math.max(0, (currentSpeed - IDLE_SPEED) * BLUR_MULTIPLIER);
+      track.style.filter = "blur(" + blurAmount + "px)";
+    }
     requestAnimationFrame(animate);
-  })();
+  };
+
+  const runTurbo = (e) => {
+    if (e) e.preventDefault();
+    const audio = document.getElementById('turbo-audio');
+    
+    if (!isLaunching) {
+      isLaunching = true;
+      targetSpeed = PEAK_SPEED;
+
+      if (audio) {
+        audio.currentTime = 0;
+        audio.volume = 1.0;
+        audio.play().catch(function(err) { console.log("Audio play deferred"); });
+        
+        setTimeout(function() {
+          isLaunching = false;
+          targetSpeed = IDLE_SPEED; 
+
+          let fadeOut = setInterval(function() {
+            if (audio.volume > 0.1) {
+              audio.volume -= 0.1;
+            } else {
+              audio.pause();
+              clearInterval(fadeOut);
+            }
+          }, 100);
+        }, ACCEL_DURATION); 
+      }
+    }
+  };
+
+  // Setup loop
+  const setup = () => {
+    const container = document.getElementById('launch-container');
+    if (container && !container.dataset.hooked) {
+      container.dataset.hooked = "true";
+      container.onclick = runTurbo;
+      container.ontouchstart = runTurbo;
+    }
+  };
+
+  setInterval(setup, 500);
+  requestAnimationFrame(animate);
+})();
 </script>
