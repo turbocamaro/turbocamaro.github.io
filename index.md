@@ -5,8 +5,10 @@ hide_title: true
 ---
 
 <style>
+  /* 1. Hide the topbar logo */
   #topbar-title { display: none !important; }
 
+  /* 2. Setup the Container */
   .tc-container {
     position: relative;
     width: 320px;
@@ -16,6 +18,7 @@ hide_title: true
     z-index: 1000;
   }
 
+  /* 3. The Central Logo (Static) */
   .tc-base-logo-bg {
     position: absolute;
     top: 50%;
@@ -28,6 +31,7 @@ hide_title: true
     z-index: 1;
   }
 
+  /* 4. The Racetrack (Rotating) */
   .tc-racetrack-bg {
     position: absolute;
     top: 0;
@@ -37,22 +41,30 @@ hide_title: true
     background: url("{{ '/assets/img/Racetrack2.png' | relative_url }}") no-repeat center;
     background-size: contain;
     z-index: 2;
+    
+    /* DEFINING THE SPIN HERE since it was removed from SCSS */
     animation: tc-spin-ccw 8s infinite linear;
-    transition: animation-duration 1.0s ease-out;
+    
+    /* Smooth return to idle */
+    transition: animation-duration 1.5s ease-out;
   }
 
+  /* 5. THE LAUNCH STATE */
   .is-launching {
+    /* Peak speed: 4 seconds (Double speed) */
     animation-duration: 4s !important;
+    /* 5 second spool-up build */
     transition: animation-duration 5.0s ease-in !important;
   }
 
+  /* THE KEYFRAMES: The 'engine' of the rotation */
   @keyframes tc-spin-ccw {
     from { transform: rotate(360deg); }
     to { transform: rotate(0deg); }
   }
 </style>
 
-<audio id="turbo-audio" src="{{ '/assets/audio/turbo_spool.mp3' | relative_url }}" preload="auto"></audio>
+<audio id="turbo-audio" src="{{ '/assets/wav/logospool.wav' | relative_url }}" preload="auto"></audio>
 
 <div id="launch-wrapper" class="d-flex justify-content-center w-100" style="margin-top: -30px;" markdown="0">
   <div class="tc-container" id="launch-container">
@@ -80,41 +92,44 @@ Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | 
       const track = document.getElementById('racetrack');
       const audio = document.getElementById('turbo-audio');
       
-      if (container && track && audio && !container.dataset.hooked) {
+      if (container && track && !container.dataset.hooked) {
         container.dataset.hooked = "true";
         
-        const launch = (e) => {
+        container.addEventListener('click', function(e) {
+          // Prevent standard link/image behavior
           e.preventDefault();
+
           if (!track.classList.contains('is-launching')) {
-            // 1. Visual Spool Up
             track.classList.add('is-launching');
             
-            // 2. Audio Spool Up
-            audio.currentTime = 0;
-            audio.volume = 1.0;
-            audio.play().catch(err => console.log("Audio blocked: interact with page first."));
+            // Audio Playback
+            if (audio) {
+              audio.currentTime = 0;
+              audio.volume = 1.0;
+              audio.play().catch(err => console.log("Audio play failed:", err));
+            }
             
-            // 3. The Blow-off/Cool down (matches your 5s spool + 1s peak)
+            // Timing: 5s spool + 1.5s peak hold = 6.5s total before release
             setTimeout(() => {
               track.classList.remove('is-launching');
               
-              // Fade out audio over the 1s deceleration
-              let fadeout = setInterval(() => {
-                if (audio.volume > 0.1) {
-                  audio.volume -= 0.1;
-                } else {
-                  audio.pause();
-                  clearInterval(fadeout);
-                }
-              }, 100);
-            }, 6000);
+              // Fade audio over 1.5s
+              if (audio) {
+                let fade = setInterval(() => {
+                  if (audio.volume > 0.1) {
+                    audio.volume -= 0.1;
+                  } else {
+                    audio.pause();
+                    clearInterval(fade);
+                  }
+                }, 150);
+              }
+            }, 6500);
           }
-        };
-
-        container.addEventListener('click', launch);
-        container.addEventListener('touchstart', launch, {passive: true});
+        });
       }
     };
+    // Check every half second to ensure the listener is attached
     setInterval(init, 500);
   })();
 </script>
