@@ -2,17 +2,39 @@
 layout: page
 permalink: /
 hide_title: true
+description: >
+  <script>
+    (function() {
+      // The "Heartbeat" ensures the script attaches even if the page loads dynamically
+      const attachLogic = () => {
+        const container = document.getElementById('launch-container');
+        const track = document.getElementById('racetrack');
+        if (container && track && !container.dataset.hooked) {
+          container.dataset.hooked = "true";
+          container.style.cursor = 'pointer';
+          container.onclick = function() {
+            if (!track.classList.contains('is-launching')) {
+              track.classList.add('is-launching');
+              setTimeout(() => track.classList.remove('is-launching'), 1500);
+            }
+          };
+        }
+      };
+      setInterval(attachLogic, 500);
+    })();
+  </script>
 ---
 
 <style>
-  /* Hide the topbar logo specifically on this page */
+  /* Nuclear hide for the topbar logo only on this page */
   #topbar-title {
     display: none !important;
     opacity: 0 !important;
+    visibility: hidden !important;
   }
 </style>
 
-<div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; cursor: pointer; z-index: 999; margin-top: -30px;" markdown="0">
+<div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; z-index: 999; margin-top: -30px;" markdown="0">
   <div style="position: relative; width: 320px; height: 320px; pointer-events: none;">
     <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" 
          class="no-zoom tc-base-logo" 
@@ -38,38 +60,3 @@ Follow along and witness a transformation as this base model 1967 Chevrolet Cama
 </div>
 
 Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | relative_url }}).
-
-{% capture custom_js %}
-<script>
-  (function() {
-    console.log("TurboCamaro Launch System: Online");
-
-    const initLaunch = () => {
-      const track = document.getElementById('racetrack');
-      const container = document.getElementById('launch-container');
-
-      if (container && track) {
-        container.addEventListener('click', function() {
-          if (!track.classList.contains('is-launching')) {
-            console.log("Burnout initiated...");
-            track.classList.add('is-launching');
-            setTimeout(() => {
-              track.classList.remove('is-launching');
-              console.log("Returning to idle.");
-            }, 1500);
-          }
-        });
-      }
-    };
-
-    // Handle initial load and Chirpy's dynamic page transitions
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', initLaunch);
-    } else {
-      initLaunch();
-    }
-  })();
-</script>
-{% endcapture %}
-
-{{ custom_js }}
