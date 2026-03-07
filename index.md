@@ -28,22 +28,21 @@ Follow along and witness a transformation as this base model 1967 Chevrolet Cama
 Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | relative_url }}).
 
 <script type="text/javascript">
-  /* THE RELIABLE METHOD: Global Window Watcher */
-  window.addEventListener('load', function() {
-    const container = document.getElementById('launch-container');
-    const track = document.getElementById('racetrack');
-    
-    if (container && track) {
-      container.style.cursor = 'pointer';
-      // Use 'mousedown' as it is less likely to be blocked than 'click'
-      window.addEventListener('mousedown', function(e) {
-        if (e.target.closest('#launch-container')) {
+  (function() {
+    const initLaunch = () => {
+      const track = document.getElementById('racetrack');
+      const container = document.getElementById('launch-container');
+      if (container && track) {
+        container.style.cursor = 'pointer';
+        container.onmousedown = function() {
           if (!track.classList.contains('is-launching')) {
             track.classList.add('is-launching');
             setTimeout(() => { track.classList.remove('is-launching'); }, 1500);
           }
-        }
-      });
-    }
-  });
+        };
+      }
+    };
+    // Run frequently to catch PWA navigation changes
+    setInterval(initLaunch, 1000);
+  })();
 </script>
