@@ -7,23 +7,7 @@
 {%- endif -%}
 ';
 
-/* --- Landing Page Logo Kill --- */
-/* This hides the topbar logo ONLY on the home page */
-body[path="/"] #topbar-title {
-    display: none !important;
-    opacity: 0 !important;
-}
-
-/* The 'Nuclear' hide for post licenses */
-.post-tail-wrapper .post-copyright,
-.post-tail-wrapper .license-wrapper,
-footer .license-wrapper,
-.post-content + hr + .d-flex, 
-blockquote.prompt-info {
-    display: none !important;
-}
-
-/* Force the theme toggle icon to center perfectly */
+/* --- 1. Theme Toggle Centering --- */
 #mode-toggle {
   display: flex !important;
   align-items: center;    /* Vertical centering */
@@ -33,15 +17,21 @@ blockquote.prompt-info {
 }
 
 #mode-toggle i {
-  margin: 0 !important;    /* Remove any "nudge" margins on the icon itself */
-  font-size: 0.9rem;       /* Ensure it matches the scale of your social icons */
+  margin: 0 !important;    /* Remove any "nudge" margins */
+  font-size: 0.9rem;
 }
 
-.no-zoom {
-    pointer-events: none !important; 
+/* --- 2. Landing Page Logo Kill --- */
+/* Hides topbar logo on the home page across all devices */
+body[path="/"] #topbar-title,
+body[path=""] #topbar-title,
+#main-wrapper:has(#launch-container) ~ #topbar-wrapper #topbar-title {
+    display: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
 }
 
-/* --- Sidebar Logo Styling --- */
+/* --- 3. Sidebar & Avatar Styling --- */
 #avatar {
     background: transparent !important;
     border: none !important;
@@ -52,7 +42,6 @@ blockquote.prompt-info {
     margin: 1.5rem auto !important;
     display: flex !important;
     justify-content: center !important;
-    cursor: default !important;
 }
 
 #avatar img {
@@ -61,11 +50,8 @@ blockquote.prompt-info {
     display: block !important;
 }
 
-#sidebar .profile-wrapper {
-    padding: 0.5rem 0 0 0 !important;
-}
+#sidebar .profile-wrapper { padding: 0.5rem 0 0 0 !important; }
 
-/* --- Sidebar Navigation --- */
 #sidebar .nav .nav-item .nav-link {
     font-size: 1.15rem;
     padding: 0.6rem 0;
@@ -73,16 +59,34 @@ blockquote.prompt-info {
     align-items: center;
 }
 
-#sidebar .nav-item {
-    margin-bottom: 0.25rem; 
+#sidebar .nav-item { margin-bottom: 0.25rem; }
+#sidebar .nav-link i { font-size: 1.1rem; margin-right: 0.5rem; }
+
+/* Hide Tags from sidebar */
+#sidebar ul li:has(a[href*="/tags/"]) { display: none !important; }
+
+/* Sidebar Colors */
+#sidebar-trigger i, #search-trigger i { color: #d22e28 !important; }
+#sidebar .nav-link:hover, #sidebar .nav-item.active .nav-link {
+    background-color: #d22e28 !important;
+    color: #fff !important;
 }
 
-#sidebar .nav-link i {
-    font-size: 1.1rem;
-    margin-right: 0.5rem;
+/* --- 4. Content & Layout Gaps --- */
+#main-wrapper .container { padding-top: 1rem !important; }
+#launch-container { margin-top: -30px !important; }
+.no-zoom { pointer-events: none !important; }
+
+/* Hide License Info */
+.post-tail-wrapper .post-copyright,
+.post-tail-wrapper .license-wrapper,
+footer .license-wrapper,
+.post-content + hr + .d-flex, 
+blockquote.prompt-info {
+    display: none !important;
 }
 
-/* --- MOBILE TOPBAR --- */
+/* --- 5. MOBILE TOPBAR (Strictly Contained) --- */
 @media (max-width: 849px) {
     #topbar-wrapper, #topbar {
         height: 50px !important;
@@ -112,65 +116,15 @@ blockquote.prompt-info {
         color: transparent !important;
         text-indent: -9999px !important;
         z-index: 1055 !important;
-        transition: all 0.1s ease !important;
     }
-    
-/* --- Landing Page Logo Kill --- */
-/* If the launch container exists, hide the topbar title */
-#main-wrapper:has(#launch-container) ~ #topbar-wrapper #topbar-title,
-#topbar-wrapper:has(~ #main-wrapper #launch-container) #topbar-title {
-    display: none !important;
+
+    #main-wrapper { padding-top: 60px !important; }
+    #launch-container { margin-top: -10px !important; }
 }
 
-/* Fallback: Standard path-based hide */
-body[path="/"] #topbar-title,
-body[path=""] #topbar-title {
-    display: none !important;
-    opacity: 0 !important;
-    visibility: hidden !important;
-}
-
-/* Specific Mobile Overwrite */
-@media (max-width: 849px) {
-    body[path="/"] #topbar-title,
-    #main-wrapper:has(#launch-container) ~ #topbar-wrapper #topbar-title {
-        display: none !important;
-    }
-}
-
-    #main-wrapper {
-        padding-top: 60px !important;
-    }
-}
-
-/* Remove the empty title gap at the top of pages */
-#main-wrapper .container {
-    padding-top: 1rem !important; /* Reduces the standard 3rem-4rem gap */
-}
-
-/* Specifically pull the launch container up */
-#launch-container {
-    margin-top: -30px !important; /* Pulls it up further to fix the 50px gap */
-}
-
-/* Mobile-specific gap adjustment */
-@media (max-width: 849px) {
-    #launch-container {
-        margin-top: -10px !important; /* Less aggressive pull on mobile */
-    }
-}
-
-/* --- Category Icons --- */
-.categories i, .categories .fa-folder {
-    display: none !important;
-}
-
-.categories .card-body a {
-    font-size: 1.4rem !important; 
-    font-weight: 600;
-    display: flex !important;
-    padding: 10px 0;
-}
+/* --- 6. Category Icons --- */
+.categories i, .categories .fa-folder { display: none !important; }
+.categories .card-body a { font-size: 1.4rem !important; font-weight: 600; display: flex !important; padding: 10px 0; }
 
 .categories a[href]::before {
     font-family: "Font Awesome 5 Free";
@@ -179,7 +133,6 @@ body[path=""] #topbar-title {
     margin-right: 15px;
     width: 1.5em;
     text-align: center;
-    color: var(--link-color);
 }
 
 .categories a[href*="engine"]::before     { content: "\f085"; color: #6c757d !important; }
@@ -189,30 +142,11 @@ body[path=""] #topbar-title {
 .categories a[href*="turbo"]::before      { content: "\f72e"; color: #6c757d !important; }
 .categories a[href*="fuel"]::before       { content: "\f52f"; color: #6c757d !important; }
 
-h1.dynamic-title::before {
-    font-family: "Font Awesome 5 Free";
-    font-weight: 900;
-    margin-right: 15px;
-    color: #6c757d; 
-    font-size: 0.9em;
-}
-
+/* Dynamic Titles */
+h1.dynamic-title::before { font-family: "Font Awesome 5 Free"; font-weight: 900; margin-right: 15px; color: #6c757d; font-size: 0.9em; }
 body[path*="/engine/"] h1.dynamic-title::before     { content: "\f085"; }
 body[path*="/interior/"] h1.dynamic-title::before   { content: "\f4b8"; }
 body[path*="/exterior/"] h1.dynamic-title::before   { content: "\f1b9"; }
 body[path*="/mechanical/"] h1.dynamic-title::before { content: "\f33e"; }
 body[path*="/turbo/"] h1.dynamic-title::before      { content: "\f72e"; }
 body[path*="/fuel/"] h1.dynamic-title::before       { content: "\f52f"; }
-
-#sidebar ul li:has(a[href*="/tags/"]) {
-    display: none !important;
-}
-
-#sidebar-trigger i, #search-trigger i {
-    color: #d22e28 !important;
-}
-
-#sidebar .nav-link:hover, #sidebar .nav-item.active .nav-link {
-    background-color: #d22e28 !important;
-    color: #fff !important;
-}
