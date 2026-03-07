@@ -41,7 +41,8 @@ hide_title: true
     background-size: contain; 
     z-index: 2; 
     pointer-events: none; 
-    will-change: transform; 
+    /* will-change ensures the browser optimizes for both rotation and blur filters */
+    will-change: transform, filter; 
   }
 </style>
 
@@ -71,11 +72,14 @@ Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | 
     /* --- TUNER SETTINGS --- */
     const IDLE_SPEED = 0.75;    // Degrees per frame (Cruise)
     const PEAK_SPEED = 20.0;    // Degrees per frame (Top End)
-    const ACCEL_DURATION = 5300; // Your 5.5s request (in milliseconds)
+    const ACCEL_DURATION = 5300; // Your exact 5.3s timing
     
     // Physics Tuning: Lower = heavier feel
     const ACCEL_SMOOTHNESS = 0.0035; 
     const BRAKE_SMOOTHNESS = 0.05;  
+
+    // Blur Intensity: Controls the "streakiness" at top speed
+    const BLUR_MULTIPLIER = 0.15; 
     /* ---------------------- */
 
     let rotation = 0;
@@ -92,7 +96,12 @@ Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | 
       rotation -= currentSpeed;
 
       if (track) { 
+        // 1. Update Rotation
         track.style.transform = `rotate(${rotation}deg)`; 
+        
+        // 2. Update Blur (Calculates how much blur to add based on speed above idle)
+        const blurAmount = Math.max(0, (currentSpeed - IDLE_SPEED) * BLUR_MULTIPLIER);
+        track.style.filter = `blur(${blurAmount}px)`;
       }
       requestAnimationFrame(animate);
     };
@@ -110,9 +119,6 @@ Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | 
           audio.volume = 1.0;
           audio.play().catch(err => console.log("Audio waiting for user click."));
           
-          // Logic to ensure audio runs its course or matches acceleration
-          const audioRunTime = (audio.duration * 1000) || ACCEL_DURATION;
-
           setTimeout(() => {
             isLaunching = false;
             targetSpeed = IDLE_SPEED; 
