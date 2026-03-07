@@ -6,12 +6,22 @@ hide_title: true
 
 <style>
   #topbar-title { display: none !important; }
+  /* Ensure the container is the thing capturing clicks */
+  #launch-container { cursor: pointer; }
 </style>
 
 <div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; z-index: 999; margin-top: -30px;" markdown="0">
   <div style="position: relative; width: 320px; height: 320px; pointer-events: none;">
-    <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" class="no-zoom tc-base-logo" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;" alt="Logo">
-    <img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" id="racetrack" class="no-zoom tc-rotating-overlay" style="position: absolute; top: 0; left: 0; z-index: 2; object-fit: contain;" alt="Racetrack">
+    <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" 
+         class="no-zoom tc-base-logo npo" 
+         style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;" 
+         alt="Logo">
+    
+    <img src="{{ '/assets/img/Racetrack2.png' | relative_url }}" 
+         id="racetrack" 
+         class="no-zoom tc-rotating-overlay npo" 
+         style="position: absolute; top: 0; left: 0; z-index: 2; object-fit: contain;" 
+         alt="Racetrack">
   </div>
 </div>
 
@@ -32,14 +42,18 @@ Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | 
     const initLaunch = () => {
       const track = document.getElementById('racetrack');
       const container = document.getElementById('launch-container');
-      if (container && track) {
-        container.style.cursor = 'pointer';
-        container.onmousedown = function() {
+      
+      if (container && track && !container.dataset.hooked) {
+        container.dataset.hooked = "true";
+        // Use 'click' but stop it from bubbling up to any other theme links
+        container.addEventListener('click', function(e) {
+          e.preventDefault();
+          e.stopPropagation();
           if (!track.classList.contains('is-launching')) {
             track.classList.add('is-launching');
             setTimeout(() => { track.classList.remove('is-launching'); }, 1500);
           }
-        };
+        });
       }
     };
     // Run frequently to catch PWA navigation changes
