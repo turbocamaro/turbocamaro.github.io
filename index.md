@@ -5,55 +5,43 @@ hide_title: true
 ---
 
 <style>
+  /* 1. Hide the topbar logo on this page */
   #topbar-title { display: none !important; }
 
-  /* The Container is the ONLY thing that should be clickable */
-  .tc-container {
-    position: relative;
-    width: 320px;
-    height: 320px;
-    margin: 0 auto;
-    cursor: pointer !important;
-    z-index: 1000;
+  /* 2. Interactive Logo Styling */
+  .tc-container { 
+    position: relative; 
+    width: 320px; 
+    height: 320px; 
+    margin: 0 auto; 
+    cursor: pointer !important; 
+    z-index: 1000; 
   }
-
-  .tc-base-logo-bg {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 205px;
-    height: 205px;
-    transform: translate(-50%, -50%);
-    background: url("{{ '/assets/img/tc_logo_tp.png' | relative_url }}") no-repeat center;
-    background-size: contain;
-    z-index: 1;
-    pointer-events: none; /* Let the click pass through to the container */
+  
+  .tc-base-logo-bg { 
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    width: 205px; 
+    height: 205px; 
+    transform: translate(-50%, -50%); 
+    background: url("{{ '/assets/img/tc_logo_tp.png' | relative_url }}") no-repeat center; 
+    background-size: contain; 
+    z-index: 1; 
+    pointer-events: none; 
   }
-
-  .tc-racetrack-bg {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 320px;
-    height: 320px;
-    background: url("{{ '/assets/img/Racetrack2.png' | relative_url }}") no-repeat center;
-    background-size: contain;
-    z-index: 2;
-    pointer-events: none; /* Let the click pass through to the container */
-    
-    /* NEW ANIMATION NAME to bypass any cached SCSS */
-    animation: tc-turbo-spin 8s infinite linear;
-    transition: animation-duration 1.5s ease-out;
-  }
-
-  .is-launching {
-    animation-duration: 4s !important;
-    transition: animation-duration 5.0s ease-in !important;
-  }
-
-  @keyframes tc-turbo-spin {
-    from { transform: rotate(360deg); }
-    to { transform: rotate(0deg); }
+  
+  .tc-racetrack-bg { 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 320px; 
+    height: 320px; 
+    background: url("{{ '/assets/img/Racetrack2.png' | relative_url }}") no-repeat center; 
+    background-size: contain; 
+    z-index: 2; 
+    pointer-events: none; 
+    will-change: transform; 
   }
 </style>
 
@@ -62,7 +50,7 @@ hide_title: true
 <div id="launch-wrapper" class="d-flex justify-content-center w-100" style="margin-top: -30px;" markdown="0">
   <div class="tc-container" id="launch-container">
     <div class="tc-base-logo-bg"></div>
-    <div class="tc-racetrack-bg" id="racetrack"></div>
+    <div id="racetrack" class="tc-racetrack-bg"></div>
   </div>
 </div>
 
@@ -80,24 +68,56 @@ Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | 
 
 <script type="text/javascript">
   (function() {
-    // The "Engine" for the click event
-    const runTurbo = () => {
+    /* --- TUNER SETTINGS --- */
+    const IDLE_SPEED = 0.75;    // Degrees per frame (Cruise)
+    const PEAK_SPEED = 20.0;    // Degrees per frame (Top End)
+    const ACCEL_DURATION = 5300; // Your 5.5s request (in milliseconds)
+    
+    // Physics Tuning: Lower = heavier feel
+    const ACCEL_SMOOTHNESS = 0.0035; 
+    const BRAKE_SMOOTHNESS = 0.05;  
+    /* ---------------------- */
+
+    let rotation = 0;
+    let currentSpeed = IDLE_SPEED; 
+    let targetSpeed = IDLE_SPEED;
+    let isLaunching = false;
+
+    // The Animation Loop
+    const animate = () => {
       const track = document.getElementById('racetrack');
+      const lerpFactor = isLaunching ? ACCEL_SMOOTHNESS : BRAKE_SMOOTHNESS; 
+      
+      currentSpeed += (targetSpeed - currentSpeed) * lerpFactor;
+      rotation -= currentSpeed;
+
+      if (track) { 
+        track.style.transform = `rotate(${rotation}deg)`; 
+      }
+      requestAnimationFrame(animate);
+    };
+
+    const runTurbo = (e) => {
+      if (e) e.preventDefault();
       const audio = document.getElementById('turbo-audio');
       
-      if (track && !track.classList.contains('is-launching')) {
-        track.classList.add('is-launching');
-        
+      if (!isLaunching) {
+        isLaunching = true;
+        targetSpeed = PEAK_SPEED;
+
         if (audio) {
           audio.currentTime = 0;
           audio.volume = 1.0;
-          audio.play().catch(e => console.warn("Audio blocked. Interact with page first."));
-        }
+          audio.play().catch(err => console.log("Audio waiting for user click."));
+          
+          // Logic to ensure audio runs its course or matches acceleration
+          const audioRunTime = (audio.duration * 1000) || ACCEL_DURATION;
 
-        // 6.5s Duration (5s spool + 1.5s hold)
-        setTimeout(() => {
-          track.classList.remove('is-launching');
-          if (audio) {
+          setTimeout(() => {
+            isLaunching = false;
+            targetSpeed = IDLE_SPEED; 
+
+            // Smooth audio fade out over 1 second
             let fadeOut = setInterval(() => {
               if (audio.volume > 0.1) {
                 audio.volume -= 0.1;
@@ -105,22 +125,23 @@ Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | 
                 audio.pause();
                 clearInterval(fadeOut);
               }
-            }, 150);
-          }
-        }, 6500);
+            }, 100);
+          }, ACCEL_DURATION); 
+        }
       }
     };
 
-    // Attachment Logic
-    const init = () => {
+    // Re-hook listener to handle Chirpy's page transitions
+    setInterval(() => {
       const container = document.getElementById('launch-container');
       if (container && !container.dataset.hooked) {
         container.dataset.hooked = "true";
-        // Directly assigning the function to ensure it's not blocked by other listeners
         container.onclick = runTurbo;
+        container.ontouchstart = runTurbo;
       }
-    };
+    }, 500);
 
-    setInterval(init, 500);
+    // Initial Kick-off
+    requestAnimationFrame(animate);
   })();
 </script>
