@@ -68,9 +68,8 @@ blockquote.prompt-info {
     /* Base Animation: Idle at 8s */
     animation: tc-spin-ccw 8s infinite linear;
     
-    /* This allows the SPEED and the FEEL to transition smoothly */
-    transition: animation-duration 0.8s ease-in-out, 
-                animation-timing-function 0.8s ease-in-out;
+/* The Flywheel Effect: Smoothly slow down over 1.2 seconds */
+    transition: animation-duration 1.2s ease-in-out;
 }
 
 /* The 'Accelerated' State: The Burnout */
@@ -82,7 +81,7 @@ blockquote.prompt-info {
     animation-timing-function: cubic-bezier(0.45, 0.05, 0.55, 0.95) !important;
     
     /* Snap the speed change faster than the return to idle */
-    transition: animation-duration 0.3s ease-in; 
+    transition: animation-duration 0.3s ease-in !important;
 }
 
 @keyframes tc-spin-ccw {

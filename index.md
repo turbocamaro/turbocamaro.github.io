@@ -12,8 +12,12 @@ hide_title: true
 }
 </STYLE>
 
-<div id="launch-container" class="d-flex justify-content-center w-100" style="position: relative; height: 320px; cursor: pointer; z-index: 999;" markdown="0">
-  <div style="position: relative; width: 320px; height: 320px;">
+<div id="launch-container" 
+     class="d-flex justify-content-center w-100" 
+     style="position: relative; height: 320px; cursor: pointer; z-index: 1000; margin-top: -30px;" 
+     onclick="launchBurnout()"
+     markdown="0">
+  <div style="position: relative; width: 320px; height: 320px; pointer-events: none;">
     <img src="{{ '/assets/img/tc_logo_tp.png' | relative_url }}" 
          class="no-zoom tc-base-logo" 
          style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;" 
@@ -38,26 +42,15 @@ hide_title: true
 Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | relative_url }}).
 
 <script>
-  (function() {
-    const handler = function(e) {
-      const container = document.getElementById('launch-container');
-      const track = document.getElementById('racetrack');
+  function launchBurnout() {
+    const track = document.getElementById('racetrack');
+    if (track && !track.classList.contains('is-launching')) {
+      track.classList.add('is-launching');
       
-      if (container && (e.target === container || container.contains(e.target))) {
-        if (track && !track.classList.contains('is-launching')) {
-          // 1. Hammer the gas (Accelerates over 0.3s due to SCSS transition)
-          track.classList.add('is-launching');
-          
-          // 2. Keep the pedal down for 1.2 seconds
-          setTimeout(() => {
-            // 3. Let off the gas (Decelerates smoothly back to 8s over 0.8s)
-            track.classList.remove('is-launching');
-          }, 1200);
-        }
-      }
-    };
-
-    window.addEventListener('mousedown', handler);
-    window.addEventListener('touchstart', handler);
-  })();
+      // Hold the "Burnout" for 1.5 seconds
+      setTimeout(() => {
+        track.classList.remove('is-launching');
+      }, 1500);
+    }
+  }
 </script>
