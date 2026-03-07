@@ -52,44 +52,6 @@ blockquote.prompt-info {
     padding: 0.5rem 0 0 0 !important;
 }
 
-/* --- Main Page Logo & Racetrack: Performance Tuning --- */
-
-.tc-rotating-overlay {
-    position: absolute !important;
-    top: 0 !important;
-    left: 0 !important;
-    width: 320px !important; 
-    height: 320px !important;
-    max-width: none !important;
-    z-index: 2;
-    display: block !important;
-    pointer-events: none !important;
-    
-    /* Base Animation: Idle at 8s */
-    animation: tc-spin-ccw 8s infinite linear;
-    
-/* The Flywheel Effect: Smoothly slow down over 1.2 seconds */
-    /* The "Deceleration" timing - 1.2 seconds to go from fast back to slow */
-    transition: animation-duration 1.2s ease-in-out !important;
-}
-
-/* The 'Accelerated' State: The Burnout */
-.is-launching {
-    /* The target speed */
-    animation-duration: 0.6s !important;
-    
-    /* Keep this linear too! */
-    animation-timing-function: linear !important; 
-    
-    /* This handles the SMOOTH ACCELERATION (The Spool-up) */
-    transition: animation-duration 0.3s ease-in !important;
-}
-
-@keyframes tc-spin-ccw {
-    from { transform: rotate(360deg); }
-    to { transform: rotate(0deg); }
-}
-
 /* --- Sidebar Navigation --- */
 #sidebar .nav .nav-item .nav-link {
     font-size: 1.15rem;

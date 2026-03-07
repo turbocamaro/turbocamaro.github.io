@@ -5,10 +5,8 @@ hide_title: true
 ---
 
 <style>
-  /* 1. Hide the topbar logo */
   #topbar-title { display: none !important; }
 
-  /* 2. Setup the Racetrack and Logo as CSS Backgrounds to avoid theme auto-linking */
   .tc-container {
     position: relative;
     width: 320px;
@@ -39,17 +37,27 @@ hide_title: true
     background: url("{{ '/assets/img/Racetrack2.png' | relative_url }}") no-repeat center;
     background-size: contain;
     z-index: 2;
-    /* Use the class from your SCSS for the idle spin */
     animation: tc-spin-ccw 8s infinite linear;
-    transition: animation-duration 1.2s ease-in-out;
+    
+    /* THE COAST DOWN: Smoothly return to 8s idle speed over 1.5 seconds */
+    transition: animation-duration 1.5s ease-out;
   }
 
-  /* Faster spin when class is added */
   .is-launching {
-    animation-duration: 0.6s !important;
-    transition: animation-duration 0.3s ease-in !important;
+    /* Peak speed: 4 seconds per rotation */
+    animation-duration: 4s !important;
+    
+    /* THE SPOOL UP: Build boost over 5 seconds */
+    transition: animation-duration 5.0s ease-in !important;
+  }
+
+  @keyframes tc-spin-ccw {
+    from { transform: rotate(360deg); }
+    to { transform: rotate(0deg); }
   }
 </style>
+
+<audio id="turbo-audio" src="{{ '/assets/wav/logospool.wav' | relative_url }}" preload="auto"></audio>
 
 <div id="launch-wrapper" class="d-flex justify-content-center w-100" style="margin-top: -30px;" markdown="0">
   <div class="tc-container" id="launch-container">
@@ -75,14 +83,37 @@ Want to know the history of Turbo Camaro? Read [About the Build]({{ '/about/' | 
     const init = () => {
       const container = document.getElementById('launch-container');
       const track = document.getElementById('racetrack');
-      if (container && track && !container.dataset.hooked) {
+      const audio = document.getElementById('turbo-audio');
+      
+      if (container && track && audio && !container.dataset.hooked) {
         container.dataset.hooked = "true";
         
         const launch = (e) => {
           e.preventDefault();
           if (!track.classList.contains('is-launching')) {
+            // 1. Hammer the Gas
             track.classList.add('is-launching');
-            setTimeout(() => { track.classList.remove('is-launching'); }, 1500);
+            
+            // 2. Play Audio (WAV file)
+            audio.currentTime = 0;
+            audio.volume = 1.0;
+            audio.play().catch(err => console.log("Audio blocked by browser policy. Click once on page first."));
+            
+            // 3. The Timing Loop (Total duration: 7.5 seconds)
+            setTimeout(() => {
+              // Let off the gas
+              track.classList.remove('is-launching');
+              
+              // Fade out the audio over the final 1.5 seconds
+              let fadeInterval = setInterval(() => {
+                if (audio.volume > 0.05) {
+                  audio.volume -= 0.05;
+                } else {
+                  audio.pause();
+                  clearInterval(fadeInterval);
+                }
+              }, 100);
+            }, 6500); // 6.5s of "pedal down" time
           }
         };
 
