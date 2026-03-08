@@ -21,8 +21,8 @@ For the complete dismantling and rebuild, I turned to a Nanaimo, BC favorite: [I
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
   <img src="/assets/img/posts/engineredo2_230203/IMG_20230203_130114.jpg" alt="Engine block in bubble wrap" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
   <p style="text-align: center; width: 100%; margin-top: 5px;">
-  </div>
-  
+</div>
+
   They were provided with the complete, damaged engine (wrecked pistons, worn cam, and all), along with the new custom [Comp Cams Turbo 292 Cam](/posts/turbo-292-camshaft/) and Ross Racing Pistons sourced from Tom Lowe at 12bolt.com. Along with a full seal kit, Spa Turbo exhaust manifold, high-performance turbo head and manifold gaskets, a stack of specs, and an earful of backstory, they had everything needed to build this Inline 6 like it deserved to be built in the first place.
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">

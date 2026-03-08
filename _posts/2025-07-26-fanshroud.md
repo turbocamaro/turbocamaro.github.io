@@ -71,4 +71,4 @@ The difference in cooling at idle was significant. Before the shroud, the temps 
 <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Installed and functional. No more sweating at stoplights.</em></p>
 </div>
 
-We may want to upgrade the radiator in the future, as some weeping has been detected on the driver side edge. It'll do for
+We may want to upgrade the radiator in the future, as some weeping has been detected on the driver side edge. It'll do for now.
