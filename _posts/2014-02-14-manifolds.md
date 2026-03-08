@@ -1,7 +1,7 @@
 ﻿---
 categories: ["Engine"]
 tags: [Intake, Exhaust, Manifolds]
-title: "Manifolds with Purpose"
+title: "Intake & Exhaust Manifolds"
 date: 2014-02-16 12:00:00 +0000
 ---
 
