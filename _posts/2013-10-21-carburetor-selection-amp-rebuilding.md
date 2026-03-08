@@ -1,12 +1,13 @@
 ﻿---
 categories: ["Fuel & Tuning"]
 tags: [Fuel, Carburetor, Tuning]
-title: "Carburetor Selection & Rebuilding"
+title: "Carburetor: Holley 600 DP MS"
 date: 2013-10-21 12:00:00 +0000
 ---
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
   <img src="/assets/img/posts/Carb.jpg" alt="Holley Carburetor" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+    <p style="text-align: center; width: 100%; margin-top: 5px;"><em>The ever elusive 4 barrel Holley 600CFM Double Pumper with Mechanical Secondaries, a master class in carburetion.</em></p>
 </div>
 
 Deciding to build a unique and custom engine is both exciting and daunting at the same time. During the early stages of planning you need to figure out which components you need an how they will work together. It can be a tough process, especially when you get to the more complicated parts like the carburetor. Not that a carburetor is a very complicated part, but figuring out which one will work best for your custom engine with an undetermined amount of power is definitely a challenge.
@@ -19,6 +20,7 @@ Before we go any further, lets consider the options. Turbo Camaro was obviously 
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
   <img src="/assets/img/posts/HOLLEY 4150 DP PRO REBUILD KIT.JPG" alt="Holley Rebuild Kit" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+    <p style="text-align: center; width: 100%; margin-top: 5px;"><em>A full rebuild kit was ordered from [BPT Performance Carburetors](https://www.ebay.com/str/bptcarbs) on eBay.</em></p>
 </div>
 
 The downside of running a carburetor is tuning. They are a pain in the ass to get the tuning right as you have overpriced cams, pumps, valves and jets to configure. That being said, education is the key. If you have some idea what you're doing, it's not difficult to get the tune stable. If you're not an experienced tuner, you may need to take your ride to someone who is, or a shop equipped with a dynamometer to get it right. If you're like Turbo Camaro and going from bone stock Chevy 250 to a custom built turbocharged performance machine, you'll probably want to visit a dynamometer for tuning and to see exactly how much power you've made.
@@ -37,6 +39,7 @@ Unless your an experienced mechanic or carb builder, take a bunch of "before" pi
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
   <img src="/assets/img/posts/20151028_222142.jpg" alt="Cleaning the Main Body" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+ <p style="text-align: center; width: 100%; margin-top: 5px;"><em>A nice chrome adjustable fuel rail from [Summit Racing](https://www.summitracing.com/).</em></p>
 </div>
 
 Once you've gotten it all apart, drop a portion into a vat of aluminum safe Simple Green. Note some versions of Simple Green aren't safe on all metals so be sure to use the right one. Leave the parts in for about 20 minutes. Pull out the cleanest part and give it some attention with the wire brush. Do the same with the remaining parts. Phase 2 of the cleaning is to blast it all with the carb cleaner. Spray it, brush it, use lint free cloths to remove any residues. Keep re-spraying until their's no residue. Keep in mind this method doesn't use overnight harsh chemical submersion so you might not get rid of every little stain but results will be good if your diligent with the wire brushes.
@@ -56,9 +59,9 @@ Once you have the adapter, you will need at least a 1/2" spacer before you mount
 
 With the carb mounted on a running engine, you'll probably need to open it up at least a few times for tuning. Even with extensive pre-mount configuration, our Holley needed a good reboot to factory settings. The process was filmed and posted to YouTube below:
 
-<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
-  <div style="width: 90%; border-radius: 8px; overflow: hidden; position: relative; padding-bottom: 56.25%; height: 0; margin-left: auto !important; margin-right: auto !important;">
-    <iframe src="https://www.youtube.com/embed/y30MtIWYBr8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+<div id="video-wrapper" style="max-width: 540px; margin: 2rem auto;" markdown="0">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/y30MtIWYBr8" title="YouTube video player" allowfullscreen></iframe>
   </div>
 </div>
 

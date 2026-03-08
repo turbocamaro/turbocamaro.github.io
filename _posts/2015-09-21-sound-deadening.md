@@ -19,7 +19,3 @@ Late 2015, 76 square feet of black **Noico self-adhesive foil & butyl** sound de
 </div>
 
 Unfortunately, Canada had a cool winter and the butyl requires a warm day for proper adhesion. So, the deadener stays in the box alongside a [new headliner](/posts/headliner/) and windlace moldings. 
-
-[Image showing the sound deadener being rolled onto the transmission tunnel]
-
-Stay tuned for the full installation video...

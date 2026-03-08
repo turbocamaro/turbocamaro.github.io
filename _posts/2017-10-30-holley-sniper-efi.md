@@ -7,6 +7,7 @@ date: 2017-10-30 12:00:00 +0000
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
 <img src="/assets/img/posts/SniperEFI.png" alt="Holley Sniper EFI" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+<p style="text-align: center; width: 100%; margin-top: 5px;"><em>The Holley Sniper EFI throttle body on the master kit box. It's a lot cooler than it looks.</em></p>
 </div>
 
 The 1967 Camaro was born with a single barrel carburetor and inevitably rebuild with a [Holley 600CFM Double Pumper with Mechanical Secondaries](http://www.turbocamaro.ca/2016/02/carburetor.html). That carburetor actually worked pretty well, but not only was it difficult to keep in tune as a daily driver in different areas and rapidly changing weather conditions, it never really fit the build. Turbo Camaro has always been about custom upgrades and improvements over stock. While not saying a carburetor doesn't have it's place, it just isn't a modern choice for a car peeling away from stock.
@@ -58,6 +59,8 @@ For more information about wiring the above ignition options I recommend checkin
 
 For a complete video tutorial covering all aspects of electronic timing control with a GM HEI Distributor and the Holley Sniper EFI System take a look at our video:
 
-<div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
-<div style="width: 90%; border-radius: 8px; overflow: hidden; position: relative; padding-bottom: 56.25%; height: 0; margin-left: auto !important; margin-right: auto !important;">
-<iframe src="https://www.youtube.com/embed/L9xRJKmaPwA?feature=player_embedded" style="position: absolute; top: 0; left:
+<div id="video-wrapper" style="max-width: 540px; margin: 2rem auto;" markdown="0">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/L9xRJKmaPwA" title="YouTube video player" allowfullscreen></iframe>
+  </div>
+</div>
