@@ -31,7 +31,7 @@ The performance gains of a quality kit like Wilwood are immediate. You get a sig
 </div>
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
-  <img src="/assets/img/posts/wilwoodbrakes_180726/20180726_140714.jpg" alt="Wilwood Caliper Close-up" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
+  <img src="/assets/img/posts/wilwoodbrakes_180726/20180726_140714.jpg" alt="Wilwood Caliper Close-up" style="max-width: 90%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
   <p style="text-align: center; width: 100%; margin-top: 5px;"><em>The finished product: high-performance Wilwood calipers.</em></p>
 </div>
 

@@ -64,7 +64,7 @@ The consistency in these numbers was enough to fool almost anyone. Typically, se
 
 <div style="display: flex !important; flex-direction: column !important; width: 100% !important; flex-grow: 1 !important; margin: 1.5rem 0 !important;">
   <img src="/assets/img/posts/enginefail_180705/IMG_20230205_132050.jpg" alt="Piston side damage" style="max-width: 70%; height: auto; border-radius: 8px; display: block; margin-left: auto !important; margin-right: auto !important;">
-  <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Scoring on the side of the Ross Racing Pistons.</em></p>
+  <p style="text-align: center; width: 100%; margin-top: 5px;"><em>Scoring on the inside of the oil ring groove on the Ross Racing Pistons.</em></p>
 </div>
 
 The wrong oil rings were used on the Ross Racing Pistons. This mistake destroyed the pistons and allowed excess oil to dump into the combustion chamber, which explained the smoke. When I took these findings back to Thompson Machine, they refused to honor any kind of warranty and wouldn't admit that they failed to reference the CompCams spec card for the top end, or the supplied rings for the bottom end. 
