@@ -145,14 +145,25 @@ assets:
     env: # [development | production]
 
 pwa:
-  enabled: true # The option for PWA feature (installable)
+  enabled: true
   cache:
-    enabled: true # The option for PWA offline cache
-    # Paths defined here will be excluded from the PWA cache.
-    # Usually its value is the `baseurl` of another website that
-    # shares the same domain name as the current website.
-    deny_paths:
-      # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
+    enabled: true
+  manifest:
+    name: 'T6 Inline Customs'
+    short_name: 'T6 Customs'
+    description: 'Technical build log for the Turbo Inline 6 1967 Camaro.'
+    background_color: '#000000'
+    theme_color: '#000000'
+    display: 'standalone'
+    start_url: '/'
+    icons:
+      - src: '/assets/img/favicons/android-chrome-192x192.png'
+        sizes: '192x192'
+        type: 'image/png'
+      - src: '/assets/img/favicons/android-chrome-512x512.png'
+        sizes: '512x512'
+        type: 'image/png'
+        purpose: 'any maskable'
 
 paginate: 10
 
