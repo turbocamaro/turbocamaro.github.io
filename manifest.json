@@ -1,0 +1,23 @@
+{
+  "short_name": "Turbo Camaro",
+  "name": "Turbo Camaro",
+  "description": "Technical build log for the Turbo Inline 6 1967 Camaro project.",
+  "icons": [
+    {
+      "src": "assets/img/favicons/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/img/favicons/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#000000",
+  "display": "standalone",
+  "theme_color": "#000000"
+}
