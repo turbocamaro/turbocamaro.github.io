@@ -145,7 +145,7 @@ assets:
     env: # [development | production]
 
 pwa:
-  enabled: false
+  enabled: true
   manifest:
     icons:
       - src: '/assets/img/favicons/android-chrome-192x192.png'
