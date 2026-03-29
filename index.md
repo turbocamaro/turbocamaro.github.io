@@ -2,6 +2,7 @@
 layout: page
 permalink: /
 hide_title: true
+title: Home
 ---
 
 <style>
