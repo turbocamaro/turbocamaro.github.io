@@ -36,3 +36,6 @@ While everyone else was dropping LS engines into F-bodies, I wanted to see what 
 From 2007 to 2025, the focus was foundation. 2026 marks the shift from building to sending it. With the Holley Sniper dialed, alcohol injection firing, and a chassis finally ready for the load, we are entering the high-output era. 
 
 We are no longer just chasing reliability; we are chasing the limits of the 250ci. This car is a 20-year testament to the fact that you don't need a six-figure shop to build something extraordinary. You just have to be willing to do it the hard way.
+
+Want to know the Timeline of Turbo Camaro? Get out your time machine and hit the [Timeline]({{ '/archives/' | relative_url }}).
+
