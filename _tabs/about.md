@@ -37,5 +37,4 @@ From 2007 to 2025, the focus was foundation. 2026 marks the shift from building 
 
 We are no longer just chasing reliability; we are chasing the limits of the 250ci. This car is a 20-year testament to the fact that you don't need a six-figure shop to build something extraordinary. You just have to be willing to do it the hard way.
 
-Want to know the Timeline of Turbo Camaro? Get out your time machine and hit the [Timeline]({{ '/archives/' | relative_url }}).
-
+Want to see all the build progress and updates? Check out the [Timeline]({{ '/archives/' | relative_url }}).
