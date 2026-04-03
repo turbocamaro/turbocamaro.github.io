@@ -10,33 +10,22 @@
 
 <script>
 (function() {
-  function fixTitle() {
-    let brand = "Turbo Camaro";
-    let current = document.title.trim();
+  function forceTitles() {
+    const path = window.location.pathname;
+    const brand = "Turbo Camaro";
     
-    // If the title starts with a pipe or is just the brand, find the page name
-    if (current.startsWith("|") || current === brand) {
-      let path = window.location.pathname.split('/').filter(Boolean).pop() || "Home";
-      // Clean up common URL slugs to pretty titles
-      let cleanName = path.replace(/-/g, ' ').replace(/_/g, ' ');
-      let pageTitle = cleanName.charAt(0).toUpperCase() + cleanName.slice(1);
-      
-      // Manual overrides for your specific tabs
-      if (path === "about") pageTitle = "About the Build";
-      if (path === "archives") pageTitle = "Timeline";
-      if (path === "categories") pageTitle = "Build Sheet";
-
-      document.title = pageTitle + " | " + brand;
-    } 
-    // If the title is "Site | Page", flip it to "Page | Site"
-    else if (current.startsWith(brand + " | ")) {
-      let parts = current.split(" | ");
-      document.title = parts[1] + " | " + parts[0];
+    // Hard-coded overrides for your 3 specific pages
+    if (path.includes("/about/")) {
+      document.title = "About the Build | " + brand;
+    } else if (path.includes("/archives/") || path.includes("/timeline/")) {
+      document.title = "Timeline | " + brand;
+    } else if (path.includes("/categories/") || path.includes("/build-sheet/")) {
+      document.title = "Build Sheet | " + brand;
     }
   }
 
-  // Run immediately and again after a short delay to beat the theme
-  fixTitle();
-  setTimeout(fixTitle, 500);
+  // Run immediately and again after the theme settles
+  forceTitles();
+  setTimeout(forceTitles, 500);
 })();
 </script>
