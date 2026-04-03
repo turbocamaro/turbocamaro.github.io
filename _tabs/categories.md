@@ -1,6 +1,6 @@
 ---
 layout: categories
-title: Build Sheet
+title: Build
 permalink: /categories/
 icon: fas fa-stream
 order: 1
