@@ -11,31 +11,22 @@
 <script>
 (function() {
   function forceT6Title() {
-    const brand = "Turbo Camaro";
     const path = window.location.pathname;
+    const brand = "Turbo Camaro";
     let pageName = "";
 
-    // Manual mapping based on the actual URL folders
     if (path.includes("/about/")) pageName = "About the Build";
     else if (path.includes("/archives/")) pageName = "Timeline";
     else if (path.includes("/categories/")) pageName = "Build Sheet";
-    else if (path === "/" || path.includes("index")) pageName = "Home";
 
-    // If we found a match, hard-set the title. 
-    // This ignores whatever broken mess the theme generated.
     if (pageName !== "") {
       document.title = pageName + " | " + brand;
     }
   }
-
-  // Run immediately
-  forceT6Title();
-
-  // Watch for the theme trying to overwrite it (PJAX/Mutation)
+  
+  // Watch for the theme trying to overwrite it
   const observer = new MutationObserver(forceT6Title);
   observer.observe(document.querySelector('title'), { childList: true });
-  
-  // Listen for Chirpy's internal page swap event
-  window.addEventListener('view.done', forceT6Title);
+  forceT6Title();
 })();
 </script>
