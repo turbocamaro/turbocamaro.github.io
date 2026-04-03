@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Build
+title: About
 permalink: /about/
 order: 1
 ---
