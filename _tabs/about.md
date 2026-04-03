@@ -2,8 +2,8 @@
 layout: page
 title: About the Build
 icon: fas fa-info-circle
-# This forces the SEO plugin to use this exact string
-seo_title: "About the Build" 
+permalink: /about/
+order: 1
 ---
 
 <div align="center">
