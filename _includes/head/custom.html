@@ -9,24 +9,29 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicons/favicon-16x16.png?v=6">
 
 <script>
-(function() {
-  function forceT6Title() {
-    const path = window.location.pathname;
-    const brand = "Turbo Camaro";
-    let pageName = "";
+  (function() {
+    function overrideTabTitles() {
+      const brand = "Turbo Camaro";
+      const path = window.location.pathname;
+      let tabName = "";
 
-    if (path.includes("/about/")) pageName = "About the Build";
-    else if (path.includes("/archives/")) pageName = "Timeline";
-    else if (path.includes("/categories/")) pageName = "Build Sheet";
+      // We look at the URL to decide the Tab Title
+      if (path.includes("/about/")) tabName = "About the Build";
+      else if (path.includes("/archives/")) tabName = "Timeline";
+      else if (path.includes("/categories/")) tabName = "Build Sheet";
 
-    if (pageName !== "") {
-      document.title = pageName + " | " + brand;
+      if (tabName !== "") {
+        document.title = tabName + " | " + brand;
+      }
     }
-  }
-  
-  // Watch for the theme trying to overwrite it
-  const observer = new MutationObserver(forceT6Title);
-  observer.observe(document.querySelector('title'), { childList: true });
-  forceT6Title();
-})();
+
+    // This "Observer" watches for the theme trying to break the title
+    const observer = new MutationObserver(overrideTabTitles);
+    if (document.querySelector('title')) {
+      observer.observe(document.querySelector('title'), { childList: true });
+    }
+    
+    // Run it once on load
+    overrideTabTitles();
+  })();
 </script>
