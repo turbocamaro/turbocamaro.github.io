@@ -9,15 +9,34 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicons/favicon-16x16.png?v=6">
 
 <script>
-  (function() {
-    // We use a small delay to ensure the theme has finished its work
-    setTimeout(function() {
-      let currentTitle = document.title;
-      if (currentTitle.includes(" | ")) {
-        let parts = currentTitle.split(" | ");
-        // This flips [Site] | [Page] to [Page] | [Site]
-        document.title = parts[1].trim() + " | " + parts[0].trim();
-      }
-    }, 100);
-  })();
+(function() {
+  function fixTitle() {
+    let brand = "Turbo Camaro";
+    let current = document.title.trim();
+    
+    // If the title starts with a pipe or is just the brand, find the page name
+    if (current.startsWith("|") || current === brand) {
+      let path = window.location.pathname.split('/').filter(Boolean).pop() || "Home";
+      // Clean up common URL slugs to pretty titles
+      let cleanName = path.replace(/-/g, ' ').replace(/_/g, ' ');
+      let pageTitle = cleanName.charAt(0).toUpperCase() + cleanName.slice(1);
+      
+      // Manual overrides for your specific tabs
+      if (path === "about") pageTitle = "About the Build";
+      if (path === "archives") pageTitle = "Timeline";
+      if (path === "categories") pageTitle = "Build Sheet";
+
+      document.title = pageTitle + " | " + brand;
+    } 
+    // If the title is "Site | Page", flip it to "Page | Site"
+    else if (current.startsWith(brand + " | ")) {
+      let parts = current.split(" | ");
+      document.title = parts[1] + " | " + parts[0];
+    }
+  }
+
+  // Run immediately and again after a short delay to beat the theme
+  fixTitle();
+  setTimeout(fixTitle, 500);
+})();
 </script>
