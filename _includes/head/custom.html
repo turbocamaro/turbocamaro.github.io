@@ -10,22 +10,33 @@
 
 <script>
 (function() {
-  function forceTitles() {
+  function fixTurboTitle() {
     const path = window.location.pathname;
     const brand = "Turbo Camaro";
+    let pageName = "";
+
+    // Mapping URLs to your desired Page Names
+    if (path.includes("/about/")) pageName = "About the Build";
+    else if (path.includes("/archives/")) pageName = "Timeline";
+    else if (path.includes("/categories/")) pageName = "Build Sheet";
     
-    // Hard-coded overrides for your 3 specific pages
-    if (path.includes("/about/")) {
-      document.title = "About the Build | " + brand;
-    } else if (path.includes("/archives/") || path.includes("/timeline/")) {
-      document.title = "Timeline | " + brand;
-    } else if (path.includes("/categories/") || path.includes("/build-sheet/")) {
-      document.title = "Build Sheet | " + brand;
+    // If we found a match, force the "[Page] | [Brand]" format
+    if (pageName !== "") {
+      const finalTitle = pageName + " | " + brand;
+      if (document.title !== finalTitle) {
+        document.title = finalTitle;
+      }
     }
   }
 
-  // Run immediately and again after the theme settles
-  forceTitles();
-  setTimeout(forceTitles, 500);
+  // 1. Run immediately on load
+  fixTurboTitle();
+
+  // 2. Watch for the theme trying to change it back (The "Observer")
+  const observer = new MutationObserver(fixTurboTitle);
+  observer.observe(document.querySelector('title'), { childList: true });
+
+  // 3. Hook into Chirpy's internal page-swap event
+  window.addEventListener('view.done', fixTurboTitle);
 })();
 </script>
