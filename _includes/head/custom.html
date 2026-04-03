@@ -10,33 +10,32 @@
 
 <script>
 (function() {
-  function fixTurboTitle() {
-    const path = window.location.pathname;
+  function forceT6Title() {
     const brand = "Turbo Camaro";
+    const path = window.location.pathname;
     let pageName = "";
 
-    // Mapping URLs to your desired Page Names
+    // Manual mapping based on the actual URL folders
     if (path.includes("/about/")) pageName = "About the Build";
     else if (path.includes("/archives/")) pageName = "Timeline";
     else if (path.includes("/categories/")) pageName = "Build Sheet";
-    
-    // If we found a match, force the "[Page] | [Brand]" format
+    else if (path === "/" || path.includes("index")) pageName = "Home";
+
+    // If we found a match, hard-set the title. 
+    // This ignores whatever broken mess the theme generated.
     if (pageName !== "") {
-      const finalTitle = pageName + " | " + brand;
-      if (document.title !== finalTitle) {
-        document.title = finalTitle;
-      }
+      document.title = pageName + " | " + brand;
     }
   }
 
-  // 1. Run immediately on load
-  fixTurboTitle();
+  // Run immediately
+  forceT6Title();
 
-  // 2. Watch for the theme trying to change it back (The "Observer")
-  const observer = new MutationObserver(fixTurboTitle);
+  // Watch for the theme trying to overwrite it (PJAX/Mutation)
+  const observer = new MutationObserver(forceT6Title);
   observer.observe(document.querySelector('title'), { childList: true });
-
-  // 3. Hook into Chirpy's internal page-swap event
-  window.addEventListener('view.done', fixTurboTitle);
+  
+  // Listen for Chirpy's internal page swap event
+  window.addEventListener('view.done', forceT6Title);
 })();
 </script>
