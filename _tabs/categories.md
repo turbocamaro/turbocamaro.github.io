@@ -3,7 +3,7 @@ layout: categories
 title: "Build"
 permalink: /categories/
 icon: fas fa-stream
-order: 1
+order: 2
 ---
 <div class="post-content">
   <div class="categories-list">
