@@ -8,15 +8,16 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicons/favicon-32x32.png?v=6">
 <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicons/favicon-16x16.png?v=6">
 
-<script>document.title = "Turbo Camaro";</script>
-
 <script>
   (function() {
-    let currentTitle = document.title;
-    if (currentTitle.includes(" | ")) {
-      let parts = currentTitle.split(" | ");
-      // This flips the parts: [Site] | [Page] becomes [Page] | [Site]
-      document.title = parts[1] + " | " + parts[0];
-    }
+    // We use a small delay to ensure the theme has finished its work
+    setTimeout(function() {
+      let currentTitle = document.title;
+      if (currentTitle.includes(" | ")) {
+        let parts = currentTitle.split(" | ");
+        // This flips [Site] | [Page] to [Page] | [Site]
+        document.title = parts[1].trim() + " | " + parts[0].trim();
+      }
+    }, 100);
   })();
 </script>
