@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About the Build"
+title: About
 icon: fas fa-info-circle
 permalink: /about/
 order: 1
