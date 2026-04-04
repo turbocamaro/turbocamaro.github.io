@@ -13,6 +13,66 @@ title: Home
 <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicons/favicon-96x96.png?v=6">
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicons/favicon-32x32.png?v=6">
 <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicons/favicon-16x16.png?v=6">
+
+<script>
+(function() {
+  const brand = "Turbo Camaro";
+
+  // FUNCTION: Fix the Tab Titles based on URL
+  function updateTabTitle() {
+    const path = window.location.pathname;
+    let pageName = "";
+
+    if (path.includes("/about/")) pageName = "About the Build";
+    else if (path.includes("/archives/")) pageName = "Timeline";
+    else if (path.includes("/categories/")) pageName = "Build Sheet";
+    else if (path === "/" || path.includes("index")) pageName = "Home";
+
+    if (pageName !== "") {
+      const finalTitle = pageName + " | " + brand;
+      if (document.title !== finalTitle) {
+        document.title = finalTitle;
+      }
+    }
+  }
+
+  // FUNCTION: Inject Mobile Header CSS
+  function injectMobileCSS() {
+    if (!document.getElementById('t6-mobile-style')) {
+      const css = `
+        @media (max-width: 849px) {
+          #topbar-wrapper { position: fixed !important; top: 0 !important; width: 100% !important; z-index: 9999 !important; background-color: var(--main-bg) !important; height: 55px !important; display: flex !important; align-items: center !important; }
+          #topbar-title { color: transparent !important; background: url('/assets/img/tc_logo_tp.png') no-repeat center !important; background-size: contain !important; display: block !important; height: 35px !important; width: 180px !important; margin: 0 auto !important; }
+          #main-wrapper { padding-top: 70px !important; }
+        }
+      `;
+      const style = document.createElement('style');
+      style.id = 't6-mobile-style';
+      style.innerHTML = css;
+      document.head.appendChild(style);
+    }
+  }
+
+  // INITIAL RUN
+  updateTabTitle();
+  injectMobileCSS();
+
+  // WATCHER: Re-run when the theme changes the page (PJAX)
+  const observer = new MutationObserver(() => {
+    updateTabTitle();
+    injectMobileCSS();
+  });
+  
+  if (document.querySelector('title')) {
+    observer.observe(document.querySelector('title'), { childList: true });
+  }
+
+  window.addEventListener('view.done', () => {
+    updateTabTitle();
+    injectMobileCSS();
+  });
+})();
+</script>
 </head>
 
 <script>
